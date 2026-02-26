@@ -1,6 +1,6 @@
 // Dornt Data Loader — Fetches JSON from GCS public bucket
 
-const API_BASE = window.DORNT_API_BASE || 'https://storage.googleapis.com/dornt-public/api/v1';
+const API_BASE = window.DORNT_API_BASE || 'api/v1';
 const CACHE_TTL = 5 * 60 * 1000; // 5 minutes
 
 const cache = new Map();

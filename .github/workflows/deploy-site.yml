@@ -1,30 +1,115 @@
-name: Deploy Site to GitHub Pages
+name: Daily Pipeline & Deploy
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'site/**'
+  schedule:
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
 concurrency:
-  group: pages
+  group: pipeline
   cancel-in-progress: false
 
 jobs:
-  deploy:
+  pipeline:
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: pipeline/package-lock.json
+
+      - name: Install dependencies
+        run: cd pipeline && npm ci
+
+      - name: Build TypeScript
+        run: cd pipeline && npx tsc
+
+      - name: Start pipeline server
+        run: |
+          cd pipeline
+          OPENROUTER_API_KEY=${{ secrets.OPENROUTER_API_KEY }} node dist/index.js &
+          echo "SERVER_PID=$!" >> $GITHUB_ENV
+
+          # Wait for server to be ready
+          for i in $(seq 1 30); do
+            if curl -s http://localhost:8080/ > /dev/null 2>&1; then
+              echo "Server ready"
+              break
+            fi
+            echo "Waiting for server... ($i)"
+            sleep 2
+          done
+
+      - name: Stage 1 — Ingest
+        run: |
+          echo "Starting ingestion..."
+          RESULT=$(curl -sf -X POST http://localhost:8080/ingest --max-time 300)
+          echo "$RESULT"
+          echo "$RESULT" | python3 -c "import sys,json; d=json.load(sys.stdin); exit(0 if d.get('success') else 1)"
+
+      - name: Stage 2 — Cluster
+        run: |
+          echo "Starting clustering..."
+          RESULT=$(curl -sf -X POST http://localhost:8080/cluster --max-time 600)
+          echo "$RESULT"
+          echo "$RESULT" | python3 -c "import sys,json; d=json.load(sys.stdin); exit(0 if d.get('success') else 1)"
+
+      - name: Stage 3 — Analyze
+        run: |
+          echo "Starting analysis..."
+          RESULT=$(curl -sf -X POST http://localhost:8080/analyze --max-time 1800)
+          echo "$RESULT"
+          echo "$RESULT" | python3 -c "import sys,json; d=json.load(sys.stdin); exit(0 if d.get('success') else 1)"
+
+      - name: Stage 4 — Storylines
+        run: |
+          echo "Detecting storylines..."
+          RESULT=$(curl -sf -X POST http://localhost:8080/storylines --max-time 600)
+          echo "$RESULT"
+          echo "$RESULT" | python3 -c "import sys,json; d=json.load(sys.stdin); exit(0 if d.get('success') else 1)"
+
+      - name: Stage 5 — Site Gen
+        run: |
+          echo "Generating site data..."
+          RESULT=$(curl -sf -X POST http://localhost:8080/sitegen --max-time 120)
+          echo "$RESULT"
+          echo "$RESULT" | python3 -c "import sys,json; d=json.load(sys.stdin); exit(0 if d.get('success') else 1)"
+
+      - name: Stop server
+        if: always()
+        run: kill $SERVER_PID 2>/dev/null || true
+
+      - name: Copy data to site
+        run: |
+          mkdir -p site/api
+          cp -r pipeline/.local-storage/dornt-public/api/* site/api/
+          echo "Copied API data to site/"
+          find site/api -type f | head -20
+
+      - name: Commit updated site data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add site/api/
+          if git diff --cached --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "Update site data $(date -u +%Y-%m-%d)"
+            git push
+          fi
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
