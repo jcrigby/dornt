@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Storylines — Dornt.com</title>
+<link rel="icon" href="dornt-assets/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+<nav>
+  <a href="index.html" class="nav-brand">
+    <div class="nav-logo">
+      <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="24" cy="24" r="10.5"/>
+        <circle cx="24" cy="24" r="3.5" fill="currentColor"/>
+        <path d="M24 6v4.5M24 37.5V42M6 24h4.5M37.5 24H42M11.2 11.2l3.2 3.2M33.6 33.6l3.2 3.2M11.2 36.8l3.2-3.2M33.6 14.4l3.2-3.2"/>
+      </svg>
+    </div>
+    <div class="nav-brand-text">
+      <span class="nav-brand-name">Dornt.com</span>
+      <span class="nav-brand-sub">News Intelligence</span>
+    </div>
+  </a>
+  <div class="nav-links">
+    <a href="stories.html">Stories</a>
+    <a href="storylines.html" class="active">Storylines</a>
+    <a href="briefing.html">Briefing</a>
+    <a href="index.html">About</a>
+  </div>
+</nav>
+
+<main class="page-content">
+  <div class="page-header">
+    <h1 class="page-title">Storylines</h1>
+    <p class="page-subtitle">Narrative arcs connecting related stories over time</p>
+  </div>
+
+  <div id="storylines-container" class="storylines-grid"></div>
+</main>
+
+<script src="js/data-loader.js"></script>
+<script src="js/components.js"></script>
+<script>
+(async function() {
+  const container = document.getElementById('storylines-container');
+  container.innerHTML = dorntUI.renderLoading();
+
+  try {
+    const data = await dorntData.getStorylines();
+    const storylines = data.storylines || [];
+
+    if (storylines.length === 0) {
+      container.innerHTML = '<div class="empty-state">No storylines detected yet. Check back after more stories are analyzed.</div>';
+      return;
+    }
+
+    container.innerHTML = storylines.map(s => dorntUI.renderStorylineCard(s)).join('');
+  } catch (err) {
+    container.innerHTML = dorntUI.renderError('Failed to load storylines.');
+  }
+})();
+</script>
+
+</body>
+</html>

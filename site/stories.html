@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Stories — Dornt.com</title>
+<link rel="icon" href="dornt-assets/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+<nav>
+  <a href="index.html" class="nav-brand">
+    <div class="nav-logo">
+      <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="24" cy="24" r="10.5"/>
+        <circle cx="24" cy="24" r="3.5" fill="currentColor"/>
+        <path d="M24 6v4.5M24 37.5V42M6 24h4.5M37.5 24H42M11.2 11.2l3.2 3.2M33.6 33.6l3.2 3.2M11.2 36.8l3.2-3.2M33.6 14.4l3.2-3.2"/>
+      </svg>
+    </div>
+    <div class="nav-brand-text">
+      <span class="nav-brand-name">Dornt.com</span>
+      <span class="nav-brand-sub">News Intelligence</span>
+    </div>
+  </a>
+  <div class="nav-links">
+    <a href="stories.html" class="active">Stories</a>
+    <a href="storylines.html">Storylines</a>
+    <a href="briefing.html">Briefing</a>
+    <a href="index.html">About</a>
+  </div>
+</nav>
+
+<main class="page-content">
+  <div class="page-header">
+    <h1 class="page-title">All Stories</h1>
+    <p class="page-subtitle" id="story-count">Loading stories...</p>
+  </div>
+
+  <div class="stories-filter" style="margin-bottom: 20px;">
+    <select id="sort-select" style="font-family: var(--font); font-size: 13px; padding: 6px 12px; border: 1px solid var(--border); border-radius: 6px; background: var(--white); color: var(--text-secondary); cursor: pointer;">
+      <option value="importance">Sort by Importance</option>
+      <option value="recent">Sort by Recent</option>
+      <option value="articles">Sort by Article Count</option>
+      <option value="sources">Sort by Source Count</option>
+    </select>
+  </div>
+
+  <div id="stories-container" class="stories-grid"></div>
+</main>
+
+<script src="js/data-loader.js"></script>
+<script src="js/components.js"></script>
+<script>
+(async function() {
+  const container = document.getElementById('stories-container');
+  const countEl = document.getElementById('story-count');
+  const sortSelect = document.getElementById('sort-select');
+
+  container.innerHTML = dorntUI.renderLoading();
+
+  try {
+    const data = await dorntData.getStoryIndex();
+    let stories = data.stories || [];
+
+    function render(sortedStories) {
+      container.innerHTML = sortedStories.map(s => dorntUI.renderStoryCard(s)).join('');
+      countEl.textContent = `${sortedStories.length} active stories from ${data.totalCount || sortedStories.length} total`;
+    }
+
+    function sortStories(key) {
+      const sorted = [...stories];
+      switch (key) {
+        case 'importance': sorted.sort((a, b) => b.importance - a.importance); break;
+        case 'recent': sorted.sort((a, b) => new Date(b.updatedAt) - new Date(a.updatedAt)); break;
+        case 'articles': sorted.sort((a, b) => b.articleCount - a.articleCount); break;
+        case 'sources': sorted.sort((a, b) => b.sourceCount - a.sourceCount); break;
+      }
+      render(sorted);
+    }
+
+    sortSelect.addEventListener('change', () => sortStories(sortSelect.value));
+    sortStories('importance');
+
+  } catch (err) {
+    container.innerHTML = dorntUI.renderError('Failed to load stories. The pipeline may not have run yet.');
+  }
+})();
+</script>
+
+</body>
+</html>
