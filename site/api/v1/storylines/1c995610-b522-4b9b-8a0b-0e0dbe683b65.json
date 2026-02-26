@@ -1,0 +1,15 @@
+{
+  "id": "1c995610-b522-4b9b-8a0b-0e0dbe683b65",
+  "title": "Trump Administration Enforcement Actions Target Various Sectors",
+  "description": "Series of enforcement and policy actions by Trump administration affecting healthcare, immigration, and federal funding",
+  "clusterIds": [
+    "0f3910b2-b265-4518-99b8-7b50dec4002b",
+    "1572361b-519c-41da-93df-54e8a65d65a1",
+    "df3742cb-a2c0-4bf4-b8c4-82ff2d78cbc0",
+    "d6dd15fc-280b-4b25-9366-c7ac172d1e42"
+  ],
+  "arc": "Trump administration has initiated multiple enforcement actions including DHS detention of a Columbia University student, arrest of a State of the Union guest criticized by Rep. Omar, freezing of Minnesota Medicaid funds over fraud concerns, and sanctions on UN officials over Israel criticism, indicating broad policy enforcement across immigration, healthcare, and international relations.",
+  "startedAt": "2026-02-26T21:05:24.898Z",
+  "updatedAt": "2026-02-26T21:05:24.898Z",
+  "status": "developing"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "75ae285d-b325-41af-b09e-8bc17bb2a693",
+  "date": "2026-02-26",
+  "headline": "Clinton Testifies on Epstein Ties as US-Cuba Maritime Incident Sparks Investigation",
+  "topStories": [
+    {
+      "clusterId": "2c935672-35fb-4e86-81c7-0d9b0256f5bb",
+      "title": "Hillary Clinton testifies before House Oversight Committee on Jeffrey Epstein investigation",
+      "summary": "Former Secretary of State Hillary Clinton appeared before the House Oversight Committee to testify regarding the Jeffrey Epstein investigation, marking a significant development in ongoing congressional scrutiny of connections to the late financier.",
+      "importance": 100
+    },
+    {
+      "clusterId": "44a82eef-b12c-459b-a20f-56cd32b754f0",
+      "title": "US-registered speedboat involved in deadly incident with Cuban coast guard",
+      "summary": "A deadly maritime incident involving a US-registered speedboat and Cuban coast guard has prompted an investigation, raising questions about US-Cuba relations and maritime security in the Florida Straits.",
+      "importance": 97
+    },
+    {
+      "clusterId": "7843d3ee-e3c1-4ffa-8f92-e966b300d4e3",
+      "title": "US and Iran resume nuclear talks in Geneva amid ongoing diplomatic efforts",
+      "summary": "The United States and Iran have resumed nuclear negotiations in Geneva as part of continued diplomatic efforts to address Iran's nuclear program, with mediators reporting some progress in discussions.",
+      "importance": 78
+    },
+    {
+      "clusterId": "dc19c3af-7c7f-4e28-ae75-d92a13139974",
+      "title": "Mortgage rates fall below 6% for the first time in over three years",
+      "summary": "US mortgage rates have dropped below 6% for the first time in more than three years, potentially providing relief to homebuyers and signaling shifts in the housing market and broader economic conditions.",
+      "importance": 78
+    },
+    {
+      "clusterId": "df3742cb-a2c0-4bf4-b8c4-82ff2d78cbc0",
+      "title": "Trump Administration freezes $259 million in Minnesota Medicaid funds over fraud concerns",
+      "summary": "The Trump Administration has frozen $259 million in Minnesota Medicaid funding, citing fraud concerns, marking an early policy action affecting state healthcare programs.",
+      "importance": 65
+    },
+    {
+      "clusterId": "7d226ad3-1e04-480f-a43b-9ab7a5fd2af6",
+      "title": "NYC Mayor Zohran Mamdani to meet with Trump in Washington, D.C.",
+      "summary": "New York City Mayor Zohran Mamdani is scheduled to meet with President Trump in Washington, D.C., representing potential coordination between the federal administration and major city leadership.",
+      "importance": 65
+    }
+  ],
+  "emergingThemes": [
+    "Jeffrey Epstein investigation expanding to include high-profile political figures",
+    "Early Trump administration policy actions affecting state programs and international relations",
+    "Economic indicators showing potential housing market shifts",
+    "Diplomatic engagement continuing on multiple international fronts"
+  ],
+  "notableShifts": [
+    "Congressional Epstein investigation escalating with testimony from former Secretary of State",
+    "US-Cuba relations facing new complications following maritime incident",
+    "Housing market dynamics potentially shifting as mortgage rates reach multi-year lows",
+    "Trump administration implementing immediate policy changes affecting state-federal relationships"
+  ],
+  "generatedAt": "2026-02-26T21:05:43.267Z",
+  "model": "anthropic/claude-sonnet-4"
+}
