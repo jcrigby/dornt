@@ -218,6 +218,7 @@ export interface StoryIndexEntry {
   articleCount: number;
   sourceCount: number;
   topSources: string[];
+  categories: string[];
   importance: number;
   updatedAt: string;
   imageUrl?: string;

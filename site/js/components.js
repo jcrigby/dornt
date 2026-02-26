@@ -33,26 +33,55 @@ function timeAgo(dateStr) {
 }
 
 // ── Story Card ──
-function renderStoryCard(story) {
-  const sourcesHtml = story.topSources
-    .slice(0, 3)
-    .map(s => `<span class="source-tag">${s}</span>`)
-    .join('');
+function renderStoryCard(story, excerpt) {
+  const dateStr = formatStoryDate(story.updatedAt);
+  const excerptText = excerpt || story.summary || '';
+
+  const imageHtml = story.imageUrl
+    ? `<div class="story-card-image"><img src="${escapeAttr(story.imageUrl)}" alt="" loading="lazy" onerror="this.parentElement.remove()"></div>`
+    : '';
+
+  // Sources shown as a compact text list
+  const sourceList = story.topSources.slice(0, 4)
+    .map(s => escapeHtml(s))
+    .join(' &middot; ');
 
   return `
-    <a href="story.html#${story.id}" class="story-card">
-      <div class="story-card-header">
-        <span class="importance-badge importance-${importanceLevel(story.importance)}">${story.importance}</span>
-        <span class="story-meta">${story.articleCount} articles &middot; ${story.sourceCount} sources</span>
-      </div>
-      <h3 class="story-title">${escapeHtml(story.title)}</h3>
-      <p class="story-summary">${escapeHtml(story.summary || '').slice(0, 180)}</p>
-      <div class="story-footer">
-        <div class="source-tags">${sourcesHtml}</div>
-        <span class="story-time">${timeAgo(story.updatedAt)}</span>
+    <a href="story.html#${story.id}" class="story-card ${story.imageUrl ? 'has-image' : ''}" data-story-id="${story.id}">
+      ${imageHtml}
+      <div class="story-card-body">
+        <div class="story-card-top">
+          <span class="story-card-sources">${sourceList}</span>
+          <span class="story-date">${dateStr}</span>
+        </div>
+        <h3 class="story-title">${escapeHtml(story.title)}</h3>
+        <p class="story-excerpt">${escapeHtml(excerptText).slice(0, 240)}</p>
+        <div class="story-card-bottom">
+          <div class="story-card-stats">
+            <span class="importance-badge importance-${importanceLevel(story.importance)}">${story.importance}</span>
+            <span class="story-meta">${story.articleCount} articles &middot; ${story.sourceCount} sources</span>
+          </div>
+        </div>
       </div>
     </a>
   `;
+}
+
+function formatStoryDate(dateStr) {
+  const d = new Date(dateStr);
+  const now = new Date();
+  const diffMs = now - d;
+  const diffHrs = diffMs / 3600000;
+  if (diffHrs < 24) {
+    if (diffHrs < 1) return `${Math.floor(diffMs / 60000)}m ago`;
+    return `${Math.floor(diffHrs)}h ago`;
+  }
+  const isToday = d.toDateString() === now.toDateString();
+  if (isToday) return 'TODAY';
+  const yesterday = new Date(now);
+  yesterday.setDate(yesterday.getDate() - 1);
+  if (d.toDateString() === yesterday.toDateString()) return 'YESTERDAY';
+  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
 }
 
 // ── Story Detail Sections ──
@@ -299,4 +328,6 @@ window.dorntUI = {
   renderError,
   icon,
   timeAgo,
+  escapeHtml,
+  escapeAttr,
 };

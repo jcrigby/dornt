@@ -32,19 +32,23 @@
 </nav>
 
 <main class="page-content">
-  <div class="page-header">
-    <h1 class="page-title">All Stories</h1>
-    <p class="page-subtitle" id="story-count">Loading stories...</p>
+  <div class="stories-toolbar">
+    <div class="search-box">
+      <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+      <input type="text" id="search-input" placeholder="Search stories..." autocomplete="off">
+    </div>
+    <div class="toolbar-right">
+      <span class="story-count" id="story-count"></span>
+      <select id="sort-select">
+        <option value="importance">Importance</option>
+        <option value="recent">Recent</option>
+        <option value="articles">Most Articles</option>
+        <option value="sources">Most Sources</option>
+      </select>
+    </div>
   </div>
 
-  <div class="stories-filter" style="margin-bottom: 20px;">
-    <select id="sort-select" style="font-family: var(--font); font-size: 13px; padding: 6px 12px; border: 1px solid var(--border); border-radius: 6px; background: var(--white); color: var(--text-secondary); cursor: pointer;">
-      <option value="importance">Sort by Importance</option>
-      <option value="recent">Sort by Recent</option>
-      <option value="articles">Sort by Article Count</option>
-      <option value="sources">Sort by Source Count</option>
-    </select>
-  </div>
+  <div class="category-filters" id="category-filters"></div>
 
   <div id="stories-container" class="stories-grid"></div>
 </main>
@@ -56,31 +60,112 @@
   const container = document.getElementById('stories-container');
   const countEl = document.getElementById('story-count');
   const sortSelect = document.getElementById('sort-select');
+  const searchInput = document.getElementById('search-input');
+  const filtersEl = document.getElementById('category-filters');
 
   container.innerHTML = dorntUI.renderLoading();
+
+  // Pretty labels for feed categories
+  const categoryLabels = {
+    wire: 'Wire', broadsheet: 'Broadsheet', international: 'International',
+    cable: 'Cable News', digital: 'Digital', tech: 'Technology',
+    finance: 'Finance', science: 'Science', health: 'Health', analysis: 'Analysis',
+  };
 
   try {
     const data = await dorntData.getStoryIndex();
     let stories = data.stories || [];
+    let activeCategory = null;
+    let searchTerm = '';
 
-    function render(sortedStories) {
-      container.innerHTML = sortedStories.map(s => dorntUI.renderStoryCard(s)).join('');
-      countEl.textContent = `${sortedStories.length} active stories from ${data.totalCount || sortedStories.length} total`;
+    // Build category filter pills from all stories
+    const catCounts = {};
+    stories.forEach(s => (s.categories || []).forEach(cat => {
+      catCounts[cat] = (catCounts[cat] || 0) + 1;
+    }));
+    const topCats = Object.entries(catCounts)
+      .sort((a, b) => b[1] - a[1]);
+
+    filtersEl.innerHTML = `
+      <button class="cat-pill active" data-cat="">All <span class="pill-count">${stories.length}</span></button>
+      ${topCats.map(([cat, count]) =>
+        `<button class="cat-pill" data-cat="${dorntUI.escapeAttr(cat)}">${dorntUI.escapeHtml(categoryLabels[cat] || cat)} <span class="pill-count">${count}</span></button>`
+      ).join('')}
+    `;
+
+    filtersEl.addEventListener('click', (e) => {
+      const pill = e.target.closest('.cat-pill');
+      if (!pill) return;
+      filtersEl.querySelectorAll('.cat-pill').forEach(p => p.classList.remove('active'));
+      pill.classList.add('active');
+      activeCategory = pill.dataset.cat || null;
+      applyFilters();
+    });
+
+    // Lazy-load excerpts from story details
+    const excerptCache = {};
+    async function loadExcerpts(visibleStories) {
+      const toLoad = visibleStories.filter(s => !excerptCache[s.id]).slice(0, 8);
+      await Promise.allSettled(toLoad.map(async (s) => {
+        try {
+          const detail = await dorntData.getStoryDetail(s.id);
+          if (detail.synthesis && detail.synthesis.narrative) {
+            let text = detail.synthesis.narrative
+              .replace(/\[(\d+)\]/g, '')
+              .replace(/^#+\s.*/gm, '')
+              .replace(/\n+/g, ' ')
+              .trim();
+            const sentences = text.match(/[^.!?]+[.!?]+/g) || [text];
+            excerptCache[s.id] = sentences.slice(0, 2).join(' ').trim();
+          }
+        } catch {}
+      }));
+      toLoad.forEach(s => {
+        if (excerptCache[s.id]) {
+          const card = document.querySelector(`[data-story-id="${s.id}"] .story-excerpt`);
+          if (card) card.textContent = excerptCache[s.id];
+        }
+      });
     }
 
-    function sortStories(key) {
-      const sorted = [...stories];
-      switch (key) {
-        case 'importance': sorted.sort((a, b) => b.importance - a.importance); break;
-        case 'recent': sorted.sort((a, b) => new Date(b.updatedAt) - new Date(a.updatedAt)); break;
-        case 'articles': sorted.sort((a, b) => b.articleCount - a.articleCount); break;
-        case 'sources': sorted.sort((a, b) => b.sourceCount - a.sourceCount); break;
+    function applyFilters() {
+      let filtered = [...stories];
+      if (activeCategory) {
+        filtered = filtered.filter(s => (s.categories || []).includes(activeCategory));
       }
-      render(sorted);
+      if (searchTerm) {
+        const q = searchTerm.toLowerCase();
+        filtered = filtered.filter(s =>
+          s.title.toLowerCase().includes(q) ||
+          s.topSources.some(src => src.toLowerCase().includes(q)) ||
+          (s.categories || []).some(cat => (categoryLabels[cat] || cat).toLowerCase().includes(q))
+        );
+      }
+      sortAndRender(filtered);
     }
 
-    sortSelect.addEventListener('change', () => sortStories(sortSelect.value));
-    sortStories('importance');
+    function sortAndRender(list) {
+      const key = sortSelect.value;
+      switch (key) {
+        case 'importance': list.sort((a, b) => b.importance - a.importance); break;
+        case 'recent': list.sort((a, b) => new Date(b.updatedAt) - new Date(a.updatedAt)); break;
+        case 'articles': list.sort((a, b) => b.articleCount - a.articleCount); break;
+        case 'sources': list.sort((a, b) => b.sourceCount - a.sourceCount); break;
+      }
+      countEl.textContent = `${list.length} stories`;
+      container.innerHTML = list.length
+        ? list.map(s => dorntUI.renderStoryCard(s, excerptCache[s.id])).join('')
+        : '<div class="empty-state">No stories match your search.</div>';
+      loadExcerpts(list);
+    }
+
+    searchInput.addEventListener('input', (e) => {
+      searchTerm = e.target.value.trim();
+      applyFilters();
+    });
+
+    sortSelect.addEventListener('change', () => applyFilters());
+    applyFilters();
 
   } catch (err) {
     container.innerHTML = dorntUI.renderError('Failed to load stories. The pipeline may not have run yet.');
