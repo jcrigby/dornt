@@ -1,57 +1,51 @@
 {
-  "id": "75ae285d-b325-41af-b09e-8bc17bb2a693",
+  "id": "0e018a62-1490-43c9-8b9b-d59978109f2e",
   "date": "2026-02-26",
-  "headline": "Clinton Testifies on Epstein Ties as US-Cuba Maritime Incident Sparks Investigation",
+  "headline": "Trump Administration Actions Dominate as Immigration Enforcement Intensifies and International Tensions Rise",
   "topStories": [
     {
-      "clusterId": "2c935672-35fb-4e86-81c7-0d9b0256f5bb",
-      "title": "Hillary Clinton testifies before House Oversight Committee on Jeffrey Epstein investigation",
-      "summary": "Former Secretary of State Hillary Clinton appeared before the House Oversight Committee to testify regarding the Jeffrey Epstein investigation, marking a significant development in ongoing congressional scrutiny of connections to the late financier.",
-      "importance": 100
-    },
-    {
-      "clusterId": "44a82eef-b12c-459b-a20f-56cd32b754f0",
-      "title": "US-registered speedboat involved in deadly incident with Cuban coast guard",
-      "summary": "A deadly maritime incident involving a US-registered speedboat and Cuban coast guard has prompted an investigation, raising questions about US-Cuba relations and maritime security in the Florida Straits.",
-      "importance": 97
-    },
-    {
-      "clusterId": "7843d3ee-e3c1-4ffa-8f92-e966b300d4e3",
-      "title": "US and Iran resume nuclear talks in Geneva amid ongoing diplomatic efforts",
-      "summary": "The United States and Iran have resumed nuclear negotiations in Geneva as part of continued diplomatic efforts to address Iran's nuclear program, with mediators reporting some progress in discussions.",
+      "clusterId": "5317b68f-bb6f-4185-b045-a7de4a87825e",
+      "title": "Trump Meets with Housing Advocate Mamdani in Washington",
+      "summary": "President Trump held a meeting with housing advocate Mamdani in Washington, drawing coverage across major outlets. The meeting's specific agenda and outcomes have been reported by multiple sources including The New York Times, The Hill, and The Guardian.",
       "importance": 78
     },
     {
-      "clusterId": "dc19c3af-7c7f-4e28-ae75-d92a13139974",
-      "title": "Mortgage rates fall below 6% for the first time in over three years",
-      "summary": "US mortgage rates have dropped below 6% for the first time in more than three years, potentially providing relief to homebuyers and signaling shifts in the housing market and broader economic conditions.",
+      "clusterId": "fbb59ecd-7927-4639-9ec9-702918182e5c",
+      "title": "Columbia University Student Detained by ICE, Later Released",
+      "summary": "A Columbia University student was detained by Immigration and Customs Enforcement before being subsequently released, sparking protests and political statements. The incident has generated significant coverage across news outlets and highlights ongoing immigration enforcement activities.",
       "importance": 78
     },
     {
-      "clusterId": "df3742cb-a2c0-4bf4-b8c4-82ff2d78cbc0",
-      "title": "Trump Administration freezes $259 million in Minnesota Medicaid funds over fraud concerns",
-      "summary": "The Trump Administration has frozen $259 million in Minnesota Medicaid funding, citing fraud concerns, marking an early policy action affecting state healthcare programs.",
+      "clusterId": "a05fd8fd-e7ef-44cf-9788-006e93168884",
+      "title": "Cuba Shoots, Kills 4 on US-Registered Speedboat Near Florida",
+      "summary": "Cuban forces shot and killed four people aboard a US-registered speedboat in an incident near Florida waters. The deadly encounter has been reported by major international outlets including The Guardian, BBC, and NBC News.",
+      "importance": 68
+    },
+    {
+      "clusterId": "145783e3-c663-4f23-9ee2-f0c3b52357e0",
+      "title": "US and Iran Hold Nuclear Talks with Reported Progress",
+      "summary": "The United States and Iran conducted nuclear negotiations with a mediator reporting significant progress, according to coverage from BBC News, Al Jazeera, and other outlets. The talks represent a notable diplomatic development amid ongoing regional tensions.",
       "importance": 65
     },
     {
-      "clusterId": "7d226ad3-1e04-480f-a43b-9ab7a5fd2af6",
-      "title": "NYC Mayor Zohran Mamdani to meet with Trump in Washington, D.C.",
-      "summary": "New York City Mayor Zohran Mamdani is scheduled to meet with President Trump in Washington, D.C., representing potential coordination between the federal administration and major city leadership.",
+      "clusterId": "c06aaebe-4061-4764-bc3a-dd36a114acde",
+      "title": "Trump Administration Freezes $259M in Minnesota Medicaid Funds",
+      "summary": "The Trump administration has frozen $259 million in Minnesota Medicaid funding over alleged fraud concerns, according to reports from Axios, Fox Politics, and The Washington Post. The action affects state healthcare funding and has drawn political attention.",
       "importance": 65
     }
   ],
   "emergingThemes": [
-    "Jeffrey Epstein investigation expanding to include high-profile political figures",
-    "Early Trump administration policy actions affecting state programs and international relations",
-    "Economic indicators showing potential housing market shifts",
-    "Diplomatic engagement continuing on multiple international fronts"
+    "Immigration enforcement escalation under Trump administration",
+    "International diplomatic tensions involving US interests",
+    "Federal-state conflicts over funding and policy implementation",
+    "Ongoing investigations into high-profile figures and organizations"
   ],
   "notableShifts": [
-    "Congressional Epstein investigation escalating with testimony from former Secretary of State",
-    "US-Cuba relations facing new complications following maritime incident",
-    "Housing market dynamics potentially shifting as mortgage rates reach multi-year lows",
-    "Trump administration implementing immediate policy changes affecting state-federal relationships"
+    "Increased visibility of ICE enforcement actions on college campuses",
+    "Renewed US-Iran diplomatic engagement despite broader regional tensions",
+    "Federal government using funding mechanisms to pressure state compliance",
+    "Growing intersection of Epstein-related investigations with current political figures"
   ],
-  "generatedAt": "2026-02-26T21:05:43.267Z",
+  "generatedAt": "2026-02-26T22:08:44.080Z",
   "model": "anthropic/claude-sonnet-4"
 }

@@ -1,232 +1,246 @@
 {
   "stories": [
     {
-      "id": "2c935672-35fb-4e86-81c7-0d9b0256f5bb",
-      "title": "Hillary Clinton testifies before House Oversight Committee on Jeffrey Epstein investigation.",
-      "summary": "",
-      "articleCount": 8,
-      "sourceCount": 8,
-      "topSources": [
-        "NBC News",
-        "UPI",
-        "Axios",
-        "The Guardian US",
-        "Al Jazeera"
-      ],
-      "importance": 100,
-      "updatedAt": "2026-02-26T20:48:56.776Z"
-    },
-    {
-      "id": "44a82eef-b12c-459b-a20f-56cd32b754f0",
-      "title": "US-registered speedboat involved in deadly incident with Cuban coast guard, investigation launched.",
-      "summary": "",
-      "articleCount": 9,
-      "sourceCount": 7,
-      "topSources": [
-        "Axios",
-        "The Guardian World",
-        "ABC News",
-        "CNBC",
-        "BBC World"
-      ],
-      "importance": 97,
-      "updatedAt": "2026-02-26T20:48:56.777Z"
-    },
-    {
-      "id": "7843d3ee-e3c1-4ffa-8f92-e966b300d4e3",
-      "title": "U.S. and Iran Resume Nuclear Talks in Geneva Amid Ongoing Diplomatic Efforts",
+      "id": "5317b68f-bb6f-4185-b045-a7de4a87825e",
+      "title": "US President Trump Meets with Housing Advocate Mamdani in Washington.",
       "summary": "",
       "articleCount": 6,
       "sourceCount": 6,
       "topSources": [
-        "NBC News",
-        "Breitbart",
-        "Axios",
-        "WaPo World",
-        "The Hill"
-      ],
-      "importance": 78,
-      "updatedAt": "2026-02-26T20:48:56.779Z"
-    },
-    {
-      "id": "dc19c3af-7c7f-4e28-ae75-d92a13139974",
-      "title": "Mortgage rates fall below 6% for the first time in over three years.",
-      "summary": "",
-      "articleCount": 6,
-      "sourceCount": 6,
-      "topSources": [
-        "Axios",
+        "NYT Politics",
         "The Hill",
+        "Daily Wire",
         "NYT",
-        "Breitbart",
         "The Guardian US"
       ],
       "importance": 78,
-      "updatedAt": "2026-02-26T20:48:38.884Z"
+      "updatedAt": "2026-02-26T21:51:13.050Z"
     },
     {
-      "id": "7d226ad3-1e04-480f-a43b-9ab7a5fd2af6",
-      "title": "NYC Mayor Zohran Mamdani to meet with Trump in Washington, D.C.",
+      "id": "fbb59ecd-7927-4639-9ec9-702918182e5c",
+      "title": "Columbia University student detained by ICE, later released, amid protests and political statements.",
       "summary": "",
-      "articleCount": 5,
-      "sourceCount": 5,
+      "articleCount": 6,
+      "sourceCount": 6,
       "topSources": [
-        "NBC News",
-        "The Guardian US",
-        "Daily Wire",
-        "NYT",
-        "NYT Politics"
-      ],
-      "importance": 65,
-      "updatedAt": "2026-02-26T20:48:38.946Z"
-    },
-    {
-      "id": "df3742cb-a2c0-4bf4-b8c4-82ff2d78cbc0",
-      "title": "Trump Administration Freezes $259 Million in Minnesota Medicaid Funds Over Fraud Concerns",
-      "summary": "",
-      "articleCount": 5,
-      "sourceCount": 5,
-      "topSources": [
-        "Axios",
-        "NYT Politics",
-        "STAT News",
-        "The Hill",
-        "WaPo Politics"
-      ],
-      "importance": 65,
-      "updatedAt": "2026-02-26T20:48:38.917Z"
-    },
-    {
-      "id": "7dad41bf-d20b-4dec-9f0b-6317d3319967",
-      "title": "eBay Announces Layoffs Affecting Approximately 800 Employees, or 6% of Its Workforce.",
-      "summary": "",
-      "articleCount": 4,
-      "sourceCount": 4,
-      "topSources": [
+        "Fox News",
+        "The Verge",
+        "ABC News",
         "CNBC",
-        "MarketWatch",
-        "TechCrunch",
-        "UPI"
+        "Al Jazeera"
       ],
-      "importance": 52,
-      "updatedAt": "2026-02-26T20:48:38.984Z"
+      "importance": 78,
+      "updatedAt": "2026-02-26T21:51:13.045Z"
     },
     {
-      "id": "f885b820-264c-47f3-81e5-4491df74c940",
-      "title": "World Economic Forum CEO Børge Brende resigns amid review of ties to Jeffrey Epstein.",
+      "id": "a05fd8fd-e7ef-44cf-9788-006e93168884",
+      "title": "Cuba Shoots, Kills 4 on US-Registered Speedboat in Incident Near Florida",
       "summary": "",
-      "articleCount": 4,
-      "sourceCount": 4,
+      "articleCount": 6,
+      "sourceCount": 5,
+      "topSources": [
+        "The Guardian World",
+        "Axios",
+        "ABC News",
+        "NBC News",
+        "BBC World"
+      ],
+      "importance": 68,
+      "updatedAt": "2026-02-26T21:51:13.048Z"
+    },
+    {
+      "id": "145783e3-c663-4f23-9ee2-f0c3b52357e0",
+      "title": "US and Iran Hold Nuclear Talks, Achieving Significant Progress According to Mediator",
+      "summary": "",
+      "articleCount": 5,
+      "sourceCount": 5,
+      "topSources": [
+        "BBC News",
+        "Al Jazeera",
+        "NBC News",
+        "Fox News",
+        "Axios"
+      ],
+      "importance": 65,
+      "updatedAt": "2026-02-26T21:50:54.743Z"
+    },
+    {
+      "id": "b5b50758-3afb-4085-80da-54d0567cb242",
+      "title": "Hillary Clinton testifies before US House panel on Jeffrey Epstein investigation.",
+      "summary": "",
+      "articleCount": 5,
+      "sourceCount": 5,
       "topSources": [
         "UPI",
+        "NBC News",
         "Al Jazeera",
-        "BBC World",
-        "NYT"
-      ],
-      "importance": 52,
-      "updatedAt": "2026-02-26T20:48:38.892Z"
-    },
-    {
-      "id": "40ae16c2-8eda-4eba-adc7-aa2dd58bf34f",
-      "title": "Senate Hearing for Surgeon General Nominee Focuses on Vaccines and Decision-Making Authority",
-      "summary": "",
-      "articleCount": 4,
-      "sourceCount": 3,
-      "topSources": [
-        "STAT News",
-        "The Atlantic",
-        "Ars Technica"
-      ],
-      "importance": 42,
-      "updatedAt": "2026-02-26T20:48:56.778Z"
-    },
-    {
-      "id": "fbf4d56d-ab3e-474a-99b2-148b34180866",
-      "title": "Nvidia's stock price declines despite strong quarterly earnings report.",
-      "summary": "",
-      "articleCount": 4,
-      "sourceCount": 3,
-      "topSources": [
-        "CNBC",
-        "Breitbart",
-        "MarketWatch"
-      ],
-      "importance": 42,
-      "updatedAt": "2026-02-26T20:48:39.010Z"
-    },
-    {
-      "id": "0f3910b2-b265-4518-99b8-7b50dec4002b",
-      "title": "Columbia University Student Detained by DHS Agents in Incident Under Investigation.",
-      "summary": "",
-      "articleCount": 3,
-      "sourceCount": 3,
-      "topSources": [
-        "CNBC",
         "The Guardian US",
-        "The Verge"
-      ],
-      "importance": 39,
-      "updatedAt": "2026-02-26T20:48:38.932Z"
-    },
-    {
-      "id": "1572361b-519c-41da-93df-54e8a65d65a1",
-      "title": "Congresswoman Ilhan Omar Criticizes Arrest of Guest at Trump's State of the Union Address",
-      "summary": "",
-      "articleCount": 3,
-      "sourceCount": 3,
-      "topSources": [
-        "NYT Politics",
-        "WaPo Politics",
         "Breitbart"
       ],
-      "importance": 39,
-      "updatedAt": "2026-02-26T20:48:38.956Z"
+      "importance": 65,
+      "updatedAt": "2026-02-26T21:51:13.047Z"
     },
     {
-      "id": "8c9364bf-263b-4afb-8538-5ee7f56b596d",
-      "title": "Google Updates Nano Banana AI Image Generator with Improved Performance.",
+      "id": "c06aaebe-4061-4764-bc3a-dd36a114acde",
+      "title": "Trump Administration Freezes $259M in Minnesota Medicaid Funds Over Alleged Fraud Concerns",
+      "summary": "",
+      "articleCount": 5,
+      "sourceCount": 5,
+      "topSources": [
+        "Axios",
+        "Fox Politics",
+        "STAT News",
+        "WaPo Politics",
+        "NYT Politics"
+      ],
+      "importance": 65,
+      "updatedAt": "2026-02-26T21:50:54.811Z"
+    },
+    {
+      "id": "a96ff74b-5bbc-4ad4-ab9e-6db9a95ec652",
+      "title": "Warner Bros. Discovery considers Paramount's Skydance offer superior to Netflix deal.",
+      "summary": "",
+      "articleCount": 4,
+      "sourceCount": 4,
+      "topSources": [
+        "Ars Technica",
+        "NBC News",
+        "CNBC",
+        "Financial Times"
+      ],
+      "importance": 52,
+      "updatedAt": "2026-02-26T21:51:13.049Z"
+    },
+    {
+      "id": "b8019e9d-909c-44c6-8b3e-6a2ffca7d689",
+      "title": "Mortgage rates drop below 6% for the first time in over three years.",
+      "summary": "",
+      "articleCount": 4,
+      "sourceCount": 4,
+      "topSources": [
+        "Axios",
+        "The Guardian US",
+        "The Hill",
+        "Breitbart"
+      ],
+      "importance": 52,
+      "updatedAt": "2026-02-26T21:50:54.853Z"
+    },
+    {
+      "id": "06d14859-2030-415b-bf63-a6a6eea84c7d",
+      "title": "Prosecutors to Defend Charges Against Kilmar Abrego García in Upcoming Court Hearing",
       "summary": "",
       "articleCount": 3,
       "sourceCount": 3,
       "topSources": [
-        "CNBC",
-        "TechCrunch",
-        "Ars Technica"
+        "NBC News",
+        "WaPo Politics",
+        "UPI"
       ],
       "importance": 39,
-      "updatedAt": "2026-02-26T20:48:39.081Z"
+      "updatedAt": "2026-02-26T21:50:54.814Z"
     },
     {
-      "id": "c2c1d81d-084a-49fa-a1bf-7d575765bbfd",
-      "title": "Hillary Clinton's Deposition Briefly Halted Over Leaked Photo of Testimony.",
+      "id": "18f68911-375c-454b-aeb4-945a0387b583",
+      "title": "House Democrats to Force Vote on Limiting Trump's Iran War Powers",
       "summary": "",
       "articleCount": 3,
       "sourceCount": 3,
       "topSources": [
-        "The Hill",
+        "Fox Politics",
         "Axios",
+        "CNBC"
+      ],
+      "importance": 39,
+      "updatedAt": "2026-02-26T21:50:54.843Z"
+    },
+    {
+      "id": "244db673-ff57-4efb-82fe-63a46f3f8c82",
+      "title": "US Government Seeks Supreme Court Ruling on Syrian Migrants' Deportation Status",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 3,
+      "topSources": [
+        "Al Jazeera",
+        "Fox Politics",
         "NYT Politics"
       ],
       "importance": 39,
-      "updatedAt": "2026-02-26T20:48:38.956Z"
+      "updatedAt": "2026-02-26T21:50:54.766Z"
     },
     {
-      "id": "d6dd15fc-280b-4b25-9366-c7ac172d1e42",
-      "title": "Family of UN Official Sanctioned Over Israel Criticism Sues Trump Administration",
+      "id": "32df58d7-a56b-44b6-95dc-a6b2311e23fc",
+      "title": "World Economic Forum CEO Børge Brende resigns amid review of ties to Jeffrey Epstein.",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 3,
+      "topSources": [
+        "BBC World",
+        "NYT",
+        "UPI"
+      ],
+      "importance": 39,
+      "updatedAt": "2026-02-26T21:50:54.741Z"
+    },
+    {
+      "id": "71b6bf24-be09-44ae-af28-260719ba4702",
+      "title": "Family of Sanctioned UN Official Sues Trump Administration Over Sanctions",
       "summary": "",
       "articleCount": 3,
       "sourceCount": 3,
       "topSources": [
         "NYT World",
-        "The Guardian US",
-        "The Hill"
+        "The Hill",
+        "The Guardian US"
       ],
       "importance": 39,
-      "updatedAt": "2026-02-26T20:48:38.926Z"
+      "updatedAt": "2026-02-26T21:50:54.755Z"
     },
     {
-      "id": "48e6f904-e8e9-48e0-9b8f-f2f3bd4ab757",
-      "title": "FDA Rejects Rare Disease Drug, Citing Insufficient Data, in Surprise Move",
+      "id": "7f8d22eb-872a-433d-b6f6-ba5a35bd0dae",
+      "title": "Denver Mayor Issues Directive Restricting ICE Activities and Protecting City Residents.",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 3,
+      "topSources": [
+        "NYT",
+        "Fox Politics",
+        "Fox News"
+      ],
+      "importance": 39,
+      "updatedAt": "2026-02-26T21:50:54.844Z"
+    },
+    {
+      "id": "bfced800-01bf-4776-bfdc-c75c13231327",
+      "title": "Senate to Consider Nomination of Casey Means as Surgeon General",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 3,
+      "topSources": [
+        "Ars Technica",
+        "The Atlantic",
+        "STAT News"
+      ],
+      "importance": 39,
+      "updatedAt": "2026-02-26T21:50:54.859Z"
+    },
+    {
+      "id": "c4a03463-ca38-4c6f-b475-bf9e1599f3b5",
+      "title": "eBay to cut 800 jobs, reducing workforce by 6% in restructuring effort.",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 3,
+      "topSources": [
+        "TechCrunch",
+        "UPI",
+        "MarketWatch"
+      ],
+      "importance": 39,
+      "updatedAt": "2026-02-26T21:50:54.805Z"
+    },
+    {
+      "id": "e5ff512d-c400-49fa-9fdd-e872f0ecbea6",
+      "title": "FDA Rejects Rare Disease Drug Approval, Citing Unspecified Reasons",
       "summary": "",
       "articleCount": 5,
       "sourceCount": 1,
@@ -234,21 +248,21 @@
         "STAT News"
       ],
       "importance": 25,
-      "updatedAt": "2026-02-26T20:48:56.779Z"
+      "updatedAt": "2026-02-26T21:51:13.048Z"
     },
     {
-      "id": "943853c0-266e-4212-a347-8ec8ba5ed199",
-      "title": "US and Iran Report Progress in Nuclear Talks, Mediator Cites Advancements",
+      "id": "489b5a96-a0b7-4f01-8319-fc583e6667fa",
+      "title": "Scientists Discover Key Factors Contributing to Squeaky Sneakers.",
       "summary": "",
       "articleCount": 3,
       "sourceCount": 1,
       "topSources": [
-        "Financial Times"
+        "Nature"
       ],
       "importance": 19,
-      "updatedAt": "2026-02-26T20:48:38.931Z"
+      "updatedAt": "2026-02-26T21:50:54.734Z"
     }
   ],
-  "generatedAt": "2026-02-26T21:05:43.314Z",
-  "totalCount": 17
+  "generatedAt": "2026-02-26T22:08:44.138Z",
+  "totalCount": 18
 }
