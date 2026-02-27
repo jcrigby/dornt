@@ -32,6 +32,10 @@ node site/serve.js
 # → http://localhost:3000/stories.html
 ```
 
+## Inspiration
+
+Inspired by [Grond.ai](https://grond.ai), discovered via a [LinkedIn post by Max Frazer](https://www.linkedin.com/in/maxfrazer/). Built from scratch with [Claude Code](https://claude.ai/code).
+
 ## License
 
 MIT
