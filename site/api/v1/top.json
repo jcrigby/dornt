@@ -1,285 +1,379 @@
 {
   "top": [
     {
-      "id": "5317b68f-bb6f-4185-b045-a7de4a87825e",
-      "title": "US President Trump Meets with Housing Advocate Mamdani in Washington.",
+      "id": "58b33713-d03b-458a-a393-180bbe124a2f",
+      "title": "Hillary Clinton testifies before House Oversight panel on Jeffrey Epstein investigation.",
       "summary": "",
-      "articleCount": 6,
-      "sourceCount": 6,
+      "articleCount": 10,
+      "sourceCount": 10,
       "topSources": [
-        "NYT Politics",
-        "The Hill",
-        "Daily Wire",
-        "NYT",
-        "The Guardian US"
-      ],
-      "importance": 78,
-      "updatedAt": "2026-02-26T21:51:13.050Z"
-    },
-    {
-      "id": "fbb59ecd-7927-4639-9ec9-702918182e5c",
-      "title": "Columbia University student detained by ICE, later released, amid protests and political statements.",
-      "summary": "",
-      "articleCount": 6,
-      "sourceCount": 6,
-      "topSources": [
-        "Fox News",
-        "The Verge",
-        "ABC News",
-        "CNBC",
+        "The Guardian US",
+        "NBC News",
+        "WaPo Politics",
+        "Fox Politics",
         "Al Jazeera"
       ],
-      "importance": 78,
-      "updatedAt": "2026-02-26T21:51:13.045Z"
-    },
-    {
-      "id": "a05fd8fd-e7ef-44cf-9788-006e93168884",
-      "title": "Cuba Shoots, Kills 4 on US-Registered Speedboat in Incident Near Florida",
-      "summary": "",
-      "articleCount": 6,
-      "sourceCount": 5,
-      "topSources": [
-        "The Guardian World",
-        "Axios",
-        "ABC News",
-        "NBC News",
-        "BBC World"
+      "categories": [
+        "digital",
+        "international",
+        "cable"
       ],
-      "importance": 68,
-      "updatedAt": "2026-02-26T21:51:13.048Z"
+      "importance": 100,
+      "updatedAt": "2026-02-26T23:48:15.842Z",
+      "imageUrl": "https://dw-wp-production.imgix.net/2026/02/screenshot-.jpg"
     },
     {
-      "id": "145783e3-c663-4f23-9ee2-f0c3b52357e0",
-      "title": "US and Iran Hold Nuclear Talks, Achieving Significant Progress According to Mediator",
+      "id": "a014cf55-f2df-4570-b893-d41432d56ede",
+      "title": "Columbia Student Detained by ICE Released Following Meeting Between Trump and NYC Mayor Mamdani",
       "summary": "",
-      "articleCount": 5,
-      "sourceCount": 5,
+      "articleCount": 10,
+      "sourceCount": 8,
       "topSources": [
-        "BBC News",
-        "Al Jazeera",
-        "NBC News",
-        "Fox News",
-        "Axios"
-      ],
-      "importance": 65,
-      "updatedAt": "2026-02-26T21:50:54.743Z"
-    },
-    {
-      "id": "b5b50758-3afb-4085-80da-54d0567cb242",
-      "title": "Hillary Clinton testifies before US House panel on Jeffrey Epstein investigation.",
-      "summary": "",
-      "articleCount": 5,
-      "sourceCount": 5,
-      "topSources": [
-        "UPI",
-        "NBC News",
-        "Al Jazeera",
+        "NYT",
         "The Guardian US",
-        "Breitbart"
-      ],
-      "importance": 65,
-      "updatedAt": "2026-02-26T21:51:13.047Z"
-    },
-    {
-      "id": "c06aaebe-4061-4764-bc3a-dd36a114acde",
-      "title": "Trump Administration Freezes $259M in Minnesota Medicaid Funds Over Alleged Fraud Concerns",
-      "summary": "",
-      "articleCount": 5,
-      "sourceCount": 5,
-      "topSources": [
-        "Axios",
         "Fox Politics",
-        "STAT News",
-        "WaPo Politics",
-        "NYT Politics"
+        "CNBC",
+        "Vox"
       ],
-      "importance": 65,
-      "updatedAt": "2026-02-26T21:50:54.811Z"
+      "categories": [
+        "digital",
+        "broadsheet",
+        "international"
+      ],
+      "importance": 100,
+      "updatedAt": "2026-02-26T23:48:15.843Z",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/02/Elsewhere-Mamdani_021726_AP_Seth-Wenig.jpg?w=900"
     },
     {
-      "id": "a96ff74b-5bbc-4ad4-ab9e-6db9a95ec652",
-      "title": "Warner Bros. Discovery considers Paramount's Skydance offer superior to Netflix deal.",
+      "id": "a81c1939-f6eb-4ccc-a0e2-2039296da014",
+      "title": "Netflix drops out of Warner Bros. acquisition bid, citing Paramount's improved offer.",
       "summary": "",
-      "articleCount": 4,
-      "sourceCount": 4,
+      "articleCount": 9,
+      "sourceCount": 9,
       "topSources": [
         "Ars Technica",
-        "NBC News",
         "CNBC",
-        "Financial Times"
+        "ABC News",
+        "The Hill",
+        "BBC News"
       ],
-      "importance": 52,
-      "updatedAt": "2026-02-26T21:51:13.049Z"
+      "categories": [
+        "tech",
+        "finance",
+        "cable"
+      ],
+      "importance": 100,
+      "updatedAt": "2026-02-26T23:48:15.843Z",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/02/sarandosted_campbellbruce_020326gn03_w.jpg?w=900"
     },
     {
-      "id": "b8019e9d-909c-44c6-8b3e-6a2ffca7d689",
-      "title": "Mortgage rates drop below 6% for the first time in over three years.",
+      "id": "e41b38cf-97ca-4b57-8f12-76710de767b1",
+      "title": "Cuba Reports Fatal Confrontation with Armed Individuals on Florida-Registered Speedboat",
+      "summary": "",
+      "articleCount": 9,
+      "sourceCount": 7,
+      "topSources": [
+        "The Guardian World",
+        "ABC News",
+        "Breitbart",
+        "Al Jazeera",
+        "Axios"
+      ],
+      "categories": [
+        "cable",
+        "international",
+        "digital"
+      ],
+      "importance": 97,
+      "updatedAt": "2026-02-26T23:48:15.840Z"
+    },
+    {
+      "id": "40158df2-1cbf-4525-b63a-f40f34047cf5",
+      "title": "Pentagon and Anthropic at Odds Over AI Development and Control.",
+      "summary": "",
+      "articleCount": 8,
+      "sourceCount": 7,
+      "topSources": [
+        "The Hill",
+        "Vox",
+        "CNBC",
+        "Foreign Policy",
+        "TechCrunch"
+      ],
+      "categories": [
+        "digital",
+        "finance",
+        "analysis"
+      ],
+      "importance": 94,
+      "updatedAt": "2026-02-26T23:48:15.844Z",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/02/PentagonAnthropic_Timotija-Shapero_AdobeStock.jpg?w=900"
+    },
+    {
+      "id": "1925e13a-b9a1-472a-acec-e5855b5b6a4b",
+      "title": "Danish Prime Minister Calls Snap Elections Amid Greenland Policy Dispute.",
       "summary": "",
       "articleCount": 4,
       "sourceCount": 4,
       "topSources": [
-        "Axios",
-        "The Guardian US",
-        "The Hill",
-        "Breitbart"
+        "Fox News",
+        "BBC World",
+        "UPI",
+        "NYT World"
+      ],
+      "categories": [
+        "cable",
+        "international",
+        "wire"
       ],
       "importance": 52,
-      "updatedAt": "2026-02-26T21:50:54.853Z"
+      "updatedAt": "2026-02-26T23:48:02.146Z"
     },
     {
-      "id": "06d14859-2030-415b-bf63-a6a6eea84c7d",
-      "title": "Prosecutors to Defend Charges Against Kilmar Abrego García in Upcoming Court Hearing",
+      "id": "a2ebed9d-3e8f-40ea-82f3-6b6e027314ee",
+      "title": "US Senator Rubio Meets with Caribbean Leaders to Discuss Regional Policy and US-Iran Relations",
+      "summary": "",
+      "articleCount": 4,
+      "sourceCount": 3,
+      "topSources": [
+        "Foreign Policy",
+        "WaPo World",
+        "The Guardian World"
+      ],
+      "categories": [
+        "analysis",
+        "broadsheet",
+        "international"
+      ],
+      "importance": 42,
+      "updatedAt": "2026-02-26T23:48:02.113Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/RubioCaribbeanCuba-GettyImages-2262985960.jpg"
+    },
+    {
+      "id": "187c2a4e-efb7-4e75-ac87-5b378bde126e",
+      "title": "Trump Administration Freezes $259 Million in Minnesota Medicaid Funds Over Alleged Fraud Concerns",
       "summary": "",
       "articleCount": 3,
       "sourceCount": 3,
       "topSources": [
-        "NBC News",
+        "NYT Politics",
         "WaPo Politics",
-        "UPI"
+        "Axios"
+      ],
+      "categories": [
+        "broadsheet",
+        "digital"
       ],
       "importance": 39,
-      "updatedAt": "2026-02-26T21:50:54.814Z"
+      "updatedAt": "2026-02-26T23:48:02.173Z"
     },
     {
-      "id": "18f68911-375c-454b-aeb4-945a0387b583",
-      "title": "House Democrats to Force Vote on Limiting Trump's Iran War Powers",
+      "id": "1ea357be-e3ba-40f9-83b5-cd13d0d5390f",
+      "title": "Kansas revokes driver's licenses, birth certificates of over 1,000 transgender residents.",
       "summary": "",
       "articleCount": 3,
       "sourceCount": 3,
       "topSources": [
+        "The Hill",
         "Fox Politics",
-        "Axios",
-        "CNBC"
+        "The Guardian US"
+      ],
+      "categories": [
+        "digital",
+        "cable",
+        "international"
       ],
       "importance": 39,
-      "updatedAt": "2026-02-26T21:50:54.843Z"
+      "updatedAt": "2026-02-26T23:48:02.189Z",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/01/scotus_transgender_sports_011326gn05_w.jpg?w=900"
     },
     {
-      "id": "244db673-ff57-4efb-82fe-63a46f3f8c82",
-      "title": "US Government Seeks Supreme Court Ruling on Syrian Migrants' Deportation Status",
+      "id": "1f3c346a-83c1-4c18-aa67-d31c00e3a153",
+      "title": "House Democrats to Force Vote on Limiting Trump's Iran War Powers Authority",
       "summary": "",
       "articleCount": 3,
       "sourceCount": 3,
       "topSources": [
-        "Al Jazeera",
+        "CNBC",
         "Fox Politics",
-        "NYT Politics"
+        "Axios"
+      ],
+      "categories": [
+        "finance",
+        "cable",
+        "digital"
       ],
       "importance": 39,
-      "updatedAt": "2026-02-26T21:50:54.766Z"
+      "updatedAt": "2026-02-26T23:48:02.166Z"
     },
     {
-      "id": "32df58d7-a56b-44b6-95dc-a6b2311e23fc",
-      "title": "World Economic Forum CEO Børge Brende resigns amid review of ties to Jeffrey Epstein.",
+      "id": "30ff357b-96b7-4143-89b8-5addede6e9c6",
+      "title": "Block Announces Workforce Reduction of Nearly Half Amid Increased AI Investment.",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 3,
+      "topSources": [
+        "CNBC",
+        "Financial Times",
+        "The Verge"
+      ],
+      "categories": [
+        "finance",
+        "international",
+        "tech"
+      ],
+      "importance": 39,
+      "updatedAt": "2026-02-26T23:48:02.280Z"
+    },
+    {
+      "id": "baf868bf-1fba-43f2-8d27-ecbcb5c12782",
+      "title": "US Man Deported from Bali After Serving 11-Year Sentence for Murder Conviction",
       "summary": "",
       "articleCount": 3,
       "sourceCount": 3,
       "topSources": [
         "BBC World",
-        "NYT",
-        "UPI"
+        "Fox News",
+        "The Guardian World"
+      ],
+      "categories": [
+        "international",
+        "cable"
       ],
       "importance": 39,
-      "updatedAt": "2026-02-26T21:50:54.741Z"
+      "updatedAt": "2026-02-26T23:48:02.189Z"
     }
   ],
   "trending": [
     {
-      "id": "5317b68f-bb6f-4185-b045-a7de4a87825e",
-      "title": "US President Trump Meets with Housing Advocate Mamdani in Washington.",
+      "id": "58b33713-d03b-458a-a393-180bbe124a2f",
+      "title": "Hillary Clinton testifies before House Oversight panel on Jeffrey Epstein investigation.",
       "summary": "",
-      "articleCount": 6,
-      "sourceCount": 6,
+      "articleCount": 10,
+      "sourceCount": 10,
       "topSources": [
-        "NYT Politics",
-        "The Hill",
-        "Daily Wire",
-        "NYT",
-        "The Guardian US"
-      ],
-      "importance": 78,
-      "updatedAt": "2026-02-26T21:51:13.050Z"
-    },
-    {
-      "id": "fbb59ecd-7927-4639-9ec9-702918182e5c",
-      "title": "Columbia University student detained by ICE, later released, amid protests and political statements.",
-      "summary": "",
-      "articleCount": 6,
-      "sourceCount": 6,
-      "topSources": [
-        "Fox News",
-        "The Verge",
-        "ABC News",
-        "CNBC",
+        "The Guardian US",
+        "NBC News",
+        "WaPo Politics",
+        "Fox Politics",
         "Al Jazeera"
       ],
-      "importance": 78,
-      "updatedAt": "2026-02-26T21:51:13.045Z"
+      "categories": [
+        "digital",
+        "international",
+        "cable"
+      ],
+      "importance": 100,
+      "updatedAt": "2026-02-26T23:48:15.842Z",
+      "imageUrl": "https://dw-wp-production.imgix.net/2026/02/screenshot-.jpg"
     },
     {
-      "id": "a05fd8fd-e7ef-44cf-9788-006e93168884",
-      "title": "Cuba Shoots, Kills 4 on US-Registered Speedboat in Incident Near Florida",
+      "id": "a014cf55-f2df-4570-b893-d41432d56ede",
+      "title": "Columbia Student Detained by ICE Released Following Meeting Between Trump and NYC Mayor Mamdani",
       "summary": "",
-      "articleCount": 6,
-      "sourceCount": 5,
+      "articleCount": 10,
+      "sourceCount": 8,
+      "topSources": [
+        "NYT",
+        "The Guardian US",
+        "Fox Politics",
+        "CNBC",
+        "Vox"
+      ],
+      "categories": [
+        "digital",
+        "broadsheet",
+        "international"
+      ],
+      "importance": 100,
+      "updatedAt": "2026-02-26T23:48:15.843Z",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/02/Elsewhere-Mamdani_021726_AP_Seth-Wenig.jpg?w=900"
+    },
+    {
+      "id": "a81c1939-f6eb-4ccc-a0e2-2039296da014",
+      "title": "Netflix drops out of Warner Bros. acquisition bid, citing Paramount's improved offer.",
+      "summary": "",
+      "articleCount": 9,
+      "sourceCount": 9,
+      "topSources": [
+        "Ars Technica",
+        "CNBC",
+        "ABC News",
+        "The Hill",
+        "BBC News"
+      ],
+      "categories": [
+        "tech",
+        "finance",
+        "cable"
+      ],
+      "importance": 100,
+      "updatedAt": "2026-02-26T23:48:15.843Z",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/02/sarandosted_campbellbruce_020326gn03_w.jpg?w=900"
+    },
+    {
+      "id": "e41b38cf-97ca-4b57-8f12-76710de767b1",
+      "title": "Cuba Reports Fatal Confrontation with Armed Individuals on Florida-Registered Speedboat",
+      "summary": "",
+      "articleCount": 9,
+      "sourceCount": 7,
       "topSources": [
         "The Guardian World",
-        "Axios",
         "ABC News",
-        "NBC News",
-        "BBC World"
-      ],
-      "importance": 68,
-      "updatedAt": "2026-02-26T21:51:13.048Z"
-    },
-    {
-      "id": "145783e3-c663-4f23-9ee2-f0c3b52357e0",
-      "title": "US and Iran Hold Nuclear Talks, Achieving Significant Progress According to Mediator",
-      "summary": "",
-      "articleCount": 5,
-      "sourceCount": 5,
-      "topSources": [
-        "BBC News",
+        "Breitbart",
         "Al Jazeera",
-        "NBC News",
-        "Fox News",
         "Axios"
       ],
-      "importance": 65,
-      "updatedAt": "2026-02-26T21:50:54.743Z"
+      "categories": [
+        "cable",
+        "international",
+        "digital"
+      ],
+      "importance": 97,
+      "updatedAt": "2026-02-26T23:48:15.840Z"
     },
     {
-      "id": "b5b50758-3afb-4085-80da-54d0567cb242",
-      "title": "Hillary Clinton testifies before US House panel on Jeffrey Epstein investigation.",
+      "id": "40158df2-1cbf-4525-b63a-f40f34047cf5",
+      "title": "Pentagon and Anthropic at Odds Over AI Development and Control.",
       "summary": "",
-      "articleCount": 5,
-      "sourceCount": 5,
+      "articleCount": 8,
+      "sourceCount": 7,
       "topSources": [
+        "The Hill",
+        "Vox",
+        "CNBC",
+        "Foreign Policy",
+        "TechCrunch"
+      ],
+      "categories": [
+        "digital",
+        "finance",
+        "analysis"
+      ],
+      "importance": 94,
+      "updatedAt": "2026-02-26T23:48:15.844Z",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/02/PentagonAnthropic_Timotija-Shapero_AdobeStock.jpg?w=900"
+    },
+    {
+      "id": "1925e13a-b9a1-472a-acec-e5855b5b6a4b",
+      "title": "Danish Prime Minister Calls Snap Elections Amid Greenland Policy Dispute.",
+      "summary": "",
+      "articleCount": 4,
+      "sourceCount": 4,
+      "topSources": [
+        "Fox News",
+        "BBC World",
         "UPI",
-        "NBC News",
-        "Al Jazeera",
-        "The Guardian US",
-        "Breitbart"
+        "NYT World"
       ],
-      "importance": 65,
-      "updatedAt": "2026-02-26T21:51:13.047Z"
-    },
-    {
-      "id": "c06aaebe-4061-4764-bc3a-dd36a114acde",
-      "title": "Trump Administration Freezes $259M in Minnesota Medicaid Funds Over Alleged Fraud Concerns",
-      "summary": "",
-      "articleCount": 5,
-      "sourceCount": 5,
-      "topSources": [
-        "Axios",
-        "Fox Politics",
-        "STAT News",
-        "WaPo Politics",
-        "NYT Politics"
+      "categories": [
+        "cable",
+        "international",
+        "wire"
       ],
-      "importance": 65,
-      "updatedAt": "2026-02-26T21:50:54.811Z"
+      "importance": 52,
+      "updatedAt": "2026-02-26T23:48:02.146Z"
     }
   ],
-  "generatedAt": "2026-02-26T22:08:44.139Z"
+  "generatedAt": "2026-02-27T00:03:29.497Z"
 }
