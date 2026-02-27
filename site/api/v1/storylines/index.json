@@ -1,53 +1,45 @@
 {
   "storylines": [
     {
-      "id": "7d713937-52a9-4139-a5c5-65388e121e06",
-      "title": "Trump Administration Federal Oversight and Control Expansion",
-      "description": "Connected stories showing the Trump administration's use of federal power to enforce policy priorities, including freezing state funds over alleged fraud and congressional pushback on war powers",
-      "clusterCount": 2,
-      "status": "developing",
-      "updatedAt": "2026-02-27T00:03:13.806Z"
+      "id": "fedc97b0-6fcd-4c66-86a2-db4c67e5597b",
+      "title": "Trump Administration Border and Immigration Enforcement",
+      "description": "Multiple incidents and policy actions related to border security, immigration enforcement, and federal-local cooperation under the Trump administration",
+      "clusterCount": 3,
+      "status": "ongoing",
+      "updatedAt": "2026-02-27T06:32:20.780Z"
     },
     {
-      "id": "3d75665b-410a-4177-a357-501d57b4c464",
-      "title": "Epstein Investigation Fallout and Elite Accountability",
-      "description": "High-profile resignations and testimony connected to ongoing Jeffrey Epstein investigations, showing continued reverberations from the scandal",
+      "id": "20e61c0e-a2d0-43d0-9131-26d3a8dde8a4",
+      "title": "AI Industry Transformation and Regulation",
+      "description": "Major developments in artificial intelligence technology, corporate restructuring, and government regulation of AI companies",
+      "clusterCount": 3,
+      "status": "developing",
+      "updatedAt": "2026-02-27T06:32:20.780Z"
+    },
+    {
+      "id": "5d947bbc-6af2-4979-b1f4-f52794c21a20",
+      "title": "Trump Administration Healthcare and Social Policy",
+      "description": "Senate confirmations and federal oversight of healthcare programs under the new administration",
       "clusterCount": 2,
       "status": "ongoing",
-      "updatedAt": "2026-02-27T00:03:13.806Z"
+      "updatedAt": "2026-02-27T06:32:20.780Z"
     },
     {
-      "id": "b7bb2978-a356-41c4-b40e-4af45b4f342f",
-      "title": "Immigration Enforcement and Local Government Relations",
-      "description": "Stories showing the intersection of federal immigration policy with local politics and international incidents",
-      "clusterCount": 2,
+      "id": "f7c58a35-48c5-4c1d-a782-4ecf3ddb44f3",
+      "title": "International Tensions and Diplomatic Crises",
+      "description": "Escalating conflicts and diplomatic incidents involving US interests and regional powers",
+      "clusterCount": 3,
       "status": "developing",
-      "updatedAt": "2026-02-27T00:03:13.806Z"
+      "updatedAt": "2026-02-27T06:32:20.780Z"
     },
     {
-      "id": "e42d46c2-eda5-4d52-9ad4-2bba20c681d1",
-      "title": "AI Development and Government-Tech Industry Tensions",
-      "description": "Conflicts between government agencies and tech companies over AI development control and workforce impacts",
-      "clusterCount": 2,
-      "status": "ongoing",
-      "updatedAt": "2026-02-27T00:03:13.806Z"
-    },
-    {
-      "id": "714a75a9-ea1e-4446-a1a1-8ef6b1752287",
-      "title": "State-Level Conservative Policy Implementation",
-      "description": "State governments implementing conservative social policies affecting LGBTQ+ rights and identity documentation",
+      "id": "4e1ac3ad-6103-45a3-96cb-30fdcd902f24",
+      "title": "Media and Entertainment Industry Consolidation",
+      "description": "Major corporate acquisitions and strategic moves in the entertainment sector",
       "clusterCount": 1,
       "status": "developing",
-      "updatedAt": "2026-02-27T00:03:13.806Z"
-    },
-    {
-      "id": "ee93d999-9579-4b08-8799-ac0f69a7b7ad",
-      "title": "Greenland Geopolitical Tensions",
-      "description": "International political developments related to Greenland policy disputes affecting European politics",
-      "clusterCount": 1,
-      "status": "developing",
-      "updatedAt": "2026-02-27T00:03:13.806Z"
+      "updatedAt": "2026-02-27T06:32:20.780Z"
     }
   ],
-  "generatedAt": "2026-02-27T00:03:29.498Z"
+  "generatedAt": "2026-02-27T06:32:36.230Z"
 }
