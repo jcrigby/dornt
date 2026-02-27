@@ -1,9 +1,9 @@
 import { config } from '../config.js';
 import { cosineSimilarity } from './embedder.js';
-import { readJson, writeJson, deleteFile } from '../storage/gcs-client.js';
+import { readJson, writeJson, deleteFile } from '../storage/storage.js';
 import type { Cluster } from '../types/index.js';
 
-const PROCESSED = config.gcs.processedBucket;
+const PROCESSED = config.storage.processed;
 const MERGE_THRESHOLD = config.pipeline.clusterMergeThreshold;
 
 export async function mergeNearDuplicateClusters(

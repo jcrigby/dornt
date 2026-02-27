@@ -1,10 +1,10 @@
 import { generateJson } from './openrouter-client.js';
 import { SYSTEM_PROMPT, COMMUNITY_PROMPT } from './prompt-templates.js';
-import { writeJson } from '../storage/gcs-client.js';
+import { writeJson } from '../storage/storage.js';
 import { config } from '../config.js';
 import type { RedditPost, CommunityAnalysis, Cluster, CommunityQuote } from '../types/index.js';
 
-const PROCESSED = config.gcs.processedBucket;
+const PROCESSED = config.storage.processed;
 
 export async function analyzeCommunity(
   cluster: Cluster,

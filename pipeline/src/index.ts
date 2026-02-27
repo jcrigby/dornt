@@ -17,7 +17,7 @@ import { generateDeepAnalysis } from './llm/deep-analysis.js';
 import { detectStorylines } from './llm/storylines.js';
 import { generateBriefing } from './llm/briefing.js';
 import { buildSiteData } from './site-gen/index-builder.js';
-import { readJson, listFiles } from './storage/gcs-client.js';
+import { readJson, listFiles } from './storage/storage.js';
 import type { RawArticle, Cluster, RedditPost, PipelineStage } from './types/index.js';
 
 // Load .env file before anything else
@@ -297,9 +297,9 @@ async function loadRecentArticles(): Promise<RawArticle[]> {
     const datePath = date.toISOString().slice(0, 10);
 
     try {
-      const files = await listFiles(config.gcs.rawBucket, `articles/${datePath}/`);
+      const files = await listFiles(config.storage.raw, `articles/${datePath}/`);
       for (const file of files.slice(0, 500)) { // Cap per day
-        const article = await readJson<RawArticle>(config.gcs.rawBucket, file);
+        const article = await readJson<RawArticle>(config.storage.raw, file);
         if (article) articles.push(article);
       }
     } catch {
@@ -312,11 +312,11 @@ async function loadRecentArticles(): Promise<RawArticle[]> {
 
 async function loadActiveClusters(): Promise<Cluster[]> {
   const clusters: Cluster[] = [];
-  const files = await listFiles(config.gcs.processedBucket, 'clusters/');
+  const files = await listFiles(config.storage.processed, 'clusters/');
   const clusterFiles = files.filter(f => f.endsWith('/cluster.json'));
 
   for (const file of clusterFiles) {
-    const cluster = await readJson<Cluster>(config.gcs.processedBucket, file);
+    const cluster = await readJson<Cluster>(config.storage.processed, file);
     if (cluster && (cluster.status === 'active' || cluster.status === 'new')) {
       clusters.push(cluster);
     }
@@ -341,7 +341,7 @@ async function loadClusterArticles(cluster: Cluster): Promise<RawArticle[]> {
     for (let i = 0; i <= config.pipeline.maxArticleAgeDays; i++) {
       const date = new Date(now.getTime() - i * 24 * 60 * 60 * 1000);
       const datePath = date.toISOString().slice(0, 10);
-      const article = await readJson<RawArticle>(config.gcs.rawBucket, `articles/${datePath}/${id}.json`);
+      const article = await readJson<RawArticle>(config.storage.raw, `articles/${datePath}/${id}.json`);
       if (article) {
         articles.push(article);
         break;
@@ -358,7 +358,7 @@ async function loadClusterRedditPosts(cluster: Cluster): Promise<RedditPost[]> {
     for (let i = 0; i <= config.pipeline.maxArticleAgeDays; i++) {
       const date = new Date(now.getTime() - i * 24 * 60 * 60 * 1000);
       const datePath = date.toISOString().slice(0, 10);
-      const post = await readJson<RedditPost>(config.gcs.rawBucket, `reddit/${datePath}/${id}.json`);
+      const post = await readJson<RedditPost>(config.storage.raw, `reddit/${datePath}/${id}.json`);
       if (post) {
         posts.push(post);
         break;

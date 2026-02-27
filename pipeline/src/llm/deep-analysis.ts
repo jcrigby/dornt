@@ -1,10 +1,10 @@
 import { generateJson } from './openrouter-client.js';
 import { SYSTEM_PROMPT, DEEP_ANALYSIS_PROMPT } from './prompt-templates.js';
-import { writeJson } from '../storage/gcs-client.js';
+import { writeJson } from '../storage/storage.js';
 import { config } from '../config.js';
 import type { Synthesis, Claim, DeepAnalysis, Cluster } from '../types/index.js';
 
-const PROCESSED = config.gcs.processedBucket;
+const PROCESSED = config.storage.processed;
 
 export async function generateDeepAnalysis(
   cluster: Cluster,

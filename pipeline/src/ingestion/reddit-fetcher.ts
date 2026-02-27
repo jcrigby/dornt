@@ -1,10 +1,10 @@
 import { v4 as uuid } from 'uuid';
 import { config } from '../config.js';
 import { subreddits } from './feed-registry.js';
-import { writeJson, readJson } from '../storage/gcs-client.js';
+import { writeJson, readJson } from '../storage/storage.js';
 import type { RedditPost, RedditComment } from '../types/index.js';
 
-const BUCKET = config.gcs.rawBucket;
+const BUCKET = config.storage.raw;
 
 interface RedditFetchResult {
   subreddit: string;

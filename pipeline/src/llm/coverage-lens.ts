@@ -1,11 +1,11 @@
 import { generateJson } from './openrouter-client.js';
 import { SYSTEM_PROMPT, COVERAGE_LENS_PROMPT } from './prompt-templates.js';
 import { formatArticlesBlock } from './token-budget.js';
-import { writeJson } from '../storage/gcs-client.js';
+import { writeJson } from '../storage/storage.js';
 import { config } from '../config.js';
 import type { RawArticle, CoverageAnalysis, Cluster } from '../types/index.js';
 
-const PROCESSED = config.gcs.processedBucket;
+const PROCESSED = config.storage.processed;
 
 export async function analyzeCoverage(
   cluster: Cluster,

@@ -1,13 +1,13 @@
 import { config } from '../config.js';
-import { readJson, listFiles, writeJson } from '../storage/gcs-client.js';
+import { readJson, listFiles, writeJson } from '../storage/storage.js';
 import { buildStoryDetail, buildStorylineDetails, buildBriefing } from './json-builder.js';
 import type {
   Cluster, RawArticle, StoryIndex, StoryIndexEntry, TopStoriesResponse, PlatformMeta, Storyline,
 } from '../types/index.js';
 
-const PROCESSED = config.gcs.processedBucket;
-const PUBLIC = config.gcs.publicBucket;
-const RAW = config.gcs.rawBucket;
+const PROCESSED = config.storage.processed;
+const PUBLIC = config.storage.public;
+const RAW = config.storage.raw;
 const API = config.site.apiPrefix;
 
 interface StoryMeta {

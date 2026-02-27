@@ -1,11 +1,11 @@
 import { chatCompletion, generateJson } from './openrouter-client.js';
 import { SYSTEM_PROMPT, SYNTHESIS_PROMPT, TITLE_PROMPT, BATCH_SUMMARY_PROMPT } from './prompt-templates.js';
 import { prepareClusterInput, formatArticlesBlock } from './token-budget.js';
-import { writeJson } from '../storage/gcs-client.js';
+import { writeJson } from '../storage/storage.js';
 import { config } from '../config.js';
 import type { RawArticle, Synthesis, Citation, Cluster } from '../types/index.js';
 
-const PROCESSED = config.gcs.processedBucket;
+const PROCESSED = config.storage.processed;
 
 export async function generateClusterTitle(articles: RawArticle[]): Promise<string> {
   const titles = articles.map(a => `- ${a.title}`).join('\n');

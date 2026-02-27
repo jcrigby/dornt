@@ -6,12 +6,11 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const envFilePath = resolve(__dirname, '..', '.env');
 
 export const config = {
-  // GCS Buckets
-  gcs: {
-    rawBucket: process.env.GCS_RAW_BUCKET || 'dornt-raw',
-    processedBucket: process.env.GCS_PROCESSED_BUCKET || 'dornt-processed',
-    publicBucket: process.env.GCS_PUBLIC_BUCKET || 'dornt-public',
-    projectId: process.env.GCP_PROJECT_ID || '',
+  // Storage directories (subdirectories under .local-storage/)
+  storage: {
+    raw: 'dornt-raw',
+    processed: 'dornt-processed',
+    public: 'dornt-public',
   },
 
   // OpenRouter
@@ -54,7 +53,7 @@ export const config = {
 
   // Site generation
   site: {
-    publicBaseUrl: process.env.PUBLIC_BASE_URL || 'https://storage.googleapis.com/dornt-public',
+    publicBaseUrl: process.env.PUBLIC_BASE_URL || '',
     apiPrefix: 'api/v1',
     topStoriesCount: 12,
     trendingCount: 6,
@@ -97,18 +96,6 @@ export function loadEnvFile(): void {
   // Only apply .env values when the corresponding process.env is not set
   if (envVars.OPENROUTER_API_KEY && !process.env.OPENROUTER_API_KEY) {
     config.openrouter.apiKey = envVars.OPENROUTER_API_KEY;
-  }
-  if (envVars.GCS_RAW_BUCKET && !process.env.GCS_RAW_BUCKET) {
-    config.gcs.rawBucket = envVars.GCS_RAW_BUCKET;
-  }
-  if (envVars.GCS_PROCESSED_BUCKET && !process.env.GCS_PROCESSED_BUCKET) {
-    config.gcs.processedBucket = envVars.GCS_PROCESSED_BUCKET;
-  }
-  if (envVars.GCS_PUBLIC_BUCKET && !process.env.GCS_PUBLIC_BUCKET) {
-    config.gcs.publicBucket = envVars.GCS_PUBLIC_BUCKET;
-  }
-  if (envVars.GCP_PROJECT_ID && !process.env.GCP_PROJECT_ID) {
-    config.gcs.projectId = envVars.GCP_PROJECT_ID;
   }
   if (envVars.PUBLIC_BASE_URL && !process.env.PUBLIC_BASE_URL) {
     config.site.publicBaseUrl = envVars.PUBLIC_BASE_URL;

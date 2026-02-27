@@ -1,9 +1,9 @@
 import { config } from '../config.js';
-import { readJson, writeJson, deleteFile } from './gcs-client.js';
+import { readJson, writeJson, deleteFile } from './storage.js';
 import type { PipelineState, PipelineStage } from '../types/index.js';
 import { v4 as uuid } from 'uuid';
 
-const BUCKET = config.gcs.rawBucket;
+const BUCKET = config.storage.raw;
 const STATE_PREFIX = 'pipeline-state';
 
 function statePath(stage: PipelineStage): string {

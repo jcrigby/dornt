@@ -1,11 +1,11 @@
 import { v4 as uuid } from 'uuid';
 import { config } from '../config.js';
 import { cosineSimilarity } from './embedder.js';
-import { readJson, writeJson, listFiles } from '../storage/gcs-client.js';
+import { readJson, writeJson, listFiles } from '../storage/storage.js';
 import type { Cluster, ArticleEmbedding, RawArticle } from '../types/index.js';
 
-const PROCESSED = config.gcs.processedBucket;
-const RAW = config.gcs.rawBucket;
+const PROCESSED = config.storage.processed;
+const RAW = config.storage.raw;
 const THRESHOLD = config.pipeline.clusterSimilarityThreshold;
 
 export async function clusterArticles(

@@ -1,11 +1,11 @@
 import { v4 as uuid } from 'uuid';
 import { generateJson } from './openrouter-client.js';
 import { SYSTEM_PROMPT, STORYLINE_PROMPT } from './prompt-templates.js';
-import { readJson, writeJson } from '../storage/gcs-client.js';
+import { readJson, writeJson } from '../storage/storage.js';
 import { config } from '../config.js';
 import type { Cluster, Storyline } from '../types/index.js';
 
-const PROCESSED = config.gcs.processedBucket;
+const PROCESSED = config.storage.processed;
 
 export async function detectStorylines(clusters: Cluster[]): Promise<Storyline[]> {
   if (clusters.length < 2) return [];

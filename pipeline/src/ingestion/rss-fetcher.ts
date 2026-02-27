@@ -4,7 +4,7 @@ import { config } from '../config.js';
 import { feeds } from './feed-registry.js';
 import { normalizeUrl, contentHash } from './deduplicator.js';
 import { extractArticle } from './article-extractor.js';
-import { writeJson, readJson, listFiles } from '../storage/gcs-client.js';
+import { writeJson, readJson, listFiles } from '../storage/storage.js';
 import type { RawArticle } from '../types/index.js';
 
 const parser = new Parser({
@@ -12,7 +12,7 @@ const parser = new Parser({
   headers: { 'User-Agent': 'Dornt-News-Intelligence/0.1' },
 });
 
-const BUCKET = config.gcs.rawBucket;
+const BUCKET = config.storage.raw;
 
 interface FeedResult {
   feedName: string;
@@ -115,7 +115,7 @@ async function fetchSingleFeed(
 async function loadExistingUrls(): Promise<Set<string>> {
   const urls = new Set<string>();
   try {
-    // Load URL index from GCS
+    // Load URL index
     const index = await readJson<string[]>(BUCKET, 'indexes/known-urls.json');
     if (index) {
       for (const url of index) urls.add(url);

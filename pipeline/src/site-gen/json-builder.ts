@@ -1,13 +1,13 @@
 import { config } from '../config.js';
-import { readJson, listFiles, writeJson } from '../storage/gcs-client.js';
+import { readJson, listFiles, writeJson } from '../storage/storage.js';
 import type {
   Cluster, Synthesis, Claim, CoverageAnalysis, CommunityAnalysis, DeepAnalysis,
   RawArticle, StoryDetail, ArticleSummary, Storyline, DailyBriefing,
 } from '../types/index.js';
 
-const PROCESSED = config.gcs.processedBucket;
-const RAW = config.gcs.rawBucket;
-const PUBLIC = config.gcs.publicBucket;
+const PROCESSED = config.storage.processed;
+const RAW = config.storage.raw;
+const PUBLIC = config.storage.public;
 const API = config.site.apiPrefix;
 
 export async function buildStoryDetail(cluster: Cluster): Promise<StoryDetail> {
