@@ -1,9 +1,9 @@
 {
-  "totalArticles": 75,
-  "totalClusters": 14,
-  "activeClusters": 14,
-  "totalSources": 27,
-  "lastIngestionAt": "2026-02-27T06:32:36.232Z",
-  "lastAnalysisAt": "2026-02-27T06:32:36.232Z",
-  "generatedAt": "2026-02-27T06:32:36.232Z"
+  "totalArticles": 80,
+  "totalClusters": 6,
+  "activeClusters": 6,
+  "totalSources": 17,
+  "lastIngestionAt": "2026-02-28T13:27:08.007Z",
+  "lastAnalysisAt": "2026-02-28T13:27:08.007Z",
+  "generatedAt": "2026-02-28T13:27:08.007Z"
 }

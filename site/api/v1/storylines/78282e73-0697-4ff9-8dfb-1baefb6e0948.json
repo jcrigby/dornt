@@ -1,0 +1,13 @@
+{
+  "id": "78282e73-0697-4ff9-8dfb-1baefb6e0948",
+  "title": "US Government Operations Under Strain",
+  "description": "Multiple incidents highlighting tensions and operational challenges within US government agencies, from funding disputes to military incidents",
+  "clusterIds": [
+    "3fa45a27-4305-4273-bc8a-7067cc3e7af1",
+    "552d59f4-6f7a-4d95-a595-0fab965f2b3b"
+  ],
+  "arc": "Government funding disputes creating shutdown conditions while simultaneously dealing with operational incidents like military engagement with border security assets, suggesting broader institutional stress",
+  "startedAt": "2026-02-28T13:26:54.907Z",
+  "updatedAt": "2026-02-28T13:26:54.907Z",
+  "status": "developing"
+}

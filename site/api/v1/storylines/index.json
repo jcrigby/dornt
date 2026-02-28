@@ -1,45 +1,37 @@
 {
   "storylines": [
     {
-      "id": "fedc97b0-6fcd-4c66-86a2-db4c67e5597b",
-      "title": "Trump Administration Border and Immigration Enforcement",
-      "description": "Multiple incidents and policy actions related to border security, immigration enforcement, and federal-local cooperation under the Trump administration",
-      "clusterCount": 3,
-      "status": "ongoing",
-      "updatedAt": "2026-02-27T06:32:20.780Z"
-    },
-    {
-      "id": "20e61c0e-a2d0-43d0-9131-26d3a8dde8a4",
-      "title": "AI Industry Transformation and Regulation",
-      "description": "Major developments in artificial intelligence technology, corporate restructuring, and government regulation of AI companies",
-      "clusterCount": 3,
+      "id": "78282e73-0697-4ff9-8dfb-1baefb6e0948",
+      "title": "US Government Operations Under Strain",
+      "description": "Multiple incidents highlighting tensions and operational challenges within US government agencies, from funding disputes to military incidents",
+      "clusterCount": 2,
       "status": "developing",
-      "updatedAt": "2026-02-27T06:32:20.780Z"
+      "updatedAt": "2026-02-28T13:26:54.907Z"
     },
     {
-      "id": "5d947bbc-6af2-4979-b1f4-f52794c21a20",
-      "title": "Trump Administration Healthcare and Social Policy",
-      "description": "Senate confirmations and federal oversight of healthcare programs under the new administration",
+      "id": "62770bc2-e771-4224-b648-d758c591278d",
+      "title": "US Military and Defense Technology Expansion",
+      "description": "Connected developments in US military operations and defense technology partnerships spanning international conflicts and AI integration",
       "clusterCount": 2,
       "status": "ongoing",
-      "updatedAt": "2026-02-27T06:32:20.780Z"
+      "updatedAt": "2026-02-28T13:26:54.907Z"
     },
     {
-      "id": "f7c58a35-48c5-4c1d-a782-4ecf3ddb44f3",
-      "title": "International Tensions and Diplomatic Crises",
-      "description": "Escalating conflicts and diplomatic incidents involving US interests and regional powers",
-      "clusterCount": 3,
-      "status": "developing",
-      "updatedAt": "2026-02-27T06:32:20.780Z"
-    },
-    {
-      "id": "4e1ac3ad-6103-45a3-96cb-30fdcd902f24",
-      "title": "Media and Entertainment Industry Consolidation",
-      "description": "Major corporate acquisitions and strategic moves in the entertainment sector",
+      "id": "7b96f054-4992-45fb-abcc-7c09c1da9d79",
+      "title": "High-Profile Accountability and Transparency Proceedings",
+      "description": "Major figures facing congressional scrutiny and public accountability measures",
       "clusterCount": 1,
       "status": "developing",
-      "updatedAt": "2026-02-27T06:32:20.780Z"
+      "updatedAt": "2026-02-28T13:26:54.907Z"
+    },
+    {
+      "id": "571b23f4-a389-4cb9-9f60-04a26b2ec221",
+      "title": "Media Industry Consolidation",
+      "description": "Major merger activity reshaping the entertainment and media landscape",
+      "clusterCount": 1,
+      "status": "developing",
+      "updatedAt": "2026-02-28T13:26:54.907Z"
     }
   ],
-  "generatedAt": "2026-02-27T06:32:36.230Z"
+  "generatedAt": "2026-02-28T13:27:08.005Z"
 }
