@@ -1,0 +1,12 @@
+{
+  "id": "4b751d07-fcd2-4f87-bcf2-546f8f1728d0",
+  "title": "Trump Administration's AI Supply Chain Security Crackdown",
+  "description": "The Trump administration designates AI company Anthropic as a supply-chain security risk and orders government agencies to cease using the company's services",
+  "clusterIds": [
+    "3487038a-f2c2-468f-aa3c-22e41ae69ad4"
+  ],
+  "arc": "This appears to be a standalone policy decision by the Trump administration targeting a specific AI company for national security reasons. The story represents a significant shift in government AI procurement policy and reflects broader concerns about AI supply chain security.",
+  "startedAt": "2026-03-01T13:33:50.811Z",
+  "updatedAt": "2026-03-01T13:33:50.811Z",
+  "status": "developing"
+}

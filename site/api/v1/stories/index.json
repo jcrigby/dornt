@@ -1,133 +1,252 @@
 {
   "stories": [
     {
-      "id": "5a73f12d-32bb-4533-b99e-b882dbfe3572",
-      "title": "US and Israel Conduct Military Strikes Against Iran.",
+      "id": "3487038a-f2c2-468f-aa3c-22e41ae69ad4",
+      "title": "Pentagon Designates Anthropic as Supply-Chain Risk, Trump Orders Government to Stop Using the AI Company.",
       "summary": "",
-      "articleCount": 27,
+      "articleCount": 16,
       "sourceCount": 11,
-      "topSources": [
-        "Al Jazeera",
-        "NBC News",
-        "Fox News",
-        "BBC News",
-        "The Guardian US"
-      ],
-      "categories": [
-        "international",
-        "cable",
-        "digital"
-      ],
-      "importance": 100,
-      "updatedAt": "2026-02-28T13:18:42.542Z",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/02/AP26059240652017-e1772278359957.jpg?w=900"
-    },
-    {
-      "id": "9d00fb31-79e4-438e-acba-9ca0fb50e72a",
-      "title": "Pentagon Reaches Agreement with OpenAI Amid Anthropic AI Dispute.",
-      "summary": "",
-      "articleCount": 28,
-      "sourceCount": 18,
       "topSources": [
         "Axios",
         "TechCrunch",
-        "CNBC",
-        "Wired",
+        "Daily Wire",
+        "Foreign Policy",
+        "Vox"
+      ],
+      "categories": [
+        "digital",
+        "tech",
+        "analysis"
+      ],
+      "importance": 100,
+      "updatedAt": "2026-03-01T13:17:47.842Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/GettyImages-2259073124.jpg"
+    },
+    {
+      "id": "575490a2-1f30-418b-8df4-a5d5362080be",
+      "title": "Congress Faces War Powers Votes Following US Strikes on Iran.",
+      "summary": "",
+      "articleCount": 12,
+      "sourceCount": 9,
+      "topSources": [
+        "Fox Politics",
+        "Axios",
+        "UPI",
+        "Al Jazeera",
         "Daily Wire"
       ],
       "categories": [
         "digital",
-        "tech",
+        "cable",
         "international"
       ],
       "importance": 100,
-      "updatedAt": "2026-02-28T13:18:42.540Z",
-      "imageUrl": "https://dw-wp-production.imgix.net/2025/10/GettyImages-2240138066.jpg"
+      "updatedAt": "2026-03-01T13:17:47.844Z",
+      "imageUrl": "https://dw-wp-production.imgix.net/2026/02/GettyImages-2255250375-scaled.jpeg"
     },
     {
-      "id": "a1854534-2f03-41e5-9c97-f0c54017d6d2",
-      "title": "Bill Clinton testifies in House inquiry, denies involvement in Epstein crimes.",
+      "id": "630408c6-5e3c-4057-b2ae-8d90dbd0aea2",
+      "title": "Iran's Supreme Leader Ayatollah Ali Khamenei reported dead following US-Israeli strikes.",
       "summary": "",
-      "articleCount": 10,
-      "sourceCount": 10,
+      "articleCount": 23,
+      "sourceCount": 9,
       "topSources": [
-        "UPI",
         "NBC News",
-        "BBC News",
         "Al Jazeera",
-        "The Guardian US"
+        "The Hill",
+        "Axios",
+        "Foreign Policy"
+      ],
+      "categories": [
+        "cable",
+        "digital",
+        "international"
+      ],
+      "importance": 100,
+      "updatedAt": "2026-03-01T13:17:47.841Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/ayatollah-ali-khamenei-iran-supreme-leader-GettyImages-2223074095.jpg"
+    },
+    {
+      "id": "6f7c9ce4-0f8c-4deb-af30-6ea7c00d4fb7",
+      "title": "US Launches Military Operation Against Iranian Leadership, Escalating Regional Tensions",
+      "summary": "",
+      "articleCount": 12,
+      "sourceCount": 7,
+      "topSources": [
+        "The Atlantic",
+        "Daily Wire",
+        "Axios",
+        "CNBC",
+        "The Hill"
       ],
       "categories": [
         "digital",
+        "analysis",
+        "finance"
+      ],
+      "importance": 100,
+      "updatedAt": "2026-03-01T13:17:47.847Z",
+      "imageUrl": "https://dw-wp-production.imgix.net/2026/02/GettyImages-2254194521-scaled.jpg"
+    },
+    {
+      "id": "9617b140-eca1-454e-be5a-664b47d2243b",
+      "title": "US and Israel Conduct Military Strikes Against Iran, Iran Responds with Missile Attacks",
+      "summary": "",
+      "articleCount": 21,
+      "sourceCount": 7,
+      "topSources": [
+        "ABC News",
+        "The Guardian US",
+        "Breitbart",
+        "Wired",
+        "Axios"
+      ],
+      "categories": [
         "international",
+        "digital",
         "cable"
       ],
       "importance": 100,
-      "updatedAt": "2026-02-28T13:18:42.541Z",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/02/ComerJames_MaceNancy_LunaAnnaPaulina_022726ap.jpg?w=900"
+      "updatedAt": "2026-03-01T13:17:47.843Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/tehran-iran-strikes-february-2026-trump-israel-GettyImages-2263410238.jpg"
     },
     {
-      "id": "64a8911d-fba4-49a7-8f41-f69063569aff",
-      "title": "Paramount Agrees to Acquire Warner Bros. Discovery in $110 Billion Deal",
+      "id": "6f96cb1a-0c7b-4d74-9a75-cc449f879f7e",
+      "title": "US President Trump Orders Military Strike Against Iranian Nuclear Facilities.",
       "summary": "",
-      "articleCount": 8,
-      "sourceCount": 6,
+      "articleCount": 9,
+      "sourceCount": 7,
       "topSources": [
-        "BBC World",
-        "Ars Technica",
-        "UPI",
+        "NBC News",
         "Axios",
-        "The Verge"
+        "The Guardian US",
+        "Vox",
+        "Breitbart"
+      ],
+      "categories": [
+        "cable",
+        "digital",
+        "international"
+      ],
+      "importance": 97,
+      "updatedAt": "2026-03-01T13:17:47.846Z"
+    },
+    {
+      "id": "4fea22b1-18e2-43a7-9722-0504f85110c1",
+      "title": "Iran's Supreme Leader Ayatollah Ali Khamenei Dies at 86 After Nearly 40 Years in Power",
+      "summary": "",
+      "articleCount": 5,
+      "sourceCount": 5,
+      "topSources": [
+        "The Atlantic",
+        "BBC News",
+        "CNBC",
+        "Foreign Policy",
+        "NYT"
+      ],
+      "categories": [
+        "analysis",
+        "international",
+        "finance"
+      ],
+      "importance": 65,
+      "updatedAt": "2026-03-01T13:17:47.846Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2022/07/1-Lead-Ayatollah-Ali-Khamenei-iran-supreme-leader-obituary-GettyImages-452155096.jpg"
+    },
+    {
+      "id": "6c0970a6-8b5d-42e2-8eeb-f83e3d7f33e3",
+      "title": "Netflix Withdraws Bid to Acquire Warner Bros. Discovery Amid Financial Concerns",
+      "summary": "",
+      "articleCount": 6,
+      "sourceCount": 4,
+      "topSources": [
+        "TechCrunch",
+        "Ars Technica",
+        "CNBC",
+        "BBC World"
       ],
       "categories": [
         "tech",
-        "international",
-        "wire"
+        "finance",
+        "international"
       ],
-      "importance": 84,
-      "updatedAt": "2026-02-28T13:18:42.538Z"
+      "importance": 58,
+      "updatedAt": "2026-03-01T13:17:47.848Z"
     },
     {
-      "id": "3fa45a27-4305-4273-bc8a-7067cc3e7af1",
-      "title": "White House and Democrats Engage in Back-and-Forth on DHS Funding Amid Government Shutdown",
+      "id": "4ca0c3f5-908c-4a1d-9f16-579b66510fbd",
+      "title": "Multiple Fatalities and Injuries Reported in Shooting at Austin Bar",
       "summary": "",
       "articleCount": 4,
       "sourceCount": 4,
       "topSources": [
-        "Daily Wire",
-        "Fox Politics",
+        "NYT",
+        "ABC News",
         "The Hill",
-        "CNBC"
+        "The Guardian US"
       ],
       "categories": [
-        "digital",
+        "broadsheet",
         "cable",
-        "finance"
+        "digital"
       ],
       "importance": 52,
-      "updatedAt": "2026-02-28T13:18:35.750Z",
-      "imageUrl": "https://news.dailywire.com/wp-content/uploads/2026/02/GettyImages-2243662729.jpg"
+      "updatedAt": "2026-03-01T13:17:33.277Z",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/03/IMG_5764.jpg?w=900"
     },
     {
-      "id": "552d59f4-6f7a-4d95-a595-0fab965f2b3b",
-      "title": "US Military Shoots Down CBP Drone Near Mexican Border in Incident Under Investigation",
+      "id": "4f164a75-e064-4bd8-bdaa-940e32b60436",
+      "title": "Xiaomi Unveils 17 Ultra Smartphone with Leica Camera and Powerbank Accessory",
       "summary": "",
-      "articleCount": 3,
+      "articleCount": 4,
       "sourceCount": 3,
       "topSources": [
-        "Ars Technica",
-        "Axios",
-        "The Guardian World"
+        "The Verge",
+        "TechCrunch",
+        "Wired"
       ],
       "categories": [
-        "tech",
-        "digital",
+        "tech"
+      ],
+      "importance": 42,
+      "updatedAt": "2026-03-01T13:17:33.214Z"
+    },
+    {
+      "id": "f82a39ad-d2bc-4885-86a0-28c2d315fd8c",
+      "title": "US and Israel Conduct Strikes on Iran, Raising Concerns About Global Oil Market Disruption",
+      "summary": "",
+      "articleCount": 4,
+      "sourceCount": 3,
+      "topSources": [
+        "CNBC",
+        "Foreign Policy",
+        "Axios"
+      ],
+      "categories": [
+        "finance",
+        "analysis",
+        "digital"
+      ],
+      "importance": 42,
+      "updatedAt": "2026-03-01T13:17:33.361Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/strait-of-hormuz-iran-uae-oil-us-israeli-strikes-GettyImages-2262954095.jpg"
+    },
+    {
+      "id": "47390c05-6caf-4487-9c73-765968de606b",
+      "title": "US-Iran Tensions Escalate Amid Reports of US-Israel Strikes and Oil Market Volatility",
+      "summary": "",
+      "articleCount": 8,
+      "sourceCount": 1,
+      "topSources": [
+        "Financial Times"
+      ],
+      "categories": [
         "international"
       ],
-      "importance": 39,
-      "updatedAt": "2026-02-28T13:18:35.711Z"
+      "importance": 34,
+      "updatedAt": "2026-03-01T13:17:47.845Z"
     }
   ],
-  "generatedAt": "2026-02-28T13:27:08.004Z",
-  "totalCount": 6
+  "generatedAt": "2026-03-01T13:34:04.164Z",
+  "totalCount": 12
 }

@@ -1,0 +1,12 @@
+{
+  "id": "e7e30cd1-92cf-4a4c-b5a4-93eb7083dad8",
+  "title": "Austin Bar Shooting Incident",
+  "description": "A violent incident at an Austin bar resulting in multiple fatalities and injuries",
+  "clusterIds": [
+    "4ca0c3f5-908c-4a1d-9f16-579b66510fbd"
+  ],
+  "arc": "A breaking news story about a mass casualty event in Austin, Texas. This appears to be an isolated incident with ongoing investigation and emergency response.",
+  "startedAt": "2026-03-01T13:33:50.811Z",
+  "updatedAt": "2026-03-01T13:33:50.811Z",
+  "status": "developing"
+}
