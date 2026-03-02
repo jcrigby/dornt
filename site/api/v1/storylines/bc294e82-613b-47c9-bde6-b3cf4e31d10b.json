@@ -1,0 +1,12 @@
+{
+  "id": "bc294e82-613b-47c9-bde6-b3cf4e31d10b",
+  "title": "Military Operations Collateral Impact",
+  "description": "Secondary military incidents and casualties related to the broader Middle East operations",
+  "clusterIds": [
+    "368374d4-831d-401c-a841-940178a68b5d"
+  ],
+  "arc": "Amid the larger military operations in the region, a US military jet crashes in Kuwait with crew members reportedly surviving, illustrating the broader operational risks and incidents occurring during the heightened military activity in the Middle East.",
+  "startedAt": "2026-03-02T13:46:32.204Z",
+  "updatedAt": "2026-03-02T13:46:32.204Z",
+  "status": "developing"
+}

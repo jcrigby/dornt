@@ -1,45 +1,45 @@
 {
   "storylines": [
     {
-      "id": "e9d1073a-19d2-4727-9e79-d3f57754fd95",
-      "title": "US-Israel Military Operations Against Iran and Death of Supreme Leader Khamenei",
-      "description": "A major escalation in Middle East tensions involving coordinated US-Israeli military strikes against Iran, targeting nuclear facilities and leadership, coinciding with or resulting in the reported death of Iran's Supreme Leader Ayatollah Ali Khamenei",
-      "clusterCount": 8,
+      "id": "3625e542-c843-4e38-846c-f8b716ae0628",
+      "title": "US-Israel Military Operations Against Iran and Escalating Middle East Crisis",
+      "description": "A major military escalation involving coordinated US-Israeli strikes against Iran, resulting in the reported death of Iran's Supreme Leader, multiple casualties, and widespread regional disruption",
+      "clusterCount": 7,
       "status": "developing",
-      "updatedAt": "2026-03-01T13:33:50.811Z"
+      "updatedAt": "2026-03-02T13:46:32.204Z"
     },
     {
-      "id": "4b751d07-fcd2-4f87-bcf2-546f8f1728d0",
-      "title": "Trump Administration's AI Supply Chain Security Crackdown",
-      "description": "The Trump administration designates AI company Anthropic as a supply-chain security risk and orders government agencies to cease using the company's services",
+      "id": "c2559457-2ffa-4ef0-9707-b3e5248953e4",
+      "title": "Domestic Political Response to Iran Military Operations",
+      "description": "Congressional and political reactions to the Trump-ordered military operations against Iran, including partisan divisions and criticism from various political figures",
+      "clusterCount": 2,
+      "status": "ongoing",
+      "updatedAt": "2026-03-02T13:46:32.204Z"
+    },
+    {
+      "id": "f7b28473-283f-4382-8794-6e9ae5b66bb8",
+      "title": "Global Economic and Market Impact of Middle East Military Crisis",
+      "description": "The economic ramifications of the US-Israeli strikes on Iran, particularly affecting oil markets and global financial systems",
+      "clusterCount": 1,
+      "status": "ongoing",
+      "updatedAt": "2026-03-02T13:46:32.204Z"
+    },
+    {
+      "id": "bc294e82-613b-47c9-bde6-b3cf4e31d10b",
+      "title": "Military Operations Collateral Impact",
+      "description": "Secondary military incidents and casualties related to the broader Middle East operations",
       "clusterCount": 1,
       "status": "developing",
-      "updatedAt": "2026-03-01T13:33:50.811Z"
+      "updatedAt": "2026-03-02T13:46:32.204Z"
     },
     {
-      "id": "6e992718-171b-4528-81e3-9b9c36577365",
-      "title": "Netflix-Warner Bros. Discovery Acquisition Collapse",
-      "description": "Netflix withdraws its bid to acquire Warner Bros. Discovery citing financial concerns",
-      "clusterCount": 1,
-      "status": "concluded",
-      "updatedAt": "2026-03-01T13:33:50.811Z"
-    },
-    {
-      "id": "e7e30cd1-92cf-4a4c-b5a4-93eb7083dad8",
-      "title": "Austin Bar Shooting Incident",
-      "description": "A violent incident at an Austin bar resulting in multiple fatalities and injuries",
+      "id": "7b11bfdd-1749-48c9-b302-8054509cff01",
+      "title": "Iran's International Isolation and Cultural Impact",
+      "description": "The broader effects of the military crisis on Iran's international relationships and participation in global events",
       "clusterCount": 1,
       "status": "developing",
-      "updatedAt": "2026-03-01T13:33:50.811Z"
-    },
-    {
-      "id": "e0d25d37-e4ec-4f13-a5f0-d7af3c06a688",
-      "title": "Xiaomi 17 Ultra Smartphone Launch",
-      "description": "Xiaomi announces its new flagship smartphone with Leica camera partnership and powerbank accessory",
-      "clusterCount": 1,
-      "status": "concluded",
-      "updatedAt": "2026-03-01T13:33:50.811Z"
+      "updatedAt": "2026-03-02T13:46:32.204Z"
     }
   ],
-  "generatedAt": "2026-03-01T13:34:04.165Z"
+  "generatedAt": "2026-03-02T13:46:49.079Z"
 }

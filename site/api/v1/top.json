@@ -1,384 +1,377 @@
 {
   "top": [
     {
-      "id": "3487038a-f2c2-468f-aa3c-22e41ae69ad4",
-      "title": "Pentagon Designates Anthropic as Supply-Chain Risk, Trump Orders Government to Stop Using the AI Company.",
+      "id": "4c17139b-bebd-4cc7-b6bb-dddee42aac8e",
+      "title": "Iran's Supreme Leader Ayatollah Khamenei Reportedly Dead, Iranian State Media Confirms",
       "summary": "",
-      "articleCount": 16,
-      "sourceCount": 11,
+      "articleCount": 13,
+      "sourceCount": 8,
       "topSources": [
+        "The Atlantic",
         "Axios",
-        "TechCrunch",
-        "Daily Wire",
         "Foreign Policy",
-        "Vox"
+        "The Guardian US",
+        "BBC World"
       ],
       "categories": [
+        "analysis",
+        "international",
+        "digital"
+      ],
+      "importance": 100,
+      "updatedAt": "2026-03-02T13:27:05.090Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/03/trump-iran-airstrikes-democracy-security-middle-east-russia-china-2263537529.jpg"
+    },
+    {
+      "id": "67adbd54-0e75-4c5c-affe-995883d7c142",
+      "title": "US and Israel Launch Military Operation Against Iran, Resulting in Casualties and Widespread Disruption.",
+      "summary": "",
+      "articleCount": 15,
+      "sourceCount": 10,
+      "topSources": [
+        "Foreign Policy",
+        "NBC News",
+        "The Guardian US",
+        "Breitbart",
+        "UPI"
+      ],
+      "categories": [
+        "cable",
         "digital",
-        "tech",
         "analysis"
       ],
       "importance": 100,
-      "updatedAt": "2026-03-01T13:17:47.842Z",
-      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/GettyImages-2259073124.jpg"
+      "updatedAt": "2026-03-02T13:27:05.086Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/iran-strike-us-israel-AP26059256811672.jpg"
     },
     {
-      "id": "575490a2-1f30-418b-8df4-a5d5362080be",
-      "title": "Congress Faces War Powers Votes Following US Strikes on Iran.",
+      "id": "67c91e12-0c03-4435-931d-89f9ba1880ac",
+      "title": "Oil prices surge and global markets react to US-Israel strikes on Iran.",
       "summary": "",
-      "articleCount": 12,
+      "articleCount": 11,
       "sourceCount": 9,
       "topSources": [
-        "Fox Politics",
-        "Axios",
-        "UPI",
-        "Al Jazeera",
-        "Daily Wire"
-      ],
-      "categories": [
-        "digital",
-        "cable",
-        "international"
-      ],
-      "importance": 100,
-      "updatedAt": "2026-03-01T13:17:47.844Z",
-      "imageUrl": "https://dw-wp-production.imgix.net/2026/02/GettyImages-2255250375-scaled.jpeg"
-    },
-    {
-      "id": "630408c6-5e3c-4057-b2ae-8d90dbd0aea2",
-      "title": "Iran's Supreme Leader Ayatollah Ali Khamenei reported dead following US-Israeli strikes.",
-      "summary": "",
-      "articleCount": 23,
-      "sourceCount": 9,
-      "topSources": [
-        "NBC News",
-        "Al Jazeera",
-        "The Hill",
-        "Axios",
-        "Foreign Policy"
-      ],
-      "categories": [
-        "cable",
-        "digital",
-        "international"
-      ],
-      "importance": 100,
-      "updatedAt": "2026-03-01T13:17:47.841Z",
-      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/ayatollah-ali-khamenei-iran-supreme-leader-GettyImages-2223074095.jpg"
-    },
-    {
-      "id": "6f7c9ce4-0f8c-4deb-af30-6ea7c00d4fb7",
-      "title": "US Launches Military Operation Against Iranian Leadership, Escalating Regional Tensions",
-      "summary": "",
-      "articleCount": 12,
-      "sourceCount": 7,
-      "topSources": [
-        "The Atlantic",
-        "Daily Wire",
-        "Axios",
         "CNBC",
-        "The Hill"
+        "Axios",
+        "ABC News",
+        "BBC News",
+        "NBC News"
       ],
       "categories": [
-        "digital",
-        "analysis",
-        "finance"
+        "finance",
+        "cable",
+        "digital"
       ],
       "importance": 100,
-      "updatedAt": "2026-03-01T13:17:47.847Z",
-      "imageUrl": "https://dw-wp-production.imgix.net/2026/02/GettyImages-2254194521-scaled.jpg"
+      "updatedAt": "2026-03-02T13:27:05.087Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/strait-of-hormuz-iran-uae-oil-us-israeli-strikes-GettyImages-2262954095.jpg"
     },
     {
-      "id": "9617b140-eca1-454e-be5a-664b47d2243b",
-      "title": "US and Israel Conduct Military Strikes Against Iran, Iran Responds with Missile Attacks",
+      "id": "d542c52d-2fa4-4c86-aece-2202d44ea96d",
+      "title": "Iran's Supreme Leader Ayatollah Ali Khamenei's Health and Succession Uncertainty",
       "summary": "",
-      "articleCount": 21,
-      "sourceCount": 7,
+      "articleCount": 7,
+      "sourceCount": 6,
       "topSources": [
-        "ABC News",
-        "The Guardian US",
-        "Breitbart",
-        "Wired",
-        "Axios"
+        "Foreign Policy",
+        "CNBC",
+        "NYT World",
+        "Daily Wire",
+        "BBC World"
       ],
       "categories": [
         "international",
-        "digital",
-        "cable"
+        "analysis",
+        "finance"
       ],
-      "importance": 100,
-      "updatedAt": "2026-03-01T13:17:47.843Z",
-      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/tehran-iran-strikes-february-2026-trump-israel-GettyImages-2263410238.jpg"
+      "importance": 81,
+      "updatedAt": "2026-03-02T13:27:05.092Z",
+      "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2264273719.jpg"
     },
     {
-      "id": "6f96cb1a-0c7b-4d74-9a75-cc449f879f7e",
-      "title": "US President Trump Orders Military Strike Against Iranian Nuclear Facilities.",
+      "id": "c6841449-2a33-4c1f-b044-1d6168f0fa2c",
+      "title": "US Launches Military Strikes Against Iran in Response to Aerial Attack on US Forces",
       "summary": "",
-      "articleCount": 9,
-      "sourceCount": 7,
+      "articleCount": 7,
+      "sourceCount": 5,
       "topSources": [
-        "NBC News",
-        "Axios",
-        "The Guardian US",
         "Vox",
-        "Breitbart"
+        "Axios",
+        "Al Jazeera",
+        "NYT Politics",
+        "Wired"
       ],
       "categories": [
-        "cable",
         "digital",
-        "international"
+        "international",
+        "broadsheet"
       ],
-      "importance": 97,
-      "updatedAt": "2026-03-01T13:17:47.846Z"
+      "importance": 71,
+      "updatedAt": "2026-03-02T13:27:05.090Z"
     },
     {
-      "id": "4fea22b1-18e2-43a7-9722-0504f85110c1",
-      "title": "Iran's Supreme Leader Ayatollah Ali Khamenei Dies at 86 After Nearly 40 Years in Power",
+      "id": "368374d4-831d-401c-a841-940178a68b5d",
+      "title": "US Military Jet Crashes in Kuwait, Crew Members Reportedly Survive",
       "summary": "",
       "articleCount": 5,
       "sourceCount": 5,
       "topSources": [
-        "The Atlantic",
+        "UPI",
         "BBC News",
-        "CNBC",
-        "Foreign Policy",
-        "NYT"
+        "Axios",
+        "Al Jazeera",
+        "NBC News"
       ],
       "categories": [
-        "analysis",
         "international",
-        "finance"
+        "wire",
+        "digital"
       ],
       "importance": 65,
-      "updatedAt": "2026-03-01T13:17:47.846Z",
-      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2022/07/1-Lead-Ayatollah-Ali-Khamenei-iran-supreme-leader-obituary-GettyImages-452155096.jpg"
+      "updatedAt": "2026-03-02T13:27:05.093Z"
     },
     {
-      "id": "6c0970a6-8b5d-42e2-8eeb-f83e3d7f33e3",
-      "title": "Netflix Withdraws Bid to Acquire Warner Bros. Discovery Amid Financial Concerns",
+      "id": "c51d3e42-9709-49db-9286-4c2cd9e215dd",
+      "title": "Austin Bar Shooting Leaves Three Dead, 14 Injured, FBI Investigating Possible Terrorism Link",
+      "summary": "",
+      "articleCount": 5,
+      "sourceCount": 5,
+      "topSources": [
+        "Daily Wire",
+        "Axios",
+        "UPI",
+        "BBC World",
+        "The Guardian US"
+      ],
+      "categories": [
+        "digital",
+        "international",
+        "wire"
+      ],
+      "importance": 65,
+      "updatedAt": "2026-03-02T13:27:05.092Z",
+      "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2264204960.jpg"
+    },
+    {
+      "id": "2ca99097-4ddd-4e1b-bf58-35440db41b35",
+      "title": "US Congress Divided on Iran Attack Following Trump-Ordered Military Operation",
       "summary": "",
       "articleCount": 6,
       "sourceCount": 4,
       "topSources": [
-        "TechCrunch",
-        "Ars Technica",
-        "CNBC",
-        "BBC World"
+        "The Guardian US",
+        "NYT Politics",
+        "Fox Politics",
+        "Fox News"
       ],
       "categories": [
-        "tech",
-        "finance",
-        "international"
+        "international",
+        "cable",
+        "broadsheet"
       ],
       "importance": 58,
-      "updatedAt": "2026-03-01T13:17:47.848Z"
+      "updatedAt": "2026-03-02T13:27:05.089Z"
     },
     {
-      "id": "4ca0c3f5-908c-4a1d-9f16-579b66510fbd",
-      "title": "Multiple Fatalities and Injuries Reported in Shooting at Austin Bar",
+      "id": "51e2a1ad-e67c-4e3b-aa45-e8312b96fc6e",
+      "title": "US and Israel Conduct Coordinated Strike Against Iranian Leadership Target",
       "summary": "",
       "articleCount": 4,
       "sourceCount": 4,
       "topSources": [
-        "NYT",
-        "ABC News",
-        "The Hill",
-        "The Guardian US"
-      ],
-      "categories": [
-        "broadsheet",
-        "cable",
-        "digital"
-      ],
-      "importance": 52,
-      "updatedAt": "2026-03-01T13:17:33.277Z",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/03/IMG_5764.jpg?w=900"
-    },
-    {
-      "id": "4f164a75-e064-4bd8-bdaa-940e32b60436",
-      "title": "Xiaomi Unveils 17 Ultra Smartphone with Leica Camera and Powerbank Accessory",
-      "summary": "",
-      "articleCount": 4,
-      "sourceCount": 3,
-      "topSources": [
-        "The Verge",
-        "TechCrunch",
-        "Wired"
-      ],
-      "categories": [
-        "tech"
-      ],
-      "importance": 42,
-      "updatedAt": "2026-03-01T13:17:33.214Z"
-    },
-    {
-      "id": "f82a39ad-d2bc-4885-86a0-28c2d315fd8c",
-      "title": "US and Israel Conduct Strikes on Iran, Raising Concerns About Global Oil Market Disruption",
-      "summary": "",
-      "articleCount": 4,
-      "sourceCount": 3,
-      "topSources": [
-        "CNBC",
-        "Foreign Policy",
-        "Axios"
-      ],
-      "categories": [
-        "finance",
-        "analysis",
-        "digital"
-      ],
-      "importance": 42,
-      "updatedAt": "2026-03-01T13:17:33.361Z",
-      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/strait-of-hormuz-iran-uae-oil-us-israeli-strikes-GettyImages-2262954095.jpg"
-    },
-    {
-      "id": "47390c05-6caf-4487-9c73-765968de606b",
-      "title": "US-Iran Tensions Escalate Amid Reports of US-Israel Strikes and Oil Market Volatility",
-      "summary": "",
-      "articleCount": 8,
-      "sourceCount": 1,
-      "topSources": [
-        "Financial Times"
-      ],
-      "categories": [
-        "international"
-      ],
-      "importance": 34,
-      "updatedAt": "2026-03-01T13:17:47.845Z"
-    }
-  ],
-  "trending": [
-    {
-      "id": "630408c6-5e3c-4057-b2ae-8d90dbd0aea2",
-      "title": "Iran's Supreme Leader Ayatollah Ali Khamenei reported dead following US-Israeli strikes.",
-      "summary": "",
-      "articleCount": 23,
-      "sourceCount": 9,
-      "topSources": [
-        "NBC News",
-        "Al Jazeera",
-        "The Hill",
-        "Axios",
-        "Foreign Policy"
-      ],
-      "categories": [
-        "cable",
-        "digital",
-        "international"
-      ],
-      "importance": 100,
-      "updatedAt": "2026-03-01T13:17:47.841Z",
-      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/ayatollah-ali-khamenei-iran-supreme-leader-GettyImages-2223074095.jpg"
-    },
-    {
-      "id": "9617b140-eca1-454e-be5a-664b47d2243b",
-      "title": "US and Israel Conduct Military Strikes Against Iran, Iran Responds with Missile Attacks",
-      "summary": "",
-      "articleCount": 21,
-      "sourceCount": 7,
-      "topSources": [
-        "ABC News",
+        "BBC World",
+        "Daily Wire",
         "The Guardian US",
-        "Breitbart",
-        "Wired",
-        "Axios"
+        "NYT Politics"
       ],
       "categories": [
         "international",
         "digital",
-        "cable"
+        "broadsheet"
       ],
-      "importance": 100,
-      "updatedAt": "2026-03-01T13:17:47.843Z",
-      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/tehran-iran-strikes-february-2026-trump-israel-GettyImages-2263410238.jpg"
+      "importance": 52,
+      "updatedAt": "2026-03-02T13:27:05.094Z",
+      "imageUrl": "https://dw-wp-production.imgix.net/2026/03/precision_from_the_shadows_montage.jpeg"
     },
     {
-      "id": "3487038a-f2c2-468f-aa3c-22e41ae69ad4",
-      "title": "Pentagon Designates Anthropic as Supply-Chain Risk, Trump Orders Government to Stop Using the AI Company.",
+      "id": "5d5e8d71-902e-4b9d-b2ba-e591e43b1742",
+      "title": "US Military Reports Three Service Members Killed in Operation in Iran",
       "summary": "",
-      "articleCount": 16,
-      "sourceCount": 11,
+      "articleCount": 4,
+      "sourceCount": 4,
       "topSources": [
+        "The Hill",
+        "Breitbart",
         "Axios",
-        "TechCrunch",
-        "Daily Wire",
-        "Foreign Policy",
-        "Vox"
+        "NYT Politics"
       ],
       "categories": [
         "digital",
+        "broadsheet"
+      ],
+      "importance": 52,
+      "updatedAt": "2026-03-02T13:27:05.091Z",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/03/AP26060314070136-e1772377806680.jpg?w=900"
+    },
+    {
+      "id": "ddf6b71c-e16e-4add-8035-48d3bfd7f5f8",
+      "title": "US Government Takes Action Against Anthropic Over Alleged Supply-Chain Risks",
+      "summary": "",
+      "articleCount": 6,
+      "sourceCount": 3,
+      "topSources": [
+        "TechCrunch",
+        "The Atlantic",
+        "Ars Technica"
+      ],
+      "categories": [
         "tech",
         "analysis"
       ],
-      "importance": 100,
-      "updatedAt": "2026-03-01T13:17:47.842Z",
-      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/GettyImages-2259073124.jpg"
+      "importance": 48,
+      "updatedAt": "2026-03-02T13:27:05.088Z"
     },
     {
-      "id": "575490a2-1f30-418b-8df4-a5d5362080be",
-      "title": "Congress Faces War Powers Votes Following US Strikes on Iran.",
+      "id": "1e0093d8-d106-49d9-bf9b-5644b63d087a",
+      "title": "Multiple nations exchange airstrikes, resulting in civilian casualties and diplomatic tensions.",
       "summary": "",
-      "articleCount": 12,
-      "sourceCount": 9,
+      "articleCount": 11,
+      "sourceCount": 1,
       "topSources": [
-        "Fox Politics",
-        "Axios",
-        "UPI",
-        "Al Jazeera",
-        "Daily Wire"
+        "NBC News"
       ],
       "categories": [
-        "digital",
+        "cable"
+      ],
+      "importance": 43,
+      "updatedAt": "2026-03-02T13:26:46.994Z"
+    }
+  ],
+  "trending": [
+    {
+      "id": "67adbd54-0e75-4c5c-affe-995883d7c142",
+      "title": "US and Israel Launch Military Operation Against Iran, Resulting in Casualties and Widespread Disruption.",
+      "summary": "",
+      "articleCount": 15,
+      "sourceCount": 10,
+      "topSources": [
+        "Foreign Policy",
+        "NBC News",
+        "The Guardian US",
+        "Breitbart",
+        "UPI"
+      ],
+      "categories": [
         "cable",
-        "international"
+        "digital",
+        "analysis"
       ],
       "importance": 100,
-      "updatedAt": "2026-03-01T13:17:47.844Z",
-      "imageUrl": "https://dw-wp-production.imgix.net/2026/02/GettyImages-2255250375-scaled.jpeg"
+      "updatedAt": "2026-03-02T13:27:05.086Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/iran-strike-us-israel-AP26059256811672.jpg"
     },
     {
-      "id": "6f7c9ce4-0f8c-4deb-af30-6ea7c00d4fb7",
-      "title": "US Launches Military Operation Against Iranian Leadership, Escalating Regional Tensions",
+      "id": "4c17139b-bebd-4cc7-b6bb-dddee42aac8e",
+      "title": "Iran's Supreme Leader Ayatollah Khamenei Reportedly Dead, Iranian State Media Confirms",
       "summary": "",
-      "articleCount": 12,
-      "sourceCount": 7,
+      "articleCount": 13,
+      "sourceCount": 8,
       "topSources": [
         "The Atlantic",
-        "Daily Wire",
         "Axios",
-        "CNBC",
-        "The Hill"
+        "Foreign Policy",
+        "The Guardian US",
+        "BBC World"
       ],
       "categories": [
-        "digital",
+        "analysis",
+        "international",
+        "digital"
+      ],
+      "importance": 100,
+      "updatedAt": "2026-03-02T13:27:05.090Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/03/trump-iran-airstrikes-democracy-security-middle-east-russia-china-2263537529.jpg"
+    },
+    {
+      "id": "67c91e12-0c03-4435-931d-89f9ba1880ac",
+      "title": "Oil prices surge and global markets react to US-Israel strikes on Iran.",
+      "summary": "",
+      "articleCount": 11,
+      "sourceCount": 9,
+      "topSources": [
+        "CNBC",
+        "Axios",
+        "ABC News",
+        "BBC News",
+        "NBC News"
+      ],
+      "categories": [
+        "finance",
+        "cable",
+        "digital"
+      ],
+      "importance": 100,
+      "updatedAt": "2026-03-02T13:27:05.087Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/strait-of-hormuz-iran-uae-oil-us-israeli-strikes-GettyImages-2262954095.jpg"
+    },
+    {
+      "id": "1e0093d8-d106-49d9-bf9b-5644b63d087a",
+      "title": "Multiple nations exchange airstrikes, resulting in civilian casualties and diplomatic tensions.",
+      "summary": "",
+      "articleCount": 11,
+      "sourceCount": 1,
+      "topSources": [
+        "NBC News"
+      ],
+      "categories": [
+        "cable"
+      ],
+      "importance": 43,
+      "updatedAt": "2026-03-02T13:26:46.994Z"
+    },
+    {
+      "id": "d542c52d-2fa4-4c86-aece-2202d44ea96d",
+      "title": "Iran's Supreme Leader Ayatollah Ali Khamenei's Health and Succession Uncertainty",
+      "summary": "",
+      "articleCount": 7,
+      "sourceCount": 6,
+      "topSources": [
+        "Foreign Policy",
+        "CNBC",
+        "NYT World",
+        "Daily Wire",
+        "BBC World"
+      ],
+      "categories": [
+        "international",
         "analysis",
         "finance"
       ],
-      "importance": 100,
-      "updatedAt": "2026-03-01T13:17:47.847Z",
-      "imageUrl": "https://dw-wp-production.imgix.net/2026/02/GettyImages-2254194521-scaled.jpg"
+      "importance": 81,
+      "updatedAt": "2026-03-02T13:27:05.092Z",
+      "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2264273719.jpg"
     },
     {
-      "id": "6f96cb1a-0c7b-4d74-9a75-cc449f879f7e",
-      "title": "US President Trump Orders Military Strike Against Iranian Nuclear Facilities.",
+      "id": "c6841449-2a33-4c1f-b044-1d6168f0fa2c",
+      "title": "US Launches Military Strikes Against Iran in Response to Aerial Attack on US Forces",
       "summary": "",
-      "articleCount": 9,
-      "sourceCount": 7,
+      "articleCount": 7,
+      "sourceCount": 5,
       "topSources": [
-        "NBC News",
-        "Axios",
-        "The Guardian US",
         "Vox",
-        "Breitbart"
+        "Axios",
+        "Al Jazeera",
+        "NYT Politics",
+        "Wired"
       ],
       "categories": [
-        "cable",
         "digital",
-        "international"
+        "international",
+        "broadsheet"
       ],
-      "importance": 97,
-      "updatedAt": "2026-03-01T13:17:47.846Z"
+      "importance": 71,
+      "updatedAt": "2026-03-02T13:27:05.090Z"
     }
   ],
-  "generatedAt": "2026-03-01T13:34:04.164Z"
+  "generatedAt": "2026-03-02T13:46:49.079Z"
 }
