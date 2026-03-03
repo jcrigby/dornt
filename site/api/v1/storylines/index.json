@@ -1,37 +1,53 @@
 {
   "storylines": [
     {
-      "id": "277f4812-8dbc-49dd-a448-3042886120d5",
-      "title": "Middle East Military Escalation and Regional Crisis",
-      "description": "A developing military conflict involving Iran, with multiple countries conducting airstrikes, US military casualties in Kuwait, embassy closures, and broader regional instability affecting global markets",
-      "clusterCount": 6,
+      "id": "78e3bdf8-a7ad-4398-a80f-78206f99376a",
+      "title": "US-Iran Military Escalation and Regional Crisis",
+      "description": "A developing military conflict between the US and Iran that has resulted in American casualties, prompted urgent evacuation advisories, and is driving oil price volatility while involving diplomatic efforts",
+      "clusterCount": 7,
       "status": "developing",
-      "updatedAt": "2026-03-03T13:45:06.470Z"
+      "updatedAt": "2026-03-03T20:06:59.054Z"
     },
     {
-      "id": "790b34d9-794b-436b-9677-e05c07a3ef7c",
-      "title": "Apple Product Launch Cycle",
-      "description": "Apple's coordinated release of new hardware products featuring updated chips and pricing strategies",
+      "id": "cc9e8f0f-3541-493c-9db0-943779523e6d",
+      "title": "AI in Military Applications Controversy",
+      "description": "A dispute between major AI companies and the Pentagon over the use of artificial intelligence systems in military and defense applications",
       "clusterCount": 2,
       "status": "ongoing",
-      "updatedAt": "2026-03-03T13:45:06.470Z"
+      "updatedAt": "2026-03-03T20:06:59.054Z"
     },
     {
-      "id": "570432f2-3b65-41e5-a26c-c29df1e04200",
-      "title": "AI Industry Regulatory Scrutiny and Military Partnerships",
-      "description": "Government oversight and policy changes affecting major AI companies' operations and military collaborations",
-      "clusterCount": 2,
-      "status": "developing",
-      "updatedAt": "2026-03-03T13:45:06.470Z"
-    },
-    {
-      "id": "67a31789-d135-4284-9d38-56181eae577c",
-      "title": "2026 Midterm Election Preparations",
-      "description": "Early electoral activities and political positioning ahead of the 2026 midterm elections",
+      "id": "a4af0e99-9598-4e44-ad1e-961db2ae40d5",
+      "title": "Jeffrey Epstein Investigation Continues",
+      "description": "Ongoing congressional investigation into Jeffrey Epstein connections, involving high-profile testimonies and resignations",
       "clusterCount": 2,
       "status": "ongoing",
-      "updatedAt": "2026-03-03T13:45:06.470Z"
+      "updatedAt": "2026-03-03T20:06:59.054Z"
+    },
+    {
+      "id": "e1fd571c-07d6-4f2b-b836-835554ba66e7",
+      "title": "Trump Administration Immigration and Border Enforcement",
+      "description": "Various enforcement actions and policy implementations by the Trump administration targeting immigration and border security",
+      "clusterCount": 3,
+      "status": "ongoing",
+      "updatedAt": "2026-03-03T20:06:59.054Z"
+    },
+    {
+      "id": "c77ff099-11bc-4d89-85e0-fb389b6dbe8a",
+      "title": "Trump Administration Healthcare Policy Changes",
+      "description": "Healthcare policy initiatives and enforcement actions by the Trump administration affecting various programs and pricing models",
+      "clusterCount": 3,
+      "status": "ongoing",
+      "updatedAt": "2026-03-03T20:06:59.054Z"
+    },
+    {
+      "id": "3587196c-6479-4204-9741-968a7dcc25a5",
+      "title": "2026 Midterm Election Cycle Begins",
+      "description": "The start of the 2026 midterm election cycle with early primary elections and political developments",
+      "clusterCount": 3,
+      "status": "developing",
+      "updatedAt": "2026-03-03T20:06:59.054Z"
     }
   ],
-  "generatedAt": "2026-03-03T13:45:26.972Z"
+  "generatedAt": "2026-03-03T20:07:25.873Z"
 }

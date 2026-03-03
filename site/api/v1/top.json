@@ -1,370 +1,376 @@
 {
   "top": [
     {
-      "id": "ecdb2090-3d43-495a-87c0-18454bde8ead",
-      "title": "Oil prices surge amid concerns over supply disruptions in the Middle East.",
+      "id": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+      "title": "Four people killed in shootout between US-registered speedboat and Cuban border guards.",
       "summary": "",
-      "articleCount": 8,
-      "sourceCount": 7,
+      "articleCount": 13,
+      "sourceCount": 9,
       "topSources": [
-        "Foreign Policy",
-        "CNBC",
-        "UPI",
-        "Al Jazeera",
-        "NBC News"
+        "NYT World",
+        "The Guardian World",
+        "Breitbart",
+        "Daily Wire",
+        "UPI"
       ],
-      "categories": [
-        "analysis",
-        "finance",
-        "wire"
-      ],
-      "importance": 94,
-      "updatedAt": "2026-03-03T13:26:28.356Z",
-      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/strait-of-hormuz-iran-uae-oil-us-israeli-strikes-GettyImages-2262954095.jpg"
+      "categories": [],
+      "importance": 100,
+      "updatedAt": "2026-02-26T17:46:25.228Z"
     },
     {
-      "id": "487d83d5-c422-46c0-aed1-e796858827e0",
-      "title": "US Closes Embassies in Saudi Arabia and Kuwait Amid Reports of Drone Strikes",
+      "id": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+      "title": "US and Iran Hold Talks Amid Tensions Over Nuclear Deal.",
+      "summary": "",
+      "articleCount": 13,
+      "sourceCount": 6,
+      "topSources": [
+        "The Guardian US",
+        "Axios",
+        "Vox",
+        "Foreign Policy",
+        "France 24"
+      ],
+      "categories": [
+        "international",
+        "digital",
+        "analysis"
+      ],
+      "importance": 99,
+      "updatedAt": "2026-03-03T19:46:57.552Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/GettyImages-2220140693.jpg"
+    },
+    {
+      "id": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
+      "title": "Oil prices rise amid escalating tensions and conflict in the Middle East.",
+      "summary": "",
+      "articleCount": 7,
+      "sourceCount": 6,
+      "topSources": [
+        "Yahoo Finance",
+        "NYT Politics",
+        "DW",
+        "France 24",
+        "YouTube: ABC News"
+      ],
+      "categories": [
+        "international",
+        "finance",
+        "broadsheet"
+      ],
+      "importance": 81,
+      "updatedAt": "2026-03-03T19:47:12.336Z",
+      "imageUrl": "https://s.france24.com/media/display/8771dd38-1719-11f1-8e0d-005056bf30b7/w:1024/p:16x9/AP26062570244683.jpg"
+    },
+    {
+      "id": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
+      "title": "OpenAI Revises Pentagon Contract Amid Backlash and Criticism from Rival AI Firm Anthropic.",
       "summary": "",
       "articleCount": 6,
       "sourceCount": 6,
       "topSources": [
-        "WaPo World",
-        "ABC News",
-        "NYT World",
         "UPI",
-        "Fox Politics"
+        "MIT Tech Review",
+        "The Guardian US",
+        "BBC World",
+        "TechCrunch"
       ],
       "categories": [
-        "broadsheet",
-        "cable",
+        "tech",
+        "international",
         "wire"
       ],
       "importance": 78,
-      "updatedAt": "2026-03-03T13:26:28.358Z"
+      "updatedAt": "2026-03-03T19:47:12.349Z"
     },
     {
-      "id": "db3ece34-9cd7-4dbb-b96c-ad58fb974218",
-      "title": "Texas voters cast ballots in competitive Senate primaries, key test for 2026 midterm elections.",
+      "id": "2c327508-a138-4e59-9937-6a549ca252b5",
+      "title": "Trump's Surgeon General Nominee, Casey Means, Faces Senate Scrutiny Over Vaccination Stance",
+      "summary": "",
+      "articleCount": 7,
+      "sourceCount": 5,
+      "topSources": [
+        "Ars Technica",
+        "The Atlantic",
+        "The Hill",
+        "Axios",
+        "NYT"
+      ],
+      "categories": [],
+      "importance": 71,
+      "updatedAt": "2026-02-26T17:46:25.227Z"
+    },
+    {
+      "id": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
+      "title": "US Issues Urgent Advisory for Americans to Leave the Middle East Immediately",
       "summary": "",
       "articleCount": 6,
       "sourceCount": 5,
       "topSources": [
-        "The Hill",
-        "CNBC",
+        "Business Insider",
         "The Guardian US",
-        "NYT Politics",
-        "Fox Politics"
+        "BBC World",
+        "YouTube: ABC News",
+        "YouTube: CNBC"
       ],
       "categories": [
-        "digital",
         "finance",
-        "international"
+        "international",
+        "youtube"
       ],
       "importance": 68,
-      "updatedAt": "2026-03-03T13:26:28.359Z",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/02/Top-Texas-primaries_021726_AP_Eric-Gay-LM-Otero-Julio-Cortez_2.png?w=900"
+      "updatedAt": "2026-03-03T19:47:12.348Z",
+      "imageUrl": "https://img.youtube.com/vi/fMhrVOeR2PY/hqdefault.jpg"
     },
     {
-      "id": "291bb9b6-bffe-45a3-9a7f-c9efa74c8cb4",
-      "title": "Six US Service Members Killed in Operation in Kuwait, According to CENTCOM Statement",
+      "id": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+      "title": "US President Trump disputes claims Israel forced US hand in Iran military strikes.",
+      "summary": "",
+      "articleCount": 6,
+      "sourceCount": 5,
+      "topSources": [
+        "ABC News",
+        "The Hill",
+        "The Guardian US",
+        "YouTube: NBC News",
+        "YouTube: ABC News"
+      ],
+      "categories": [
+        "news",
+        "youtube",
+        "cable"
+      ],
+      "importance": 68,
+      "updatedAt": "2026-03-03T19:47:12.350Z",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/03/Trump_Merz_03032026.jpg?w=900"
+    },
+    {
+      "id": "140ca8bf-8591-4956-85ce-7bfa08fbd287",
+      "title": "US Justice Department Reverses Course on Lawsuits Against Law Firms.",
       "summary": "",
       "articleCount": 5,
       "sourceCount": 5,
       "topSources": [
-        "Breitbart",
-        "The Guardian US",
-        "Foreign Policy",
         "Axios",
-        "BBC World"
+        "The Hill",
+        "The Guardian US",
+        "NYT",
+        "WaPo Politics"
       ],
       "categories": [
         "digital",
-        "international",
-        "analysis"
+        "broadsheet",
+        "international"
       ],
       "importance": 65,
-      "updatedAt": "2026-03-03T13:26:28.358Z",
-      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/03/Operation-Epic-Fury.jpeg"
+      "updatedAt": "2026-03-03T19:47:12.350Z",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/03/trump_donald_03062025_GettyImages-2203670514.jpg?w=900"
     },
     {
-      "id": "b3085c1c-7054-4059-95b3-4dda1aa76651",
-      "title": "Apple Releases iPhone 17e with MagSafe, A19 Chip, and 256GB Storage for $599",
+      "id": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+      "title": "First 2026 Midterm Primaries Held in Arkansas, North Carolina, and Texas",
       "summary": "",
       "articleCount": 5,
       "sourceCount": 5,
       "topSources": [
-        "Wired",
-        "TechCrunch",
-        "Ars Technica",
         "CNBC",
-        "The Verge"
+        "UPI",
+        "The Guardian US",
+        "NYT Politics",
+        "YouTube: CNBC"
+      ],
+      "categories": [
+        "finance",
+        "wire",
+        "international"
+      ],
+      "importance": 65,
+      "updatedAt": "2026-03-03T19:47:12.351Z",
+      "imageUrl": "https://img.youtube.com/vi/ZJ87RfvhEnw/hqdefault.jpg"
+    },
+    {
+      "id": "ff1f1333-3a58-4786-96d0-473686b82d21",
+      "title": "Apple Unveils M5 Pro and M5 Max Chips, Updates MacBook Pro and Monitor Lineup",
+      "summary": "",
+      "articleCount": 7,
+      "sourceCount": 4,
+      "topSources": [
+        "Engadget",
+        "Ars Technica",
+        "TechCrunch",
+        "CNBC"
       ],
       "categories": [
         "tech",
         "finance"
       ],
-      "importance": 65,
-      "updatedAt": "2026-03-03T13:26:11.113Z"
+      "importance": 61,
+      "updatedAt": "2026-03-03T19:47:12.345Z"
     },
     {
-      "id": "271aad83-c895-4a5d-acd0-0b4cd89cb07b",
-      "title": "Hillary Clinton exits Epstein deposition after photo leak sparks controversy.",
+      "id": "49654a5d-cd09-434c-807b-ceabe4aaae74",
+      "title": "Hillary Clinton testifies before House committee in ongoing Jeffrey Epstein investigation.",
       "summary": "",
-      "articleCount": 4,
-      "sourceCount": 4,
+      "articleCount": 13,
+      "sourceCount": 2,
       "topSources": [
-        "Fox Politics",
-        "BBC News",
-        "Al Jazeera",
+        "DW",
         "Daily Wire"
       ],
       "categories": [
         "international",
-        "cable",
         "digital"
       ],
-      "importance": 52,
-      "updatedAt": "2026-03-03T13:26:11.175Z",
-      "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2263225076.jpg"
+      "importance": 59,
+      "updatedAt": "2026-03-03T19:46:57.549Z",
+      "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Untitled-design-2026-03-03T094219.997.jpg"
     },
     {
-      "id": "2a37f97e-13fa-40c2-86ec-49507875db3b",
-      "title": "Multiple Countries Conduct Airstrikes on Iran's Capital, Resulting in Reports of Civilian Casualties",
+      "id": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+      "title": "President Trump Meets with German Chancellor Merz to Discuss Iran and Global Issues.",
       "summary": "",
-      "articleCount": 4,
+      "articleCount": 6,
       "sourceCount": 4,
       "topSources": [
-        "Al Jazeera",
-        "The Guardian US",
-        "Vox",
-        "BBC News"
-      ],
-      "categories": [
-        "international",
-        "digital"
-      ],
-      "importance": 52,
-      "updatedAt": "2026-03-03T13:26:28.357Z"
-    },
-    {
-      "id": "32211574-91e8-456b-bc3b-75f016f54be8",
-      "title": "Trump to Attend White House Correspondents' Dinner After Five-Year Boycott.",
-      "summary": "",
-      "articleCount": 4,
-      "sourceCount": 4,
-      "topSources": [
-        "Daily Wire",
-        "UPI",
-        "Axios",
-        "NYT Politics"
-      ],
-      "categories": [
-        "digital",
-        "wire",
-        "broadsheet"
-      ],
-      "importance": 52,
-      "updatedAt": "2026-03-03T13:26:28.360Z",
-      "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-113589386-scaled.jpg"
-    },
-    {
-      "id": "7a10ed8a-e104-4926-b8d0-2073c5910027",
-      "title": "OpenAI Amends AI Deal with US Military Amid Criticism and Backlash",
-      "summary": "",
-      "articleCount": 4,
-      "sourceCount": 4,
-      "topSources": [
-        "BBC News",
-        "TechCrunch",
-        "CNBC",
-        "NYT"
-      ],
-      "categories": [
-        "international",
-        "tech",
-        "finance"
-      ],
-      "importance": 52,
-      "updatedAt": "2026-03-03T13:26:11.150Z"
-    },
-    {
-      "id": "7a9a1df8-8a41-44e0-bebb-f7a420f20428",
-      "title": "US Government Considers Ban on Anthropic Amid Supply-Chain Concerns and Corporate Backlash",
-      "summary": "",
-      "articleCount": 4,
-      "sourceCount": 4,
-      "topSources": [
+        "YouTube: NBC News",
+        "YouTube: ABC News",
         "The Hill",
-        "TechCrunch",
-        "Axios",
-        "Ars Technica"
+        "DW"
       ],
       "categories": [
-        "digital",
-        "tech"
+        "news",
+        "youtube",
+        "digital"
       ],
-      "importance": 52,
-      "updatedAt": "2026-03-03T13:26:11.127Z",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/02/AP26057633599982-e1772294954477.jpg?w=900"
-    },
-    {
-      "id": "646ded69-924d-4ab1-8142-bef87b39dd46",
-      "title": "Global Oil Prices Rise Amid Escalating Tensions with Iran",
-      "summary": "",
-      "articleCount": 5,
-      "sourceCount": 3,
-      "topSources": [
-        "Axios",
-        "Vox",
-        "Wired"
-      ],
-      "categories": [
-        "digital",
-        "tech"
-      ],
-      "importance": 45,
-      "updatedAt": "2026-03-03T13:26:28.361Z"
-    },
-    {
-      "id": "570be95c-ec66-4f21-b21f-22907fbf7d8b",
-      "title": "Multiple Countries Involved in Conflict, Resulting in Civilian Casualties and Military Losses.",
-      "summary": "",
-      "articleCount": 11,
-      "sourceCount": 1,
-      "topSources": [
-        "NBC News"
-      ],
-      "categories": [
-        "cable"
-      ],
-      "importance": 43,
-      "updatedAt": "2026-03-03T13:26:28.361Z"
+      "importance": 58,
+      "updatedAt": "2026-03-03T19:47:12.347Z",
+      "imageUrl": "https://img.youtube.com/vi/wmuqupnEbXU/hqdefault.jpg"
     }
   ],
   "trending": [
     {
-      "id": "570be95c-ec66-4f21-b21f-22907fbf7d8b",
-      "title": "Multiple Countries Involved in Conflict, Resulting in Civilian Casualties and Military Losses.",
+      "id": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+      "title": "US and Iran Hold Talks Amid Tensions Over Nuclear Deal.",
       "summary": "",
-      "articleCount": 11,
-      "sourceCount": 1,
-      "topSources": [
-        "NBC News"
-      ],
-      "categories": [
-        "cable"
-      ],
-      "importance": 43,
-      "updatedAt": "2026-03-03T13:26:28.361Z"
-    },
-    {
-      "id": "ecdb2090-3d43-495a-87c0-18454bde8ead",
-      "title": "Oil prices surge amid concerns over supply disruptions in the Middle East.",
-      "summary": "",
-      "articleCount": 8,
-      "sourceCount": 7,
-      "topSources": [
-        "Foreign Policy",
-        "CNBC",
-        "UPI",
-        "Al Jazeera",
-        "NBC News"
-      ],
-      "categories": [
-        "analysis",
-        "finance",
-        "wire"
-      ],
-      "importance": 94,
-      "updatedAt": "2026-03-03T13:26:28.356Z",
-      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/strait-of-hormuz-iran-uae-oil-us-israeli-strikes-GettyImages-2262954095.jpg"
-    },
-    {
-      "id": "487d83d5-c422-46c0-aed1-e796858827e0",
-      "title": "US Closes Embassies in Saudi Arabia and Kuwait Amid Reports of Drone Strikes",
-      "summary": "",
-      "articleCount": 6,
+      "articleCount": 13,
       "sourceCount": 6,
       "topSources": [
-        "WaPo World",
-        "ABC News",
-        "NYT World",
-        "UPI",
-        "Fox Politics"
-      ],
-      "categories": [
-        "broadsheet",
-        "cable",
-        "wire"
-      ],
-      "importance": 78,
-      "updatedAt": "2026-03-03T13:26:28.358Z"
-    },
-    {
-      "id": "db3ece34-9cd7-4dbb-b96c-ad58fb974218",
-      "title": "Texas voters cast ballots in competitive Senate primaries, key test for 2026 midterm elections.",
-      "summary": "",
-      "articleCount": 6,
-      "sourceCount": 5,
-      "topSources": [
-        "The Hill",
-        "CNBC",
         "The Guardian US",
-        "NYT Politics",
-        "Fox Politics"
-      ],
-      "categories": [
-        "digital",
-        "finance",
-        "international"
-      ],
-      "importance": 68,
-      "updatedAt": "2026-03-03T13:26:28.359Z",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/02/Top-Texas-primaries_021726_AP_Eric-Gay-LM-Otero-Julio-Cortez_2.png?w=900"
-    },
-    {
-      "id": "291bb9b6-bffe-45a3-9a7f-c9efa74c8cb4",
-      "title": "Six US Service Members Killed in Operation in Kuwait, According to CENTCOM Statement",
-      "summary": "",
-      "articleCount": 5,
-      "sourceCount": 5,
-      "topSources": [
-        "Breitbart",
-        "The Guardian US",
-        "Foreign Policy",
         "Axios",
-        "BBC World"
+        "Vox",
+        "Foreign Policy",
+        "France 24"
       ],
       "categories": [
-        "digital",
         "international",
+        "digital",
         "analysis"
       ],
-      "importance": 65,
-      "updatedAt": "2026-03-03T13:26:28.358Z",
-      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/03/Operation-Epic-Fury.jpeg"
+      "importance": 99,
+      "updatedAt": "2026-03-03T19:46:57.552Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/GettyImages-2220140693.jpg"
     },
     {
-      "id": "b3085c1c-7054-4059-95b3-4dda1aa76651",
-      "title": "Apple Releases iPhone 17e with MagSafe, A19 Chip, and 256GB Storage for $599",
+      "id": "49654a5d-cd09-434c-807b-ceabe4aaae74",
+      "title": "Hillary Clinton testifies before House committee in ongoing Jeffrey Epstein investigation.",
       "summary": "",
-      "articleCount": 5,
-      "sourceCount": 5,
+      "articleCount": 13,
+      "sourceCount": 2,
       "topSources": [
-        "Wired",
-        "TechCrunch",
+        "DW",
+        "Daily Wire"
+      ],
+      "categories": [
+        "international",
+        "digital"
+      ],
+      "importance": 59,
+      "updatedAt": "2026-03-03T19:46:57.549Z",
+      "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Untitled-design-2026-03-03T094219.997.jpg"
+    },
+    {
+      "id": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
+      "title": "Oil prices rise amid escalating tensions and conflict in the Middle East.",
+      "summary": "",
+      "articleCount": 7,
+      "sourceCount": 6,
+      "topSources": [
+        "Yahoo Finance",
+        "NYT Politics",
+        "DW",
+        "France 24",
+        "YouTube: ABC News"
+      ],
+      "categories": [
+        "international",
+        "finance",
+        "broadsheet"
+      ],
+      "importance": 81,
+      "updatedAt": "2026-03-03T19:47:12.336Z",
+      "imageUrl": "https://s.france24.com/media/display/8771dd38-1719-11f1-8e0d-005056bf30b7/w:1024/p:16x9/AP26062570244683.jpg"
+    },
+    {
+      "id": "ff1f1333-3a58-4786-96d0-473686b82d21",
+      "title": "Apple Unveils M5 Pro and M5 Max Chips, Updates MacBook Pro and Monitor Lineup",
+      "summary": "",
+      "articleCount": 7,
+      "sourceCount": 4,
+      "topSources": [
+        "Engadget",
         "Ars Technica",
-        "CNBC",
-        "The Verge"
+        "TechCrunch",
+        "CNBC"
       ],
       "categories": [
         "tech",
         "finance"
       ],
-      "importance": 65,
-      "updatedAt": "2026-03-03T13:26:11.113Z"
+      "importance": 61,
+      "updatedAt": "2026-03-03T19:47:12.345Z"
+    },
+    {
+      "id": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
+      "title": "OpenAI Revises Pentagon Contract Amid Backlash and Criticism from Rival AI Firm Anthropic.",
+      "summary": "",
+      "articleCount": 6,
+      "sourceCount": 6,
+      "topSources": [
+        "UPI",
+        "MIT Tech Review",
+        "The Guardian US",
+        "BBC World",
+        "TechCrunch"
+      ],
+      "categories": [
+        "tech",
+        "international",
+        "wire"
+      ],
+      "importance": 78,
+      "updatedAt": "2026-03-03T19:47:12.349Z"
+    },
+    {
+      "id": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
+      "title": "US Issues Urgent Advisory for Americans to Leave the Middle East Immediately",
+      "summary": "",
+      "articleCount": 6,
+      "sourceCount": 5,
+      "topSources": [
+        "Business Insider",
+        "The Guardian US",
+        "BBC World",
+        "YouTube: ABC News",
+        "YouTube: CNBC"
+      ],
+      "categories": [
+        "finance",
+        "international",
+        "youtube"
+      ],
+      "importance": 68,
+      "updatedAt": "2026-03-03T19:47:12.348Z",
+      "imageUrl": "https://img.youtube.com/vi/fMhrVOeR2PY/hqdefault.jpg"
     }
   ],
-  "generatedAt": "2026-03-03T13:45:26.972Z"
+  "generatedAt": "2026-03-03T20:07:25.873Z"
 }

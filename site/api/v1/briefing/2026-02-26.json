@@ -1,51 +1,51 @@
 {
-  "id": "0e018a62-1490-43c9-8b9b-d59978109f2e",
+  "id": "5a7231aa-6357-411c-a12a-7f77a85ae1db",
   "date": "2026-02-26",
-  "headline": "Trump Administration Actions Dominate as Immigration Enforcement Intensifies and International Tensions Rise",
+  "headline": "Clinton Testifies in Epstein Probe as US-Cuba Maritime Incident Leaves Four Dead",
   "topStories": [
     {
-      "clusterId": "5317b68f-bb6f-4185-b045-a7de4a87825e",
-      "title": "Trump Meets with Housing Advocate Mamdani in Washington",
-      "summary": "President Trump held a meeting with housing advocate Mamdani in Washington, drawing coverage across major outlets. The meeting's specific agenda and outcomes have been reported by multiple sources including The New York Times, The Hill, and The Guardian.",
-      "importance": 78
+      "clusterId": "49654a5d-cd09-434c-807b-ceabe4aaae74",
+      "title": "Hillary Clinton testifies before House committee in ongoing Jeffrey Epstein investigation",
+      "summary": "Former Secretary of State Hillary Clinton appeared before a House committee as part of the ongoing congressional investigation into Jeffrey Epstein's activities. The testimony represents a significant development in the probe examining connections between political figures and the late financier.",
+      "importance": 100
     },
     {
-      "clusterId": "fbb59ecd-7927-4639-9ec9-702918182e5c",
-      "title": "Columbia University Student Detained by ICE, Later Released",
-      "summary": "A Columbia University student was detained by Immigration and Customs Enforcement before being subsequently released, sparking protests and political statements. The incident has generated significant coverage across news outlets and highlights ongoing immigration enforcement activities.",
-      "importance": 78
+      "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+      "title": "Four people killed in shootout between US-registered speedboat and Cuban border guards",
+      "summary": "A deadly maritime confrontation occurred between Cuban border patrol forces and occupants of a US-registered speedboat, resulting in four fatalities. The incident highlights ongoing tensions in US-Cuba relations and raises questions about maritime security in the region.",
+      "importance": 100
     },
     {
-      "clusterId": "a05fd8fd-e7ef-44cf-9788-006e93168884",
-      "title": "Cuba Shoots, Kills 4 on US-Registered Speedboat Near Florida",
-      "summary": "Cuban forces shot and killed four people aboard a US-registered speedboat in an incident near Florida waters. The deadly encounter has been reported by major international outlets including The Guardian, BBC, and NBC News.",
-      "importance": 68
+      "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+      "title": "US and Iran Hold Talks Amid Tensions Over Nuclear Deal",
+      "summary": "American and Iranian officials engaged in diplomatic discussions as both nations navigate ongoing disputes over nuclear agreements. The talks come amid heightened regional tensions and represent efforts to address nuclear proliferation concerns through diplomatic channels.",
+      "importance": 81
     },
     {
-      "clusterId": "145783e3-c663-4f23-9ee2-f0c3b52357e0",
-      "title": "US and Iran Hold Nuclear Talks with Reported Progress",
-      "summary": "The United States and Iran conducted nuclear negotiations with a mediator reporting significant progress, according to coverage from BBC News, Al Jazeera, and other outlets. The talks represent a notable diplomatic development amid ongoing regional tensions.",
-      "importance": 65
+      "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+      "title": "Trump's Surgeon General Nominee, Casey Means, Faces Senate Scrutiny Over Vaccination Stance",
+      "summary": "Casey Means, nominated by President Trump for Surgeon General, underwent Senate questioning regarding her positions on vaccination policies. The confirmation process has drawn attention to public health policy directions under the new administration.",
+      "importance": 71
     },
     {
-      "clusterId": "c06aaebe-4061-4764-bc3a-dd36a114acde",
-      "title": "Trump Administration Freezes $259M in Minnesota Medicaid Funds",
-      "summary": "The Trump administration has frozen $259 million in Minnesota Medicaid funding over alleged fraud concerns, according to reports from Axios, Fox Politics, and The Washington Post. The action affects state healthcare funding and has drawn political attention.",
-      "importance": 65
+      "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+      "title": "Samsung Unveils Galaxy S26 Smartphones with Enhanced Features and Pricing",
+      "summary": "Samsung announced its latest Galaxy S26 smartphone lineup, featuring updated technology and new pricing structures. The release represents the company's continued competition in the premium smartphone market.",
+      "importance": 55
     }
   ],
   "emergingThemes": [
-    "Immigration enforcement escalation under Trump administration",
-    "International diplomatic tensions involving US interests",
-    "Federal-state conflicts over funding and policy implementation",
-    "Ongoing investigations into high-profile figures and organizations"
+    "High-profile congressional investigations intensifying with testimony from major political figures",
+    "US-Cuba relations under strain following deadly maritime incident",
+    "Trump administration cabinet confirmations facing scrutiny over policy positions",
+    "Technology sector developments in AI integration and consumer electronics"
   ],
   "notableShifts": [
-    "Increased visibility of ICE enforcement actions on college campuses",
-    "Renewed US-Iran diplomatic engagement despite broader regional tensions",
-    "Federal government using funding mechanisms to pressure state compliance",
-    "Growing intersection of Epstein-related investigations with current political figures"
+    "Epstein investigation expanding to include testimony from former high-ranking officials, indicating broader scope of congressional probe",
+    "US-Cuba diplomatic tensions escalating from policy disagreements to deadly confrontations",
+    "Senate confirmation processes becoming more contentious over nominees' stances on established policies",
+    "AI deployment debates shifting from theoretical concerns to practical implementation disputes between government and private sector"
   ],
-  "generatedAt": "2026-02-26T22:08:44.080Z",
+  "generatedAt": "2026-02-26T18:44:57.209Z",
   "model": "anthropic/claude-sonnet-4"
 }
