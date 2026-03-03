@@ -2,66 +2,75 @@
   "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
   "frames": [
     {
-      "name": "Electoral Horse Race",
-      "description": "Focuses on polling numbers, campaign spending, and electoral mechanics like runoff possibilities",
+      "name": "Electoral Strategy and Control",
+      "description": "Focuses on how these primaries will impact party control of Congress and electoral strategy for November",
       "sources": [
         "CNBC",
         "UPI"
       ],
-      "emphasis": "Who's winning, spending amounts ($122m), polling data, and procedural requirements like 50% threshold for avoiding runoffs"
+      "emphasis": "Democratic chances of winning House, Republican retention of Senate, and how primary outcomes affect general election competitiveness"
     },
     {
-      "name": "Ideological Battle Within Parties",
-      "description": "Presents primaries as contests between different political philosophies and approaches",
+      "name": "Trump Era Political Realignment",
+      "description": "Frames the races as a test of MAGA movement strength versus traditional conservatism and progressive resistance strategies",
       "sources": [
         "The Guardian US",
-        "CNBC"
+        "ABC News"
       ],
-      "emphasis": "MAGA vs. establishment Republicans; progressive 'resistance' vs. bridge-building Democrats"
+      "emphasis": "How Trump's influence shapes both parties' internal dynamics and candidate positioning"
     },
     {
-      "name": "National Implications",
-      "description": "Views Texas races as indicators for broader midterm trends and party control",
+      "name": "Scandal and Character Issues",
+      "description": "Emphasizes Ken Paxton's legal troubles and personal scandals as central to the Republican primary narrative",
       "sources": [
         "CNBC",
+        "ABC News"
+      ],
+      "emphasis": "Paxton's impeachment, securities fraud charges, divorce, and corruption allegations as electoral liabilities"
+    },
+    {
+      "name": "Democratic Messaging Strategy Debate",
+      "description": "Presents the Democratic primary as a fundamental choice between different approaches to winning in red states",
+      "sources": [
+        "The Guardian US",
+        "YouTube: CNBC"
+      ],
+      "emphasis": "Talarico's 'politics of love' and rural outreach versus Crockett's 'proven fighter' resistance approach"
+    },
+    {
+      "name": "Historic Spending and Competitiveness",
+      "description": "Highlights record-breaking campaign spending and unusual competitiveness in traditionally safe Republican Texas",
+      "sources": [
+        "ABC News",
         "The Guardian US"
       ],
-      "emphasis": "How results will affect House/Senate control, resource allocation for other battleground states"
+      "emphasis": "$122 million in ad spending making this the most expensive Senate primary on record"
     },
     {
-      "name": "Historical Context",
-      "description": "Emphasizes the rarity of Democratic statewide victories in Texas",
+      "name": "Procedural Election Coverage",
+      "description": "Straightforward reporting on logistics, timing, and basic candidate information",
       "sources": [
-        "The Guardian US",
-        "YouTube: CNBC"
+        "UPI",
+        "NYT Politics"
       ],
-      "emphasis": "Democrats haven't won statewide since 1994, potential for historic change"
-    },
-    {
-      "name": "Candidate Contrast",
-      "description": "Highlights stark differences in candidate styles and backgrounds",
-      "sources": [
-        "CNBC",
-        "The Guardian US",
-        "YouTube: CNBC"
-      ],
-      "emphasis": "Paxton's scandals vs. Cornyn's establishment credentials; Crockett's 'firebrand' style vs. Talarico's 'politics of love'"
+      "emphasis": "Poll closing times, runoff thresholds, and basic candidate backgrounds"
     }
   ],
   "outlierPerspectives": [
-    "Talarico's unique framing of politics as 'top vs. bottom' rather than 'left vs. right' and his use of Christian faith to justify progressive policies",
-    "The specific mention of Trump's role in mid-decade gerrymandering to preserve GOP House majority",
-    "Focus on early voting surge, particularly on Democratic side, as indicator of engagement"
+    "Talarico's 'top versus bottom' rather than 'left versus right' framing as a fundamental reimagining of political divides",
+    "The specific emphasis on Talarico's seminary background and Christian faith as a progressive political strategy",
+    "Hunt's positioning as a political newcomer despite being in Congress since 2022",
+    "The characterization of Democratic hopes as 'unusual' given Texas's 30-year statewide losing streak"
   ],
   "missingContext": [
-    "Specific policy positions of the candidates beyond general ideological descriptions",
-    "Detailed explanation of the scandals surrounding Ken Paxton beyond brief mentions",
-    "Analysis of demographic changes in Texas that might affect electoral viability",
-    "Historical performance data for similar primary matchups",
-    "Explanation of why North Carolina and Arkansas primaries receive minimal coverage despite being mentioned",
-    "Details about the congressional races also occurring, which are only briefly mentioned",
-    "Voter turnout data or expectations beyond the general 'surge' reference"
+    "Specific polling numbers showing actual vote margins and trends",
+    "Details about the mid-decade gerrymandering mentioned by The Guardian",
+    "Explanation of why Texas hasn't elected a Democrat statewide since 1994",
+    "Analysis of early voting patterns and what demographic shifts they might indicate",
+    "Context about North Carolina and Arkansas races beyond basic candidate names",
+    "Details about the House races also occurring in these primaries",
+    "Specific policy positions that differentiate the candidates beyond general ideological labels"
   ],
-  "generatedAt": "2026-03-03T19:57:47.023Z",
+  "generatedAt": "2026-03-03T23:07:28.508Z",
   "model": "anthropic/claude-sonnet-4"
 }

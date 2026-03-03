@@ -2,92 +2,93 @@
   "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
   "stakeholders": [
     {
-      "name": "United States Government",
-      "role": "Primary military actor and evacuation coordinator",
-      "position": "Leading military coalition against Iran while attempting to evacuate civilians",
+      "name": "US State Department/Biden Administration",
+      "role": "Primary evacuation coordinator for US citizens",
+      "position": "Issuing urgent departure advisories while attempting to coordinate evacuations through military and charter flights",
+      "influence": "high"
+    },
+    {
+      "name": "President Trump",
+      "role": "US Commander-in-Chief authorizing military operations",
+      "position": "Defending strike timing as preemptive, indicating conflict may continue 'for weeks'",
+      "influence": "high"
+    },
+    {
+      "name": "Iran/Iranian Government",
+      "role": "Primary target and retaliatory actor",
+      "position": "Conducting missile strikes against multiple countries and closing Strait of Hormuz in response to attacks",
       "influence": "high"
     },
     {
       "name": "Israel",
-      "role": "Military coalition partner",
-      "position": "Joint participant in strikes against Iran",
+      "role": "US military partner in strikes against Iran",
+      "position": "Joint participant in coordinated strikes, likely seeking to neutralize Iranian nuclear capabilities",
       "influence": "high"
     },
     {
-      "name": "Iran",
-      "role": "Primary target and retaliating force",
-      "position": "Under attack, leadership decapitated, conducting multi-country retaliation",
+      "name": "Gulf Aviation Hubs (Emirates, Etihad, flydubai)",
+      "role": "Critical transportation infrastructure",
+      "position": "Operating limited repatriation flights only, severely restricting normal operations",
       "influence": "medium"
     },
     {
-      "name": "US Citizens in Middle East",
-      "role": "Evacuation targets",
-      "position": "Seeking departure assistance from 14+ countries",
-      "influence": "low"
-    },
-    {
-      "name": "Regional Middle Eastern Countries",
-      "role": "Conflict zone hosts and potential targets",
-      "position": "Caught between warring parties, some experiencing direct attacks",
+      "name": "Gulf States (UAE, Qatar, Saudi Arabia)",
+      "role": "Regional hosts to large American populations and aviation hubs",
+      "position": "Caught between maintaining neutrality and managing security threats from Iranian retaliation",
       "influence": "medium"
     },
     {
-      "name": "European Allies (UK, France)",
-      "role": "Evacuation coordinators for own citizens",
-      "position": "Organizing military and commercial evacuation flights",
-      "influence": "medium"
-    },
-    {
-      "name": "Commercial Airlines",
-      "role": "Transportation providers",
-      "position": "Canceling flights due to security concerns",
+      "name": "Stranded American Citizens",
+      "role": "Primary affected population requiring evacuation",
+      "position": "Expressing frustration with limited government assistance and unclear evacuation procedures",
       "influence": "low"
     }
   ],
   "predictions": [
     {
-      "text": "Conflict will continue for 4-5 weeks as projected by military officials",
+      "text": "Regional airspace restrictions will continue for at least another week, severely limiting commercial evacuation options",
       "likelihood": "likely",
-      "timeframe": "4-5 weeks",
-      "basis": "Direct military projection cited by administration officials and Trump's statement about weeks-long duration"
+      "timeframe": "1-2 weeks",
+      "basis": "Dubai Airport closure extending to fourth day indicates sustained security concerns and Iranian missile threat remains active"
     },
     {
-      "text": "Massive humanitarian evacuation operation will be launched using military aircraft",
+      "text": "US will deploy military evacuation flights similar to Afghanistan withdrawal model",
       "likelihood": "likely",
-      "timeframe": "Within days",
-      "basis": "State Department actively securing military aircraft and charter flights, with 500,000-1 million Americans needing evacuation"
+      "timeframe": "3-7 days",
+      "basis": "State Department actively securing military aircraft and charter flights, with precedent of military evacuations during regional conflicts"
     },
     {
-      "text": "Iran will escalate retaliation targeting more US allies and energy infrastructure",
+      "text": "Iran will escalate attacks on US facilities and allies in response to nuclear facility strikes",
       "likelihood": "likely",
-      "timeframe": "Immediate",
-      "basis": "Iran already striking 11 countries and Rubio's warning that 'hardest hits are yet to come'"
+      "timeframe": "immediate to 1 week",
+      "basis": "Iran already struck US embassy in Riyadh and fired missiles at 11 countries; nuclear facility attack represents major escalation requiring response"
     },
     {
-      "text": "Regional countries will demand US military protection or distance themselves from conflict",
+      "text": "Oil prices will continue rising significantly due to Strait of Hormuz closure",
+      "likelihood": "likely",
+      "timeframe": "immediate to several weeks",
+      "basis": "Strait of Hormuz handles approximately 20% of global oil transit; closure creates immediate supply disruption"
+    },
+    {
+      "text": "Other regional powers will be drawn into conflict through Iranian retaliation or US requests for support",
       "likelihood": "possible",
       "timeframe": "1-2 weeks",
-      "basis": "Multiple regional facilities already targeted by Iranian retaliation, creating pressure on host governments"
-    },
-    {
-      "text": "International criticism will mount over conflicting US justifications for initiating conflict",
-      "likelihood": "possible",
-      "timeframe": "Ongoing",
-      "basis": "Administration providing 'mixed messages' with Trump and Rubio offering contradictory explanations for preemptive strikes"
+      "basis": "Iran already targeting multiple countries with missiles; regional allies may face pressure to choose sides"
     }
   ],
-  "historicalContext": "This conflict represents the most significant direct US-Iran military confrontation since the 1979 Iranian Revolution and hostage crisis. Unlike previous proxy conflicts in Iraq, Syria, and through Hezbollah, this involves direct strikes on Iranian territory and the reported killing of Iran's Supreme Leader - a unprecedented escalation. The scale of evacuation advisories covering 14+ countries exceeds even the 2006 Lebanon War evacuations. The preemptive strike doctrine echoes the 2003 Iraq invasion justifications, while the coordination with Israel recalls the 1967 Six-Day War alliance dynamics. The targeting of Iranian nuclear facilities represents the culmination of decades of nuclear program tensions dating to the 2002 revelations and subsequent sanctions regimes.",
+  "historicalContext": "This crisis echoes several historical precedents, most notably the 1979-1981 Iran hostage crisis when 52 Americans were held for 444 days, establishing a pattern of US-Iran confrontation. The current evacuation challenges mirror the chaotic 2021 Afghanistan withdrawal, where the US struggled to evacuate citizens amid rapidly deteriorating security. The strikes on Iranian nuclear facilities represent the most direct military action against Iran since the 1988 Operation Praying Mantis during the Tanker War. The closure of the Strait of Hormuz recalls Iranian threats during the 1980s Tanker War and 2019 tensions, when similar closures caused global oil price spikes. The coordination with Israel reflects the deepening US-Israeli military partnership established through recent normalization agreements and shared concerns about Iranian nuclear capabilities.",
   "implications": [
-    "Regional destabilization across the entire Middle East with potential for wider conflict involving regional powers",
-    "Massive refugee and evacuation crisis potentially affecting over 1 million Western nationals",
-    "Disruption of global energy markets through attacks on Gulf energy infrastructure",
-    "Collapse of remaining Iran nuclear deal framework and non-proliferation efforts",
-    "Strain on US military resources and alliance relationships due to contradictory administration messaging",
-    "Potential Iranian asymmetric retaliation through proxy forces and terrorism globally",
-    "Economic disruption through flight cancellations and supply chain interruptions in the region",
-    "Humanitarian crisis in countries caught between warring parties",
-    "Precedent for preemptive military action that could encourage similar conflicts elsewhere"
+    "Potential for wider regional war involving multiple Middle Eastern nations and global powers",
+    "Severe disruption to global oil markets and supply chains due to Strait of Hormuz closure",
+    "Massive logistical challenge for US government to evacuate up to one million American citizens",
+    "Strain on US military resources already deployed globally, potentially requiring redeployment from other theaters",
+    "Economic impact on Gulf aviation industry and regional business confidence",
+    "Diplomatic crisis requiring coordination with multiple allies for evacuation assistance",
+    "Potential domestic political consequences for administration handling of citizen protection",
+    "Risk of Iranian proxy forces activating against US interests globally",
+    "Possible acceleration of Iranian nuclear program development in response to facility strikes",
+    "Long-term damage to US civilian presence and business operations in Middle East region"
   ],
-  "generatedAt": "2026-03-03T19:54:38.948Z",
+  "generatedAt": "2026-03-03T23:04:17.515Z",
   "model": "anthropic/claude-sonnet-4"
 }

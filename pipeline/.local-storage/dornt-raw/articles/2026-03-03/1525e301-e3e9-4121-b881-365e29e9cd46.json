@@ -1,0 +1,17 @@
+{
+  "id": "1525e301-e3e9-4121-b881-365e29e9cd46",
+  "url": "https://arstechnica.com/tech-policy/2026/03/fcc-lets-charter-buy-cox-says-no-reason-to-worry-about-higher-internet-prices/",
+  "normalizedUrl": "https://arstechnica.com/tech-policy/2026/03/fcc-lets-charter-buy-cox-says-no-reason-to-worry-about-higher-internet-prices",
+  "title": "Charter gets FCC permission to buy Cox and become largest ISP in the US",
+  "source": "Ars Technica",
+  "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
+  "publishedAt": "Mon, 02 Mar 2026 18:19:03 +0000",
+  "fetchedAt": "2026-03-03T22:53:42.272Z",
+  "author": "\n                    Jon Brodkin\n                ",
+  "contentHash": "6c9101ab795687c0",
+  "fullText": "The petition cited research suggesting that in the US airline industry, some “mergers increased fares not only on overlap routes but also on non-overlap routes.”\nCharter/Cox competition not entirely nonexistent\nThe petition also quoted comments from the California Public Utilities Commission’s Public Advocates Office, which said that Charter and Cox do compete against each other directly in parts of their territories. The California Public Advocates Office submitted a protest in the state regulatory proceeding in September 2025, writing:\nThe Joint Applicants claim that Charter and Cox have no, or very few, overlapping locations, so the Proposed Transaction will not harm competition. However, FCC broadband data show that Charter and Cox California have 25,503 overlapping locations. At 16,485 of these locations (65%), Charter and Cox California are the only two providers offering speeds of at least 1,000 Mbps download.\nIf the Proposed Transaction is approved, customers in those areas will have access to only a single provider for high-speed service and will have no meaningful choice between providers. Finally, Charter is already the sole provider of gigabit service in 48% of its service area, while Cox is the sole provider in 65% of its service area. Consolidating these footprints would significantly expand Charter’s monopoly power in the high-speed fixed broadband market.\nPublic Knowledge Legal Director John Bergmayer said that the Carr FCC “did not require Charter to do anything it wasn’t already planning to do.” He said this is in stark contrast to the FCC’s 2016 approval of Charter’s merger with Time Warner Cable, which allowed Charter to become the second biggest cable company in the US.\n“In 2016, the commission approved Charter’s acquisition of Time Warner Cable only after imposing conditions on data caps, usage-based pricing, and paid interconnection,” Bergmayer said on Friday. “Today’s order finds those concerns no longer apply, largely because the agency credits fixed wireless and satellite as competitive constraints on cable. Further, the Commission imposed no affordability conditions, despite doing so in the 2016 Charter, Comcast-NBCU, and Verizon-TracFone transactions. The record does not support this outcome.”\nDisclosure: The Advance/Newhouse Partnership, which owns 12 percent of Charter, is part of Advance Publications, which owns Ars Technica parent Condé Nast.",
+  "summary": "FCC rejects protests because Charter and Cox don't compete directly in most places.",
+  "categories": [
+    "tech"
+  ]
+}

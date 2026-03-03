@@ -1,0 +1,43 @@
+{
+  "id": "1rjoszf",
+  "subreddit": "science",
+  "title": "AI cancer tools risk “shortcut learning” rather than detecting true biology",
+  "url": "https://www.nature.com/articles/s41551-026-01616-8",
+  "selftext": "",
+  "author": "uniofwarwick",
+  "score": 270,
+  "numComments": 31,
+  "createdUtc": 1772543087,
+  "permalink": "https://reddit.com/r/science/comments/1rjoszf/ai_cancer_tools_risk_shortcut_learning_rather/",
+  "fetchedAt": "2026-03-03T22:52:56.220Z",
+  "topComments": [
+    {
+      "id": "o8ejud2",
+      "author": "AutoModerator",
+      "body": "Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.\n\n---\n\n**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/).\n\n---\n\nUser: u/uniofwarwick  \nPermalink: https://www.nature.com/articles/s41551-026-01616-8\n\n---\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",
+      "score": 1,
+      "createdUtc": 1772543088
+    },
+    {
+      "id": "o8etz66",
+      "author": "VivekViswanathan",
+      "body": "\"Deep learning models that infer clinically relevant biomarker status from tissue images are being explored as rapid and low-cost alternatives to molecular testing. Here we show, through statistical analysis across multiple cancer types, datasets and modelling approaches, that the datasets used to train these models contain strong dependencies between biomarkers and clinicopathological features, which prevent models from isolating the effect of a single biomarker and lead them to learn confounded signals. Consequently, their prediction accuracy varies substantially with the status of codependent biomarkers and clinicopathological variables, and for several biomarkers, the gain over what a pathologist can already infer from routine histopathological features, such as grade, remains modest. These findings indicate that current approaches are not yet suitable as substitutes for molecular testing but can support triage or complementary decision-making with caution. Unconfounded biomarker prediction will require models that learn causal rather than correlational relationships between biomarkers and tissue morphology.\"\n\n\nWouldn't more data from a greater variety of patients also solve this problem? Why is causality necessary here?",
+      "score": 19,
+      "createdUtc": 1772546651
+    },
+    {
+      "id": "o8fo7db",
+      "author": "HugoCortell",
+      "body": "I understand the risk, and agree that we must always seek a true understanding of things rather than relying on black boxes like machine learning. However, we should also continue using the best tools available at all times, because there are lives on the line and we can't afford philosophical stances to distract us from that fact.\n\nWe should continue to use AI tools if they're the most likely to save a patient's life, while also at the same time working hard to not have to use these tools in the future, replacing them with better ones that we actually understand.",
+      "score": 13,
+      "createdUtc": 1772555722
+    },
+    {
+      "id": "o8gocss",
+      "author": "rlbond86",
+      "body": "Wasn't there a study showing that AI was looking at things like the hospital logo to determine if it was cancer? And that an AI algorithm that discriminated between wolves and dogs was just looking for snow?",
+      "score": 8,
+      "createdUtc": 1772565884
+    }
+  ]
+}

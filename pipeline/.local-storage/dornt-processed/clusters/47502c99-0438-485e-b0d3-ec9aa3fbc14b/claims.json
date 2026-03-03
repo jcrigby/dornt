@@ -10,7 +10,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:50:51.897Z",
-    "lastUpdatedAt": "2026-03-03T19:50:51.897Z"
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
   },
   {
     "id": "45f1d77f-8d2f-41ad-a4d6-96975bf7fdd2",
@@ -25,12 +25,12 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:50:51.897Z",
-    "lastUpdatedAt": "2026-03-03T19:50:51.897Z"
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
   },
   {
     "id": "baf96c16-dd77-4c03-844b-55e2bcdda694",
     "clusterId": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
-    "text": "Brent crude oil prices rose approximately 7% on Tuesday to breach $80 per barrel",
+    "text": "Brent crude oil prices rose approximately 7% on Tuesday",
     "status": "disputed",
     "supportingSources": [
       "DW"
@@ -39,12 +39,12 @@
       "France 24"
     ],
     "firstSeenAt": "2026-03-03T19:50:51.897Z",
-    "lastUpdatedAt": "2026-03-03T19:50:51.897Z"
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
   },
   {
-    "id": "39d257fb-08ab-4ee1-853b-1f95777d863d",
+    "id": "0dd6c980-c0e2-4f12-8c01-2ab73a5f6dae",
     "clusterId": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
-    "text": "Brent crude oil topped $85 per barrel",
+    "text": "Brent crude oil topped $85 a barrel",
     "status": "disputed",
     "supportingSources": [
       "France 24"
@@ -52,21 +52,35 @@
     "disputingSources": [
       "DW"
     ],
-    "firstSeenAt": "2026-03-03T19:50:51.897Z",
-    "lastUpdatedAt": "2026-03-03T19:50:51.897Z"
+    "firstSeenAt": "2026-03-03T22:59:54.285Z",
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
   },
   {
-    "id": "3fdce5e3-ac2f-45d2-af70-d0df8d5fee24",
+    "id": "21d4fc27-4513-46ee-b90c-488c8f70540f",
     "clusterId": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
-    "text": "Oil prices had their biggest one-day increase on Monday, rising as much as 13%",
+    "text": "Brent crude rose to breach $80 a barrel on Tuesday",
+    "status": "disputed",
+    "supportingSources": [
+      "DW"
+    ],
+    "disputingSources": [
+      "France 24"
+    ],
+    "firstSeenAt": "2026-03-03T22:59:54.285Z",
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
+  },
+  {
+    "id": "c1639de3-c500-49fe-89db-bc391f8df111",
+    "clusterId": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
+    "text": "Oil prices soared by as much as 13% on Monday",
     "status": "undisputed",
     "supportingSources": [
       "DW",
       "NBC News"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:50:51.897Z",
-    "lastUpdatedAt": "2026-03-03T19:50:51.897Z"
+    "firstSeenAt": "2026-03-03T22:59:54.285Z",
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
   },
   {
     "id": "7aadfef0-5f81-49cb-b68b-937ea7a3c3bd",
@@ -78,7 +92,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:50:51.897Z",
-    "lastUpdatedAt": "2026-03-03T19:50:51.897Z"
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
   },
   {
     "id": "bbb4df37-84d0-4d66-90ce-5ba5da22e691",
@@ -91,12 +105,24 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:50:51.897Z",
-    "lastUpdatedAt": "2026-03-03T19:50:51.897Z"
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
   },
   {
     "id": "9195f986-5f34-494f-a957-ebd0c1cc245a",
     "clusterId": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
-    "text": "Iran's Revolutionary Guards said the Strait of Hormuz is closed and threatened to set fire to ships attempting to pass",
+    "text": "Iran's Revolutionary Guards said the Strait of Hormuz is closed",
+    "status": "undisputed",
+    "supportingSources": [
+      "DW"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:50:51.897Z",
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
+  },
+  {
+    "id": "9b11478c-db5a-4ede-92ed-ecc9a8c25087",
+    "clusterId": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
+    "text": "Iran threatened to 'set fire to any ship attempting to pass through the strait'",
     "status": "undisputed",
     "supportingSources": [
       "DW",
@@ -104,8 +130,20 @@
       "ABC News"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:50:51.897Z",
-    "lastUpdatedAt": "2026-03-03T19:50:51.897Z"
+    "firstSeenAt": "2026-03-03T22:59:54.285Z",
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
+  },
+  {
+    "id": "24b867ae-9341-4b1a-a0a1-4ebc6385c5a1",
+    "clusterId": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
+    "text": "China is pushing Iran to keep the strait open to tanker traffic",
+    "status": "undisputed",
+    "supportingSources": [
+      "DW"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T22:59:54.285Z",
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
   },
   {
     "id": "b101e60c-3e39-48be-86f9-5557651f4cc7",
@@ -117,7 +155,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:50:51.897Z",
-    "lastUpdatedAt": "2026-03-03T19:50:51.897Z"
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
   },
   {
     "id": "e418314a-2777-49c1-857a-eca1e6099ef2",
@@ -129,7 +167,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:50:51.897Z",
-    "lastUpdatedAt": "2026-03-03T19:50:51.897Z"
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
   },
   {
     "id": "a65fb1c4-0f5c-4b7c-8a95-d46a759872f6",
@@ -142,58 +180,58 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:50:51.897Z",
-    "lastUpdatedAt": "2026-03-03T19:50:51.897Z"
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
   },
   {
-    "id": "c379c417-5e5b-4b81-a7da-d43a0e409d5c",
+    "id": "a5d46da2-ff92-4245-865d-b3c1f92e95f0",
     "clusterId": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
-    "text": "Marine insurers including Gard, Skuld, NorthStandard, London P&I Club and American Club canceled war risk coverage effective March 5",
+    "text": "Marine insurers are canceling war risk coverage for vessels in the Middle East Gulf effective March 5",
     "status": "undisputed",
     "supportingSources": [
       "DW"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:50:51.897Z",
-    "lastUpdatedAt": "2026-03-03T19:50:51.897Z"
+    "firstSeenAt": "2026-03-03T22:59:54.285Z",
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
   },
   {
-    "id": "8314aa39-d434-4ae2-8abb-8839bbd120b4",
+    "id": "855cbdc8-2619-4eab-98aa-7c573cf4abab",
     "clusterId": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
-    "text": "US national average gasoline price reached approximately $3.10 per gallon",
+    "text": "The Dow fell more than 700-850 points",
     "status": "undisputed",
     "supportingSources": [
       "ABC News",
       "NBC News"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:50:51.897Z",
-    "lastUpdatedAt": "2026-03-03T19:50:51.897Z"
+    "firstSeenAt": "2026-03-03T22:59:54.285Z",
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
   },
   {
-    "id": "115d1bcd-5259-4f3e-988a-cf8f65f1b6d6",
+    "id": "e085d499-d0a6-43b7-bba9-2499ddfe53b8",
     "clusterId": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
-    "text": "The Dow Jones fell more than 700-850 points",
+    "text": "US national average gas price reached about $3.10 per gallon",
     "status": "undisputed",
     "supportingSources": [
       "ABC News",
       "NBC News"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:50:51.897Z",
-    "lastUpdatedAt": "2026-03-03T19:50:51.897Z"
+    "firstSeenAt": "2026-03-03T22:59:54.285Z",
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
   },
   {
-    "id": "1383393e-7b15-479c-b955-6af824507e61",
+    "id": "b53cbc95-e6f0-470a-adab-86f52314c600",
     "clusterId": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
-    "text": "Iran attacked the US embassy in Saudi Arabia's capital Riyadh",
+    "text": "A drone attack occurred on the US embassy in Saudi Arabia's capital Riyadh",
     "status": "undisputed",
     "supportingSources": [
       "France 24",
       "NBC News"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:50:51.897Z",
-    "lastUpdatedAt": "2026-03-03T19:50:51.897Z"
+    "firstSeenAt": "2026-03-03T22:59:54.285Z",
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
   },
   {
     "id": "f082f2b9-d520-4d6c-9442-fa3bfd62196f",
@@ -205,30 +243,18 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:50:51.897Z",
-    "lastUpdatedAt": "2026-03-03T19:50:51.897Z"
-  },
-  {
-    "id": "7c7ba44b-9462-468f-825a-39e584c52551",
-    "clusterId": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
-    "text": "China is pushing Iran to keep the Strait of Hormuz open to tanker traffic",
-    "status": "undisputed",
-    "supportingSources": [
-      "DW"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:50:51.897Z",
-    "lastUpdatedAt": "2026-03-03T19:50:51.897Z"
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
   },
   {
     "id": "8ba831d5-bca0-4105-b2d3-395481ed61a6",
     "clusterId": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
-    "text": "Iraq said it has to shut down oil production because ships cannot pass through the Strait of Hormuz",
+    "text": "Iraq said it has to shut down oil production because ships cannot pass through the strait",
     "status": "undisputed",
     "supportingSources": [
       "ABC News"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:50:51.897Z",
-    "lastUpdatedAt": "2026-03-03T19:50:51.897Z"
+    "lastUpdatedAt": "2026-03-03T22:59:54.285Z"
   }
 ]

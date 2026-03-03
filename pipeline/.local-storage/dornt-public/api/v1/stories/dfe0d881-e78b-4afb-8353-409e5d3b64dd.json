@@ -5,19 +5,20 @@
     "articleIds": [
       "0a67d1fe-b80c-419f-b83e-c531bbe447b4",
       "245d7ea3-cb40-4432-8e8f-1bf47c6c7e29",
-      "744c0181-7265-440e-b3a5-03e159094525"
+      "744c0181-7265-440e-b3a5-03e159094525",
+      "33e16ee7-b7fd-43fb-baea-1874e4943b10"
     ],
     "redditPostIds": [],
     "createdAt": "2026-03-03T19:46:57.343Z",
-    "updatedAt": "2026-03-03T19:46:57.343Z",
-    "articleCount": 3,
+    "updatedAt": "2026-03-03T22:55:58.850Z",
+    "articleCount": 4,
     "sourceCount": 3,
     "topSources": [
       "NYT World",
       "The Hindu",
       "BBC World"
     ],
-    "importance": 39,
+    "importance": 42,
     "status": "active",
     "centroid": [
       -0.006368225466666666,
@@ -1560,7 +1561,7 @@
   },
   "synthesis": {
     "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-    "narrative": "Canadian Prime Minister Mark Carney concluded a diplomatic visit to India from February 27 to March 2, 2026, marking a significant reset in bilateral relations that had deteriorated following the 2023 assassination of Sikh separatist Hardeep Singh Nijjar on Canadian soil [1][2]. The visit resulted in multiple agreements, including what Indian Prime Minister Narendra Modi described as a \"landmark deal for long-term uranium supply\" and cooperation on small modular reactors [2].\n\n## Key Agreements and Cooperation Areas\n\nThe two leaders announced agreements spanning multiple sectors, with both countries pledging to \"ramp up cooperation in defence, critical technologies, small and modular nuclear reactors, education and renewable energy\" [1]. The centerpiece was a 10-year nuclear energy deal [2], alongside agreements on \"technology, critical minerals, space, defence and education\" [2]. Carney indicated that both countries agreed to conclude a comprehensive economic partnership agreement (free trade deal) \"by the end of 2026\" [2], with both nations seeking to \"reduce exposure to punitive US trade tariffs\" [2].\n\n## Diplomatic Reset Amid Ongoing Tensions\n\nThe visit represents a cautious rebuilding of relations that \"almost came to a standstill\" after former Canadian Prime Minister Justin Trudeau accused India of links to Nijjar's killing, leading to mutual diplomat expulsions and cancelled visa services [2]. Under Carney's leadership, the relationship has been \"cautiously rebuilt\" partly because his government \"believes India is not currently linked to violent crimes or threats on Canadian soil\" [2].\n\nHowever, significant disagreements remain. Canada's spy agency continues to list India \"as one of the countries carrying out espionage and foreign interference in the country, along with Russia, China and Iran\" [2]. The Canadian Security Intelligence Service stated that its \"threat assessment of the main perpetrators of foreign interference and espionage against Canada has not changed\" [2]. Additionally, \"some in Canada have countered\" the government's position, \"including a Liberal MP from Carney's own party and members of the Sikh diaspora in Canada, who say they believe they continue to be targeted by India\" [2].\n\n## Official Responses and Future Outlook\n\nFollowing the visit, Modi expressed optimism about the renewed partnership, stating he looks forward \"to working together with you to build a future defined by trust, growth, innovation and shared prosperity for the people of our nations\" [1]. Carney characterized his visit as \"not just a renewal of the Canada-India partnership but an expansion with new ambition and focus, between two confident countries charting their own course for the future\" [1]. The case involving four men charged over Nijjar's killing remains before the courts [2].",
+    "narrative": "Canadian Prime Minister Mark Carney concluded a visit to India from February 27 to March 2, 2026, marking a significant reset in bilateral relations that had deteriorated following diplomatic tensions over the 2023 assassination of Sikh separatist Hardeep Singh Nijjar [1][2]. The visit resulted in multiple agreements between the two nations, with both leaders emphasizing renewed partnership and cooperation.\n\n## Key Agreements and Cooperation Areas\n\nThe centerpiece of the visit was a 10-year nuclear energy deal described as \"landmark\" by Modi, covering long-term uranium supply and cooperation on small modular reactors and advanced reactors [2]. Beyond nuclear energy, the two countries signed agreements covering critical minerals, technology, space, defense, and education [1][2]. Both leaders also committed to concluding a comprehensive economic partnership agreement (free trade deal) by the end of 2026, with both nations seeking to reduce exposure to punitive US trade tariffs [2].\n\n## Diplomatic Context and Tensions\n\nThe visit represents a cautious rebuilding of relations that had \"almost came to a standstill\" following former Canadian Prime Minister Justin Trudeau's 2023 accusation that India was linked to Nijjar's assassination on Canadian soil [2]. India \"vociferously rejected\" these allegations [2]. The diplomatic crisis had resulted in both countries expelling each other's diplomats and cancelling visa services [2].\n\nHowever, significant tensions remain beneath the surface. Canada's spy agency continues to list India among countries carrying out espionage and foreign interference, alongside Russia, China and Iran [2]. The Canadian Security Intelligence Service stated Monday that its \"threat assessment of the main perpetrators of foreign interference and espionage against Canada has not changed\" [2]. Additionally, some Canadian officials, including a Liberal MP from Carney's own party and members of the Sikh diaspora, maintain that they continue to be targeted by India [2].\n\n## Official Responses and Contradictions\n\nCanadian Foreign Minister Anita Anand distanced herself from comments by a senior Canadian official claiming India had ceased all foreign interference in Canada, stating \"The words of the senior official are not words that I personally would use\" [2]. Despite this, Anand defended the re-engagement, arguing that \"we need to have these diplomatic conversations in order to make progress\" [2].\n\nCarney's office cancelled a planned news conference following his meeting with Modi, citing his tight schedule [2]. The case involving four men charged over Nijjar's killing remains before the courts [2].\n\n## Leaders' Public Statements\n\nModi responded positively to Carney's characterization of the visit, writing on X: \"Your visit has built a strong foundation for a truly renewed partnership. I look forward to working together with you to build a future defined by trust, growth, innovation and shared prosperity for the people of our nations\" [1]. Carney had described his visit as \"not just a renewal of the Canada-India partnership but an expansion with new ambition and focus, between two confident countries charting their own course for the future\" [1].",
     "citations": [
       {
         "index": 1,
@@ -1568,7 +1569,7 @@
         "source": "The Hindu",
         "title": "Canada PM's visit to India built strong foundation for truly renewed partnership: Modi",
         "url": "https://www.thehindu.com/news/national/canada-pms-visit-to-india-built-strong-foundation-for-truly-renewed-partnership-modi/article70700904.ece",
-        "quote": "The Canadian Prime Minister was in India from February 27 to March 2, during which India and Canada sealed key pacts on supplies of Uranium and critical minerals and agreed to conclude a comprehensive economic partnership agreement soon."
+        "quote": "Your visit has built a strong foundation for a truly renewed partnership. I look forward to working together with you to build a future defined by trust, growth, innovation and shared prosperity for the people of our nations"
       },
       {
         "index": 2,
@@ -1576,49 +1577,27 @@
         "source": "BBC World",
         "title": "India and Canada reset ties with 'landmark' nuclear energy deal",
         "url": "https://www.bbc.com/news/articles/cx24gl7jrgno?at_medium=RSS&at_campaign=rss",
-        "quote": "India and Canada have announced a host of agreements, including a 10-year nuclear energy deal, after their prime ministers met in Delhi to reset ties that plummeted due to diplomatic tensions."
-      },
-      {
-        "index": 3,
-        "articleId": "0a67d1fe-b80c-419f-b83e-c531bbe447b4",
-        "source": "NYT World",
-        "title": "Carney Hails New Ties Between Canada and India, Setting Aside Rift Over Killing",
-        "url": "https://www.nytimes.com/2026/03/02/world/canada/carney-india-modi.html",
-        "quote": "Prime Minister Mark Carney focused on business during a meeting with his Indian counterpart, Narendra Modi, with little mention of India's alleged role in a deadly shooting in 2023."
+        "quote": "Trade and diplomatic relations almost came to a standstill as both sides expelled each other's diplomats and cancelled visa services"
       }
     ],
     "keyDevelopments": [
-      "Canadian PM Mark Carney completed 4-day visit to India (Feb 27-Mar 2, 2026)",
-      "10-year nuclear energy deal signed, including uranium supply and small modular reactor cooperation",
-      "Agreement to conclude comprehensive free trade deal by end of 2026",
-      "Multiple cooperation agreements in defense, technology, critical minerals, space, and education",
-      "Diplomatic reset despite ongoing tensions over 2023 Nijjar assassination case",
-      "Canadian intelligence continues to list India as foreign interference threat",
-      "Four men charged in Nijjar killing case still before courts"
+      "10-year nuclear energy deal signed covering uranium supply and reactor technology",
+      "Commitment to conclude free trade agreement by end of 2026",
+      "Multiple cooperation agreements in defense, technology, critical minerals, space and education",
+      "Canadian Foreign Minister distances herself from claims that India ceased interference activities",
+      "Canadian spy agency maintains threat assessment unchanged regarding Indian espionage",
+      "Carney's office cancels planned news conference citing schedule constraints",
+      "Modi and Carney exchange positive public statements about renewed partnership"
     ],
-    "generatedAt": "2026-03-03T20:00:39.808Z",
+    "generatedAt": "2026-03-03T23:12:18.379Z",
     "model": "anthropic/claude-sonnet-4",
-    "tokenCount": 2543
+    "tokenCount": 3211
   },
   "claims": [
     {
-      "id": "73bf578a-8df5-492e-9dc4-b54c0d91b961",
-      "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-      "text": "Mark Carney is the Prime Minister of Canada",
-      "status": "undisputed",
-      "supportingSources": [
-        "NYT World",
-        "The Hindu",
-        "BBC World"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:00:51.412Z",
-      "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
-    },
-    {
       "id": "f7565b9a-4e1d-461a-b9fc-a685a092c950",
       "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-      "text": "Carney met with Indian Prime Minister Narendra Modi",
+      "text": "Prime Minister Mark Carney met with Indian Prime Minister Narendra Modi",
       "status": "undisputed",
       "supportingSources": [
         "NYT World",
@@ -1627,50 +1606,39 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T20:00:51.412Z",
-      "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+      "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
     },
     {
-      "id": "de4431bd-46ae-4045-af29-ef9a58326d58",
+      "id": "42d84a21-e16f-4106-b736-6f8a74cf4d01",
       "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-      "text": "The Canadian Prime Minister was in India from February 27 to March 2",
+      "text": "The meeting focused on business and economic cooperation",
       "status": "undisputed",
       "supportingSources": [
+        "NYT World",
         "The Hindu",
         "BBC World"
       ],
       "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:00:51.412Z",
-      "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
-    },
-    {
-      "id": "2addcb0a-0a9d-4837-ba82-ee402635b066",
-      "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-      "text": "India and Canada sealed key pacts on supplies of Uranium and critical minerals",
-      "status": "undisputed",
-      "supportingSources": [
-        "The Hindu",
-        "BBC World"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:00:51.412Z",
-      "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+      "firstSeenAt": "2026-03-03T23:12:30.949Z",
+      "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
     },
     {
       "id": "b02e8e8c-06db-4870-b25e-a73a67bb460f",
       "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-      "text": "India and Canada announced a 10-year nuclear energy deal",
+      "text": "India and Canada announced a 10-year nuclear energy deal for uranium supply",
       "status": "undisputed",
       "supportingSources": [
+        "The Hindu",
         "BBC World"
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T20:00:51.412Z",
-      "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+      "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
     },
     {
       "id": "213120f2-1e1b-46f8-85b3-cc9b2d829975",
       "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-      "text": "The two countries agreed to conclude a comprehensive economic partnership agreement/free trade deal by the end of 2026",
+      "text": "The two countries agreed to conclude a comprehensive economic partnership/free trade agreement by the end of 2026",
       "status": "undisputed",
       "supportingSources": [
         "The Hindu",
@@ -1678,70 +1646,57 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T20:00:51.412Z",
-      "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+      "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
     },
     {
-      "id": "70a1c05d-478e-4e46-abd7-9cc1de11fa6e",
+      "id": "58f9be3f-da89-488b-8164-37d7370593ba",
       "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-      "text": "The two Prime Ministers pledged to ramp up cooperation in defence, critical technologies, small and modular nuclear reactors, education and renewable energy",
+      "text": "Carney's visit to India was from February 27 to March 2, 2026",
+      "status": "undisputed",
+      "supportingSources": [
+        "The Hindu"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:12:30.949Z",
+      "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
+    },
+    {
+      "id": "84579caf-0e9b-40b6-ad75-8eecec2cc790",
+      "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+      "text": "The two countries pledged cooperation in defence, critical technologies, small modular nuclear reactors, education and renewable energy",
       "status": "undisputed",
       "supportingSources": [
         "The Hindu",
         "BBC World"
       ],
       "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:00:51.412Z",
-      "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+      "firstSeenAt": "2026-03-03T23:12:30.949Z",
+      "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
     },
     {
-      "id": "d1250e0a-438e-48dd-b26b-0cf149e7e0e2",
+      "id": "68ffcfa6-873f-40c6-a195-c028b63a31e1",
       "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-      "text": "There was a 2023 assassination/deadly shooting of Sikh separatist Hardeep Singh Nijjar on Canadian soil",
+      "text": "Relations were previously strained over allegations of India's role in the 2023 assassination of Sikh separatist Hardeep Singh Nijjar",
       "status": "undisputed",
       "supportingSources": [
         "NYT World",
         "BBC World"
       ],
       "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:00:51.412Z",
-      "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+      "firstSeenAt": "2026-03-03T23:12:30.949Z",
+      "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
     },
     {
-      "id": "8507bbee-249e-4ad0-bb80-f903462f619d",
+      "id": "b0cf3abc-10e8-47ae-bd7a-fa8e7e7c6087",
       "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-      "text": "India was alleged to have a role in the 2023 killing of Hardeep Singh Nijjar",
-      "status": "undisputed",
-      "supportingSources": [
-        "NYT World",
-        "BBC World"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:00:51.412Z",
-      "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
-    },
-    {
-      "id": "7bdb25ce-a355-4147-9556-39b55a81cf3e",
-      "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-      "text": "India vociferously rejected the allegation by Justin Trudeau",
+      "text": "India vociferously rejected allegations by Justin Trudeau about involvement in Nijjar's killing",
       "status": "undisputed",
       "supportingSources": [
         "BBC World"
       ],
       "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:00:51.412Z",
-      "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
-    },
-    {
-      "id": "65121bb5-7064-4b62-8ecc-bf6be51e8ae7",
-      "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-      "text": "Justin Trudeau was Carney's predecessor as Prime Minister",
-      "status": "undisputed",
-      "supportingSources": [
-        "BBC World"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:00:51.412Z",
-      "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+      "firstSeenAt": "2026-03-03T23:12:30.949Z",
+      "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
     },
     {
       "id": "61912e64-a607-440a-98fb-4cac5dd6f2d7",
@@ -1752,22 +1707,10 @@
         "BBC World"
       ],
       "disputingSources": [
-        "BBC World"
+        "BBC World - citing Liberal MP from Carney's party and Sikh diaspora members"
       ],
       "firstSeenAt": "2026-03-03T20:00:51.412Z",
-      "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
-    },
-    {
-      "id": "c706ccb6-692e-4a5a-bafe-abfbaa2e1b80",
-      "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-      "text": "Some in Canada, including a Liberal MP from Carney's own party and members of the Sikh diaspora, believe they continue to be targeted by India",
-      "status": "undisputed",
-      "supportingSources": [
-        "BBC World"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:00:51.412Z",
-      "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+      "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
     },
     {
       "id": "c9eeb892-9bdc-48f1-be75-54930a3aa720",
@@ -1779,19 +1722,31 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T20:00:51.412Z",
-      "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+      "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
     },
     {
-      "id": "cad16d8e-a5d3-414d-a00a-6599253cec1d",
+      "id": "fab619b7-13d7-47a5-af27-040f3a820c4f",
       "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-      "text": "Four men have been charged over Nijjar's killing",
+      "text": "Canadian Security Intelligence Service said its threat assessment of main perpetrators of foreign interference has not changed",
       "status": "undisputed",
       "supportingSources": [
         "BBC World"
       ],
       "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:00:51.412Z",
-      "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+      "firstSeenAt": "2026-03-03T23:12:30.949Z",
+      "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
+    },
+    {
+      "id": "c59475a7-1462-4526-bdd5-a7e3ac18ddc7",
+      "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+      "text": "Foreign Minister Anita Anand distanced herself from comments by a senior Canadian official saying India had ceased all foreign interference in Canada",
+      "status": "undisputed",
+      "supportingSources": [
+        "BBC World"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:12:30.949Z",
+      "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
     },
     {
       "id": "f396e970-b92e-475f-9004-a5c069b3dd26",
@@ -1803,7 +1758,31 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T20:00:51.412Z",
-      "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+      "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
+    },
+    {
+      "id": "cad16d8e-a5d3-414d-a00a-6599253cec1d",
+      "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+      "text": "Four men have been charged over Nijjar's killing and the case is before the courts",
+      "status": "undisputed",
+      "supportingSources": [
+        "BBC World"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T20:00:51.412Z",
+      "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
+    },
+    {
+      "id": "285f9648-7953-47ac-a9e6-7c64ef587069",
+      "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+      "text": "There was little mention of India's alleged role in the 2023 shooting during the meeting",
+      "status": "undisputed",
+      "supportingSources": [
+        "NYT World"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:12:30.949Z",
+      "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
     }
   ],
   "coverage": {
@@ -1811,45 +1790,53 @@
     "frames": [
       {
         "name": "Diplomatic Reset Frame",
-        "description": "Presents the meeting as a successful diplomatic reset focused on economic cooperation and moving past previous tensions",
+        "description": "Presents the story as a successful diplomatic reset after a period of strained relations, emphasizing forward momentum and renewed cooperation",
         "sources": [
-          "NYT World",
-          "The Hindu",
-          "BBC World"
+          "BBC World",
+          "The Hindu"
         ],
-        "emphasis": "Business partnerships, nuclear deals, trade agreements, and renewed cooperation while downplaying past conflicts"
+        "emphasis": "Successful repair of damaged relationship, new agreements, and future-oriented partnership"
+      },
+      {
+        "name": "Business-First Frame",
+        "description": "Focuses on economic and trade aspects while downplaying or setting aside past diplomatic tensions",
+        "sources": [
+          "NYT World"
+        ],
+        "emphasis": "Economic cooperation and business dealings taking precedence over unresolved political issues"
       },
       {
         "name": "Strategic Partnership Frame",
-        "description": "Emphasizes the expansion of bilateral cooperation across multiple sectors as a foundation for future growth",
+        "description": "Emphasizes the comprehensive nature of cooperation across multiple sectors including defense, technology, and energy",
         "sources": [
           "The Hindu",
           "BBC World"
         ],
-        "emphasis": "Comprehensive partnership in defense, technology, critical minerals, education, and renewable energy"
+        "emphasis": "Multi-sectoral cooperation, technological collaboration, and long-term strategic alignment"
       },
       {
-        "name": "Unresolved Security Concerns Frame",
-        "description": "Highlights ongoing security and intelligence concerns despite diplomatic progress",
+        "name": "Cautious Reconciliation Frame",
+        "description": "Acknowledges progress while highlighting ongoing tensions and unresolved issues beneath the surface",
         "sources": [
           "BBC World"
         ],
-        "emphasis": "Continued foreign interference threats, disagreement within Canadian government on India's current activities, and ongoing legal proceedings"
+        "emphasis": "Qualified success with persistent underlying concerns and contradictory statements from officials"
       }
     ],
     "outlierPerspectives": [
-      "BBC's detailed coverage of internal Canadian government disagreements about India's current threat level",
-      "BBC's reporting on the Canadian Security Intelligence Service maintaining its threat assessment unchanged",
-      "BBC's note about Carney cancelling his planned press conference"
+      "BBC's detailed coverage of internal Canadian government contradictions regarding India's current threat level",
+      "NYT's characterization of the meeting as 'setting aside' rather than resolving the Nijjar killing issue",
+      "The Hindu's exclusive focus on Modi's positive response to Carney's social media post"
     ],
     "missingContext": [
-      "Details about the specific terms and scope of the nuclear energy deal",
-      "Economic impact assessment of the agreements on both countries",
-      "Reaction from Sikh diaspora communities in Canada to the diplomatic reset",
-      "Analysis of how this reset affects Canada's relationships with other Five Eyes intelligence partners",
-      "Timeline and specific milestones for the proposed free trade agreement completion by end of 2026"
+      "Specific details about what concessions or assurances each side made to enable this reset",
+      "Reaction from Sikh diaspora communities in Canada to the diplomatic rapprochement",
+      "Analysis of how this reset affects ongoing legal proceedings related to the Nijjar case",
+      "Economic motivations beyond US tariff avoidance that may be driving the reconciliation",
+      "Details about the timeline and specific terms of the uranium supply agreement",
+      "Broader geopolitical context of how this affects each country's relationships with other allies"
     ],
-    "generatedAt": "2026-03-03T20:00:52.066Z",
+    "generatedAt": "2026-03-03T23:12:32.590Z",
     "model": "anthropic/claude-sonnet-4"
   },
   "community": null,
@@ -1857,79 +1844,79 @@
     "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
     "stakeholders": [
       {
-        "name": "Mark Carney",
-        "role": "Canadian Prime Minister",
-        "position": "Seeking to reset Canada-India relations while balancing domestic security concerns and Sikh diaspora interests",
+        "name": "Mark Carney (Canadian Prime Minister)",
+        "role": "Head of Canadian government",
+        "position": "Seeking to reset bilateral relations while managing domestic political pressures over security concerns",
         "influence": "high"
       },
       {
-        "name": "Narendra Modi",
-        "role": "Indian Prime Minister",
+        "name": "Narendra Modi (Indian Prime Minister)",
+        "role": "Head of Indian government",
         "position": "Welcoming renewed partnership while maintaining India's rejection of assassination allegations",
         "influence": "high"
       },
       {
-        "name": "Canadian Sikh diaspora",
-        "role": "Domestic political constituency",
-        "position": "Skeptical of diplomatic reset, claiming continued targeting by India",
+        "name": "Anita Anand (Canadian Foreign Minister)",
+        "role": "Canada's chief diplomat",
+        "position": "Supporting re-engagement while distancing from claims that India has ceased interference activities",
         "influence": "medium"
       },
       {
         "name": "Canadian Security Intelligence Service (CSIS)",
-        "role": "National intelligence agency",
-        "position": "Maintains India as foreign interference threat despite government's diplomatic pivot",
+        "role": "Canada's intelligence agency",
+        "position": "Maintains India as a foreign interference threat despite diplomatic reset",
         "influence": "medium"
       },
       {
-        "name": "Liberal Party MPs (dissenting)",
-        "role": "Parliamentary opposition within ruling party",
-        "position": "Challenging government's assessment that India poses no current threat",
+        "name": "Canadian Sikh diaspora",
+        "role": "Affected community and political constituency",
+        "position": "Continues to report feeling targeted by India despite diplomatic improvements",
+        "influence": "medium"
+      },
+      {
+        "name": "Liberal MPs (Canada)",
+        "role": "Members of Carney's own party",
+        "position": "Some maintain concerns about ongoing Indian targeting of Canadian citizens",
         "influence": "low"
-      },
-      {
-        "name": "United States",
-        "role": "Trade partner imposing tariffs",
-        "position": "Indirect influence through trade policies driving Canada-India cooperation",
-        "influence": "medium"
       }
     ],
     "predictions": [
       {
-        "text": "The comprehensive economic partnership agreement will face delays beyond the stated end-2026 deadline due to ongoing security concerns and domestic political pressure",
-        "likelihood": "likely",
-        "timeframe": "2027-2028",
-        "basis": "Historical complexity of trade negotiations combined with unresolved security tensions and domestic opposition"
-      },
-      {
-        "text": "Further diplomatic incidents will occur if new evidence emerges in the Nijjar case or if Canadian Sikhs report additional targeting",
+        "text": "The comprehensive economic partnership agreement will face delays beyond the end-2026 deadline due to unresolved security concerns",
         "likelihood": "possible",
-        "timeframe": "6-18 months",
-        "basis": "Ongoing court case and CSIS maintaining India as interference threat despite government's position"
+        "timeframe": "2027",
+        "basis": "Fundamental trust issues remain unresolved as evidenced by CSIS maintaining threat assessment and Foreign Minister's distancing from interference cessation claims"
       },
       {
-        "text": "Nuclear and critical minerals agreements will proceed as planned due to strategic importance for both countries",
+        "text": "Nuclear energy cooperation will proceed as planned despite broader tensions",
         "likelihood": "likely",
-        "timeframe": "12-24 months",
-        "basis": "These agreements serve clear economic and strategic interests for both nations and are less politically sensitive"
+        "timeframe": "2026-2027",
+        "basis": "Economic interests in energy security and uranium supply are less politically sensitive than security issues"
       },
       {
-        "text": "Carney will face increased domestic political pressure from Sikh communities and opposition parties over the diplomatic reset",
+        "text": "Further diplomatic incidents will emerge if new evidence surfaces in the Nijjar case or if targeting of Canadian Sikhs continues",
+        "likelihood": "possible",
+        "timeframe": "6-12 months",
+        "basis": "Court case ongoing and Canadian officials report continued targeting despite diplomatic reset"
+      },
+      {
+        "text": "Canada will maintain dual-track approach of economic engagement while keeping security concerns active",
         "likelihood": "likely",
-        "timeframe": "3-6 months",
-        "basis": "Already documented opposition from Liberal MPs and Sikh diaspora groups who feel their security concerns are being minimized"
+        "timeframe": "ongoing",
+        "basis": "Foreign Minister's careful distancing from interference cessation claims while defending re-engagement shows institutional caution"
       }
     ],
-    "historicalContext": "This diplomatic reset occurs against the backdrop of the worst Canada-India relations crisis since the 1980s Khalistan movement tensions. The 2023 Nijjar assassination allegation by former PM Justin Trudeau echoed historical patterns of India-Canada disputes over Sikh separatism, including the 1985 Air India bombing that killed 329 people. The current reset mirrors previous cycles where economic interests eventually override security concerns, as seen in the gradual normalization after the Air India tragedy. However, the involvement of intelligence agencies and formal diplomatic expulsions in 2023 represents an unprecedented escalation that makes this reset more fragile than previous reconciliations.",
+    "historicalContext": "This diplomatic reset follows a severe deterioration in Canada-India relations that began in September 2023 when then-Prime Minister Justin Trudeau accused India of involvement in the assassination of Sikh separatist Hardeep Singh Nijjar on Canadian soil. The crisis led to mutual expulsion of diplomats, suspension of visa services, and a virtual halt to bilateral cooperation. The current rapprochement represents an attempt to compartmentalize security concerns from economic interests, similar to how Western nations have historically managed relations with countries where strategic interests conflict with security concerns. The nuclear energy deal particularly echoes Canada's historical role as a uranium supplier, building on decades of nuclear cooperation that dates back to India's civilian nuclear program development.",
     "implications": [
-      "The reset establishes a precedent for compartmentalizing security concerns from economic cooperation, potentially weakening Canada's stance on foreign interference",
-      "Success of the partnership could provide a model for other middle powers seeking to reduce dependence on US-China trade dynamics",
-      "The uranium and critical minerals deals significantly enhance India's energy security and position in the global nuclear supply chain",
-      "Domestic political tensions in Canada may intensify if the Sikh diaspora feels abandoned by the government's diplomatic pivot",
-      "The timeline pressure for the free trade agreement may lead to compromises that favor India's larger market leverage",
-      "Intelligence sharing between Canada and Five Eyes allies may be affected if India is simultaneously treated as both partner and threat",
-      "The reset could encourage other countries accused of transnational repression to wait out political transitions rather than address underlying issues"
+      "Sets precedent for how middle powers can manage relations with countries accused of extraterritorial operations while pursuing economic interests",
+      "May signal to other nations that diplomatic consequences for alleged foreign interference can be temporary if economic stakes are high enough",
+      "Could strain Canada's relationships with allies who expect stronger responses to foreign interference, particularly the United States",
+      "May embolden India to continue alleged interference activities if economic partnerships can be maintained despite security concerns",
+      "Creates internal political risks for Carney's government if new incidents occur after the diplomatic reset",
+      "Establishes template for compartmentalizing security and economic issues in bilateral relations",
+      "May influence how Canada approaches similar situations with other countries accused of foreign interference like China and Iran"
     ],
-    "generatedAt": "2026-03-03T20:01:15.565Z",
+    "generatedAt": "2026-03-03T23:12:54.662Z",
     "model": "anthropic/claude-sonnet-4"
   },
   "articles": [
@@ -1949,6 +1936,13 @@
     },
     {
       "id": "744c0181-7265-440e-b3a5-03e159094525",
+      "title": "India and Canada reset ties with 'landmark' nuclear energy deal",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cx24gl7jrgno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Mar 2026 20:18:12 GMT"
+    },
+    {
+      "id": "33e16ee7-b7fd-43fb-baea-1874e4943b10",
       "title": "India and Canada reset ties with 'landmark' nuclear energy deal",
       "source": "BBC World",
       "url": "https://www.bbc.com/news/articles/cx24gl7jrgno?at_medium=RSS&at_campaign=rss",

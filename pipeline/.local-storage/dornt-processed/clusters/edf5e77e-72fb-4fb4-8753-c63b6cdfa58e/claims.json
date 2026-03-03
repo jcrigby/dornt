@@ -2,62 +2,62 @@
   {
     "id": "fa2d0667-3ed4-4094-8d30-432972b5bb5b",
     "clusterId": "edf5e77e-72fb-4fb4-8753-c63b6cdfa58e",
-    "text": "Google is adding several new features to Pixel phones with its latest March update",
+    "text": "Google is adding several new features to Pixel phones with its latest March update, including the ability for its Gemini AI assistant to do things for you, like order groceries or book a ride",
     "status": "undisputed",
     "supportingSources": [
       "The Verge"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T20:04:17.525Z",
-    "lastUpdatedAt": "2026-03-03T20:04:17.525Z"
+    "lastUpdatedAt": "2026-03-03T23:17:21.447Z"
   },
   {
-    "id": "0aa9dddf-db9f-4676-89e4-abcc9d7578d2",
+    "id": "3b63e79d-e26a-4200-a37d-34719d46e3ca",
     "clusterId": "edf5e77e-72fb-4fb4-8753-c63b6cdfa58e",
-    "text": "Gemini AI assistant can order groceries and book rides for users",
+    "text": "This feature was first shown off during Samsung's Unpacked event last week",
     "status": "undisputed",
     "supportingSources": [
       "The Verge"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:04:17.525Z",
-    "lastUpdatedAt": "2026-03-03T20:04:17.525Z"
+    "firstSeenAt": "2026-03-03T23:17:21.447Z",
+    "lastUpdatedAt": "2026-03-03T23:17:21.447Z"
   },
   {
-    "id": "a031cfc9-f2b8-4fd8-87ed-b1c321187a17",
+    "id": "05a641ae-9411-448f-8c88-0ccd0cd1c8f9",
     "clusterId": "edf5e77e-72fb-4fb4-8753-c63b6cdfa58e",
-    "text": "The agentic Gemini feature was first shown off during Samsung's Unpacked event last week",
+    "text": "The agentic feature is rolling out now to the Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL",
     "status": "undisputed",
     "supportingSources": [
       "The Verge"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:04:17.525Z",
-    "lastUpdatedAt": "2026-03-03T20:04:17.525Z"
+    "firstSeenAt": "2026-03-03T23:17:21.447Z",
+    "lastUpdatedAt": "2026-03-03T23:17:21.447Z"
   },
   {
-    "id": "6a428734-43a2-4914-bbb2-1097349c1930",
+    "id": "b912f9d6-4a94-4a0c-8b31-574c88612ce3",
     "clusterId": "edf5e77e-72fb-4fb4-8753-c63b6cdfa58e",
-    "text": "Gemini's agentic feature is rolling out to the Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL",
+    "text": "Gemini can complete work on your behalf inside select apps, including Uber and Grubhub",
     "status": "undisputed",
     "supportingSources": [
       "The Verge"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:04:17.525Z",
-    "lastUpdatedAt": "2026-03-03T20:04:17.525Z"
+    "firstSeenAt": "2026-03-03T23:17:21.447Z",
+    "lastUpdatedAt": "2026-03-03T23:17:21.447Z"
   },
   {
-    "id": "f42e29b6-e6d5-41c0-8536-04e14a23f5c3",
+    "id": "f2835de8-1edc-46c2-b33d-7ed62851713b",
     "clusterId": "edf5e77e-72fb-4fb4-8753-c63b6cdfa58e",
-    "text": "Gemini can complete work inside select apps, including Uber and Grubhub",
+    "text": "The feature will work in the background while you use your phone, but you can supervise or interrupt its work at any time",
     "status": "undisputed",
     "supportingSources": [
       "The Verge"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:04:17.525Z",
-    "lastUpdatedAt": "2026-03-03T20:04:17.525Z"
+    "firstSeenAt": "2026-03-03T23:17:21.447Z",
+    "lastUpdatedAt": "2026-03-03T23:17:21.447Z"
   },
   {
     "id": "0be18a06-403d-4f32-8e3e-4a7ab302518d",
@@ -69,7 +69,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T20:04:17.525Z",
-    "lastUpdatedAt": "2026-03-03T20:04:17.525Z"
+    "lastUpdatedAt": "2026-03-03T23:17:21.447Z"
   },
   {
     "id": "6640a976-c3a4-471e-9577-0ee33bf4e380",
@@ -81,102 +81,90 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T20:04:17.525Z",
-    "lastUpdatedAt": "2026-03-03T20:04:17.525Z"
+    "lastUpdatedAt": "2026-03-03T23:17:21.447Z"
   },
   {
-    "id": "df694ad7-2bbd-4465-a566-4fd73c2b74e9",
+    "id": "6b504630-7b55-447c-906f-40fe6db3c918",
     "clusterId": "edf5e77e-72fb-4fb4-8753-c63b6cdfa58e",
-    "text": "Circle to Search can now break down outfits and search for individual pieces on the entire Pixel 10 lineup",
+    "text": "Circle to Search now allows users across the entire Pixel 10 lineup to break down an outfit and search for individual pieces, as well as virtually try on the look",
     "status": "undisputed",
     "supportingSources": [
       "The Verge"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:04:17.525Z",
-    "lastUpdatedAt": "2026-03-03T20:04:17.525Z"
+    "firstSeenAt": "2026-03-03T23:17:21.447Z",
+    "lastUpdatedAt": "2026-03-03T23:17:21.447Z"
   },
   {
-    "id": "c1799064-1072-4db9-b71a-1664bbfedf12",
+    "id": "11bddb1a-7f79-442a-8094-8a6d2aac0941",
     "clusterId": "edf5e77e-72fb-4fb4-8753-c63b6cdfa58e",
-    "text": "Circle to Search includes a virtual try-on feature for outfits",
+    "text": "Magic Cue is being updated to proactively make suggestions based on context across messaging, email, weather, and phone apps",
     "status": "undisputed",
     "supportingSources": [
       "The Verge"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:04:17.525Z",
-    "lastUpdatedAt": "2026-03-03T20:04:17.525Z"
+    "firstSeenAt": "2026-03-03T23:17:21.447Z",
+    "lastUpdatedAt": "2026-03-03T23:17:21.447Z"
   },
   {
-    "id": "4da9cfe5-4fbe-4f4b-9883-d921a74fb8a9",
+    "id": "13ce72bd-efd7-4460-89f1-7a3e5d2befbf",
     "clusterId": "edf5e77e-72fb-4fb4-8753-c63b6cdfa58e",
-    "text": "Magic Cue is updated to provide restaurant recommendations based on friends' preferences",
+    "text": "Magic Cue is coming to the Pixel 10, Pixel 10 Pro, Pixel 10 Pro XL, and Pixel 10 Pro Fold in select countries and languages",
     "status": "undisputed",
     "supportingSources": [
       "The Verge"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:04:17.525Z",
-    "lastUpdatedAt": "2026-03-03T20:04:17.525Z"
+    "firstSeenAt": "2026-03-03T23:17:21.447Z",
+    "lastUpdatedAt": "2026-03-03T23:17:21.447Z"
   },
   {
-    "id": "7da68873-7d48-4e0d-8e41-6cd0ddbd73d0",
+    "id": "2851fa22-300c-4594-8558-e8408d1ba117",
     "clusterId": "edf5e77e-72fb-4fb4-8753-c63b6cdfa58e",
-    "text": "Magic Cue update is coming to Pixel 10, Pixel 10 Pro, Pixel 10 Pro XL, and Pixel 10 Pro Fold in select countries and languages",
+    "text": "These devices will add a new comfort view, which reduces visual stimulation from very bright or saturated colors",
     "status": "undisputed",
     "supportingSources": [
       "The Verge"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:04:17.525Z",
-    "lastUpdatedAt": "2026-03-03T20:04:17.525Z"
-  },
-  {
-    "id": "119d9f72-328c-4037-8a8a-4c0b6fb53640",
-    "clusterId": "edf5e77e-72fb-4fb4-8753-c63b6cdfa58e",
-    "text": "A new comfort view feature reduces visual stimulation from very bright or saturated colors",
-    "status": "undisputed",
-    "supportingSources": [
-      "The Verge"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:04:17.525Z",
-    "lastUpdatedAt": "2026-03-03T20:04:17.525Z"
+    "firstSeenAt": "2026-03-03T23:17:21.447Z",
+    "lastUpdatedAt": "2026-03-03T23:17:21.447Z"
   },
   {
     "id": "b28e0f58-32db-403f-899b-af34d0496327",
     "clusterId": "edf5e77e-72fb-4fb4-8753-c63b6cdfa58e",
-    "text": "Pixel 8 and up will display a new desktop experience when plugged into an external display",
+    "text": "The Pixel 8 and up will display a new desktop experience when plugged into an external display",
     "status": "undisputed",
     "supportingSources": [
       "The Verge"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T20:04:17.525Z",
-    "lastUpdatedAt": "2026-03-03T20:04:17.525Z"
+    "lastUpdatedAt": "2026-03-03T23:17:21.447Z"
   },
   {
-    "id": "38add389-c0f2-443c-b9ea-e47782a7b15e",
+    "id": "170aecf5-a889-4f9c-b8c9-7f3e96f8eb41",
     "clusterId": "edf5e77e-72fb-4fb4-8753-c63b6cdfa58e",
-    "text": "Pixel 7 and newer can use At-a-Glance widget for commute updates including departures, delays, and alternative routes",
+    "text": "People with a Pixel 7 and newer can use Google's At-a-Glance widget to get updates on departures, delays, and alternative routes for their commute",
     "status": "undisputed",
     "supportingSources": [
       "The Verge"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:04:17.525Z",
-    "lastUpdatedAt": "2026-03-03T20:04:17.525Z"
+    "firstSeenAt": "2026-03-03T23:17:21.447Z",
+    "lastUpdatedAt": "2026-03-03T23:17:21.447Z"
   },
   {
-    "id": "f277c355-8caa-471c-a2e1-33227e368e7b",
+    "id": "34ac56f4-8367-4ba9-a178-99b4ed9776da",
     "clusterId": "edf5e77e-72fb-4fb4-8753-c63b6cdfa58e",
-    "text": "Pixel 6 and up adds support for Now Playing app, custom AI-generated app icons, and sports scores/stock prices viewing",
+    "text": "The Pixel 6 and up adds support for a Now Playing app that can identify music playing around you, custom AI-generated app icons, and a way to view sports scores and stock market prices from the home or lockscreen",
     "status": "undisputed",
     "supportingSources": [
       "The Verge"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:04:17.525Z",
-    "lastUpdatedAt": "2026-03-03T20:04:17.525Z"
+    "firstSeenAt": "2026-03-03T23:17:21.447Z",
+    "lastUpdatedAt": "2026-03-03T23:17:21.447Z"
   }
 ]

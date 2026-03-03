@@ -2,91 +2,98 @@
   "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
   "stakeholders": [
     {
-      "name": "President Trump",
-      "role": "U.S. Commander-in-Chief",
-      "position": "Claims he initiated strikes preemptively, believes Iran was planning first strike",
+      "name": "Donald Trump",
+      "role": "US President",
+      "position": "Initiated strikes claiming preemptive action against Iranian threat",
       "influence": "high"
     },
     {
-      "name": "Secretary of State Marco Rubio",
-      "role": "Chief U.S. Diplomat",
-      "position": "States strikes were response to imminent Iranian threat following expected Israeli attack",
-      "influence": "high"
+      "name": "Marco Rubio",
+      "role": "US Secretary of State",
+      "position": "Initially explained strikes as response to Israeli plans, now contradicted by Trump",
+      "influence": "medium"
     },
     {
       "name": "Israel",
-      "role": "Regional ally and strike partner",
-      "position": "Participated in strikes, according to Trump may have been pressured into action",
+      "role": "Regional ally",
+      "position": "Allegedly planning strikes on Iran, though Trump claims he may have influenced their timing",
       "influence": "high"
     },
     {
       "name": "Iran",
       "role": "Target of strikes",
-      "position": "Retaliating against previously neutral countries, leadership reportedly decimated",
-      "influence": "medium"
-    },
-    {
-      "name": "Congress",
-      "role": "Constitutional oversight body",
-      "position": "Demanding briefings and considering war powers vote",
+      "position": "Responding militarily against regional countries, leadership reportedly decimated",
       "influence": "medium"
     },
     {
       "name": "Spain",
       "role": "NATO ally",
-      "position": "Refused use of jointly operated bases for Iran strikes",
+      "position": "Refused to allow US use of jointly operated bases for Iran strikes",
       "influence": "low"
     },
     {
       "name": "United Kingdom",
       "role": "Traditional ally",
-      "position": "Refused to back U.S. strikes on Iran",
+      "position": "Refused to back US strikes on Iran",
+      "influence": "medium"
+    },
+    {
+      "name": "US Congress",
+      "role": "Legislative oversight body",
+      "position": "Set to be briefed with possible vote on presidential war powers",
+      "influence": "medium"
+    },
+    {
+      "name": "Regional Middle Eastern countries",
+      "role": "Affected parties",
+      "position": "Now fighting against Iran after being targeted by Iranian strikes",
       "influence": "medium"
     }
   ],
   "predictions": [
     {
-      "text": "Congressional war powers vote will likely occur within days",
+      "text": "Congressional hearings and potential war powers resolution vote",
       "likelihood": "likely",
-      "timeframe": "1-2 weeks",
-      "basis": "Congress already scheduled briefings and Democrats demanding answers suggests formal vote is imminent"
+      "timeframe": "within days",
+      "basis": "Congress already scheduled to be briefed and considering war powers vote"
     },
     {
-      "text": "Iran will continue retaliating against regional countries",
+      "text": "Continued diplomatic tensions with European allies",
       "likelihood": "likely",
       "timeframe": "ongoing",
-      "basis": "Trump noted Iran is already hitting previously neutral countries, suggesting escalation pattern"
+      "basis": "Trump's threats against Spain and criticism of UK indicate escalating diplomatic friction"
     },
     {
-      "text": "Further diplomatic tensions with European allies",
-      "likelihood": "possible",
-      "timeframe": "short-term",
-      "basis": "Spain and UK already refusing cooperation, Trump publicly criticizing allies"
-    },
-    {
-      "text": "Additional strikes on remaining Iranian leadership",
+      "text": "Further US military action against Iran",
       "likelihood": "possible",
       "timeframe": "days to weeks",
-      "basis": "Trump referenced ongoing hits on 'new leadership' suggesting continued targeting"
+      "basis": "Trump indicated 'another hit today on the new leadership' suggesting ongoing operations"
     },
     {
-      "text": "Trump-Rubio contradiction will require clarification",
+      "text": "Regional escalation involving multiple Middle Eastern countries",
+      "likelihood": "likely",
+      "timeframe": "ongoing",
+      "basis": "Trump stated regional countries are now 'fighting strongly' against Iran after being targeted"
+    },
+    {
+      "text": "Internal administration tensions over messaging",
       "likelihood": "likely",
       "timeframe": "immediate",
-      "basis": "Direct contradiction between President and Secretary of State on strike rationale creates policy confusion"
+      "basis": "Direct contradiction between Trump and Rubio creates credibility and coordination issues"
     }
   ],
-  "historicalContext": "This incident reflects recurring patterns in U.S.-Iran tensions dating to the 1979 revolution, with periodic escalations including the 1987-1988 Tanker War, post-9/11 tensions, and the 2020 Soleimani assassination. The contradiction between Trump and Rubio echoes historical instances where administrations have struggled with consistent messaging during military operations, such as conflicting accounts during the 2003 Iraq invasion rationale. The involvement of Israel in joint strikes against Iran represents a significant escalation from previous proxy conflicts, while allied reluctance to support U.S. military action recalls divisions over the 2003 Iraq War when France and Germany opposed intervention.",
+  "historicalContext": "This situation echoes patterns from Trump's first presidency, where he frequently contradicted his own officials and took unilateral military action. The Iran strikes represent a significant escalation from the targeted assassination of Qasem Soleimani in 2020, moving to what appears to be broader infrastructure and leadership targeting. The contradiction between Trump and Rubio mirrors past instances where Trump's public statements undermined his administration's diplomatic messaging, such as during North Korea negotiations. The allied resistance, particularly from Spain and the UK, reflects growing European reluctance to support US military interventions without clear international consensus, a trend that began during the Iraq War and has intensified in recent years.",
   "implications": [
-    "Constitutional crisis potential as Congress may challenge presidential war powers without prior authorization",
-    "NATO alliance strain as key allies refuse cooperation, potentially weakening collective security framework",
-    "Regional destabilization as Iran retaliates against previously neutral countries, expanding conflict scope",
-    "Administrative credibility damage from contradictory explanations between President and Secretary of State",
-    "Escalation risk as continued leadership strikes may prompt more aggressive Iranian responses",
-    "International law questions regarding preemptive strikes without clear imminent threat documentation",
-    "Intelligence sharing complications with allies who opposed the strikes",
-    "Domestic political consequences as opposition likely to challenge strike authorization and rationale"
+    "Erosion of NATO unity and transatlantic relations due to unilateral US action and threats against allies",
+    "Potential constitutional crisis over presidential war powers if Congress challenges Trump's authority",
+    "Regional destabilization in the Middle East with multiple countries now engaged in conflict with Iran",
+    "Credibility damage to US diplomatic messaging due to high-level contradictions between President and Secretary of State",
+    "Possible Iranian retaliation against US interests globally, including activation of alleged sleeper cells",
+    "Precedent for future unilateral military action without clear allied support or congressional authorization",
+    "Humanitarian crisis potential with 35,000 reported Iranian protester deaths and ongoing military escalation",
+    "Economic implications from threatened trade cuts with allies like Spain",
+    "Weakening of international law and diplomatic norms regarding preemptive military action"
   ],
-  "generatedAt": "2026-03-03T20:00:22.058Z",
+  "generatedAt": "2026-03-03T23:11:58.996Z",
   "model": "anthropic/claude-sonnet-4"
 }

@@ -4,17 +4,18 @@
   "articleIds": [
     "09de5e17-afc3-4c8b-a050-6fdc397e2454",
     "0e3a0645-00db-41a0-bb4c-64c7151c0736",
-    "6179704c-3a02-4f09-83f2-acabc3227185"
+    "6179704c-3a02-4f09-83f2-acabc3227185",
+    "084619c8-d5c0-4421-85ca-485833e7e673"
   ],
   "redditPostIds": [],
   "createdAt": "2026-03-03T19:46:57.340Z",
-  "updatedAt": "2026-03-03T19:46:57.340Z",
-  "articleCount": 3,
+  "updatedAt": "2026-03-03T22:55:58.653Z",
+  "articleCount": 4,
   "sourceCount": 1,
   "topSources": [
     "STAT News"
   ],
-  "importance": 19,
+  "importance": 22,
   "status": "active",
   "centroid": [
     0.005181155333333334,

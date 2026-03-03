@@ -1,0 +1,44 @@
+{
+  "clusterId": "af5405c0-3d24-43c1-be66-619b3ddc492f",
+  "frames": [
+    {
+      "name": "Administrative Confusion Frame",
+      "description": "Focuses on contradictory explanations from Trump administration officials about justifications for striking Iran, portraying policy confusion and lack of clear messaging",
+      "sources": [
+        "ABC News"
+      ],
+      "emphasis": "Multiple, shifting rationales from different officials (missile threats, nuclear prevention, preemptive action) and Trump's evolving explanations"
+    },
+    {
+      "name": "Strategic Cost-Benefit Analysis Frame",
+      "description": "Presents the Iran strikes as a complex strategic decision with clear pros and cons, analyzing whether military action makes Americans safer or more at risk",
+      "sources": [
+        "Vox"
+      ],
+      "emphasis": "Systematic evaluation of military benefits (degraded capabilities, weakened proxy network, maintained credibility) versus risks (retaliation, escalation)"
+    },
+    {
+      "name": "Breaking News/Crisis Frame",
+      "description": "Emphasizes immediate developments, escalation, and real-time impacts including casualties, market reactions, and regional spread",
+      "sources": [
+        "ABC News"
+      ],
+      "emphasis": "11 countries involved, 6 US service members killed, market sell-offs, embassy closures, civilian impact in Beirut"
+    }
+  ],
+  "outlierPerspectives": [
+    "Trump's claim that he 'might have forced Israel's hand' rather than vice versa - a reversal of typical narratives about Israeli influence on US policy",
+    "Vox's systematic framework analyzing Iran strikes through lens of whether they make Americans safer or less safe",
+    "Focus on Iran's surprise targeting of 'neutral countries' as mentioned by Trump"
+  ],
+  "missingContext": [
+    "Timeline of events leading to the strikes - what specific incidents or intelligence triggered the action",
+    "Congressional authorization or legal justification for military action against Iran",
+    "International allies' positions and reactions to US-Israeli strikes",
+    "Specific details about the 'negotiations with these lunatics' Trump referenced",
+    "Casualty figures and humanitarian impact in Iran from the strikes",
+    "Previous US-Iran tensions and escalatory cycles for historical context"
+  ],
+  "generatedAt": "2026-03-03T23:10:21.318Z",
+  "model": "anthropic/claude-sonnet-4"
+}

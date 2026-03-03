@@ -2,7 +2,7 @@
   {
     "id": "993d33fc-dafd-4e3e-8905-2f5bc61390c2",
     "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
-    "text": "OpenAI announced a deal with the Pentagon on Friday to supply AI technology to the Department of Defense",
+    "text": "OpenAI announced a deal with the Pentagon on Friday to supply AI technology",
     "status": "undisputed",
     "supportingSources": [
       "UPI",
@@ -10,191 +10,184 @@
       "The Guardian US",
       "BBC World",
       "TechCrunch",
-      "Vox"
+      "Vox",
+      "CNBC",
+      "The Hill",
+      "YouTube: CNBC"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T20:02:12.946Z",
-    "lastUpdatedAt": "2026-03-03T20:02:12.946Z"
+    "lastUpdatedAt": "2026-03-03T23:13:50.580Z"
   },
   {
-    "id": "eb2f033b-96dd-453a-ba77-eac64e5bc3ab",
+    "id": "dea73696-4f8d-46e2-bebb-ea4c391ba0f7",
     "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
-    "text": "OpenAI replaced Anthropic in the Pentagon contract within hours of Anthropic being dropped",
-    "status": "undisputed",
-    "supportingSources": [
-      "UPI",
-      "The Guardian US",
-      "TechCrunch"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:02:12.946Z",
-    "lastUpdatedAt": "2026-03-03T20:02:12.946Z"
-  },
-  {
-    "id": "81e69580-406c-433c-bf2b-1a226f9f0941",
-    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
-    "text": "Anthropic was blacklisted/dropped for refusing to allow its technology to be used for surveillance and autonomous weapons",
+    "text": "Anthropic was blacklisted/designated as a supply chain risk by the Pentagon",
     "status": "undisputed",
     "supportingSources": [
       "UPI",
       "The Guardian US",
       "BBC World",
+      "Vox",
+      "CNBC",
+      "YouTube: CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:13:50.580Z",
+    "lastUpdatedAt": "2026-03-03T23:13:50.580Z"
+  },
+  {
+    "id": "6ff5f673-7470-43cf-a40d-ab15a8b87c8f",
+    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
+    "text": "Anthropic refused to allow its technology to be used for mass surveillance and fully autonomous weapons",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI",
+      "The Guardian US",
+      "BBC World",
+      "Vox",
+      "CNBC",
+      "YouTube: CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:13:50.580Z",
+    "lastUpdatedAt": "2026-03-03T23:13:50.580Z"
+  },
+  {
+    "id": "45365561-df52-4b82-8b36-d81b19b7e5e7",
+    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
+    "text": "OpenAI will revise its Pentagon contract to include provisions banning domestic mass surveillance",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI",
+      "BBC World",
+      "YouTube: CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:13:50.580Z",
+    "lastUpdatedAt": "2026-03-03T23:13:50.580Z"
+  },
+  {
+    "id": "9120d3af-746f-4ce8-8d51-ecca4e840eaa",
+    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
+    "text": "Sam Altman said OpenAI rushed the Friday announcement and it looked 'opportunistic and sloppy'",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI",
+      "BBC World",
+      "YouTube: CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:13:50.580Z",
+    "lastUpdatedAt": "2026-03-03T23:13:50.580Z"
+  },
+  {
+    "id": "6dc6bc43-6488-4a20-8464-a6072a723bd8",
+    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
+    "text": "ChatGPT uninstalls increased significantly after the Pentagon deal announcement",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI",
+      "BBC World",
+      "The Hill"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:13:50.580Z",
+    "lastUpdatedAt": "2026-03-03T23:13:50.580Z"
+  },
+  {
+    "id": "343191a7-f4c9-4f4c-bc39-8266a2df4b4d",
+    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
+    "text": "ChatGPT uninstalls rose 200% according to Sensor Tower",
+    "status": "disputed",
+    "supportingSources": [
+      "BBC World"
+    ],
+    "disputingSources": [
+      "The Hill"
+    ],
+    "firstSeenAt": "2026-03-03T23:13:50.580Z",
+    "lastUpdatedAt": "2026-03-03T23:13:50.580Z"
+  },
+  {
+    "id": "2a9bb39e-eb7a-4799-8594-8c3f2b1592a7",
+    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
+    "text": "ChatGPT uninstalls rose 295% day-over-day according to Sensor Tower",
+    "status": "disputed",
+    "supportingSources": [
+      "The Hill"
+    ],
+    "disputingSources": [
+      "BBC World"
+    ],
+    "firstSeenAt": "2026-03-03T23:13:50.580Z",
+    "lastUpdatedAt": "2026-03-03T23:13:50.580Z"
+  },
+  {
+    "id": "d633a3d2-2fab-45c2-ab34-0f70ea009fad",
+    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
+    "text": "Anthropic's Claude app reached No. 1 in the App Store",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI",
+      "BBC World",
+      "The Hill"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:13:50.580Z",
+    "lastUpdatedAt": "2026-03-03T23:13:50.580Z"
+  },
+  {
+    "id": "c128c8ee-9423-4818-8d74-1cd375b84ef1",
+    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
+    "text": "More than 900 employees from OpenAI and Google signed an open letter opposing military AI use",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI",
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:13:50.580Z",
+    "lastUpdatedAt": "2026-03-03T23:13:50.580Z"
+  },
+  {
+    "id": "8e716378-efa9-4ae6-9d6f-c03b509b1428",
+    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
+    "text": "The US carried out strikes on Iran over the weekend",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC",
+      "YouTube: CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:13:50.580Z",
+    "lastUpdatedAt": "2026-03-03T23:13:50.580Z"
+  },
+  {
+    "id": "b2ce80be-5793-4b1a-89c7-7ff7f64118aa",
+    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
+    "text": "The US military used Claude for its attack on Iran",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World",
+      "YouTube: CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:13:50.580Z",
+    "lastUpdatedAt": "2026-03-03T23:13:50.580Z"
+  },
+  {
+    "id": "5ff5803d-9e7b-4da1-b0a0-dd3e3c71051e",
+    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
+    "text": "Pete Hegseth is the Defense Secretary",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US",
       "Vox"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:02:12.946Z",
-    "lastUpdatedAt": "2026-03-03T20:02:12.946Z"
-  },
-  {
-    "id": "0fea2d1b-e825-45b9-a470-ba59b7b60b95",
-    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
-    "text": "Sam Altman said OpenAI 'rushed' the Friday announcement and it was 'opportunistic and sloppy'",
-    "status": "undisputed",
-    "supportingSources": [
-      "UPI",
-      "MIT Tech Review",
-      "BBC World"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:02:12.946Z",
-    "lastUpdatedAt": "2026-03-03T20:02:12.946Z"
-  },
-  {
-    "id": "3a274be1-dda8-4fd7-95be-619c5b15c488",
-    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
-    "text": "OpenAI announced revisions to the contract on Monday to include provisions banning use for domestic mass surveillance",
-    "status": "undisputed",
-    "supportingSources": [
-      "UPI",
-      "BBC World"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:02:12.946Z",
-    "lastUpdatedAt": "2026-03-03T20:02:12.946Z"
-  },
-  {
-    "id": "3a802c22-f3f8-4f4d-8b7d-e86aba9fa12d",
-    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
-    "text": "The revised contract states 'the AI system shall not be intentionally used for domestic surveillance of U.S. persons and nationals'",
-    "status": "undisputed",
-    "supportingSources": [
-      "UPI",
-      "BBC World"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:02:12.946Z",
-    "lastUpdatedAt": "2026-03-03T20:02:12.946Z"
-  },
-  {
-    "id": "f15a3391-f1e8-4085-b13e-9fa4cb172839",
-    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
-    "text": "Intelligence agencies such as the NSA would not use OpenAI's tools under the agreement",
-    "status": "undisputed",
-    "supportingSources": [
-      "UPI",
-      "BBC World"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:02:12.946Z",
-    "lastUpdatedAt": "2026-03-03T20:02:12.946Z"
-  },
-  {
-    "id": "494e2f67-f4f8-4d69-82bb-3331658480a0",
-    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
-    "text": "ChatGPT app uninstalls increased significantly after the Friday announcement",
-    "status": "undisputed",
-    "supportingSources": [
-      "UPI",
-      "BBC World"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:02:12.946Z",
-    "lastUpdatedAt": "2026-03-03T20:02:12.946Z"
-  },
-  {
-    "id": "e34689c8-8ff7-43fa-a980-eaf31b048116",
-    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
-    "text": "Anthropic's Claude app rose to No. 1 on the U.S. App Store after the announcement",
-    "status": "undisputed",
-    "supportingSources": [
-      "UPI",
-      "BBC World"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:02:12.946Z",
-    "lastUpdatedAt": "2026-03-03T20:02:12.946Z"
-  },
-  {
-    "id": "31319842-3e2c-4507-96d4-3a06144bb4bb",
-    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
-    "text": "More than 900 employees of OpenAI and Google signed an open letter opposing the Pentagon's demands",
-    "status": "undisputed",
-    "supportingSources": [
-      "UPI"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:02:12.946Z",
-    "lastUpdatedAt": "2026-03-03T20:02:12.946Z"
-  },
-  {
-    "id": "cdff506e-8adc-455b-8b8f-ae268e0b57bc",
-    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
-    "text": "Defense Secretary Pete Hegseth called Anthropic's provisions 'woke'",
-    "status": "undisputed",
-    "supportingSources": [
-      "The Guardian US"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:02:12.946Z",
-    "lastUpdatedAt": "2026-03-03T20:02:12.946Z"
-  },
-  {
-    "id": "c387cc1d-7f15-4a7d-981c-acd74e64c650",
-    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
-    "text": "Donald Trump issued an order for federal agencies to discontinue use of Anthropic models",
-    "status": "undisputed",
-    "supportingSources": [
-      "The Guardian US"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:02:12.946Z",
-    "lastUpdatedAt": "2026-03-03T20:02:12.946Z"
-  },
-  {
-    "id": "08edf125-0504-4cd0-bd65-7ac456f3b5de",
-    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
-    "text": "The daily average ChatGPT uninstall rate was up by 200% compared to normal rates",
-    "status": "undisputed",
-    "supportingSources": [
-      "BBC World"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:02:12.946Z",
-    "lastUpdatedAt": "2026-03-03T20:02:12.946Z"
-  },
-  {
-    "id": "35b3e79d-0a21-4626-84d7-d8941a3fffd3",
-    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
-    "text": "Claude was still in use in the US-Israel war with Iran as of Tuesday, despite the blacklisting",
-    "status": "undisputed",
-    "supportingSources": [
-      "BBC World"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:02:12.946Z",
-    "lastUpdatedAt": "2026-03-03T20:02:12.946Z"
-  },
-  {
-    "id": "6ed78d26-ec9a-452c-9d60-680791954981",
-    "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
-    "text": "The US used Claude in its January raid in Venezuela",
-    "status": "undisputed",
-    "supportingSources": [
-      "Vox"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:02:12.946Z",
-    "lastUpdatedAt": "2026-03-03T20:02:12.946Z"
+    "firstSeenAt": "2026-03-03T23:13:50.580Z",
+    "lastUpdatedAt": "2026-03-03T23:13:50.580Z"
   },
   {
     "id": "ac333ecd-3b9e-4f1d-a41c-42551b2393c4",
@@ -206,42 +199,43 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T20:02:12.946Z",
-    "lastUpdatedAt": "2026-03-03T20:02:12.946Z"
+    "lastUpdatedAt": "2026-03-03T23:13:50.580Z"
   },
   {
-    "id": "04724978-9edd-494e-a06e-a3447e1b071b",
+    "id": "b81159e6-534f-4e65-ac43-5d632faa2f12",
     "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
-    "text": "OpenAI's contract excerpt 'does not give OpenAI an Anthropic-style, free-standing right to prohibit otherwise-lawful government use'",
+    "text": "Intelligence agencies like the NSA would not use OpenAI's tools under the revised contract",
     "status": "undisputed",
     "supportingSources": [
-      "MIT Tech Review"
+      "UPI",
+      "BBC World"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:02:12.946Z",
-    "lastUpdatedAt": "2026-03-03T20:02:12.946Z"
+    "firstSeenAt": "2026-03-03T23:13:50.580Z",
+    "lastUpdatedAt": "2026-03-03T23:13:50.580Z"
   },
   {
-    "id": "ca8150b9-2322-46c0-9f33-a3330c4dfe06",
+    "id": "8124ac84-f564-4738-af07-c568501ec305",
     "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
-    "text": "The Pentagon contract is worth hundreds of millions of dollars",
+    "text": "Anthropic submitted a bid for a Pentagon autonomous drone swarming challenge",
     "status": "undisputed",
     "supportingSources": [
-      "The Guardian US"
+      "YouTube: CNBC"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:02:12.946Z",
-    "lastUpdatedAt": "2026-03-03T20:02:12.946Z"
+    "firstSeenAt": "2026-03-03T23:13:50.580Z",
+    "lastUpdatedAt": "2026-03-03T23:13:50.580Z"
   },
   {
-    "id": "fed7fcbf-5661-46f1-846f-a6df4e96a811",
+    "id": "69d5f1cd-a374-455e-8bff-844992aacedd",
     "clusterId": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
-    "text": "There was a $200 million contract with Anthropic",
+    "text": "The Pentagon had a $200 million contract with Anthropic",
     "status": "undisputed",
     "supportingSources": [
       "Vox"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:02:12.946Z",
-    "lastUpdatedAt": "2026-03-03T20:02:12.946Z"
+    "firstSeenAt": "2026-03-03T23:13:50.580Z",
+    "lastUpdatedAt": "2026-03-03T23:13:50.580Z"
   }
 ]

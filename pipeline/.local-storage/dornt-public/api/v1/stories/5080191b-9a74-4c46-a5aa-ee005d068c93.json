@@ -15,21 +15,20 @@
       "3ca0e67f-b417-40f3-913b-41fbddb45d83",
       "52803460-aaf8-418f-ae5a-163a3ee104da",
       "59908e49-90c4-4a5e-8015-41c3e4e36ace",
-      "5a7a28a9-7805-4e41-bbf9-346c0d139efa"
+      "5a7a28a9-7805-4e41-bbf9-346c0d139efa",
+      "2be647e7-51f0-4417-a92e-32f1adcd5471"
     ],
     "redditPostIds": [],
     "createdAt": "2026-02-26T17:45:56.963Z",
-    "updatedAt": "2026-03-03T19:46:57.552Z",
-    "articleCount": 13,
-    "sourceCount": 6,
+    "updatedAt": "2026-03-03T22:55:58.830Z",
+    "articleCount": 14,
+    "sourceCount": 3,
     "topSources": [
       "The Guardian US",
       "Axios",
-      "Vox",
-      "Foreign Policy",
-      "France 24"
+      "Vox"
     ],
-    "importance": 99,
+    "importance": 72,
     "status": "active",
     "centroid": [
       -0.0697032675,
@@ -1572,7 +1571,7 @@
   },
   "synthesis": {
     "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-    "narrative": "## State of the Story: Trump's War with Iran\n\n### Key Facts Established\n\nPresident Donald Trump launched joint US-Israeli air strikes against Iran beginning Saturday, February 28, 2026 [1][2][3][4][5][6]. The operation, which Trump has branded as part of his military campaign, represents a significant escalation in Middle East tensions and marks a departure from his campaign promises to avoid foreign wars [1][6].\n\n### Military Objectives and Timeline\n\nTrump has articulated four primary military objectives for the operation: destroying Iran's ballistic missile capabilities, eliminating Iran's navy, preventing nuclear weapons development, and ending Tehran's support for militant proxy groups [1][4][5]. However, sources note significant inconsistency in Trump's messaging about timelines and ultimate goals [2][5].\n\nTrump has provided varying timelines for the operation, telling different outlets he could \"end it in two or three days\" or \"go long,\" while also stating the military could sustain operations for \"four to five weeks\" [5]. He has described the operation as \"substantially ahead of schedule\" while warning that \"the big one is coming soon\" [5].\n\n### Regime Change Question\n\nA central point of confusion involves whether the administration seeks regime change in Iran. Trump announced that Supreme Leader Ayatollah Ali Khamenei was killed in an airstrike [3], while Defense Secretary Pete Hegseth stated this is \"not a so-called regime-change war, but the regime sure did change\" [5]. Trump has offered \"seemingly contradictory visions\" for power transfer in Iran, at times suggesting he has candidates to take over, then later saying those people were dead [5].\n\n### Military and Political Context\n\nThe strikes targeted hundreds of locations including ballistic missile launchers, drone production sites, military airfields, naval facilities, and air defense systems [4]. A former intelligence official cited concerns about Iran's rapid rebuilding of missile capabilities after previous June 2025 strikes [1]. \n\nTrump dismissed Pentagon leadership shortly before the operation, removing joint chiefs director Vice Admiral Fred Kacher after General Dan Caine reportedly warned about munitions shortfalls and lack of allied support [3].\n\n### Political Backlash\n\nThe war has generated criticism from both Trump's traditional base and political opponents [1][6]. Tucker Carlson, a longtime Trump supporter, described the attacks as \"absolutely disgusting and evil\" [6]. Critics note the contradiction with Trump's campaign positioning as a peace candidate who would avoid Middle East entanglements [6].\n\n### Casualty and Retaliation Concerns\n\nSources report the first US casualties, though details remain unclear [1]. Iran has launched retaliatory attacks on Gulf Arab states that Trump described as \"probably the biggest surprise\" [1]. The administration has claimed the strikes prevented \"imminent threats\" to Americans, though Pentagon briefings to congressional staff reportedly found no intelligence basis for such claims [3].\n\n### Congressional and Legal Questions\n\nTrump proceeded without congressional consultation and offered \"imminent threats\" as justification, though sources indicate this lacked factual basis [3]. The operation follows Trump's pattern of launching military strikes across seven nations in his first 14 months, exceeding his predecessor's four-year total [1].",
+    "narrative": "## State of the Story: Trump's Iran War\n\n### Key Facts Established\n\nPresident Donald Trump launched joint US-Israeli military strikes against Iran beginning early Saturday, February 28, 2026 [1][6]. The operation, which Trump has branded as \"Operation Epic Fury\" [3], represents a significant escalation in Middle East tensions and marks a departure from Trump's campaign promises to avoid foreign wars [1][7].\n\n### Military Objectives and Strategy\n\nTrump has articulated four primary military objectives for the campaign: destroying Iran's ballistic missile capabilities, eliminating Iran's navy, preventing nuclear weapons development, and ending Tehran's support for militant proxy groups [1][6]. The strikes targeted \"hundreds of targets across Iran, including ballistic missile launchers, drone production sites, military airfields, key naval facilities, and air defense systems\" [5].\n\nHowever, sources reveal significant confusion about strategic goals. The Wall Street Journal reported that as of January 30, Trump was still \"debating whether the main aim is to go after Iran's nuclear program, hit its ballistic missile arsenal, bring about the collapse of the government—or some combination of the three\" [2]. This uncertainty has continued, with Trump offering \"seemingly contradictory visions of how power might be transferred to a new government\" in interviews [1].\n\n### Timeline of Events\n\n- **January 30**: Wall Street Journal reports Trump planning major military campaign with unclear objectives [2]\n- **February 25**: Vice Admiral Fred Kacher, director of joint chiefs of staff, summarily dismissed [3]\n- **February 27**: General Dan Caine cautioned Trump about munitions shortfalls and ally support risks [3]\n- **February 28**: Joint US-Israeli strikes begin early Saturday [1][6]\n- **March 2**: Trump delivers scattered messaging through multiple media interviews [6]\n- **March 3**: Trump provides first formal White House remarks outlining four objectives [1]\n\n### Justification and Intelligence Claims\n\nThe administration has claimed the strikes were necessary to counter \"imminent threats\" from Iran [3][5]. However, Pentagon briefings to congressional staffers revealed \"there was no intelligence suggesting an 'imminent threat'\" [3]. A former intelligence official told the Washington Post that US agencies were concerned about Iran's rapid rebuilding of missile capabilities after previous June 2025 strikes [1].\n\n### Political and Strategic Contradictions\n\nMultiple sources highlight the contradiction between Trump's campaign positioning as a peace candidate and his military actions. Trump \"came to power promising to keep the US out of foreign wars\" but has \"launched offensives on seven nations, ordering more strikes just in 2025 than his predecessor Joe Biden did in four years\" [1]. Tucker Carlson, a longtime Trump supporter, described the attacks as \"absolutely disgusting and evil\" [7].\n\n### Evolving Claims and Messaging\n\nTrump's messaging has been inconsistent across multiple media interviews. He has claimed both that this \"is not a so-called regime-change war\" while simultaneously stating his objective as \"decapitating them, getting rid of their whole group of killers and thugs\" [6]. Trump also announced that Supreme Leader Ayatollah Ali Khamenei had died in an airstrike, though this claim's verification status is unclear [3].\n\n### Military Leadership Changes\n\nThree days before the attacks began, Trump dismissed Vice Admiral Fred Kacher after only three months as director of the joint chiefs of staff, with \"no reason\" provided by the Pentagon [3]. This followed General Dan Caine's warnings about operational risks [3].\n\n### Source Disagreements and Analysis\n\nSources generally agree on the basic facts of the military operation but differ significantly in their analysis of Trump's motivations and strategy. The Guardian's Sidney Blumenthal argues Trump has \"cornered himself\" and is pursuing the war for domestic political purposes related to upcoming midterm elections [3]. The Atlantic's analysis suggests Trump decided on tactics before settling on objectives, calling this approach \"unorthodox\" [2]. Foreign Policy characterizes the action as a \"betrayal\" of Trump's base [7].",
     "citations": [
       {
         "index": 1,
@@ -1596,10 +1595,18 @@
         "source": "The Guardian US",
         "title": "Trump has cornered himself with his war in Iran",
         "url": "https://www.theguardian.com/commentisfree/2026/mar/03/trump-iran-war-emergency-powers",
-        "quote": "Three days before Trump began his attack, the director of the joint chiefs of staff, vice-admiral Fred Kacher, was summarily dismissed after serving for only three months."
+        "quote": "He offered as his imperative Iranian 'imminent threats', which the Pentagon briefed congressional staffers after Operation Epic Fury began was simply without basis in fact. There was no intelligence suggesting an 'imminent threat'."
       },
       {
         "index": 4,
+        "articleId": "0d65906a-d933-4be4-953c-1fccdf679127",
+        "source": "The Guardian US",
+        "title": "Trump has cornered himself with his war in Iran",
+        "url": "https://www.theguardian.com/commentisfree/2026/mar/03/trump-iran-war-emergency-powers",
+        "quote": "Three days before Trump began his attack, the director of the joint chiefs of staff, vice-admiral Fred Kacher, was summarily dismissed after serving for only three months. The Pentagon offered no reason for his removal."
+      },
+      {
+        "index": 5,
         "articleId": "3ca0e67f-b417-40f3-913b-41fbddb45d83",
         "source": "Vox",
         "title": "The case for — and against — striking Iran",
@@ -1607,15 +1614,15 @@
         "quote": "The joint US-Israeli operation struck hundreds of targets across Iran, including ballistic missile launchers, drone production sites, military airfields, key naval facilities, and air defense systems."
       },
       {
-        "index": 5,
+        "index": 6,
         "articleId": "3b217b75-d019-48db-8e4f-ed967f205a5e",
         "source": "Axios",
         "title": "Trump delivers Iran messaging through exclusive interview spree",
         "url": "https://www.axios.com/2026/03/02/trump-iran-strike-plan-timeline-interviews",
-        "quote": "The New York Times reported that Trump in an interview offered 'seemingly contradictory visions' for the transfer of power in Iran."
+        "quote": "Asked by NBC News what his objectives are, Trump said 'number one is decapitating them, getting rid of their whole group of killers and thugs.'"
       },
       {
-        "index": 6,
+        "index": 7,
         "articleId": "52803460-aaf8-418f-ae5a-163a3ee104da",
         "source": "Foreign Policy",
         "title": "Trump Is Betraying His Base By Waging War on Iran",
@@ -1624,17 +1631,17 @@
       }
     ],
     "keyDevelopments": [
-      "Joint US-Israeli air strikes on Iran began Saturday, February 28, 2026",
-      "Trump announced four military objectives including destroying missile capabilities and navy",
-      "Supreme Leader Khamenei reportedly killed in strikes, though regime change goals remain unclear",
-      "First US casualties reported as Iran launches retaliatory attacks on Gulf states",
-      "Pentagon leadership dismissed shortly before operation amid warnings about risks",
-      "Political backlash emerges from Trump's base over contradiction with peace campaign promises",
-      "Administration claims of 'imminent threats' reportedly lack intelligence basis"
+      "Joint US-Israeli strikes on Iran began February 28, 2026",
+      "Trump articulated four military objectives on March 3 after days of conflicting messaging",
+      "Pentagon revealed no intelligence supported 'imminent threat' claims",
+      "Vice Admiral Fred Kacher dismissed three days before strikes began",
+      "Trump claimed Supreme Leader Khamenei killed in airstrike",
+      "Multiple Trump supporters, including Tucker Carlson, criticized the military action",
+      "Iran launched retaliatory attacks on Gulf Arab states that surprised Trump administration"
     ],
-    "generatedAt": "2026-03-03T19:52:38.056Z",
+    "generatedAt": "2026-03-03T23:01:45.847Z",
     "model": "anthropic/claude-sonnet-4",
-    "tokenCount": 5706
+    "tokenCount": 6687
   },
   "claims": [
     {
@@ -1652,20 +1659,44 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T19:52:54.702Z",
-      "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
     },
     {
-      "id": "ff7fd655-dd8b-4eb8-acb8-4bc77f586aac",
+      "id": "c1fa7623-a821-4d58-9c76-6af57fc904b6",
       "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-      "text": "Trump announced that Supreme Leader Ayatollah Ali Khamenei died in an airstrike",
+      "text": "The strikes began on Saturday (February 28, 2026)",
       "status": "undisputed",
       "supportingSources": [
-        "The Guardian US",
-        "Axios"
+        "Foreign Policy",
+        "France 24"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:02:04.960Z",
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
+    },
+    {
+      "id": "d95a1a9b-a822-4e5f-a776-d805fcbb3f7a",
+      "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+      "text": "Trump claimed Iranian Supreme Leader Ali Khamenei died in an airstrike",
+      "status": "undisputed",
+      "supportingSources": [
+        "The Guardian US"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:02:04.960Z",
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
+    },
+    {
+      "id": "05c2c46e-80ee-44cf-9177-8b8678c7ad65",
+      "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+      "text": "Pentagon briefed congressional staffers that there was no intelligence suggesting an 'imminent threat' from Iran",
+      "status": "undisputed",
+      "supportingSources": [
+        "The Guardian US"
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T19:52:54.702Z",
-      "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
     },
     {
       "id": "d8e9b46f-9e11-402f-8227-3b887b3c42bd",
@@ -1677,7 +1708,7 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T19:52:54.702Z",
-      "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
     },
     {
       "id": "d7c6dfbc-dff2-4c05-b5cd-bbb1073a7d67",
@@ -1689,40 +1720,13 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T19:52:54.702Z",
-      "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
-    },
-    {
-      "id": "31bb7071-1a2e-4d17-87ec-9b2f1745b7b9",
-      "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-      "text": "The administration claimed the strikes prevented an imminent threat to Americans",
-      "status": "disputed",
-      "supportingSources": [
-        "Vox",
-        "France 24"
-      ],
-      "disputingSources": [
-        "The Guardian US"
-      ],
-      "firstSeenAt": "2026-03-03T19:52:54.702Z",
-      "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
-    },
-    {
-      "id": "05c2c46e-80ee-44cf-9177-8b8678c7ad65",
-      "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-      "text": "There was no intelligence suggesting an 'imminent threat' according to Pentagon briefings",
-      "status": "undisputed",
-      "supportingSources": [
-        "The Guardian US"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T19:52:54.702Z",
-      "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
     },
     {
       "id": "baa5c871-4465-4cd3-8d44-f53fdb9d58a3",
       "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-      "text": "Trump's stated objectives for the war include destroying Iran's missile capabilities, navy, nuclear program, and stopping support for terrorist groups",
-      "status": "undisputed",
+      "text": "Trump's stated objectives for the war",
+      "status": "evolving",
       "supportingSources": [
         "Axios",
         "France 24",
@@ -1730,21 +1734,7 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T19:52:54.702Z",
-      "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
-    },
-    {
-      "id": "479728d9-3267-47ea-b82f-0dc4487bc33b",
-      "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-      "text": "Trump has given contradictory statements about whether this is regime change",
-      "status": "undisputed",
-      "supportingSources": [
-        "Axios",
-        "France 24",
-        "The Atlantic"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T19:52:54.702Z",
-      "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
     },
     {
       "id": "6850bdb6-e290-4aa9-b042-d30eac877290",
@@ -1756,20 +1746,44 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T19:52:54.702Z",
-      "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
     },
     {
-      "id": "5b725156-0ced-4b7d-9fe0-a2a2daf00817",
+      "id": "7ad188bc-4a9d-4eb9-90bb-d82f13bce10a",
       "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-      "text": "Trump has given varying timelines for the operation duration in different interviews",
+      "text": "Trump told various outlets he had candidates in mind to take over Iran but later said they were dead",
+      "status": "undisputed",
+      "supportingSources": [
+        "Axios"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:02:04.960Z",
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
+    },
+    {
+      "id": "12d263ff-e386-46ba-9bc1-67a36d9ae134",
+      "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+      "text": "Trump gave shifting timelines for the mission duration",
       "status": "undisputed",
       "supportingSources": [
         "Axios",
-        "France 24"
+        "The Guardian US"
       ],
       "disputingSources": [],
-      "firstSeenAt": "2026-03-03T19:52:54.702Z",
-      "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+      "firstSeenAt": "2026-03-03T23:02:04.960Z",
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
+    },
+    {
+      "id": "957b0550-6945-4bed-b3fb-4a4f6c23c556",
+      "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+      "text": "The strikes targeted hundreds of targets including ballistic missile launchers, drone production sites, military airfields, naval facilities, and air defense systems",
+      "status": "undisputed",
+      "supportingSources": [
+        "Vox"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:02:04.960Z",
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
     },
     {
       "id": "b93c5877-d5b0-4f1b-aabd-44993b24a6c8",
@@ -1781,118 +1795,180 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T19:52:54.702Z",
-      "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
     },
     {
-      "id": "89c82f7b-412a-423d-ad5a-4f580756345b",
+      "id": "71addd4b-d4ef-4d52-9575-0c0d5d7ccf35",
       "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-      "text": "There have been reports of first US casualties",
+      "text": "There were reports of first US casualties",
       "status": "undisputed",
       "supportingSources": [
         "France 24"
       ],
       "disputingSources": [],
-      "firstSeenAt": "2026-03-03T19:52:54.702Z",
-      "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+      "firstSeenAt": "2026-03-03T23:02:04.960Z",
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
     },
     {
-      "id": "9ec1e5bb-6e15-4984-a93d-30bab5f1adff",
+      "id": "c86596ee-2200-4415-ae2b-1c68dfcae1c4",
       "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-      "text": "Trump previously bombed Iranian nuclear facilities at Fordow, Natanz, and Isfahan in June",
-      "status": "undisputed",
-      "supportingSources": [
-        "The Atlantic",
-        "France 24"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T19:52:54.702Z",
-      "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
-    },
-    {
-      "id": "13a76e0d-7031-4209-b57c-cae844a79ec5",
-      "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-      "text": "Trump launched offensives on seven nations in his first 14 months, more strikes in 2025 than Biden did in four years",
+      "text": "Trump launched offensives on seven nations in first 14 months of presidency",
       "status": "undisputed",
       "supportingSources": [
         "France 24"
       ],
       "disputingSources": [],
-      "firstSeenAt": "2026-03-03T19:52:54.702Z",
-      "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+      "firstSeenAt": "2026-03-03T23:02:04.960Z",
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
     },
     {
-      "id": "ffb47886-fa46-41f9-922b-9720cc030fd1",
+      "id": "f03af0da-029e-46dd-b5be-0f3baf42a82a",
       "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-      "text": "The Wall Street Journal reported Trump was still debating objectives as of January 30",
+      "text": "Trump ordered more strikes in 2025 than Biden did in four years",
+      "status": "undisputed",
+      "supportingSources": [
+        "France 24"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:02:04.960Z",
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
+    },
+    {
+      "id": "13c5757b-77b7-4e9e-b2ad-f08459f0e2b2",
+      "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+      "text": "US and Israeli forces bombed Iran's missile program in June 2025",
+      "status": "undisputed",
+      "supportingSources": [
+        "France 24",
+        "The Atlantic"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:02:04.960Z",
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
+    },
+    {
+      "id": "48b95a6c-b658-4407-aa47-36756215c955",
+      "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+      "text": "Trump claimed previous strikes 'obliterated the regime's nuclear program at Fordow, Natanz, and Isfahan'",
       "status": "undisputed",
       "supportingSources": [
         "The Atlantic"
       ],
       "disputingSources": [],
-      "firstSeenAt": "2026-03-03T19:52:54.702Z",
-      "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+      "firstSeenAt": "2026-03-03T23:02:04.960Z",
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
+    },
+    {
+      "id": "0cd8563d-3f52-4c4f-b772-890241cef494",
+      "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+      "text": "Wall Street Journal reported Trump was planning major military campaign but was still debating objectives as of January 30",
+      "status": "undisputed",
+      "supportingSources": [
+        "The Atlantic"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:02:04.960Z",
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
+    },
+    {
+      "id": "09c7019f-3f13-493b-9f4c-56d6903343ef",
+      "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+      "text": "Oman's foreign minister said sides were making 'significant progress' in negotiations before bombing began",
+      "status": "undisputed",
+      "supportingSources": [
+        "The Guardian US"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:02:04.960Z",
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
+    },
+    {
+      "id": "223a6f4c-9782-445c-894f-f0e3683d6f53",
+      "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+      "text": "Whether the operation constitutes regime change",
+      "status": "disputed",
+      "supportingSources": [
+        "The Guardian US",
+        "Foreign Policy"
+      ],
+      "disputingSources": [
+        "Axios"
+      ],
+      "firstSeenAt": "2026-03-03T23:02:04.960Z",
+      "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
     }
   ],
   "coverage": {
     "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
     "frames": [
       {
-        "name": "Strategic Incoherence Frame",
-        "description": "Portrays Trump's Iran war as strategically confused, with shifting objectives and contradictory messaging revealing absence of clear planning",
+        "name": "Strategic Incoherence",
+        "description": "Portrays Trump's Iran policy as chaotic, contradictory, and lacking clear objectives or strategy",
         "sources": [
           "The Guardian US",
           "The Atlantic",
-          "France 24"
+          "Axios"
         ],
-        "emphasis": "Trump's contradictory statements, lack of clear strategy, and hour-by-hour spinning as evidence of poor decision-making"
+        "emphasis": "Inconsistent messaging, shifting timelines, absence of coherent strategy"
       },
       {
-        "name": "Campaign Promise Betrayal Frame",
-        "description": "Frames the war as Trump abandoning his 'America First' anti-war promises and betraying his base who voted for peace",
+        "name": "Political Betrayal",
+        "description": "Frames the war as Trump abandoning his anti-war campaign promises and betraying his base",
         "sources": [
           "Foreign Policy"
         ],
-        "emphasis": "Trump's hypocrisy in becoming the 'warmongering neocon' he once criticized, disappointing supporters like Tucker Carlson"
+        "emphasis": "Contradiction with 'America First' messaging and peace candidate positioning"
       },
       {
-        "name": "Messaging Chaos Frame",
-        "description": "Focuses on the administration's scattered communication strategy through multiple interviews rather than formal addresses",
+        "name": "Risk-Benefit Analysis",
+        "description": "Presents balanced examination of potential strategic gains versus dangers of military action",
+        "sources": [
+          "Vox"
+        ],
+        "emphasis": "Weighing degraded Iranian capabilities against risks of retaliation and escalation"
+      },
+      {
+        "name": "Communication Crisis",
+        "description": "Focuses on Trump's scattered media approach and failure to provide clear public explanation",
         "sources": [
           "Axios",
           "France 24"
         ],
-        "emphasis": "Trump's scattershot media approach and varying timelines/objectives depending on the outlet and timing"
+        "emphasis": "Lack of formal address to nation, contradictory interview statements"
       },
       {
-        "name": "Risk-Benefit Analysis Frame",
-        "description": "Presents balanced assessment of potential strategic gains versus dangers of military action against Iran",
-        "sources": [
-          "Vox"
-        ],
-        "emphasis": "Weighing degraded Iranian capabilities and deterrence against risks of retaliation and regional instability"
-      },
-      {
-        "name": "Domestic Political Calculation Frame",
-        "description": "Views the war through lens of Trump's domestic political needs, particularly regarding midterm elections",
+        "name": "Domestic Political Calculation",
+        "description": "Views the war through lens of Trump's domestic political needs and electoral concerns",
         "sources": [
           "The Guardian US"
         ],
-        "emphasis": "War as serving Trump's need to assert emergency authority and avoid electoral 'regime change' at home"
+        "emphasis": "Connection between foreign war and domestic power consolidation"
+      },
+      {
+        "name": "Intelligence Failure",
+        "description": "Questions the claimed 'imminent threat' justification for military action",
+        "sources": [
+          "The Guardian US",
+          "France 24"
+        ],
+        "emphasis": "Lack of evidence for stated threat assessment"
       }
     ],
     "outlierPerspectives": [
-      "The Guardian's framing of the war as primarily about Trump's narcissism and domestic political survival rather than foreign policy objectives",
-      "Foreign Policy's emphasis on Trump betraying his peace-candidate image and disappointing his base",
-      "The Atlantic's focus on the tactical-before-strategic approach as fundamentally backwards military planning"
+      "The war as personal branding exercise - The Guardian's characterization of the conflict as 'Trump Iran War' reflecting narcissistic motivations",
+      "Venezuelan operation as template - Trump's reported comparison to Maduro capture mission mentioned only in Axios",
+      "Military leadership purge - The Guardian's exclusive focus on dismissal of joint chiefs director before attacks"
     ],
     "missingContext": [
-      "Congressional oversight and authorization questions - most sources mention Trump 'shut out congressional consultation' but don't explore constitutional implications",
-      "Allied reactions and international law considerations - limited coverage of how key allies view the legality and wisdom of the strikes",
-      "Iranian domestic political dynamics - little analysis of how the strikes affect Iranian internal politics beyond regime change speculation",
-      "Economic and energy market impacts - minimal coverage of oil prices, sanctions, or broader economic consequences",
-      "Regional proxy conflicts - limited exploration of how the war affects ongoing conflicts in Gaza, Lebanon, Yemen where Iranian proxies operate"
+      "Congressional authorization status and legal framework for the military action",
+      "Allied support or opposition beyond brief mention of 'lack of support from allies'",
+      "Iranian civilian casualties and humanitarian impact",
+      "Economic costs and funding mechanisms for the military operation",
+      "Regional reactions from key Middle Eastern allies and adversaries",
+      "Timeline and details of the claimed negotiations that preceded military action",
+      "Specific intelligence assessments that contradicted 'imminent threat' claims"
     ],
-    "generatedAt": "2026-03-03T19:52:56.792Z",
+    "generatedAt": "2026-03-03T23:02:02.615Z",
     "model": "anthropic/claude-sonnet-4"
   },
   "community": null,
@@ -1901,96 +1977,111 @@
     "stakeholders": [
       {
         "name": "Donald Trump",
-        "role": "US President",
-        "position": "Leading military campaign against Iran with stated objectives to destroy missile capabilities, navy, nuclear program, and proxy support",
+        "role": "US President and Commander-in-Chief",
+        "position": "Leading military campaign against Iran with stated objectives of destroying missile capabilities, eliminating navy, preventing nuclear development, and ending proxy support",
         "influence": "high"
       },
       {
         "name": "Pete Hegseth",
         "role": "US Defense Secretary",
-        "position": "Supporting the operation while claiming it's not regime change despite acknowledging 'the regime sure did change'",
-        "influence": "high"
-      },
-      {
-        "name": "Ayatollah Ali Khamenei",
-        "role": "Iranian Supreme Leader",
-        "position": "Reportedly killed in US-Israeli airstrikes according to Trump announcement",
+        "position": "Supporting Trump's military action while claiming 'this is not regime-change war, but the regime sure did change'",
         "influence": "high"
       },
       {
         "name": "Israeli Government",
-        "role": "Military partner",
-        "position": "Participating in joint strikes against Iran",
+        "role": "Military partner in joint operations",
+        "position": "Actively participating in strikes against Iran alongside US forces",
+        "influence": "high"
+      },
+      {
+        "name": "Iranian Leadership/Ayatollah Khamenei",
+        "role": "Supreme Leader of Iran (status disputed)",
+        "position": "Target of US-Israeli strikes; Trump claims Khamenei died in airstrike but verification unclear",
         "influence": "high"
       },
       {
         "name": "General Dan Caine",
-        "role": "US Military Leadership",
-        "position": "Warned about munitions shortfalls and lack of allied support before being dismissed",
+        "role": "Military advisor",
+        "position": "Cautioned Trump about munitions shortfalls and lack of allied support before strikes",
         "influence": "medium"
       },
       {
-        "name": "Tucker Carlson",
-        "role": "Media figure/Trump supporter",
-        "position": "Criticized the attacks as 'absolutely disgusting and evil'",
+        "name": "Vice Admiral Fred Kacher",
+        "role": "Former Director of Joint Chiefs of Staff",
+        "position": "Dismissed three days before strikes with no reason given",
+        "influence": "low"
+      },
+      {
+        "name": "Congressional Leadership",
+        "role": "Legislative oversight",
+        "position": "Briefed by Pentagon that no 'imminent threat' intelligence existed",
         "influence": "medium"
       },
       {
         "name": "Gulf Arab States",
-        "role": "Regional powers",
-        "position": "Targets of Iranian retaliation, likely seeking US protection",
+        "role": "Regional allies facing Iranian retaliation",
+        "position": "Targets of Iranian retaliatory attacks following US-Israeli strikes",
         "influence": "medium"
       },
       {
-        "name": "US Congress",
-        "role": "Legislative oversight",
-        "position": "Not consulted on military action, receiving briefings questioning 'imminent threat' justification",
-        "influence": "low"
+        "name": "Tucker Carlson",
+        "role": "Media figure and Trump supporter",
+        "position": "Described attacks as 'absolutely disgusting and evil', representing opposition within Trump's base",
+        "influence": "medium"
       }
     ],
     "predictions": [
       {
         "text": "Iran will continue retaliatory strikes against US allies and interests in the region",
         "likelihood": "likely",
-        "timeframe": "days to weeks",
-        "basis": "Iran has already launched attacks on Gulf Arab states and historically responds to military strikes with asymmetric warfare"
+        "timeframe": "immediate (days to weeks)",
+        "basis": "Iran has already launched retaliatory attacks on Gulf Arab states and historically responds to military strikes with asymmetric warfare"
       },
       {
-        "text": "Congressional hearings will be held questioning the legal basis for the strikes",
+        "text": "Congressional investigation into intelligence justifications for the strikes",
         "likelihood": "likely",
-        "timeframe": "weeks to months",
-        "basis": "Pentagon briefings reportedly found no intelligence basis for 'imminent threat' claims and Trump proceeded without congressional consultation"
+        "timeframe": "short-term (weeks to months)",
+        "basis": "Pentagon briefed congressional staffers that no 'imminent threat' intelligence existed, contradicting administration claims"
       },
       {
-        "text": "Iran's leadership structure will undergo significant reorganization following Khamenei's reported death",
-        "likelihood": "likely",
-        "timeframe": "weeks to months",
-        "basis": "Supreme Leader's death would trigger constitutional succession process, though Trump's contradictory statements about replacement candidates create uncertainty"
-      },
-      {
-        "text": "US casualties will increase as operations continue",
+        "text": "Further military leadership changes within Trump administration",
         "likelihood": "possible",
-        "timeframe": "days to weeks",
-        "basis": "First US casualties already reported and Iran has demonstrated retaliatory capabilities"
+        "timeframe": "short-term (weeks to months)",
+        "basis": "Pattern established with dismissal of Vice Admiral Kacher and General Caine's warnings about operational risks"
       },
       {
-        "text": "Trump will face increased political opposition from both parties",
+        "text": "Escalation to broader regional conflict involving multiple Middle Eastern nations",
+        "likelihood": "possible",
+        "timeframe": "medium-term (months)",
+        "basis": "Iranian retaliation already targeting Gulf states, potential for proxy group activation across region"
+      },
+      {
+        "text": "Political backlash from Trump's base over broken campaign promises",
         "likelihood": "likely",
-        "timeframe": "immediate",
-        "basis": "Already facing criticism from traditional supporters like Tucker Carlson and contradicts campaign promises to avoid foreign wars"
+        "timeframe": "immediate to short-term",
+        "basis": "Tucker Carlson's criticism represents broader concern among supporters who backed Trump's anti-war positioning"
+      },
+      {
+        "text": "Verification or contradiction of claims about Khamenei's death",
+        "likelihood": "likely",
+        "timeframe": "immediate (days)",
+        "basis": "Such a significant claim requires independent verification and will likely be confirmed or debunked quickly"
       }
     ],
-    "historicalContext": "This military action represents a significant escalation from Trump's previous June 2025 strikes on Iranian nuclear facilities at Fordow, Natanz, and Isfahan. The operation continues Trump's pattern of aggressive military action, with sources noting he has launched offensives on seven nations in his first 14 months—more strikes in 2025 than his predecessor conducted in four years. The strikes echo historical US-Iran tensions dating to the 1979 revolution, but the scale and joint nature with Israel, combined with the reported killing of Iran's Supreme Leader, represents an unprecedented escalation. The dismissal of military leadership who questioned the operation recalls similar patterns from Trump's first presidency when he removed officials who challenged his military decisions.",
+    "historicalContext": "This military action represents a dramatic escalation from previous US-Iran tensions and contradicts Trump's campaign positioning as a peace candidate. The strikes follow previous US-Israeli bombing of Iran's missile program in June 2025, suggesting a pattern of escalating military pressure. Trump's approach of deciding tactics before objectives echoes historical military interventions where strategic goals remained unclear, such as early phases of the Iraq War. The dismissal of military leadership before major operations parallels Trump's first presidency pattern of removing officials who questioned his decisions. The contradiction between campaign promises and military action reflects a broader historical pattern of presidents expanding military operations despite peace-oriented campaign rhetoric.",
     "implications": [
-      "Regional destabilization as Iran's proxy networks may activate across the Middle East in response to leadership decapitation",
-      "Potential constitutional crisis over war powers as Trump proceeded without congressional authorization despite questionable 'imminent threat' justification",
-      "Fracturing of Trump's political coalition as traditional supporters like Tucker Carlson break with him over foreign military intervention",
-      "Increased risk to US personnel and interests globally as Iran has demonstrated capability for asymmetric retaliation",
-      "Potential disruption of global energy markets if conflict spreads to critical shipping lanes in the Persian Gulf",
-      "Strain on US military resources given reported munitions shortfalls and lack of allied support warned about by dismissed Pentagon leadership",
-      "Precedent for unilateral military action that could encourage similar strikes against other adversaries without congressional oversight"
+      "Potential collapse of remaining nuclear diplomacy between US and Iran, ending diplomatic track that Oman's foreign minister indicated was making 'significant progress'",
+      "Destabilization of global energy markets due to threats to Persian Gulf shipping and Iranian oil production facilities",
+      "Erosion of Trump's political coalition as anti-war supporters like Tucker Carlson publicly break with the administration",
+      "Strain on US military resources given General Caine's warnings about munitions shortfalls and lack of allied support",
+      "Risk of broader Middle East conflict as Iranian proxy groups across the region may activate in response",
+      "Constitutional questions about war powers as Congress was apparently not consulted despite lack of imminent threat intelligence",
+      "Potential for humanitarian crisis in Iran as civilian infrastructure may be affected by extensive bombing campaign",
+      "Damage to US credibility with allies who were not consulted and may question intelligence justifications",
+      "Precedent for preemptive military action without clear intelligence of imminent threats",
+      "Impact on 2026 midterm elections as military action becomes central political issue"
     ],
-    "generatedAt": "2026-03-03T19:53:20.004Z",
+    "generatedAt": "2026-03-03T23:02:33.135Z",
     "model": "anthropic/claude-sonnet-4"
   },
   "articles": [
@@ -2037,6 +2128,13 @@
       "source": "The Atlantic",
       "url": "https://www.theatlantic.com/ideas/2026/03/trump-iran-rubio-vance-war/686219/?utm_source=feed",
       "publishedAt": "Tue, 03 Mar 2026 10:42:08 -0500"
+    },
+    {
+      "id": "2be647e7-51f0-4417-a92e-32f1adcd5471",
+      "title": "Trump has cornered himself with his war in Iran | Sidney Blumenthal",
+      "source": "The Guardian US",
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/03/trump-iran-war-emergency-powers",
+      "publishedAt": "Tue, 03 Mar 2026 12:00:02 GMT"
     }
   ],
   "relatedStorylines": [

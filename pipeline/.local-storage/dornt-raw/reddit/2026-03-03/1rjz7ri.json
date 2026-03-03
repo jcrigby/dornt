@@ -1,0 +1,36 @@
+{
+  "id": "1rjz7ri",
+  "subreddit": "technology",
+  "title": "CBP Tapped Into the Online Advertising Ecosystem To Track Peoples’ Movements",
+  "url": "https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/",
+  "selftext": "",
+  "author": "CackleRooster",
+  "score": 54,
+  "numComments": 3,
+  "createdUtc": 1772566891,
+  "permalink": "https://reddit.com/r/technology/comments/1rjz7ri/cbp_tapped_into_the_online_advertising_ecosystem/",
+  "fetchedAt": "2026-03-03T22:52:42.576Z",
+  "topComments": [
+    {
+      "id": "o8gunmh",
+      "author": "404mediaco",
+      "body": "Customs and Border Protection (CBP) bought data from the online advertising ecosystem to track peoples’ precise movements over time, in a process that often involves siphoning data from ordinary apps like video games, dating services, and fitness trackers, according to an internal Department of Homeland Security (DHS) document obtained by 404 Media.\n\nThe document shows in stark terms the power, and potential risk, of online advertising data and how it can be leveraged by government agencies for surveillance purposes. The news comes after Immigration and Customs Enforcement (ICE) [purchased similar tools](https://www.404media.co/inside-ices-tool-to-monitor-phones-in-entire-neighborhoods/) that can monitor the movements of phones in entire neighbourhoods. ICE also recently said in [public procurement documents](https://sam.gov/workspace/contract/opp/411452e8b3614944b9c50cc3aa24fb42/view?ref=404media.co) it was interested in sourcing more “Ad Tech” data for its investigations. Following 404 Media’s revelation of that ICE purchase, on Tuesday [a group of around 70 lawmakers](https://www.documentcloud.org/documents/27715032-wyden-led-letter-to-dhs-oig-on-ice-purchase-of-location-data-3-3-2026/?ref=404media.co) urged the DHS oversight body to conduct a new investigation into ICE’s location data buying.\n\n[The document](https://www.documentcloud.org/documents/27714350-adid-efficacy-pilot-pta/?ref=404media.co) 404 Media obtained is the first time CBP has acknowledged the location data it bought came from the advertising industry. Specifically, CBP says the data was in part sourced via real-time bidding, or RTB. Whenever an advertisement is displayed inside an app, a near instantaneous bidding process happens with companies vying to have their advert served to a certain demographic. A side effect of this is that surveillance firms, or rogue advertising companies working on their behalf, can observe this process and siphon information about mobile phones, including their locat",
+      "score": 3,
+      "createdUtc": 1772567686
+    },
+    {
+      "id": "o8gv5n0",
+      "author": "sp3kter",
+      "body": "Having worked at doubleclick years ago I could see this. While each company is silo'd the collective data is immense.",
+      "score": 3,
+      "createdUtc": 1772567829
+    },
+    {
+      "id": "o8he9rt",
+      "author": "Never-Compliant6969",
+      "body": "Feels like a 4th amendment violation. ",
+      "score": 2,
+      "createdUtc": 1772573270
+    }
+  ]
+}

@@ -2,54 +2,56 @@
   "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
   "frames": [
     {
-      "name": "Economic Impact Assessment",
-      "description": "Focuses on quantifying economic consequences and identifying which countries/regions will be most affected by the blockade",
+      "name": "Economic Impact/Market Analysis",
+      "description": "Focuses on financial market reactions, price movements, and economic consequences for different regions and countries",
       "sources": [
         "CNBC",
-        "The Guardian"
+        "The Guardian World"
       ],
-      "emphasis": "Specific percentage impacts, vulnerable countries (Thailand, India, Korea, Philippines), oil price projections above $100/barrel"
+      "emphasis": "Oil price surges, regional vulnerability assessments, specific country impacts, and market data"
     },
     {
-      "name": "Market Volatility Focus",
-      "description": "Emphasizes immediate market reactions and price movements in oil and gas futures",
+      "name": "Geopolitical Crisis",
+      "description": "Frames the situation as an escalating military conflict with diplomatic implications",
       "sources": [
-        "CNBC"
+        "The Guardian World",
+        "Inside Climate News"
       ],
-      "emphasis": "Daily price changes, percentage increases in oil/gas prices, trading data and futures movements"
+      "emphasis": "Military actions, casualties, international responses, and diplomatic calls for de-escalation"
     },
     {
-      "name": "Geopolitical Tensions",
-      "description": "Frames the story as an escalating conflict with diplomatic implications",
+      "name": "Energy Security Threat",
+      "description": "Presents the story as a critical disruption to global energy infrastructure and supply chains",
       "sources": [
-        "The Guardian"
+        "WaPo Politics",
+        "Inside Climate News"
       ],
-      "emphasis": "Military operations, retaliation cycles, calls for de-escalation, international diplomatic responses"
+      "emphasis": "Supply chain vulnerabilities, infrastructure damage, and long-term energy security implications"
     },
     {
-      "name": "Supply Chain Disruption",
-      "description": "Highlights the physical interruption of global trade and shipping",
+      "name": "Historical Precedent Warning",
+      "description": "Emphasizes the unprecedented nature and potential scale of the disruption",
       "sources": [
-        "The Guardian",
-        "WaPo"
+        "Inside Climate News"
       ],
-      "emphasis": "Shipping route closures, vessel counts, rerouting of container ships, physical infrastructure impacts"
+      "emphasis": "Potential for 'historic' or 'epochal' market disruptions and lack of precedent for current situation"
     }
   ],
   "outlierPerspectives": [
-    "China's specific diplomatic call for vessel protection and navigation safety (The Guardian only)",
-    "Detailed breakdown of LNG import dependencies by specific percentages for Pakistan, Bangladesh, and India (CNBC only)",
-    "Focus on fertilizer trade disruption through the strait (The Guardian only)"
+    "China's specific diplomatic response calling for vessel protection (only in The Guardian)",
+    "Detailed casualty reporting including death of Ayatollah Ali Khamenei (only in Inside Climate News)",
+    "U.S. consumer insulation from natural gas impacts but vulnerability to oil price increases (only in Inside Climate News)",
+    "Specific mention of fertilizer trade disruption through the strait (only in The Guardian)"
   ],
   "missingContext": [
-    "Historical precedent for Strait of Hormuz closures and their duration",
-    "Alternative shipping routes and their capacity/cost implications",
+    "Legal basis or international law regarding strait closure",
+    "Historical precedents of Strait of Hormuz closures and their duration",
     "Strategic petroleum reserve levels in affected countries",
+    "Alternative shipping routes and their capacity/costs",
     "Timeline and specific triggers that led to the current escalation",
-    "International maritime law implications of the blockade",
-    "Military capabilities and logistics of maintaining the closure",
-    "Previous diplomatic efforts to prevent this scenario"
+    "International maritime law enforcement mechanisms",
+    "Backup energy infrastructure and emergency protocols in affected regions"
   ],
-  "generatedAt": "2026-03-03T20:03:23.960Z",
+  "generatedAt": "2026-03-03T23:16:22.076Z",
   "model": "anthropic/claude-sonnet-4"
 }

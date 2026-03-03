@@ -2,30 +2,43 @@
   "clusterId": "edf5e77e-72fb-4fb4-8753-c63b6cdfa58e",
   "frames": [
     {
-      "name": "Technology Innovation Frame",
-      "description": "Presents the story as technological advancement and feature enhancement, focusing on AI capabilities and user convenience",
+      "name": "AI Assistant Evolution",
+      "description": "Presents the story as a significant advancement in AI assistant capabilities, focusing on Gemini's new 'agentic' features that can perform tasks autonomously",
       "sources": [
         "The Verge"
       ],
-      "emphasis": "New AI features, enhanced user experience, and Google's technological capabilities across device lineup"
+      "emphasis": "The breakthrough nature of AI assistants being able to complete real-world tasks like ordering groceries and booking rides on behalf of users"
+    },
+    {
+      "name": "Competitive Technology Race",
+      "description": "Frames the update in the context of competition between tech giants, particularly highlighting Google's advantage over Apple",
+      "sources": [
+        "The Verge"
+      ],
+      "emphasis": "Google and Samsung delivering features 'ahead of the similar features for Siri that have been delayed for months now'"
+    },
+    {
+      "name": "Comprehensive Feature Update",
+      "description": "Presents the story as a broad software update affecting multiple device generations with various enhancements",
+      "sources": [
+        "The Verge"
+      ],
+      "emphasis": "The breadth of new features across different Pixel generations, from newest to Pixel 6, showing Google's commitment to older devices"
     }
   ],
   "outlierPerspectives": [
-    "Competitive positioning against Apple's delayed Siri features",
-    "Cross-brand collaboration with Samsung on AI features"
+    "Accessibility focus through the 'comfort view' feature that reduces visual stimulation",
+    "Cross-device ecosystem integration with desktop experience for external displays"
   ],
   "missingContext": [
-    "Privacy implications of AI assistants performing tasks with user credentials",
-    "Security considerations for autonomous app interactions",
-    "Data collection and sharing practices for agentic AI features",
-    "User control and consent mechanisms for AI-driven purchases",
-    "Potential liability issues if AI makes incorrect orders or bookings",
-    "Market impact on app developers and service providers",
-    "Accessibility implications of new visual features",
-    "Battery and performance impact of background AI operations",
-    "Rollout timeline and geographic availability details",
-    "Integration challenges with third-party services"
+    "Privacy implications of AI assistants performing autonomous tasks with access to personal apps and data",
+    "Security considerations for AI agents acting on behalf of users in financial and personal transactions",
+    "Comparison of capabilities with existing AI assistants from other manufacturers beyond the brief Siri mention",
+    "User control mechanisms and safeguards for the autonomous AI features",
+    "Rollout timeline and geographic availability details for the 'select' countries and languages mentioned",
+    "Technical requirements or limitations for the new features",
+    "Potential impact on app developers and third-party integration requirements"
   ],
-  "generatedAt": "2026-03-03T20:04:15.657Z",
+  "generatedAt": "2026-03-03T23:17:23.825Z",
   "model": "anthropic/claude-sonnet-4"
 }

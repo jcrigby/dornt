@@ -2,61 +2,72 @@
   "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
   "frames": [
     {
-      "name": "Strategic Incoherence Frame",
-      "description": "Portrays Trump's Iran war as strategically confused, with shifting objectives and contradictory messaging revealing absence of clear planning",
+      "name": "Strategic Incoherence",
+      "description": "Portrays Trump's Iran policy as chaotic, contradictory, and lacking clear objectives or strategy",
       "sources": [
         "The Guardian US",
         "The Atlantic",
-        "France 24"
+        "Axios"
       ],
-      "emphasis": "Trump's contradictory statements, lack of clear strategy, and hour-by-hour spinning as evidence of poor decision-making"
+      "emphasis": "Inconsistent messaging, shifting timelines, absence of coherent strategy"
     },
     {
-      "name": "Campaign Promise Betrayal Frame",
-      "description": "Frames the war as Trump abandoning his 'America First' anti-war promises and betraying his base who voted for peace",
+      "name": "Political Betrayal",
+      "description": "Frames the war as Trump abandoning his anti-war campaign promises and betraying his base",
       "sources": [
         "Foreign Policy"
       ],
-      "emphasis": "Trump's hypocrisy in becoming the 'warmongering neocon' he once criticized, disappointing supporters like Tucker Carlson"
+      "emphasis": "Contradiction with 'America First' messaging and peace candidate positioning"
     },
     {
-      "name": "Messaging Chaos Frame",
-      "description": "Focuses on the administration's scattered communication strategy through multiple interviews rather than formal addresses",
+      "name": "Risk-Benefit Analysis",
+      "description": "Presents balanced examination of potential strategic gains versus dangers of military action",
+      "sources": [
+        "Vox"
+      ],
+      "emphasis": "Weighing degraded Iranian capabilities against risks of retaliation and escalation"
+    },
+    {
+      "name": "Communication Crisis",
+      "description": "Focuses on Trump's scattered media approach and failure to provide clear public explanation",
       "sources": [
         "Axios",
         "France 24"
       ],
-      "emphasis": "Trump's scattershot media approach and varying timelines/objectives depending on the outlet and timing"
+      "emphasis": "Lack of formal address to nation, contradictory interview statements"
     },
     {
-      "name": "Risk-Benefit Analysis Frame",
-      "description": "Presents balanced assessment of potential strategic gains versus dangers of military action against Iran",
-      "sources": [
-        "Vox"
-      ],
-      "emphasis": "Weighing degraded Iranian capabilities and deterrence against risks of retaliation and regional instability"
-    },
-    {
-      "name": "Domestic Political Calculation Frame",
-      "description": "Views the war through lens of Trump's domestic political needs, particularly regarding midterm elections",
+      "name": "Domestic Political Calculation",
+      "description": "Views the war through lens of Trump's domestic political needs and electoral concerns",
       "sources": [
         "The Guardian US"
       ],
-      "emphasis": "War as serving Trump's need to assert emergency authority and avoid electoral 'regime change' at home"
+      "emphasis": "Connection between foreign war and domestic power consolidation"
+    },
+    {
+      "name": "Intelligence Failure",
+      "description": "Questions the claimed 'imminent threat' justification for military action",
+      "sources": [
+        "The Guardian US",
+        "France 24"
+      ],
+      "emphasis": "Lack of evidence for stated threat assessment"
     }
   ],
   "outlierPerspectives": [
-    "The Guardian's framing of the war as primarily about Trump's narcissism and domestic political survival rather than foreign policy objectives",
-    "Foreign Policy's emphasis on Trump betraying his peace-candidate image and disappointing his base",
-    "The Atlantic's focus on the tactical-before-strategic approach as fundamentally backwards military planning"
+    "The war as personal branding exercise - The Guardian's characterization of the conflict as 'Trump Iran War' reflecting narcissistic motivations",
+    "Venezuelan operation as template - Trump's reported comparison to Maduro capture mission mentioned only in Axios",
+    "Military leadership purge - The Guardian's exclusive focus on dismissal of joint chiefs director before attacks"
   ],
   "missingContext": [
-    "Congressional oversight and authorization questions - most sources mention Trump 'shut out congressional consultation' but don't explore constitutional implications",
-    "Allied reactions and international law considerations - limited coverage of how key allies view the legality and wisdom of the strikes",
-    "Iranian domestic political dynamics - little analysis of how the strikes affect Iranian internal politics beyond regime change speculation",
-    "Economic and energy market impacts - minimal coverage of oil prices, sanctions, or broader economic consequences",
-    "Regional proxy conflicts - limited exploration of how the war affects ongoing conflicts in Gaza, Lebanon, Yemen where Iranian proxies operate"
+    "Congressional authorization status and legal framework for the military action",
+    "Allied support or opposition beyond brief mention of 'lack of support from allies'",
+    "Iranian civilian casualties and humanitarian impact",
+    "Economic costs and funding mechanisms for the military operation",
+    "Regional reactions from key Middle Eastern allies and adversaries",
+    "Timeline and details of the claimed negotiations that preceded military action",
+    "Specific intelligence assessments that contradicted 'imminent threat' claims"
   ],
-  "generatedAt": "2026-03-03T19:52:56.792Z",
+  "generatedAt": "2026-03-03T23:02:02.615Z",
   "model": "anthropic/claude-sonnet-4"
 }

@@ -2,54 +2,55 @@
   "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
   "frames": [
     {
-      "name": "Diplomatic Meeting Coverage",
-      "description": "Frames the story as a standard bilateral diplomatic meeting between allies, emphasizing the personal relationship between Trump and Merz",
+      "name": "Diplomatic Coordination Frame",
+      "description": "Presents the meeting as diplomatic coordination between allies during wartime, emphasizing unity and cooperation",
       "sources": [
         "NBC News",
         "ABC News"
       ],
-      "emphasis": "Trump calling Merz a 'friend,' their countries' strong relationship, and discussion of trade deals"
+      "emphasis": "US-Germany alliance, shared goals on Iran, and bilateral cooperation"
     },
     {
-      "name": "War Context Frame",
-      "description": "Emphasizes this as Trump's first meeting with a world leader since the Iran conflict began, highlighting the military situation",
-      "sources": [
-        "NBC News",
-        "ABC News"
-      ],
-      "emphasis": "Iran's military capabilities being 'knocked out,' the ongoing nature of the conflict, and its impact on diplomacy"
-    },
-    {
-      "name": "European Unity/Division Frame",
-      "description": "Focuses on varying levels of European support for U.S. actions and diplomatic tensions within the alliance",
-      "sources": [
-        "DW",
-        "The Hill"
-      ],
-      "emphasis": "Mixed European support, criticism of UK and Spain as 'uncooperative,' while praising Germany's cooperation"
-    },
-    {
-      "name": "Strategic Policy Discussion Frame",
-      "description": "Presents the meeting as substantive policy discussions on multiple fronts including Iran, Ukraine, and trade",
+      "name": "European Division Frame",
+      "description": "Highlights divisions within Europe regarding support for US actions against Iran",
       "sources": [
         "DW"
       ],
-      "emphasis": "Merz pushing for long-term Middle East strategy, Ukraine territorial integrity, and 'common approach' to regional security"
+      "emphasis": "Mixed European support, with some countries helpful (Germany) and others uncooperative (Spain, UK)"
+    },
+    {
+      "name": "Military Progress Frame",
+      "description": "Focuses on Trump's claims about military success against Iran's capabilities",
+      "sources": [
+        "NBC News",
+        "ABC News",
+        "The Hill"
+      ],
+      "emphasis": "Iran's military infrastructure being 'knocked out' and US military effectiveness"
+    },
+    {
+      "name": "Multi-Crisis Management Frame",
+      "description": "Presents the meeting as addressing multiple global conflicts simultaneously",
+      "sources": [
+        "DW",
+        "ABC News"
+      ],
+      "emphasis": "Iran, Ukraine, and trade issues as interconnected challenges requiring coordination"
     }
   ],
   "outlierPerspectives": [
-    "DW's focus on Merz's diplomatic strategy of 'gently pushing' Trump on issues while maintaining alliance unity",
+    "DW's focus on Merz pushing back on Trump's Ukraine ceasefire proposals that would cede Ukrainian territory",
     "Trump's claim that he 'might have forced Israel's hand' rather than being pulled into war by Israel",
-    "Detailed coverage of Trump's criticism of UK base access denial and energy/immigration policies"
+    "NYT's framing of the meeting as originally planned but now overshadowed by Iran conflict"
   ],
   "missingContext": [
-    "Timeline and escalation details of the Iran conflict",
-    "Specific nature of the military operations being described",
-    "Details about the previous ceasefire proposal that 'sparked heated response from European partners'",
-    "Clarification of Trump's claim about 'settling eight wars'",
-    "Economic implications of the ongoing conflict",
-    "Congressional or domestic political reaction to the war"
+    "Specific details about what military actions have actually occurred against Iran",
+    "Timeline of how the Iran conflict began and escalated",
+    "Concrete details about European countries' specific positions and contributions",
+    "Background on previous Trump-Merz meetings and their outcomes",
+    "Details about the trade agreements being discussed",
+    "Verification of Trump's claims about Iran's military capabilities being destroyed"
   ],
-  "generatedAt": "2026-03-03T19:56:32.413Z",
+  "generatedAt": "2026-03-03T23:06:05.929Z",
   "model": "anthropic/claude-sonnet-4"
 }

@@ -3,44 +3,52 @@
   "frames": [
     {
       "name": "Diplomatic Reset Frame",
-      "description": "Presents the meeting as a successful diplomatic reset focused on economic cooperation and moving past previous tensions",
+      "description": "Presents the story as a successful diplomatic reset after a period of strained relations, emphasizing forward momentum and renewed cooperation",
       "sources": [
-        "NYT World",
-        "The Hindu",
-        "BBC World"
+        "BBC World",
+        "The Hindu"
       ],
-      "emphasis": "Business partnerships, nuclear deals, trade agreements, and renewed cooperation while downplaying past conflicts"
+      "emphasis": "Successful repair of damaged relationship, new agreements, and future-oriented partnership"
+    },
+    {
+      "name": "Business-First Frame",
+      "description": "Focuses on economic and trade aspects while downplaying or setting aside past diplomatic tensions",
+      "sources": [
+        "NYT World"
+      ],
+      "emphasis": "Economic cooperation and business dealings taking precedence over unresolved political issues"
     },
     {
       "name": "Strategic Partnership Frame",
-      "description": "Emphasizes the expansion of bilateral cooperation across multiple sectors as a foundation for future growth",
+      "description": "Emphasizes the comprehensive nature of cooperation across multiple sectors including defense, technology, and energy",
       "sources": [
         "The Hindu",
         "BBC World"
       ],
-      "emphasis": "Comprehensive partnership in defense, technology, critical minerals, education, and renewable energy"
+      "emphasis": "Multi-sectoral cooperation, technological collaboration, and long-term strategic alignment"
     },
     {
-      "name": "Unresolved Security Concerns Frame",
-      "description": "Highlights ongoing security and intelligence concerns despite diplomatic progress",
+      "name": "Cautious Reconciliation Frame",
+      "description": "Acknowledges progress while highlighting ongoing tensions and unresolved issues beneath the surface",
       "sources": [
         "BBC World"
       ],
-      "emphasis": "Continued foreign interference threats, disagreement within Canadian government on India's current activities, and ongoing legal proceedings"
+      "emphasis": "Qualified success with persistent underlying concerns and contradictory statements from officials"
     }
   ],
   "outlierPerspectives": [
-    "BBC's detailed coverage of internal Canadian government disagreements about India's current threat level",
-    "BBC's reporting on the Canadian Security Intelligence Service maintaining its threat assessment unchanged",
-    "BBC's note about Carney cancelling his planned press conference"
+    "BBC's detailed coverage of internal Canadian government contradictions regarding India's current threat level",
+    "NYT's characterization of the meeting as 'setting aside' rather than resolving the Nijjar killing issue",
+    "The Hindu's exclusive focus on Modi's positive response to Carney's social media post"
   ],
   "missingContext": [
-    "Details about the specific terms and scope of the nuclear energy deal",
-    "Economic impact assessment of the agreements on both countries",
-    "Reaction from Sikh diaspora communities in Canada to the diplomatic reset",
-    "Analysis of how this reset affects Canada's relationships with other Five Eyes intelligence partners",
-    "Timeline and specific milestones for the proposed free trade agreement completion by end of 2026"
+    "Specific details about what concessions or assurances each side made to enable this reset",
+    "Reaction from Sikh diaspora communities in Canada to the diplomatic rapprochement",
+    "Analysis of how this reset affects ongoing legal proceedings related to the Nijjar case",
+    "Economic motivations beyond US tariff avoidance that may be driving the reconciliation",
+    "Details about the timeline and specific terms of the uranium supply agreement",
+    "Broader geopolitical context of how this affects each country's relationships with other allies"
   ],
-  "generatedAt": "2026-03-03T20:00:52.066Z",
+  "generatedAt": "2026-03-03T23:12:32.590Z",
   "model": "anthropic/claude-sonnet-4"
 }

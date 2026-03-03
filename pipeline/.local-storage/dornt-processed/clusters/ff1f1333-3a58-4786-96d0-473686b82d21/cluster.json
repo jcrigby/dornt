@@ -8,20 +8,23 @@
     "85bfda2f-f43b-4542-acec-3a090e010876",
     "0e404436-75a0-4ece-9928-6080b280d64f",
     "6bc9eff5-46f7-4847-ba7a-d233e832d9ef",
-    "6f27df4d-94ff-4521-a74e-383afb531348"
+    "6f27df4d-94ff-4521-a74e-383afb531348",
+    "11415a55-bfbf-496a-8a51-43f980d56a85",
+    "2439da81-af4e-44a1-95d3-aa976c8e5a89",
+    "2f7a5821-3874-416f-a1ed-2d7d2619b947",
+    "40244e0b-fbaf-405e-8cba-39ad7bace46d"
   ],
   "redditPostIds": [],
   "createdAt": "2026-03-03T19:46:57.334Z",
-  "updatedAt": "2026-03-03T19:47:12.345Z",
-  "articleCount": 7,
-  "sourceCount": 4,
+  "updatedAt": "2026-03-03T22:55:58.864Z",
+  "articleCount": 11,
+  "sourceCount": 3,
   "topSources": [
     "Engadget",
-    "Ars Technica",
     "TechCrunch",
-    "CNBC"
+    "Ars Technica"
   ],
-  "importance": 61,
+  "importance": 63,
   "status": "active",
   "centroid": [
     0.013767992824999999,

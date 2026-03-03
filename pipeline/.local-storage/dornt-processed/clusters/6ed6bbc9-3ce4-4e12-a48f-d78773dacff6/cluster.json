@@ -7,21 +7,24 @@
     "57208a30-4194-41a2-8f99-e3883d770657",
     "82ce7171-a0ee-4776-a312-bc69377ace91",
     "285d2923-7edf-4169-bf69-cf5c07f2eb40",
-    "5d71d938-03bf-4c2b-a295-2dfa27ae059e"
+    "5d71d938-03bf-4c2b-a295-2dfa27ae059e",
+    "122791f9-06df-48f3-820b-2d8393435815",
+    "15ca8f64-0ca5-4f4b-b2a7-f5c8e620e3fa",
+    "3a86384e-9830-43cd-98af-838ff7af6d96"
   ],
   "redditPostIds": [],
   "createdAt": "2026-03-03T19:46:57.385Z",
-  "updatedAt": "2026-03-03T19:47:12.348Z",
-  "articleCount": 6,
-  "sourceCount": 5,
+  "updatedAt": "2026-03-03T22:55:58.858Z",
+  "articleCount": 9,
+  "sourceCount": 6,
   "topSources": [
-    "Business Insider",
     "The Guardian US",
-    "BBC World",
+    "Business Insider",
     "YouTube: ABC News",
-    "YouTube: CNBC"
+    "BBC World",
+    "Al Jazeera"
   ],
-  "importance": 68,
+  "importance": 87,
   "status": "active",
   "centroid": [
     -0.029130003749999998,

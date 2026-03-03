@@ -1,0 +1,55 @@
+{
+  "clusterId": "aacf264d-d37f-4e9a-981f-5cdeecaa993e",
+  "frames": [
+    {
+      "name": "Diplomatic Crisis Frame",
+      "description": "Presents the dispute as a serious rift in the US-UK 'special relationship' with potential long-term consequences",
+      "sources": [
+        "BBC News",
+        "The Guardian US"
+      ],
+      "emphasis": "Historical significance of the relationship breakdown and expert analysis of diplomatic implications"
+    },
+    {
+      "name": "Trump Criticism Frame",
+      "description": "Focuses on Trump's personal attacks on Starmer and his frustration with allies not supporting US action",
+      "sources": [
+        "Fox Politics",
+        "The Guardian US"
+      ],
+      "emphasis": "Trump's emotional response and repeated public criticism of the UK decision"
+    },
+    {
+      "name": "UK Sovereignty Frame",
+      "description": "Emphasizes Starmer's defense of British national interests and independent decision-making",
+      "sources": [
+        "BBC News",
+        "The Guardian US"
+      ],
+      "emphasis": "Starmer's justification that he must judge what's in Britain's national interest"
+    },
+    {
+      "name": "Military Logistics Frame",
+      "description": "Highlights the operational impact of the UK's refusal, focusing on extended flight times and base access issues",
+      "sources": [
+        "BBC News",
+        "Fox Politics"
+      ],
+      "emphasis": "Practical consequences of the decision on US military operations"
+    }
+  ],
+  "outlierPerspectives": [
+    "The Guardian's inclusion of Emily Thornberry's counter-criticism questioning what Churchill would think of Trump",
+    "The Guardian's broader European context showing Spain also refused base access and faced trade threats",
+    "Fox Politics' emphasis on Trump's personal connection to the UK through his parents' birthplace"
+  ],
+  "missingContext": [
+    "Legal basis for the initial US-Israeli strikes on Iran that prompted this dispute",
+    "Details about what triggered the original US-Israeli military action",
+    "Explanation of the Chagos Islands sovereignty status and Diego Garcia lease arrangements",
+    "Timeline and specifics of Iran's retaliatory actions that changed the UK's position",
+    "Other NATO allies' positions on the strikes beyond Spain's refusal mentioned in The Guardian"
+  ],
+  "generatedAt": "2026-03-03T23:09:14.811Z",
+  "model": "anthropic/claude-sonnet-4"
+}

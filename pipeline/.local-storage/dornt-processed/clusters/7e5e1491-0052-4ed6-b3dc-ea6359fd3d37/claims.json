@@ -11,7 +11,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:56:35.301Z",
-    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+    "lastUpdatedAt": "2026-03-03T23:06:07.517Z"
   },
   {
     "id": "e2871c36-62de-4620-a0b1-44ab618972b4",
@@ -24,16 +24,17 @@
       "ABC News (Article 3)",
       "ABC News (Article 4)",
       "The Hill (Article 5)",
-      "DW (Article 6)"
+      "DW (Article 6)",
+      "NYT World (Article 7)"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:56:35.301Z",
-    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+    "lastUpdatedAt": "2026-03-03T23:06:07.517Z"
   },
   {
-    "id": "4a92c777-cced-42ae-991d-1e906a492b2f",
+    "id": "d1864cac-6753-48c3-8e04-bb9e7eee57d0",
     "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
-    "text": "Iran has no navy - it's been knocked out",
+    "text": "Iran's navy has been knocked out",
     "status": "undisputed",
     "supportingSources": [
       "NBC News (Article 1)",
@@ -42,13 +43,13 @@
       "ABC News (Article 4)"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:56:35.301Z",
-    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+    "firstSeenAt": "2026-03-03T23:06:07.517Z",
+    "lastUpdatedAt": "2026-03-03T23:06:07.517Z"
   },
   {
-    "id": "5a712971-c14c-4c02-9426-be2fdcce34bd",
+    "id": "b5090e96-ce59-4de2-a010-ceaea8938f46",
     "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
-    "text": "Iran has no air force - it's been knocked out",
+    "text": "Iran's air force has been knocked out",
     "status": "undisputed",
     "supportingSources": [
       "NBC News (Article 1)",
@@ -57,13 +58,13 @@
       "ABC News (Article 4)"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:56:35.301Z",
-    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+    "firstSeenAt": "2026-03-03T23:06:07.517Z",
+    "lastUpdatedAt": "2026-03-03T23:06:07.517Z"
   },
   {
-    "id": "2fdeaa64-803f-4238-b747-969c7e7921c9",
+    "id": "42595aa4-2e62-43a3-8f24-427c84961423",
     "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
-    "text": "Iran has no air detection - it's been knocked out",
+    "text": "Iran's air detection has been knocked out",
     "status": "undisputed",
     "supportingSources": [
       "NBC News (Article 1)",
@@ -72,8 +73,8 @@
       "ABC News (Article 4)"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:56:35.301Z",
-    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+    "firstSeenAt": "2026-03-03T23:06:07.517Z",
+    "lastUpdatedAt": "2026-03-03T23:06:07.517Z"
   },
   {
     "id": "d28b2559-88f1-4e49-be66-14f517a142eb",
@@ -88,7 +89,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:56:35.301Z",
-    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+    "lastUpdatedAt": "2026-03-03T23:06:07.517Z"
   },
   {
     "id": "6677a690-3df4-4f2e-a19a-89270a9d9106",
@@ -103,12 +104,12 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:56:35.301Z",
-    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+    "lastUpdatedAt": "2026-03-03T23:06:07.517Z"
   },
   {
-    "id": "86f1812f-817a-4e7e-a467-ce1b37fca923",
+    "id": "5b991b92-6d21-4a3b-a794-58260097bb26",
     "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
-    "text": "Merz spent the night in the White House guest house",
+    "text": "Merz stayed overnight in the White House guest house",
     "status": "undisputed",
     "supportingSources": [
       "NBC News (Article 1)",
@@ -116,21 +117,21 @@
       "ABC News (Article 4)"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:56:35.301Z",
-    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+    "firstSeenAt": "2026-03-03T23:06:07.517Z",
+    "lastUpdatedAt": "2026-03-03T23:06:07.517Z"
   },
   {
-    "id": "59c3d2e6-d643-415b-b422-c00aa4f5523b",
+    "id": "e78d6f1c-b604-4511-baf2-d06fbfd89b08",
     "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
-    "text": "Trump said he 'might have forced' Israel's hand regarding Iran strikes",
+    "text": "Trump said he 'might have forced' Israel's hand rather than Israel forcing the US into war",
     "status": "undisputed",
     "supportingSources": [
       "ABC News (Article 3)",
       "The Hill (Article 5)"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:56:35.301Z",
-    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+    "firstSeenAt": "2026-03-03T23:06:07.517Z",
+    "lastUpdatedAt": "2026-03-03T23:06:07.517Z"
   },
   {
     "id": "1a460f5a-0cc6-40d8-a762-1d47f84c4692",
@@ -142,7 +143,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:56:35.301Z",
-    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+    "lastUpdatedAt": "2026-03-03T23:06:07.517Z"
   },
   {
     "id": "58b7b4bd-749a-4ac1-a739-a99648d52f6c",
@@ -158,31 +159,31 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:56:35.301Z",
-    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+    "lastUpdatedAt": "2026-03-03T23:06:07.517Z"
   },
   {
-    "id": "48301bc6-889b-43d5-8e44-26d31f2c74a1",
+    "id": "44d1b2dd-9b2b-49df-bef1-98fa1433b2cd",
     "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
-    "text": "Trump called the UK and Spain 'uncooperative'",
+    "text": "Trump said some European countries like Germany have been helpful, but others like Spain have not",
     "status": "undisputed",
     "supportingSources": [
       "DW (Article 6)"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:56:35.301Z",
-    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+    "firstSeenAt": "2026-03-03T23:06:07.517Z",
+    "lastUpdatedAt": "2026-03-03T23:06:07.517Z"
   },
   {
-    "id": "d5efd680-c26a-4409-9f0e-f35f57c73528",
+    "id": "12b8f365-9ec7-4649-9e92-82d1854c29b9",
     "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
-    "text": "The UK decided not to let the US use its bases to attack Iran",
+    "text": "Trump criticized the UK for not letting the US use its bases to attack Iran",
     "status": "undisputed",
     "supportingSources": [
       "DW (Article 6)"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:56:35.301Z",
-    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+    "firstSeenAt": "2026-03-03T23:06:07.517Z",
+    "lastUpdatedAt": "2026-03-03T23:06:07.517Z"
   },
   {
     "id": "4d14f1f4-a784-4adb-8d9e-0ac116100489",
@@ -194,42 +195,30 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:56:35.301Z",
-    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+    "lastUpdatedAt": "2026-03-03T23:06:07.517Z"
   },
   {
-    "id": "8b305c9f-10ff-48a8-9c1e-e8e9d04f7282",
+    "id": "fc2b1556-a45c-45a9-831e-12ba38545c27",
     "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
-    "text": "A previous White House ceasefire proposal offered Ukrainian land to Russia, including land not under Russian control",
+    "text": "Europeans did not take part in the attack on Iran",
     "status": "undisputed",
     "supportingSources": [
-      "DW (Article 6)"
+      "NYT World (Article 7)"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:56:35.301Z",
-    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+    "firstSeenAt": "2026-03-03T23:06:07.517Z",
+    "lastUpdatedAt": "2026-03-03T23:06:07.517Z"
   },
   {
-    "id": "26742f39-2f5b-422b-88b9-91299d69a96e",
+    "id": "790790e7-c945-4434-b2fc-d226f3492282",
     "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
-    "text": "Trump said Ukraine was 'very high' on his priority list but admitted he was surprised at how difficult it has been to find a solution",
+    "text": "The US military operation in Iran is ongoing",
     "status": "undisputed",
     "supportingSources": [
-      "DW (Article 6)"
+      "The Hill (Article 5)"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:56:35.301Z",
-    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
-  },
-  {
-    "id": "d3e8a2ac-f00c-4201-af82-68c599c509e5",
-    "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
-    "text": "Trump said he thought Ukraine 'was going to be one of the easier ones' to resolve",
-    "status": "undisputed",
-    "supportingSources": [
-      "DW (Article 6)"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:56:35.301Z",
-    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+    "firstSeenAt": "2026-03-03T23:06:07.517Z",
+    "lastUpdatedAt": "2026-03-03T23:06:07.517Z"
   }
 ]

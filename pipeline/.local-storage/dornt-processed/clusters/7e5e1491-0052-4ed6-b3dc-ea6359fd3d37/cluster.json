@@ -7,20 +7,21 @@
     "857ff586-5844-44c7-ad8c-73e329828d2f",
     "248fd01e-4284-4e86-931b-686077f2ce57",
     "4053aa66-89ee-4062-a4dd-34bd461dac85",
-    "528dc5bf-ebb5-4117-adf9-8d062727263d"
+    "528dc5bf-ebb5-4117-adf9-8d062727263d",
+    "15ae40f2-1fa4-40e7-9ff8-68425d0a40b7"
   ],
   "redditPostIds": [],
   "createdAt": "2026-03-03T19:46:57.349Z",
-  "updatedAt": "2026-03-03T19:47:12.347Z",
-  "articleCount": 6,
+  "updatedAt": "2026-03-03T22:55:58.756Z",
+  "articleCount": 7,
   "sourceCount": 4,
   "topSources": [
     "YouTube: NBC News",
     "YouTube: ABC News",
     "The Hill",
-    "DW"
+    "NYT World"
   ],
-  "importance": 58,
+  "importance": 61,
   "status": "active",
   "centroid": [
     -0.03140791233333333,

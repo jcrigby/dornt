@@ -158,6 +158,6 @@ export const youtubeChannels: YouTubeChannelConfig[] = [
 
   // ── Geopolitics & International ──
   { channelId: 'UCwnKziETDbHJtx78nIkfYug', name: 'Caspian Report', category: 'geopolitics' },
-  { channelId: 'UCLMnUt94VhMpLg1PvIS8JOQ', name: 'Nate B Jones', category: 'geopolitics' },
+  { channelId: 'UC0C-17n9iuUQPylguM1d-lQ', name: 'Nate B Jones', category: 'ai' },
   { channelId: 'UCHd62-u_v4DvJ8TCFtpi4GA', name: 'VisualPolitik EN', category: 'geopolitics' },
 ];

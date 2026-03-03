@@ -3,66 +3,67 @@
   "frames": [
     {
       "name": "Presidential Agency Frame",
-      "description": "Presents Trump as the decisive actor who initiated strikes to prevent Iranian aggression, emphasizing his strategic leadership",
+      "description": "Presents Trump as the primary decision-maker who acted preemptively based on intelligence about Iranian intentions, emphasizing his leadership role",
       "sources": [
         "The Hill",
+        "ABC News",
         "NBC News",
-        "ABC News"
+        "YouTube ABC News"
       ],
-      "emphasis": "Trump's claim that he 'forced Israel's hand' rather than being pressured by Israel, positioning him as proactive rather than reactive"
+      "emphasis": "Trump's claim that he 'forced Israel's hand' rather than being pressured by Israel, and his assessment that Iran was going to attack first"
     },
     {
-      "name": "Administrative Contradiction Frame",
-      "description": "Highlights inconsistencies between Trump's statements and those of his Secretary of State Marco Rubio",
+      "name": "Administration Contradiction Frame",
+      "description": "Highlights the discrepancy between Trump's statements and Secretary of State Rubio's earlier comments about Israel's role in prompting US action",
       "sources": [
         "The Guardian US",
         "ABC News"
       ],
-      "emphasis": "The discrepancy between Trump saying he forced Israel's hand versus Rubio's earlier statement that Israel's plans prompted US action"
-    },
-    {
-      "name": "Preemptive Defense Frame",
-      "description": "Frames the strikes as necessary defensive action based on intelligence about imminent Iranian attacks",
-      "sources": [
-        "NBC News",
-        "ABC News",
-        "YouTube sources"
-      ],
-      "emphasis": "Trump's assertion that Iran 'was going to attack first' and negotiations indicated imminent threat"
+      "emphasis": "The apparent contradiction between Trump saying he forced Israel's hand versus Rubio's statement that Israel was planning to strike first"
     },
     {
       "name": "Military Success Frame",
-      "description": "Emphasizes the effectiveness of strikes and Iran's weakened position",
+      "description": "Focuses on the claimed effectiveness of the strikes and Iran's weakened military capabilities",
       "sources": [
-        "The Guardian US",
+        "YouTube ABC News",
         "NBC News",
-        "ABC News"
+        "The Guardian US"
       ],
-      "emphasis": "Claims that 'virtually everything they have has been knocked out' and Iran's reduced capabilities"
+      "emphasis": "Trump's assertions that 'virtually everything they have has been knocked out' and Iran's reduced missile capabilities"
     },
     {
-      "name": "International Relations Strain Frame",
-      "description": "Covers diplomatic tensions with allies over support for the strikes",
+      "name": "Regional Escalation Frame",
+      "description": "Covers Iran's strikes against neutral countries and the broader regional conflict",
       "sources": [
-        "The Guardian US",
-        "ABC News"
+        "YouTube ABC News",
+        "NBC News",
+        "The Guardian US"
       ],
-      "emphasis": "Trump's criticism of Spain and UK for refusing cooperation, highlighting alliance fractures"
+      "emphasis": "Iran's attacks on previously neutral countries and the surprise this caused"
+    },
+    {
+      "name": "Congressional Oversight Frame",
+      "description": "Focuses on legislative branch demands for briefings and potential votes on war powers",
+      "sources": [
+        "The Guardian US"
+      ],
+      "emphasis": "Congressional Democrats demanding answers and potential votes on presidential war powers"
     }
   ],
   "outlierPerspectives": [
-    "Iran's targeting of previously neutral countries as evidence of regime's 'evil' nature (only covered in detail by YouTube sources)",
-    "Specific casualty claims of 35,000 Iranian protesters killed (only mentioned in ABC News YouTube coverage)",
-    "Details about Iranian officials seeking immunity and potentially surrendering (unique to ABC News YouTube coverage)"
+    "Trump's claim that Iran killed '35,000 protesters' in recent weeks (only mentioned in YouTube ABC News coverage)",
+    "Spain's refusal to allow US use of jointly operated bases for Iran strikes",
+    "DHS investigation into possible 'Iranian sleeper cells'",
+    "Trump's statement about US munition stockpiles allowing wars to be fought 'forever'"
   ],
   "missingContext": [
-    "Independent verification of casualty figures and military damage claims",
-    "Details about the specific negotiations Trump referenced with Iran",
-    "Timeline and specifics of the intelligence that suggested imminent Iranian attack",
-    "Legal basis for the strikes under domestic and international law",
-    "Congressional authorization status and War Powers Act implications",
-    "Broader regional impact beyond the countries Trump mentioned Iran was striking"
+    "Timeline of events leading to the strikes - when negotiations occurred, what intelligence prompted the assessment",
+    "Clarification of what specific 'negotiations with lunatics' Trump referenced",
+    "Details about the legal/constitutional basis for the strikes without congressional authorization",
+    "Verification of casualty claims and damage assessments from independent sources",
+    "Background on the US-Spain base agreement and its terms",
+    "Context about which 'neutral countries' Iran allegedly struck and verification of these claims"
   ],
-  "generatedAt": "2026-03-03T20:00:00.679Z",
+  "generatedAt": "2026-03-03T23:11:36.843Z",
   "model": "anthropic/claude-sonnet-4"
 }

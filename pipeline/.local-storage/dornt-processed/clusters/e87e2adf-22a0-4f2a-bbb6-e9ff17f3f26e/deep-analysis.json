@@ -4,95 +4,95 @@
     {
       "name": "Iran/Revolutionary Guard",
       "role": "Primary actor implementing strait closure",
-      "position": "Aggressive retaliation for US-Israeli strikes, using energy leverage as strategic weapon",
+      "position": "Retaliating against U.S./Israeli attacks by weaponizing energy chokepoint",
       "influence": "high"
     },
     {
       "name": "United States",
-      "role": "Military actor and global energy consumer",
-      "position": "Conducted weekend strikes triggering closure, likely preparing military response",
+      "role": "Military aggressor and global energy market stabilizer",
+      "position": "Launched weekend attacks on Iran, likely preparing naval response",
       "influence": "high"
     },
     {
       "name": "Israel",
-      "role": "Military partner in strikes, regional energy consumer",
-      "position": "Joint military action with US, facing domestic energy disruptions",
+      "role": "Military partner in Iran operations",
+      "position": "Co-participant in weekend bombing campaign against Iran",
       "influence": "medium"
-    },
-    {
-      "name": "Qatar",
-      "role": "Major LNG producer, victim of Iranian attacks",
-      "position": "Forced to halt 20% of global LNG exports due to facility attacks",
-      "influence": "high"
-    },
-    {
-      "name": "Saudi Arabia/UAE/Kuwait",
-      "role": "Gulf oil producers affected by closure",
-      "position": "Economic victims of closure, likely supporting international intervention",
-      "influence": "high"
     },
     {
       "name": "China",
-      "role": "Largest oil importer, major Iranian oil buyer",
-      "position": "Calling for de-escalation and navigation safety, economically vulnerable",
+      "role": "World's largest oil importer and Iran trade partner",
+      "position": "Calling for vessel protection and immediate ceasefire",
       "influence": "high"
     },
     {
-      "name": "European Union",
-      "role": "Major energy consumer facing 60% gas price surge",
-      "position": "Likely supporting intervention to restore energy flows",
+      "name": "Qatar",
+      "role": "Major LNG producer under attack",
+      "position": "Victim of Iranian strikes, halted production at key facilities",
       "influence": "medium"
     },
     {
-      "name": "Asian importers (Thailand, India, Korea, Philippines)",
-      "role": "Vulnerable energy importers",
-      "position": "Seeking alternative supply routes, supporting international action",
+      "name": "Saudi Arabia",
+      "role": "Regional oil power and Iranian rival",
+      "position": "Under Iranian attack but maintaining limited damage narrative",
+      "influence": "high"
+    },
+    {
+      "name": "Asian Import-Dependent Nations",
+      "role": "Vulnerable energy consumers",
+      "position": "Facing severe supply disruption (India, Thailand, Korea, Philippines)",
+      "influence": "medium"
+    },
+    {
+      "name": "Global Shipping Industry",
+      "role": "Critical infrastructure operators",
+      "position": "150+ tankers anchored, avoiding transit through strait",
       "influence": "medium"
     }
   ],
   "predictions": [
     {
-      "text": "US-led naval coalition will attempt to forcibly reopen the strait within 7-10 days",
+      "text": "U.S. naval forces will deploy to escort tankers and attempt to reopen the strait",
       "likelihood": "likely",
-      "timeframe": "1-2 weeks",
-      "basis": "Strategic importance of waterway, precedent of Operation Earnest Will (1987-1988), and unsustainable economic impact"
+      "timeframe": "within 7-14 days",
+      "basis": "Historical precedent from 1987-1988 Tanker War and strategic imperative to maintain global energy flows"
     },
     {
-      "text": "Oil prices will exceed $100/barrel if closure continues beyond one week",
+      "text": "Oil prices will exceed $100/barrel if closure persists beyond one week",
       "likelihood": "likely",
-      "timeframe": "1 week",
-      "basis": "Already 12% weekly surge with analyst warnings, and 31% of seaborne crude flows affected"
+      "timeframe": "within 10 days",
+      "basis": "Already 12% weekly increase with 31% of seaborne crude flows disrupted"
     },
     {
-      "text": "Iran will escalate attacks on shipping and energy infrastructure in response to military intervention",
+      "text": "Iran will escalate attacks on regional energy infrastructure",
       "likelihood": "likely",
-      "timeframe": "immediate upon intervention",
-      "basis": "Pattern of drone attacks on Qatar facilities and tanker strikes already demonstrated"
+      "timeframe": "ongoing through next 2 weeks",
+      "basis": "Pattern established with Qatar LNG and Saudi refinery strikes"
     },
     {
-      "text": "Emergency strategic petroleum reserve releases by major consuming nations",
+      "text": "China will increase diplomatic pressure for ceasefire while securing alternative supply routes",
       "likelihood": "likely",
-      "timeframe": "3-5 days",
-      "basis": "Precedent during previous supply disruptions and current price surge trajectory"
+      "timeframe": "immediate and ongoing",
+      "basis": "China's position as largest oil importer and existing Iran trade relationship"
     },
     {
-      "text": "Regional conflict expansion involving Gulf states and proxy forces",
+      "text": "Global recession triggered by sustained energy price shock",
       "likelihood": "possible",
-      "timeframe": "2-4 weeks",
-      "basis": "Iran's attacks on Qatar facilities suggest willingness to target neutral parties"
+      "timeframe": "3-6 months if closure exceeds 30 days",
+      "basis": "20% of global oil and LNG flows disrupted, with 60% gas price increases already recorded"
     }
   ],
-  "historicalContext": "This crisis echoes the 1987-1988 'Tanker War' during the Iran-Iraq conflict, when Iran similarly threatened Strait of Hormuz shipping, prompting Operation Earnest Will - the largest US naval convoy operation since WWII. Iran has repeatedly threatened strait closure during tensions (2012 sanctions, 2019 tanker incidents, 2020 Soleimani assassination) but never fully implemented it. The strait's strategic importance has only grown since 1987, now handling 31% of seaborne crude versus 20% then. Previous Iranian threats typically lasted days to weeks before diplomatic or military pressure forced reopening. The current closure represents Iran's most significant use of energy leverage since the 1979 oil crisis, demonstrating how regional conflicts can instantly disrupt global energy security.",
+  "historicalContext": "This crisis echoes the 1987-1988 'Tanker War' during the Iran-Iraq conflict, when Iran similarly threatened Strait of Hormuz shipping, prompting Operation Earnest Will - the largest U.S. naval convoy operation since WWII. However, the current situation is unprecedented in scale, with Iran directly ordering complete closure rather than selective targeting. The strait has been a recurring flashpoint since the 1980s, with Iran repeatedly threatening closure during sanctions periods (2012, 2018-2019). The death of Ayatollah Khamenei, if confirmed, represents the most significant Iranian leadership decapitation since the 1979 revolution, potentially triggering succession crisis alongside the energy warfare.",
   "implications": [
-    "Fundamental shift in global energy security calculations, demonstrating vulnerability of critical chokepoints to regional conflicts",
-    "Acceleration of strategic petroleum reserve policies and alternative supply route development by major consuming nations",
-    "Potential reshaping of Middle East naval presence with permanent international maritime security arrangements",
-    "Economic recession risk for energy-import dependent economies, particularly in Asia, due to sustained high energy costs",
-    "Strengthening of Iran's position as regional power through demonstration of global economic leverage capabilities",
-    "Increased urgency for renewable energy transition and energy independence policies among major consumers",
-    "Potential breakdown of existing Gulf security arrangements if conflict expands beyond Iran-US-Israel triangle",
-    "Risk of global supply chain disruptions extending beyond energy to fertilizers and other commodities transiting the strait"
+    "Global energy security architecture faces fundamental challenge as 20% of oil and LNG flows remain disrupted",
+    "Asian economies particularly vulnerable due to import dependence, with India facing 60% Middle East oil reliance",
+    "Potential acceleration of global energy transition as nations seek to reduce chokepoint vulnerabilities",
+    "International maritime law precedent being set for weaponization of critical trade routes",
+    "Global inflation pressures intensifying with 60% European gas price increases already recorded",
+    "Geopolitical realignment as China's energy security interests may conflict with U.S. military response",
+    "Regional energy infrastructure becoming primary warfare target, expanding conflict beyond traditional military assets",
+    "Global supply chain disruption extending beyond energy to affect all goods transiting the Persian Gulf"
   ],
-  "generatedAt": "2026-03-03T20:03:54.482Z",
+  "generatedAt": "2026-03-03T23:16:56.887Z",
   "model": "anthropic/claude-sonnet-4"
 }

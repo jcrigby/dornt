@@ -10,12 +10,12 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:58:32.170Z",
-    "lastUpdatedAt": "2026-03-03T19:58:32.170Z"
+    "lastUpdatedAt": "2026-03-03T23:08:06.528Z"
   },
   {
     "id": "7d593ddf-0b1e-40b2-99c4-a3bc0ada1272",
     "clusterId": "990b1f94-1769-4ee0-8176-69266ea89516",
-    "text": "The lawsuit concerns withheld Medicaid funds to Minnesota",
+    "text": "The lawsuit concerns withheld Medicaid funds",
     "status": "undisputed",
     "supportingSources": [
       "The Hill",
@@ -23,7 +23,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:58:32.170Z",
-    "lastUpdatedAt": "2026-03-03T19:58:32.170Z"
+    "lastUpdatedAt": "2026-03-03T23:08:06.528Z"
   },
   {
     "id": "0fb988ea-1763-4526-af25-06de8494f11b",
@@ -35,7 +35,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:58:32.170Z",
-    "lastUpdatedAt": "2026-03-03T19:58:32.170Z"
+    "lastUpdatedAt": "2026-03-03T23:08:06.528Z"
   },
   {
     "id": "c829cc2d-7042-439f-98d8-78dbc33dbd52",
@@ -47,7 +47,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:58:32.170Z",
-    "lastUpdatedAt": "2026-03-03T19:58:32.170Z"
+    "lastUpdatedAt": "2026-03-03T23:08:06.528Z"
   },
   {
     "id": "14c4bebe-94f7-4b79-9828-22c71be26a37",
@@ -60,7 +60,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:58:32.170Z",
-    "lastUpdatedAt": "2026-03-03T19:58:32.170Z"
+    "lastUpdatedAt": "2026-03-03T23:08:06.528Z"
   },
   {
     "id": "05bc3a4e-fe7f-46d6-a4be-577ddfe3a0d4",
@@ -72,7 +72,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:58:32.170Z",
-    "lastUpdatedAt": "2026-03-03T19:58:32.170Z"
+    "lastUpdatedAt": "2026-03-03T23:08:06.528Z"
   },
   {
     "id": "1432d55e-ff10-49ed-b5df-a97e95f8cac3",
@@ -84,6 +84,6 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:58:32.170Z",
-    "lastUpdatedAt": "2026-03-03T19:58:32.170Z"
+    "lastUpdatedAt": "2026-03-03T23:08:06.528Z"
   }
 ]

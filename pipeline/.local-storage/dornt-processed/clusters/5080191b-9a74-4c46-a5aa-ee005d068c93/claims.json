@@ -14,20 +14,44 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:52:54.702Z",
-    "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
   },
   {
-    "id": "ff7fd655-dd8b-4eb8-acb8-4bc77f586aac",
+    "id": "c1fa7623-a821-4d58-9c76-6af57fc904b6",
     "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-    "text": "Trump announced that Supreme Leader Ayatollah Ali Khamenei died in an airstrike",
+    "text": "The strikes began on Saturday (February 28, 2026)",
     "status": "undisputed",
     "supportingSources": [
-      "The Guardian US",
-      "Axios"
+      "Foreign Policy",
+      "France 24"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:02:04.960Z",
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
+  },
+  {
+    "id": "d95a1a9b-a822-4e5f-a776-d805fcbb3f7a",
+    "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+    "text": "Trump claimed Iranian Supreme Leader Ali Khamenei died in an airstrike",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:02:04.960Z",
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
+  },
+  {
+    "id": "05c2c46e-80ee-44cf-9177-8b8678c7ad65",
+    "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+    "text": "Pentagon briefed congressional staffers that there was no intelligence suggesting an 'imminent threat' from Iran",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:52:54.702Z",
-    "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
   },
   {
     "id": "d8e9b46f-9e11-402f-8227-3b887b3c42bd",
@@ -39,7 +63,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:52:54.702Z",
-    "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
   },
   {
     "id": "d7c6dfbc-dff2-4c05-b5cd-bbb1073a7d67",
@@ -51,40 +75,13 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:52:54.702Z",
-    "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
-  },
-  {
-    "id": "31bb7071-1a2e-4d17-87ec-9b2f1745b7b9",
-    "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-    "text": "The administration claimed the strikes prevented an imminent threat to Americans",
-    "status": "disputed",
-    "supportingSources": [
-      "Vox",
-      "France 24"
-    ],
-    "disputingSources": [
-      "The Guardian US"
-    ],
-    "firstSeenAt": "2026-03-03T19:52:54.702Z",
-    "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
-  },
-  {
-    "id": "05c2c46e-80ee-44cf-9177-8b8678c7ad65",
-    "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-    "text": "There was no intelligence suggesting an 'imminent threat' according to Pentagon briefings",
-    "status": "undisputed",
-    "supportingSources": [
-      "The Guardian US"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:52:54.702Z",
-    "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
   },
   {
     "id": "baa5c871-4465-4cd3-8d44-f53fdb9d58a3",
     "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-    "text": "Trump's stated objectives for the war include destroying Iran's missile capabilities, navy, nuclear program, and stopping support for terrorist groups",
-    "status": "undisputed",
+    "text": "Trump's stated objectives for the war",
+    "status": "evolving",
     "supportingSources": [
       "Axios",
       "France 24",
@@ -92,21 +89,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:52:54.702Z",
-    "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
-  },
-  {
-    "id": "479728d9-3267-47ea-b82f-0dc4487bc33b",
-    "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-    "text": "Trump has given contradictory statements about whether this is regime change",
-    "status": "undisputed",
-    "supportingSources": [
-      "Axios",
-      "France 24",
-      "The Atlantic"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:52:54.702Z",
-    "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
   },
   {
     "id": "6850bdb6-e290-4aa9-b042-d30eac877290",
@@ -118,20 +101,44 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:52:54.702Z",
-    "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
   },
   {
-    "id": "5b725156-0ced-4b7d-9fe0-a2a2daf00817",
+    "id": "7ad188bc-4a9d-4eb9-90bb-d82f13bce10a",
     "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-    "text": "Trump has given varying timelines for the operation duration in different interviews",
+    "text": "Trump told various outlets he had candidates in mind to take over Iran but later said they were dead",
+    "status": "undisputed",
+    "supportingSources": [
+      "Axios"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:02:04.960Z",
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
+  },
+  {
+    "id": "12d263ff-e386-46ba-9bc1-67a36d9ae134",
+    "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+    "text": "Trump gave shifting timelines for the mission duration",
     "status": "undisputed",
     "supportingSources": [
       "Axios",
-      "France 24"
+      "The Guardian US"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:52:54.702Z",
-    "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+    "firstSeenAt": "2026-03-03T23:02:04.960Z",
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
+  },
+  {
+    "id": "957b0550-6945-4bed-b3fb-4a4f6c23c556",
+    "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+    "text": "The strikes targeted hundreds of targets including ballistic missile launchers, drone production sites, military airfields, naval facilities, and air defense systems",
+    "status": "undisputed",
+    "supportingSources": [
+      "Vox"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:02:04.960Z",
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
   },
   {
     "id": "b93c5877-d5b0-4f1b-aabd-44993b24a6c8",
@@ -143,55 +150,106 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:52:54.702Z",
-    "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
   },
   {
-    "id": "89c82f7b-412a-423d-ad5a-4f580756345b",
+    "id": "71addd4b-d4ef-4d52-9575-0c0d5d7ccf35",
     "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-    "text": "There have been reports of first US casualties",
+    "text": "There were reports of first US casualties",
     "status": "undisputed",
     "supportingSources": [
       "France 24"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:52:54.702Z",
-    "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+    "firstSeenAt": "2026-03-03T23:02:04.960Z",
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
   },
   {
-    "id": "9ec1e5bb-6e15-4984-a93d-30bab5f1adff",
+    "id": "c86596ee-2200-4415-ae2b-1c68dfcae1c4",
     "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-    "text": "Trump previously bombed Iranian nuclear facilities at Fordow, Natanz, and Isfahan in June",
-    "status": "undisputed",
-    "supportingSources": [
-      "The Atlantic",
-      "France 24"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:52:54.702Z",
-    "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
-  },
-  {
-    "id": "13a76e0d-7031-4209-b57c-cae844a79ec5",
-    "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-    "text": "Trump launched offensives on seven nations in his first 14 months, more strikes in 2025 than Biden did in four years",
+    "text": "Trump launched offensives on seven nations in first 14 months of presidency",
     "status": "undisputed",
     "supportingSources": [
       "France 24"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:52:54.702Z",
-    "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+    "firstSeenAt": "2026-03-03T23:02:04.960Z",
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
   },
   {
-    "id": "ffb47886-fa46-41f9-922b-9720cc030fd1",
+    "id": "f03af0da-029e-46dd-b5be-0f3baf42a82a",
     "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-    "text": "The Wall Street Journal reported Trump was still debating objectives as of January 30",
+    "text": "Trump ordered more strikes in 2025 than Biden did in four years",
+    "status": "undisputed",
+    "supportingSources": [
+      "France 24"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:02:04.960Z",
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
+  },
+  {
+    "id": "13c5757b-77b7-4e9e-b2ad-f08459f0e2b2",
+    "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+    "text": "US and Israeli forces bombed Iran's missile program in June 2025",
+    "status": "undisputed",
+    "supportingSources": [
+      "France 24",
+      "The Atlantic"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:02:04.960Z",
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
+  },
+  {
+    "id": "48b95a6c-b658-4407-aa47-36756215c955",
+    "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+    "text": "Trump claimed previous strikes 'obliterated the regime's nuclear program at Fordow, Natanz, and Isfahan'",
     "status": "undisputed",
     "supportingSources": [
       "The Atlantic"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:52:54.702Z",
-    "lastUpdatedAt": "2026-03-03T19:52:54.702Z"
+    "firstSeenAt": "2026-03-03T23:02:04.960Z",
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
+  },
+  {
+    "id": "0cd8563d-3f52-4c4f-b772-890241cef494",
+    "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+    "text": "Wall Street Journal reported Trump was planning major military campaign but was still debating objectives as of January 30",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Atlantic"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:02:04.960Z",
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
+  },
+  {
+    "id": "09c7019f-3f13-493b-9f4c-56d6903343ef",
+    "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+    "text": "Oman's foreign minister said sides were making 'significant progress' in negotiations before bombing began",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:02:04.960Z",
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
+  },
+  {
+    "id": "223a6f4c-9782-445c-894f-f0e3683d6f53",
+    "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+    "text": "Whether the operation constitutes regime change",
+    "status": "disputed",
+    "supportingSources": [
+      "The Guardian US",
+      "Foreign Policy"
+    ],
+    "disputingSources": [
+      "Axios"
+    ],
+    "firstSeenAt": "2026-03-03T23:02:04.960Z",
+    "lastUpdatedAt": "2026-03-03T23:02:04.960Z"
   }
 ]

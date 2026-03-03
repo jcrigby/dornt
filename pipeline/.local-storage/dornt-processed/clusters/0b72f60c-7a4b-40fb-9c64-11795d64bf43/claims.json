@@ -9,7 +9,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:47:40.482Z",
-    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+    "lastUpdatedAt": "2026-03-03T22:56:29.569Z"
   },
   {
     "id": "3f929513-6462-4903-9671-26e3ba043673",
@@ -21,19 +21,19 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:47:40.482Z",
-    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+    "lastUpdatedAt": "2026-03-03T22:56:29.569Z"
   },
   {
-    "id": "e319391f-1c92-4f75-8664-3258f7414571",
+    "id": "0a036b51-9287-4ba6-8c41-b17c82b40127",
     "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
-    "text": "Trump called Anthropic 'Leftwing nut jobs' and said they made a 'DISASTROUS MISTAKE trying to STRONG-ARM the Department of War'",
+    "text": "Trump called Anthropic employees 'Leftwing nut jobs' and said they made a 'DISASTROUS MISTAKE trying to STRONG-ARM the Department of War'",
     "status": "undisputed",
     "supportingSources": [
       "Ars Technica"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:47:40.482Z",
-    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+    "firstSeenAt": "2026-03-03T22:56:29.569Z",
+    "lastUpdatedAt": "2026-03-03T22:56:29.569Z"
   },
   {
     "id": "06d9f4b0-2b3b-4527-bb55-7af37a729ae5",
@@ -45,7 +45,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:47:40.482Z",
-    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+    "lastUpdatedAt": "2026-03-03T22:56:29.569Z"
   },
   {
     "id": "48f6df7b-eb64-4d2d-85cb-8871803e5be4",
@@ -57,19 +57,19 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:47:40.482Z",
-    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+    "lastUpdatedAt": "2026-03-03T22:56:29.569Z"
   },
   {
     "id": "d9dcc49f-5036-4d31-8bf5-2ec0b10fe5bc",
     "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
-    "text": "Anthropic objected to the change, claiming it could allow AI to be used to fully control lethal autonomous weapons or conduct mass surveillance on US citizens",
+    "text": "Anthropic objected to the change, claiming it could allow AI to be used to fully control lethal autonomous weapons or to conduct mass surveillance on US citizens",
     "status": "undisputed",
     "supportingSources": [
       "Ars Technica"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:47:40.482Z",
-    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+    "lastUpdatedAt": "2026-03-03T22:56:29.569Z"
   },
   {
     "id": "11a80545-1a2a-485f-bddb-1f641f9e2f47",
@@ -81,43 +81,31 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:47:40.482Z",
-    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
-  },
-  {
-    "id": "4ad56697-4b92-4557-bc2a-b5595425c707",
-    "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
-    "text": "Anthropic signed a $200 million deal with the Pentagon last year",
-    "status": "undisputed",
-    "supportingSources": [
-      "Ars Technica"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:47:40.482Z",
-    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+    "lastUpdatedAt": "2026-03-03T22:56:29.569Z"
   },
   {
     "id": "1c7d3a51-10b9-4b64-8a74-054b0c66c5f8",
     "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
-    "text": "Anthropic was the first major AI lab to work with the US military",
+    "text": "Anthropic was the first major AI lab to work with the US military, through a $200 million deal signed with the Pentagon last year",
     "status": "undisputed",
     "supportingSources": [
       "Ars Technica"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:47:40.482Z",
-    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+    "lastUpdatedAt": "2026-03-03T22:56:29.569Z"
   },
   {
-    "id": "da7dde76-b42c-4f04-9dc8-6f85e8b76425",
+    "id": "a959ef90-3297-4bad-94ba-d9df0befbb16",
     "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
-    "text": "Anthropic created custom models known as Claude Gov that have fewer restrictions than its regular ones",
+    "text": "Anthropic created several custom models known as Claude Gov that have fewer restrictions than its regular ones",
     "status": "undisputed",
     "supportingSources": [
       "Ars Technica"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:47:40.482Z",
-    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+    "firstSeenAt": "2026-03-03T22:56:29.569Z",
+    "lastUpdatedAt": "2026-03-03T22:56:29.569Z"
   },
   {
     "id": "2c74ab32-654a-4fee-a3c4-eb30e1e80a16",
@@ -129,7 +117,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:47:40.482Z",
-    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+    "lastUpdatedAt": "2026-03-03T22:56:29.569Z"
   },
   {
     "id": "de719d57-623f-4cb1-9239-7ab773e24012",
@@ -141,19 +129,19 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:47:40.482Z",
-    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+    "lastUpdatedAt": "2026-03-03T22:56:29.569Z"
   },
   {
     "id": "90e74475-b94e-47e6-87f9-4c2845488840",
     "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
-    "text": "Claude Gov is currently largely used for run-of-the-mill tasks like writing reports and summarizing documents, but also for intelligence analysis and military planning",
+    "text": "Claude Gov is currently largely used for run-of-the-mill tasks, like writing reports and summarizing documents, but it is also used for intelligence analysis and military planning",
     "status": "undisputed",
     "supportingSources": [
       "Ars Technica"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:47:40.482Z",
-    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+    "lastUpdatedAt": "2026-03-03T22:56:29.569Z"
   },
   {
     "id": "a77d746a-e6e1-43d4-a979-373c88a505ac",
@@ -165,6 +153,18 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:47:40.482Z",
-    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+    "lastUpdatedAt": "2026-03-03T22:56:29.569Z"
+  },
+  {
+    "id": "d029a0d1-505f-440c-802b-4f0471cd5c91",
+    "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
+    "text": "Anthropic's model is available through platforms provided by Palantir and Amazon's cloud platform for classified military work",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T22:56:29.569Z",
+    "lastUpdatedAt": "2026-03-03T22:56:29.569Z"
   }
 ]

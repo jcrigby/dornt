@@ -3,12 +3,12 @@
   "frames": [
     {
       "name": "Military Operations Focus",
-      "description": "Presents the conflict primarily through the lens of military strategy, casualties, and operational updates",
+      "description": "Presents the conflict primarily through the lens of military casualties, operational details, and strategic objectives",
       "sources": [
         "Axios",
         "Foreign Policy"
       ],
-      "emphasis": "U.S. service member deaths, military objectives achieved, operational scope and timeline"
+      "emphasis": "U.S. service member deaths, operational chaos, military achievements like killing Iranian leaders"
     },
     {
       "name": "Humanitarian Crisis Frame",
@@ -24,23 +24,22 @@
       "sources": [
         "Foreign Policy"
       ],
-      "emphasis": "Trump's approval ratings, polling on Iran strikes, political costs of casualties"
+      "emphasis": "Trump's approval ratings, polling on public support for strikes, political costs of casualties"
     }
   ],
   "outlierPerspectives": [
-    "Detailed documentation of specific civilian casualty incidents (Vox's focus on the Minab elementary school strike killing 175 people)",
-    "Polling data showing only 25% American support for Iran strikes (Foreign Policy)",
-    "Analysis of friendly fire incidents and operational chaos (Axios reporting on Kuwaiti forces shooting down U.S. jets)"
+    "Detailed documentation of specific civilian casualties with named locations and victim counts (Vox's focus on the Minab school strike killing 175 people)",
+    "Analysis of friendly fire incidents and operational chaos (Axios's reporting on Kuwaiti forces shooting down U.S. jets)",
+    "Polling data showing only 25% American support for the strikes (Foreign Policy's Reuters/Ipsos poll)"
   ],
   "missingContext": [
-    "What triggered this military operation - the precipitating events or justification",
-    "International diplomatic response and efforts at de-escalation",
+    "What precipitated this military operation - the original justification or triggering events",
+    "International diplomatic responses beyond Gulf state retaliation",
     "Economic implications and oil market impacts",
-    "Regional allies' positions beyond Kuwait's involvement",
     "Congressional authorization or legal framework for the operation",
-    "Comparison to previous U.S.-Iran military confrontations",
-    "Iran's military capabilities and strategic response options"
+    "Comparison to previous U.S.-Iran military engagements",
+    "Regional allies' positions beyond Kuwait's friendly fire incident"
   ],
-  "generatedAt": "2026-03-03T19:55:21.041Z",
+  "generatedAt": "2026-03-03T23:04:54.933Z",
   "model": "anthropic/claude-sonnet-4"
 }

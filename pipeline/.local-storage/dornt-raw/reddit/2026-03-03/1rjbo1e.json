@@ -1,0 +1,36 @@
+{
+  "id": "1rjbo1e",
+  "subreddit": "science",
+  "title": "Light mimics the quantum Hall effect for the first time. This could revolutionize quantum computing and more",
+  "url": "https://nouvelles.umontreal.ca/en/article/2026/02/23/a-luminous-breakthrough-for-quantum-photonics",
+  "selftext": "",
+  "author": "connectwithmarve",
+  "score": 256,
+  "numComments": 15,
+  "createdUtc": 1772500931,
+  "permalink": "https://reddit.com/r/science/comments/1rjbo1e/light_mimics_the_quantum_hall_effect_for_the/",
+  "fetchedAt": "2026-03-03T22:53:08.670Z",
+  "topComments": [
+    {
+      "id": "o8c16d1",
+      "author": "AutoModerator",
+      "body": "Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.\n\n---\n\n**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/).\n\n---\n\nUser: u/connectwithmarve  \nPermalink: https://nouvelles.umontreal.ca/en/article/2026/02/23/a-luminous-breakthrough-for-quantum-photonics\n\n---\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",
+      "score": 1,
+      "createdUtc": 1772500932
+    },
+    {
+      "id": "o8cm3h5",
+      "author": "hippydog2",
+      "body": "so tempted to try and read this  but sounds past my limited understanding.",
+      "score": 18,
+      "createdUtc": 1772508471
+    },
+    {
+      "id": "o8dpvah",
+      "author": "MidnightMicroscope",
+      "body": "Really interesting to see a photonic platform reproducing an effective quantum Hall response, since it suggests topological protection can be engineered without electrons. If the edge modes stay robust in the face of fabrication disorder and optical loss, this feels like a meaningful step toward more stable photonic (and potentially quantum) interconnects. Curious what the main bottleneck is right now: loss, tunability, or scaling the lattice size?",
+      "score": 10,
+      "createdUtc": 1772527832
+    }
+  ]
+}

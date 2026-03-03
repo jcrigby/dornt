@@ -1,0 +1,98 @@
+{
+  "clusterId": "e393c505-5c15-45ce-a839-597e7c6c5412",
+  "stakeholders": [
+    {
+      "name": "Interim Iranian Leadership Council (Pezeshkian, Mohseni-Ejei, Arafi)",
+      "role": "Constitutional interim government",
+      "position": "Attempting to maintain regime continuity while managing succession crisis",
+      "influence": "medium"
+    },
+    {
+      "name": "Islamic Revolutionary Guard Corps (IRGC)",
+      "role": "Military/security apparatus",
+      "position": "Hardline resistance to foreign intervention, positioned to seize power",
+      "influence": "high"
+    },
+    {
+      "name": "Ali Larijani",
+      "role": "Senior political figure with military influence",
+      "position": "Unclear but reportedly controlling military operations",
+      "influence": "high"
+    },
+    {
+      "name": "Assembly of Experts",
+      "role": "Constitutional body for selecting Supreme Leader",
+      "position": "Disrupted by Israeli strikes, uncertain operational capacity",
+      "influence": "low"
+    },
+    {
+      "name": "Trump Administration",
+      "role": "Military intervention architect",
+      "position": "Escalating objectives from nuclear threats to regime change denial to freedom promotion",
+      "influence": "high"
+    },
+    {
+      "name": "Israeli Government",
+      "role": "Military partner in strikes",
+      "position": "Supporting U.S. operations, targeting Iranian leadership infrastructure",
+      "influence": "high"
+    },
+    {
+      "name": "Iranian Democratic Opposition",
+      "role": "Potential alternative governance",
+      "position": "Fragmented and lacking unified leadership or credible organization",
+      "influence": "low"
+    },
+    {
+      "name": "Regional Gulf States",
+      "role": "Targets of Iranian retaliation",
+      "position": "Vulnerable to escalation, likely seeking de-escalation",
+      "influence": "medium"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "IRGC hardliners will attempt to consolidate power, potentially sidelining the interim civilian council",
+      "likelihood": "likely",
+      "timeframe": "1-2 weeks",
+      "basis": "Sources identify IRGC as 'in the best position to take power' and they remain 'well armed and full of hard-liners'"
+    },
+    {
+      "text": "Iran will escalate ballistic missile attacks on Israeli and U.S. targets in response to continued strikes",
+      "likelihood": "likely",
+      "timeframe": "immediate",
+      "basis": "Iran has already threatened 'ferocious' retaliation and is currently firing missiles at targets"
+    },
+    {
+      "text": "Trump will authorize the threatened 'third wave' of strikes targeting remaining leadership candidates",
+      "likelihood": "possible",
+      "timeframe": "days to weeks",
+      "basis": "Trump explicitly warned potential successors and stated objectives have been escalating"
+    },
+    {
+      "text": "Iran will experience significant internal instability or potential state collapse",
+      "likelihood": "possible",
+      "timeframe": "weeks to months",
+      "basis": "Leadership decimation, lack of unified opposition, and analysts warning of failed state scenario"
+    },
+    {
+      "text": "U.S. will deploy ground troops despite public opposition",
+      "likelihood": "unlikely",
+      "timeframe": "weeks",
+      "basis": "Pentagon has not ruled it out but operation is 'broadly unpopular among Americans'"
+    }
+  ],
+  "historicalContext": "This represents the most significant disruption to Iran's theocratic system since the 1979 Islamic Revolution. Khamenei's 40-year rule provided unprecedented continuity to the regime, and his elimination creates a succession crisis without historical precedent in the Islamic Republic. The targeting of the Assembly of Experts echoes but exceeds the disruption of Iraq's Baath Party leadership structure in 2003. The escalation follows a pattern beginning with December protests that the regime violently suppressed, crossing Trump's stated red line. Previous U.S. operations like 'Midnight Hammer' had targeted Iran's nuclear capabilities, but this represents the first direct targeting of Iran's supreme leadership structure since the revolution.",
+  "implications": [
+    "Regional destabilization as Iran's proxy network loses central coordination and control",
+    "Potential nuclear proliferation crisis if Iran's weapons program proceeds without centralized oversight",
+    "Refugee crisis if Iranian state institutions collapse completely",
+    "Escalation of U.S.-Iran conflict potentially drawing in regional allies and adversaries",
+    "Precedent for targeted elimination of foreign government leadership structures",
+    "Disruption of global energy markets due to attacks on Gulf state infrastructure",
+    "Strengthening of hardline military elements over civilian governance in Iran",
+    "Potential power vacuum enabling terrorist groups or regional competitors to expand influence"
+  ],
+  "generatedAt": "2026-03-03T23:15:31.876Z",
+  "model": "anthropic/claude-sonnet-4"
+}

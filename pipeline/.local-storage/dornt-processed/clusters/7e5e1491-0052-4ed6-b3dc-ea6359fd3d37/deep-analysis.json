@@ -10,89 +10,91 @@
     {
       "name": "Friedrich Merz",
       "role": "German Chancellor",
-      "position": "Supporting U.S. Iran operation, advocating for Ukrainian territorial integrity, seeking trade agreement",
-      "influence": "medium"
+      "position": "Supporting Iran operation while emphasizing post-conflict planning, defending Ukrainian territorial integrity, seeking trade agreements",
+      "influence": "high"
     },
     {
       "name": "Iran",
       "role": "Target of U.S. military operation",
-      "position": "Regime under attack with military capabilities reportedly degraded",
+      "position": "Under sustained attack with claimed degraded military capabilities",
       "influence": "low"
     },
     {
-      "name": "Ukraine",
-      "role": "War-torn nation seeking territorial preservation",
-      "position": "Resisting previous ceasefire proposals that would cede territory to Russia",
+      "name": "Israel",
+      "role": "Regional ally",
+      "position": "Beneficiary of U.S. Iran operation, according to Trump may have been influenced by U.S. timing",
       "influence": "medium"
     },
     {
-      "name": "Russia",
-      "role": "Aggressor in Ukraine conflict",
-      "position": "Beneficiary of previous U.S. ceasefire proposals offering Ukrainian territory",
+      "name": "Ukraine",
+      "role": "Conflict party seeking territorial preservation",
+      "position": "Resisting Russian occupation, seeking continued Western support",
       "influence": "medium"
     },
     {
       "name": "United Kingdom",
       "role": "Traditional U.S. ally",
-      "position": "Refusing to allow U.S. use of British bases for Iran strikes",
+      "position": "Refusing base access for Iran operations, described as 'uncooperative'",
       "influence": "medium"
     },
     {
       "name": "Spain",
-      "role": "European NATO ally",
-      "position": "Characterized as 'uncooperative' with U.S. Iran operation",
+      "role": "European Union member",
+      "position": "Not providing assistance for Iran operation",
       "influence": "low"
     },
     {
-      "name": "Israel",
-      "role": "Regional ally and potential Iran strike initiator",
-      "position": "Prepared to strike Iran independently before U.S. intervention",
+      "name": "Russia",
+      "role": "Adversary in Ukraine conflict",
+      "position": "Occupying Ukrainian territory, engaged in ceasefire negotiations",
       "influence": "medium"
     }
   ],
   "predictions": [
     {
-      "text": "Continued escalation of U.S. military operations against Iran with focus on regime change",
+      "text": "Escalation of Iran conflict as Trump claims significant military degradation suggests preparation for next phase",
       "likelihood": "likely",
-      "timeframe": "3-6 months",
-      "basis": "Trump's statements about Iranian military degradation and discussions of 'the day after' regime fall"
+      "timeframe": "weeks to months",
+      "basis": "Trump's detailed claims about Iranian military capabilities being 'knocked out' and emphasis on operation proceeding 'very well'"
     },
     {
-      "text": "Growing European division over U.S. Iran policy, with Germany supporting but UK and Spain maintaining distance",
+      "text": "Increased European division over Iran policy as UK and Spain resistance contrasts with German support",
       "likelihood": "likely",
-      "timeframe": "1-3 months",
-      "basis": "Clear split already evident between cooperative Germany and 'uncooperative' UK/Spain"
+      "timeframe": "immediate",
+      "basis": "Trump's public criticism of UK base access denial and Spain's lack of assistance while praising Germany"
     },
     {
-      "text": "Revised Ukraine ceasefire proposal that better addresses European concerns about territorial integrity",
+      "text": "Ukraine ceasefire negotiations will intensify given Trump's confidence that 'a deal was going to happen'",
       "likelihood": "possible",
-      "timeframe": "2-4 months",
-      "basis": "Trump's admission of difficulty and European pushback on previous territorial concessions"
+      "timeframe": "months",
+      "basis": "Trump's statements about ongoing negotiations and admission of difficulty finding solutions"
     },
     {
-      "text": "Limited progress on U.S.-Germany trade agreement despite Merz's stated urgency",
-      "likelihood": "possible",
-      "timeframe": "6-12 months",
-      "basis": "No clear U.S. tariff concessions offered despite this being a major German objective"
+      "text": "NATO alliance strain as U.S. acts unilaterally while expecting European support",
+      "likelihood": "likely",
+      "timeframe": "ongoing",
+      "basis": "Europeans did not participate in Iran attack yet Trump expects their assistance and criticizes non-cooperation"
     },
     {
-      "text": "Iranian regime collapse or significant political upheaval",
+      "text": "Post-conflict planning for Iran will become urgent priority given Merz's emphasis on 'the day after'",
       "likelihood": "possible",
-      "timeframe": "6-18 months",
-      "basis": "Extensive military degradation described by Trump and both leaders discussing post-regime scenarios"
+      "timeframe": "immediate to short-term",
+      "basis": "Merz's repeated focus on post-regime planning and 'what will happen then if they are out'"
     }
   ],
-  "historicalContext": "This meeting occurs against the backdrop of Trump's second presidency and represents a significant shift in U.S. foreign policy toward direct military confrontation with Iran. The Iran operation appears to be Trump's most significant military engagement, surpassing his claimed resolution of 'eight wars' in scope and complexity. The European response mirrors historical patterns of transatlantic tension during major U.S. military operations, reminiscent of divisions during the 2003 Iraq invasion when traditional allies like Germany and France opposed U.S. action while others provided support. The Ukraine situation reflects ongoing challenges in resolving the conflict that began in 2022, with Trump's admission of unexpected difficulty contrasting with his campaign promises of quick resolution. The meeting format - with Merz staying in the White House guest house and having his third Oval Office visit - suggests an attempt to project strong bilateral ties amid broader European skepticism.",
+  "historicalContext": "This meeting occurs against the backdrop of Trump's return to office and immediate initiation of military action against Iran, marking a dramatic escalation from previous diplomatic tensions. The U.S.-Iran conflict represents the most significant American military engagement in the Middle East since the Iraq War. Trump's approach mirrors his first-term pattern of unilateral action followed by seeking retroactive allied support. The Ukraine conflict continues from the 2022 Russian invasion, with Trump inheriting a war he previously claimed he could resolve quickly. European-American relations show familiar strains reminiscent of Trump's first presidency, particularly regarding burden-sharing and alliance coordination. The meeting format—overnight stay and extensive bilateral discussions—echoes traditional diplomatic protocols while occurring during active military operations.",
   "implications": [
-    "Potential fracturing of NATO unity as European allies take divergent positions on U.S. Iran policy",
-    "Risk of broader Middle East conflict if Iran regime change efforts destabilize regional balance of power",
-    "Weakening of U.S. diplomatic leverage in Ukraine negotiations due to European opposition to territorial concessions",
-    "Possible emergence of a two-tier alliance system with Germany as primary European partner while UK relationship deteriorates",
-    "Increased pressure on other European nations to choose sides between supporting U.S. Iran policy or maintaining neutrality",
-    "Potential for Iranian retaliation against European targets if regime survival is threatened",
-    "Long-term implications for post-conflict reconstruction and governance in Iran if regime change succeeds",
-    "Risk of Ukrainian government collapse if forced to accept territorial losses in future ceasefire negotiations"
+    "Fundamental shift in Middle East power balance if Iranian military capabilities are as degraded as claimed",
+    "Potential fracturing of NATO unity as U.S. pursues unilateral military action while expecting European support",
+    "Risk of broader regional conflict if Iran retaliates or proxy forces respond to claimed military degradation",
+    "Precedent for future U.S. military interventions without prior allied consultation or participation",
+    "Complication of Ukraine resolution efforts as European allies must balance Iran policy with Ukrainian territorial integrity",
+    "Strain on U.S.-UK 'special relationship' due to base access denial and public criticism",
+    "Potential for increased German influence in European foreign policy as Trump's preferred European partner",
+    "Risk of civilian casualties and humanitarian crisis in Iran if military campaign continues or escalates",
+    "Challenge to international law and UN Charter principles regarding use of force without Security Council authorization",
+    "Economic implications for global energy markets and trade relationships depending on conflict duration and scope"
   ],
-  "generatedAt": "2026-03-03T19:57:00.389Z",
+  "generatedAt": "2026-03-03T23:06:34.409Z",
   "model": "anthropic/claude-sonnet-4"
 }

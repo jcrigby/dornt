@@ -3,77 +3,76 @@
   "stakeholders": [
     {
       "name": "Bill Clinton",
-      "role": "Former U.S. President and deposition witness",
-      "position": "Denies knowledge of Epstein's crimes; claims relationship ended in 2003",
+      "role": "Former U.S. President providing testimony",
+      "position": "Denies knowledge of Epstein's crimes; maintains relationship was limited and ended in 2003",
       "influence": "high"
     },
     {
       "name": "Hillary Clinton",
-      "role": "Former Secretary of State and deposition witness",
+      "role": "Former Secretary of State and presidential candidate providing testimony",
       "position": "Claims no memory of meeting Epstein",
       "influence": "high"
     },
     {
       "name": "House Oversight Committee",
-      "role": "Congressional investigative body",
-      "position": "Seeking information about Epstein connections",
+      "role": "Congressional body conducting investigation",
+      "position": "Seeking information about Epstein connections for oversight purposes",
       "influence": "medium"
     },
     {
       "name": "Donald Trump",
-      "role": "Former President mentioned in testimony",
-      "position": "Previously acknowledged knowing Epstein but claims they 'fell out'",
+      "role": "Former President mentioned in Clinton's testimony",
+      "position": "Previously acknowledged knowing Epstein but claims they 'fell out' over real estate",
       "influence": "high"
     },
     {
-      "name": "Jeffrey Epstein victims and advocacy groups",
+      "name": "Jeffrey Epstein (deceased)",
+      "role": "Convicted sex offender at center of investigation",
+      "position": "N/A - deceased",
+      "influence": "low"
+    },
+    {
+      "name": "Epstein victims and advocacy groups",
       "role": "Seeking accountability and transparency",
       "position": "Likely seeking full disclosure of all Epstein connections",
       "influence": "medium"
-    },
-    {
-      "name": "Department of Justice",
-      "role": "Law enforcement agency with Epstein files",
-      "position": "Provider of evidence including photographs",
-      "influence": "high"
     }
   ],
   "predictions": [
     {
-      "text": "Additional depositions of other high-profile Epstein associates will be released",
+      "text": "Additional high-profile figures will be called to testify about Epstein connections",
       "likelihood": "likely",
-      "timeframe": "next 3-6 months",
-      "basis": "House Oversight Committee appears to be conducting systematic investigation"
+      "timeframe": "3-6 months",
+      "basis": "Congressional investigations typically expand to include other named individuals, and Trump was specifically mentioned in Clinton's testimony"
     },
     {
-      "text": "Political opponents will use testimony for campaign attacks in 2024 election cycle",
+      "text": "More documents and photos from Justice Department Epstein files will be released",
       "likelihood": "likely",
-      "timeframe": "immediate to November 2024",
-      "basis": "High-profile nature of witnesses and proximity to election"
+      "timeframe": "1-3 months",
+      "basis": "The hot tub photo questioning suggests more evidence exists that may be disclosed through ongoing legal processes"
     },
     {
-      "text": "Legal challenges to deposition releases or additional testimony requests",
-      "likelihood": "possible",
-      "timeframe": "next 2-3 months",
-      "basis": "Privacy concerns and potential executive privilege claims"
+      "text": "Political opponents will use testimony for campaign attacks",
+      "likelihood": "likely",
+      "timeframe": "immediate",
+      "basis": "High-profile nature of testimony involving multiple political figures creates ammunition for partisan attacks"
     },
     {
-      "text": "Further congressional hearings on Epstein connections",
+      "text": "Legal challenges to testimony credibility will emerge",
       "likelihood": "possible",
-      "timeframe": "next 6 months",
-      "basis": "Committee's apparent ongoing investigation and public interest"
+      "timeframe": "2-4 weeks",
+      "basis": "Clinton's claims of not remembering key details may face scrutiny, particularly regarding the hot tub photo"
     }
   ],
-  "historicalContext": "This testimony connects to the broader Jeffrey Epstein scandal that emerged publicly in 2008 with his initial guilty plea, intensified in 2019 with new federal charges, and continued after his death in federal custody. Epstein's connections to powerful figures including politicians, business leaders, and celebrities have been subject of ongoing scrutiny. The House Oversight Committee's investigation represents the most formal congressional examination of these relationships to date. Clinton's association with Epstein has been documented since at least 2016 when flight logs became public, but this marks his first sworn testimony on the matter.",
+  "historicalContext": "This testimony represents the latest chapter in the Jeffrey Epstein scandal that has implicated numerous high-profile figures since his 2008 guilty plea and 2019 arrest on federal sex trafficking charges. Epstein's death in federal custody in August 2019 while awaiting trial intensified scrutiny of his connections to powerful individuals. Previous investigations have revealed Epstein's extensive network included politicians, business leaders, and celebrities. The Clinton-Epstein connection has been a subject of speculation since flight logs showing Clinton's frequent use of Epstein's aircraft became public. This formal congressional testimony marks the first time Clinton has been questioned under oath specifically about the relationship, occurring amid broader efforts to hold accountable those who may have enabled Epstein's crimes.",
   "implications": [
-    "Sets precedent for congressional oversight of former presidents' private associations",
-    "May influence public perception of Clinton legacy and Democratic Party ahead of 2024 elections",
-    "Could prompt additional investigations into other Epstein associates",
-    "Raises questions about vetting processes for high-level political figures' associations",
-    "May impact ongoing civil litigation involving Epstein victims",
-    "Demonstrates continued congressional interest in Epstein case despite his death",
-    "Could influence public trust in political institutions and elite accountability"
+    "Sets precedent for congressional oversight of high-profile figures' connections to convicted criminals",
+    "May influence public perception of the Clintons ahead of potential future political activities",
+    "Could prompt additional investigations into other Epstein associates mentioned in testimony",
+    "Raises questions about the thoroughness of previous Epstein investigations if key figures are only now being questioned under oath",
+    "May impact ongoing civil litigation involving Epstein victims seeking accountability from associates",
+    "Demonstrates continued political sensitivity around Epstein connections across party lines"
   ],
-  "generatedAt": "2026-03-03T19:52:02.968Z",
+  "generatedAt": "2026-03-03T23:01:05.879Z",
   "model": "anthropic/claude-sonnet-4"
 }

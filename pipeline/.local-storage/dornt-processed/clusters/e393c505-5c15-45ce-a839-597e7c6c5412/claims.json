@@ -1,0 +1,192 @@
+[
+  {
+    "id": "c098c155-7cd2-4945-8735-ac3d882e99ef",
+    "clusterId": "e393c505-5c15-45ce-a839-597e7c6c5412",
+    "text": "Ali Khamenei, Iran's supreme leader, was killed in U.S. and Israeli strikes over the weekend",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Atlantic",
+      "Vox",
+      "Fox Politics",
+      "Foreign Policy"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:15:08.295Z",
+    "lastUpdatedAt": "2026-03-03T23:15:08.295Z"
+  },
+  {
+    "id": "a55c23e0-ada5-41b5-b307-e04c6b3b4265",
+    "clusterId": "e393c505-5c15-45ce-a839-597e7c6c5412",
+    "text": "The strikes occurred on Saturday",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Atlantic",
+      "Foreign Policy"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:15:08.295Z",
+    "lastUpdatedAt": "2026-03-03T23:15:08.295Z"
+  },
+  {
+    "id": "5ad09085-34df-4ccb-80a7-205612542619",
+    "clusterId": "e393c505-5c15-45ce-a839-597e7c6c5412",
+    "text": "Iran has announced interim leadership consisting of President Masoud Pezeshkian, a Guardian Council member, and the chief justice of the Supreme Court",
+    "status": "undisputed",
+    "supportingSources": [
+      "Vox",
+      "Fox Politics"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:15:08.295Z",
+    "lastUpdatedAt": "2026-03-03T23:15:08.295Z"
+  },
+  {
+    "id": "fa1da83a-d7f3-48c5-ae18-6f64291aa651",
+    "clusterId": "e393c505-5c15-45ce-a839-597e7c6c5412",
+    "text": "49 top Iranian leaders were killed in the opening phase of the campaign",
+    "status": "undisputed",
+    "supportingSources": [
+      "Fox Politics"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:15:08.295Z",
+    "lastUpdatedAt": "2026-03-03T23:15:08.295Z"
+  },
+  {
+    "id": "d4595e85-5815-4c72-bd1e-f7cab44798d2",
+    "clusterId": "e393c505-5c15-45ce-a839-597e7c6c5412",
+    "text": "Israeli strikes hit a building in Qom associated with Iran's Assembly of Experts",
+    "status": "undisputed",
+    "supportingSources": [
+      "Fox Politics"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:15:08.295Z",
+    "lastUpdatedAt": "2026-03-03T23:15:08.295Z"
+  },
+  {
+    "id": "8b74f484-5582-4783-8d73-90f4b1fb9bc2",
+    "clusterId": "e393c505-5c15-45ce-a839-597e7c6c5412",
+    "text": "The building in Qom was empty at the time of the strikes",
+    "status": "disputed",
+    "supportingSources": [
+      "Fox Politics (citing Iranian media)"
+    ],
+    "disputingSources": [
+      "Fox Politics (noting Israel lacks battle damage assessment)"
+    ],
+    "firstSeenAt": "2026-03-03T23:15:08.295Z",
+    "lastUpdatedAt": "2026-03-03T23:15:08.295Z"
+  },
+  {
+    "id": "d9a06b4a-9aee-4fe4-b8e2-51d952250b1e",
+    "clusterId": "e393c505-5c15-45ce-a839-597e7c6c5412",
+    "text": "Trump's stated objectives for the attack have shifted from nuclear threats to regime support of terrorism to bringing freedom to Iran",
+    "status": "undisputed",
+    "supportingSources": [
+      "Vox"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:15:08.295Z",
+    "lastUpdatedAt": "2026-03-03T23:15:08.295Z"
+  },
+  {
+    "id": "8f4a9f45-2aed-4a6b-b95d-c005bd30ade2",
+    "clusterId": "e393c505-5c15-45ce-a839-597e7c6c5412",
+    "text": "The operation was not designed to force regime change",
+    "status": "disputed",
+    "supportingSources": [
+      "Fox Politics (citing Defense Secretary Pete Hegseth)"
+    ],
+    "disputingSources": [
+      "Vox (noting Trump's evolving objectives include regime change)"
+    ],
+    "firstSeenAt": "2026-03-03T23:15:08.295Z",
+    "lastUpdatedAt": "2026-03-03T23:15:08.295Z"
+  },
+  {
+    "id": "3f53e6c6-9243-4cf5-8c4d-75b0391db775",
+    "clusterId": "e393c505-5c15-45ce-a839-597e7c6c5412",
+    "text": "Iran murdered thousands of protesters in December after Trump's warning",
+    "status": "undisputed",
+    "supportingSources": [
+      "Foreign Policy"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:15:08.295Z",
+    "lastUpdatedAt": "2026-03-03T23:15:08.295Z"
+  },
+  {
+    "id": "daeed077-0484-4907-87fd-39c21be620c3",
+    "clusterId": "e393c505-5c15-45ce-a839-597e7c6c5412",
+    "text": "Trump drew a red line warning Iran it would 'pay hell' if it killed peaceful protesters",
+    "status": "undisputed",
+    "supportingSources": [
+      "Foreign Policy"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:15:08.295Z",
+    "lastUpdatedAt": "2026-03-03T23:15:08.295Z"
+  },
+  {
+    "id": "923eeba5-bafe-43fe-b19c-c6aa67322052",
+    "clusterId": "e393c505-5c15-45ce-a839-597e7c6c5412",
+    "text": "The U.S. carried out Operation Midnight Hammer last summer that degraded Iran's nuclear program",
+    "status": "undisputed",
+    "supportingSources": [
+      "Foreign Policy"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:15:08.295Z",
+    "lastUpdatedAt": "2026-03-03T23:15:08.295Z"
+  },
+  {
+    "id": "ad786803-0c6b-4d00-bb15-3439ab6d236b",
+    "clusterId": "e393c505-5c15-45ce-a839-597e7c6c5412",
+    "text": "Iran lacks a major organized democratic opposition",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Atlantic",
+      "Vox"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:15:08.295Z",
+    "lastUpdatedAt": "2026-03-03T23:15:08.295Z"
+  },
+  {
+    "id": "51cad525-5440-4c2d-9db0-74163c2b9e58",
+    "clusterId": "e393c505-5c15-45ce-a839-597e7c6c5412",
+    "text": "Pro-government protesters are already in the streets in Iran",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Atlantic"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:15:08.295Z",
+    "lastUpdatedAt": "2026-03-03T23:15:08.295Z"
+  },
+  {
+    "id": "e5237ff0-a508-4433-b0a0-8ea2748e9441",
+    "clusterId": "e393c505-5c15-45ce-a839-597e7c6c5412",
+    "text": "Iran has threatened 'ferocious' retaliation and is firing ballistic missiles at Israel and U.S. targets",
+    "status": "undisputed",
+    "supportingSources": [
+      "Vox"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:15:08.295Z",
+    "lastUpdatedAt": "2026-03-03T23:15:08.295Z"
+  },
+  {
+    "id": "32eb5ad2-0b93-4b30-98e9-70cd111159d9",
+    "clusterId": "e393c505-5c15-45ce-a839-597e7c6c5412",
+    "text": "The Iran incursion is broadly unpopular among Americans according to polls",
+    "status": "undisputed",
+    "supportingSources": [
+      "Vox"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:15:08.295Z",
+    "lastUpdatedAt": "2026-03-03T23:15:08.295Z"
+  }
+]

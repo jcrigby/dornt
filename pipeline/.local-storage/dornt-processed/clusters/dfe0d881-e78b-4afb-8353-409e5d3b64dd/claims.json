@@ -1,22 +1,8 @@
 [
   {
-    "id": "73bf578a-8df5-492e-9dc4-b54c0d91b961",
-    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-    "text": "Mark Carney is the Prime Minister of Canada",
-    "status": "undisputed",
-    "supportingSources": [
-      "NYT World",
-      "The Hindu",
-      "BBC World"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:00:51.412Z",
-    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
-  },
-  {
     "id": "f7565b9a-4e1d-461a-b9fc-a685a092c950",
     "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-    "text": "Carney met with Indian Prime Minister Narendra Modi",
+    "text": "Prime Minister Mark Carney met with Indian Prime Minister Narendra Modi",
     "status": "undisputed",
     "supportingSources": [
       "NYT World",
@@ -25,50 +11,39 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T20:00:51.412Z",
-    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+    "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
   },
   {
-    "id": "de4431bd-46ae-4045-af29-ef9a58326d58",
+    "id": "42d84a21-e16f-4106-b736-6f8a74cf4d01",
     "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-    "text": "The Canadian Prime Minister was in India from February 27 to March 2",
+    "text": "The meeting focused on business and economic cooperation",
     "status": "undisputed",
     "supportingSources": [
+      "NYT World",
       "The Hindu",
       "BBC World"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:00:51.412Z",
-    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
-  },
-  {
-    "id": "2addcb0a-0a9d-4837-ba82-ee402635b066",
-    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-    "text": "India and Canada sealed key pacts on supplies of Uranium and critical minerals",
-    "status": "undisputed",
-    "supportingSources": [
-      "The Hindu",
-      "BBC World"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:00:51.412Z",
-    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+    "firstSeenAt": "2026-03-03T23:12:30.949Z",
+    "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
   },
   {
     "id": "b02e8e8c-06db-4870-b25e-a73a67bb460f",
     "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-    "text": "India and Canada announced a 10-year nuclear energy deal",
+    "text": "India and Canada announced a 10-year nuclear energy deal for uranium supply",
     "status": "undisputed",
     "supportingSources": [
+      "The Hindu",
       "BBC World"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T20:00:51.412Z",
-    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+    "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
   },
   {
     "id": "213120f2-1e1b-46f8-85b3-cc9b2d829975",
     "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-    "text": "The two countries agreed to conclude a comprehensive economic partnership agreement/free trade deal by the end of 2026",
+    "text": "The two countries agreed to conclude a comprehensive economic partnership/free trade agreement by the end of 2026",
     "status": "undisputed",
     "supportingSources": [
       "The Hindu",
@@ -76,70 +51,57 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T20:00:51.412Z",
-    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+    "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
   },
   {
-    "id": "70a1c05d-478e-4e46-abd7-9cc1de11fa6e",
+    "id": "58f9be3f-da89-488b-8164-37d7370593ba",
     "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-    "text": "The two Prime Ministers pledged to ramp up cooperation in defence, critical technologies, small and modular nuclear reactors, education and renewable energy",
+    "text": "Carney's visit to India was from February 27 to March 2, 2026",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Hindu"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:12:30.949Z",
+    "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
+  },
+  {
+    "id": "84579caf-0e9b-40b6-ad75-8eecec2cc790",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "The two countries pledged cooperation in defence, critical technologies, small modular nuclear reactors, education and renewable energy",
     "status": "undisputed",
     "supportingSources": [
       "The Hindu",
       "BBC World"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:00:51.412Z",
-    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+    "firstSeenAt": "2026-03-03T23:12:30.949Z",
+    "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
   },
   {
-    "id": "d1250e0a-438e-48dd-b26b-0cf149e7e0e2",
+    "id": "68ffcfa6-873f-40c6-a195-c028b63a31e1",
     "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-    "text": "There was a 2023 assassination/deadly shooting of Sikh separatist Hardeep Singh Nijjar on Canadian soil",
+    "text": "Relations were previously strained over allegations of India's role in the 2023 assassination of Sikh separatist Hardeep Singh Nijjar",
     "status": "undisputed",
     "supportingSources": [
       "NYT World",
       "BBC World"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:00:51.412Z",
-    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+    "firstSeenAt": "2026-03-03T23:12:30.949Z",
+    "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
   },
   {
-    "id": "8507bbee-249e-4ad0-bb80-f903462f619d",
+    "id": "b0cf3abc-10e8-47ae-bd7a-fa8e7e7c6087",
     "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-    "text": "India was alleged to have a role in the 2023 killing of Hardeep Singh Nijjar",
-    "status": "undisputed",
-    "supportingSources": [
-      "NYT World",
-      "BBC World"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:00:51.412Z",
-    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
-  },
-  {
-    "id": "7bdb25ce-a355-4147-9556-39b55a81cf3e",
-    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-    "text": "India vociferously rejected the allegation by Justin Trudeau",
+    "text": "India vociferously rejected allegations by Justin Trudeau about involvement in Nijjar's killing",
     "status": "undisputed",
     "supportingSources": [
       "BBC World"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:00:51.412Z",
-    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
-  },
-  {
-    "id": "65121bb5-7064-4b62-8ecc-bf6be51e8ae7",
-    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-    "text": "Justin Trudeau was Carney's predecessor as Prime Minister",
-    "status": "undisputed",
-    "supportingSources": [
-      "BBC World"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:00:51.412Z",
-    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+    "firstSeenAt": "2026-03-03T23:12:30.949Z",
+    "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
   },
   {
     "id": "61912e64-a607-440a-98fb-4cac5dd6f2d7",
@@ -150,22 +112,10 @@
       "BBC World"
     ],
     "disputingSources": [
-      "BBC World"
+      "BBC World - citing Liberal MP from Carney's party and Sikh diaspora members"
     ],
     "firstSeenAt": "2026-03-03T20:00:51.412Z",
-    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
-  },
-  {
-    "id": "c706ccb6-692e-4a5a-bafe-abfbaa2e1b80",
-    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-    "text": "Some in Canada, including a Liberal MP from Carney's own party and members of the Sikh diaspora, believe they continue to be targeted by India",
-    "status": "undisputed",
-    "supportingSources": [
-      "BBC World"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:00:51.412Z",
-    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+    "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
   },
   {
     "id": "c9eeb892-9bdc-48f1-be75-54930a3aa720",
@@ -177,19 +127,31 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T20:00:51.412Z",
-    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+    "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
   },
   {
-    "id": "cad16d8e-a5d3-414d-a00a-6599253cec1d",
+    "id": "fab619b7-13d7-47a5-af27-040f3a820c4f",
     "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-    "text": "Four men have been charged over Nijjar's killing",
+    "text": "Canadian Security Intelligence Service said its threat assessment of main perpetrators of foreign interference has not changed",
     "status": "undisputed",
     "supportingSources": [
       "BBC World"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:00:51.412Z",
-    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+    "firstSeenAt": "2026-03-03T23:12:30.949Z",
+    "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
+  },
+  {
+    "id": "c59475a7-1462-4526-bdd5-a7e3ac18ddc7",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "Foreign Minister Anita Anand distanced herself from comments by a senior Canadian official saying India had ceased all foreign interference in Canada",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:12:30.949Z",
+    "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
   },
   {
     "id": "f396e970-b92e-475f-9004-a5c069b3dd26",
@@ -201,6 +163,30 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T20:00:51.412Z",
-    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+    "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
+  },
+  {
+    "id": "cad16d8e-a5d3-414d-a00a-6599253cec1d",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "Four men have been charged over Nijjar's killing and the case is before the courts",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:00:51.412Z",
+    "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
+  },
+  {
+    "id": "285f9648-7953-47ac-a9e6-7c64ef587069",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "There was little mention of India's alleged role in the 2023 shooting during the meeting",
+    "status": "undisputed",
+    "supportingSources": [
+      "NYT World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:12:30.949Z",
+    "lastUpdatedAt": "2026-03-03T23:12:30.949Z"
   }
 ]

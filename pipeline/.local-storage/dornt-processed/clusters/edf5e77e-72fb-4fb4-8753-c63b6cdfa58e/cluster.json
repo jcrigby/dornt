@@ -6,17 +6,18 @@
     "5dd5e1a5-daa6-425a-9046-d32c1c699f22",
     "731f421e-079f-4b41-8cc9-12389bf9c157",
     "5bbcb1f3-28db-4f58-b59c-8dcfbcbff186",
-    "1fac7af7-5599-413c-bee8-687f4049bc0a"
+    "1fac7af7-5599-413c-bee8-687f4049bc0a",
+    "27568781-2a9a-4659-85bc-fbec8d8a0d93"
   ],
   "redditPostIds": [],
   "createdAt": "2026-02-26T17:45:57.027Z",
-  "updatedAt": "2026-03-03T19:46:57.423Z",
-  "articleCount": 5,
+  "updatedAt": "2026-03-03T22:55:58.819Z",
+  "articleCount": 6,
   "sourceCount": 1,
   "topSources": [
     "The Verge"
   ],
-  "importance": 25,
+  "importance": 28,
   "status": "active",
   "centroid": [
     -0.0077670890000000005,

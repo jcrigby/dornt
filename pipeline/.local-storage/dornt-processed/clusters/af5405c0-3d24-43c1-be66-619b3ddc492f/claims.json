@@ -1,0 +1,162 @@
+[
+  {
+    "id": "f0cae158-4549-4233-a644-3fda3b967b29",
+    "clusterId": "af5405c0-3d24-43c1-be66-619b3ddc492f",
+    "text": "At least six US service members have been killed",
+    "status": "undisputed",
+    "supportingSources": [
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:10:18.715Z",
+    "lastUpdatedAt": "2026-03-03T23:10:18.715Z"
+  },
+  {
+    "id": "ca7f1165-9fca-4512-ba03-8ad8dbf53683",
+    "clusterId": "af5405c0-3d24-43c1-be66-619b3ddc492f",
+    "text": "At least 11 countries are now involved in the conflict",
+    "status": "undisputed",
+    "supportingSources": [
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:10:18.715Z",
+    "lastUpdatedAt": "2026-03-03T23:10:18.715Z"
+  },
+  {
+    "id": "991d3822-9de8-44a7-bcf1-e6097faaab8d",
+    "clusterId": "af5405c0-3d24-43c1-be66-619b3ddc492f",
+    "text": "The US and Israel conducted joint strikes against Iran",
+    "status": "undisputed",
+    "supportingSources": [
+      "ABC News",
+      "Vox"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:10:18.715Z",
+    "lastUpdatedAt": "2026-03-03T23:10:18.715Z"
+  },
+  {
+    "id": "94cf5a79-2f3e-43d8-bfa2-54d8ea858c0c",
+    "clusterId": "af5405c0-3d24-43c1-be66-619b3ddc492f",
+    "text": "Explosions rang out throughout the night into Tuesday across Iran's capital",
+    "status": "undisputed",
+    "supportingSources": [
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:10:18.715Z",
+    "lastUpdatedAt": "2026-03-03T23:10:18.715Z"
+  },
+  {
+    "id": "4ae6e3d1-1911-421e-b419-5b78c9176768",
+    "clusterId": "af5405c0-3d24-43c1-be66-619b3ddc492f",
+    "text": "Trump initially justified strikes citing Iran's long-range missiles that could threaten European allies and US troops",
+    "status": "evolving",
+    "supportingSources": [
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:10:18.715Z",
+    "lastUpdatedAt": "2026-03-03T23:10:18.715Z"
+  },
+  {
+    "id": "2cf59672-75ff-494b-8243-7449c72c5595",
+    "clusterId": "af5405c0-3d24-43c1-be66-619b3ddc492f",
+    "text": "Defense Secretary Pete Hegseth said strikes were to prevent Iran from advancing nuclear weapons",
+    "status": "evolving",
+    "supportingSources": [
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:10:18.715Z",
+    "lastUpdatedAt": "2026-03-03T23:10:18.715Z"
+  },
+  {
+    "id": "596febe8-4753-418e-a4ed-52d27ad2b669",
+    "clusterId": "af5405c0-3d24-43c1-be66-619b3ddc492f",
+    "text": "Secretary of State Marco Rubio said strikes were preemptive to prevent retaliation after anticipated Israeli attack",
+    "status": "evolving",
+    "supportingSources": [
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:10:18.715Z",
+    "lastUpdatedAt": "2026-03-03T23:10:18.715Z"
+  },
+  {
+    "id": "dd5950f3-70db-4dc3-b3e3-fff86edd7f86",
+    "clusterId": "af5405c0-3d24-43c1-be66-619b3ddc492f",
+    "text": "Trump said 'I might have forced their hand' when asked if Israel forced US into strikes",
+    "status": "undisputed",
+    "supportingSources": [
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:10:18.715Z",
+    "lastUpdatedAt": "2026-03-03T23:10:18.715Z"
+  },
+  {
+    "id": "361ddfba-5993-44bd-b342-25f5c4191127",
+    "clusterId": "af5405c0-3d24-43c1-be66-619b3ddc492f",
+    "text": "Trump claimed he launched war to guarantee end of Iran's nuclear program and topple its regime",
+    "status": "undisputed",
+    "supportingSources": [
+      "Vox"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:10:18.715Z",
+    "lastUpdatedAt": "2026-03-03T23:10:18.715Z"
+  },
+  {
+    "id": "422d8461-864b-4d2b-bf24-79c7baf67565",
+    "clusterId": "af5405c0-3d24-43c1-be66-619b3ddc492f",
+    "text": "Administration officials claimed strikes prevented imminent threat that would have caused American casualties",
+    "status": "disputed",
+    "supportingSources": [
+      "ABC News",
+      "Vox"
+    ],
+    "disputingSources": [
+      "Vox"
+    ],
+    "firstSeenAt": "2026-03-03T23:10:18.715Z",
+    "lastUpdatedAt": "2026-03-03T23:10:18.715Z"
+  },
+  {
+    "id": "104efd09-3a3b-430f-bb8e-fdcd89e6bec7",
+    "clusterId": "af5405c0-3d24-43c1-be66-619b3ddc492f",
+    "text": "Strikes targeted hundreds of targets including ballistic missile launchers, drone production sites, military airfields, naval facilities, and air defense systems",
+    "status": "undisputed",
+    "supportingSources": [
+      "Vox"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:10:18.715Z",
+    "lastUpdatedAt": "2026-03-03T23:10:18.715Z"
+  },
+  {
+    "id": "d6e91c37-8dd7-45e8-9428-ecf0fa647405",
+    "clusterId": "af5405c0-3d24-43c1-be66-619b3ddc492f",
+    "text": "Iranian-backed militias were responsible for deaths of more than 600 US soldiers in Iraq",
+    "status": "undisputed",
+    "supportingSources": [
+      "Vox"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:10:18.715Z",
+    "lastUpdatedAt": "2026-03-03T23:10:18.715Z"
+  },
+  {
+    "id": "462c9853-5dfb-462e-acd2-f9d71513bd05",
+    "clusterId": "af5405c0-3d24-43c1-be66-619b3ddc492f",
+    "text": "Trump set conditions for averting military action: Iran must relinquish nuclear ambitions and stop killing protesters by the thousands",
+    "status": "undisputed",
+    "supportingSources": [
+      "Vox"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:10:18.715Z",
+    "lastUpdatedAt": "2026-03-03T23:10:18.715Z"
+  }
+]

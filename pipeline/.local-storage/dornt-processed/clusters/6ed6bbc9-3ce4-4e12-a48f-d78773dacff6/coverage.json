@@ -3,63 +3,66 @@
   "frames": [
     {
       "name": "Humanitarian Crisis Frame",
-      "description": "Focuses on stranded Americans struggling to evacuate, emphasizing human suffering and government abandonment",
+      "description": "Focuses on stranded Americans unable to evacuate despite government warnings, emphasizing human suffering and abandonment",
       "sources": [
         "The Guardian US",
         "BBC World"
       ],
-      "emphasis": "Personal stories of stranded citizens, lack of government evacuation assistance, and humanitarian impact on civilians"
+      "emphasis": "Individual stories of stranded citizens, lack of government evacuation assistance, and feelings of abandonment"
     },
     {
-      "name": "Government Failure Frame",
-      "description": "Highlights US government's inability or unwillingness to help evacuate citizens despite issuing departure warnings",
+      "name": "Government Response Frame",
+      "description": "Centers on official State Department actions, evacuation advisories, and diplomatic messaging",
       "sources": [
         "Business Insider",
-        "The Guardian US"
+        "BBC World",
+        "Al Jazeera"
       ],
-      "emphasis": "Embassy statements saying they cannot help evacuate citizens, lack of organized evacuation flights, and government abandonment"
+      "emphasis": "Official warnings, evacuation numbers, government capabilities and limitations"
     },
     {
       "name": "Military Escalation Frame",
-      "description": "Presents the story as part of broader US-Iran military conflict with focus on strategic implications",
+      "description": "Presents the story as part of broader US-Israeli military operations against Iran with focus on strategic implications",
       "sources": [
         "ABC News",
         "CNBC"
       ],
-      "emphasis": "Military operations, casualty counts, nuclear facilities targeted, and strategic military planning"
+      "emphasis": "Military operations, casualty counts, strategic objectives, and presidential justifications"
     },
     {
-      "name": "International Comparison Frame",
-      "description": "Contrasts US response with other nations' evacuation efforts for their citizens",
+      "name": "Travel Industry Disruption Frame",
+      "description": "Emphasizes economic and logistical impacts on airlines, airports, and global travel networks",
       "sources": [
-        "The Guardian US",
-        "BBC World"
+        "Al Jazeera",
+        "CNBC"
       ],
-      "emphasis": "UK and France organizing evacuation flights while US has not, highlighting comparative government responses"
+      "emphasis": "Flight cancellations, economic losses, operational challenges, and industry-wide impacts"
     },
     {
-      "name": "Practical Advisory Frame",
-      "description": "Treats story as informational guide for Americans needing to leave the region",
+      "name": "Personal Experience Frame",
+      "description": "Uses first-person accounts and individual traveler experiences to illustrate broader crisis",
       "sources": [
-        "Business Insider"
+        "CNBC"
       ],
-      "emphasis": "Contact numbers, procedures, embassy guidance, and practical steps for evacuation"
+      "emphasis": "Individual journey narratives, real-time decision making, and ground-level perspectives"
     }
   ],
   "outlierPerspectives": [
-    "Trump's justification that Iran was preparing to attack first, presented without evidence verification (CNBC)",
-    "Focus on friendly fire incident with US F-15 jets shot down by allied forces (ABC News)",
-    "Detailed coverage of oil market implications and Strait of Hormuz closure (ABC News)"
+    "CNBC's first-person flight experience narrative showing real-time missile threat responses",
+    "ABC News focus on friendly fire incidents and specific military casualties",
+    "Al Jazeera's emphasis on Gulf economic diversification efforts being disrupted",
+    "The Guardian's specific criticism of US government compared to UK evacuation efforts"
   ],
   "missingContext": [
-    "Historical precedent for US citizen evacuations in similar conflicts",
-    "Legal obligations of US government to assist citizens abroad during emergencies",
-    "Detailed timeline of how the US-Iran conflict escalated to this point",
-    "Comparison of evacuation capabilities and resources between US and other nations",
-    "Analysis of why commercial flights were cancelled but government evacuation flights were not arranged",
-    "Economic impact on stranded citizens (costs, lost income, etc.)",
-    "Verification of casualty figures and military claims from independent sources"
+    "Historical precedent for similar mass evacuations and their success rates",
+    "Legal obligations of US government to evacuate citizens during conflicts",
+    "Detailed breakdown of evacuation costs and funding mechanisms",
+    "Impact on dual nationals and permanent residents vs. tourists",
+    "Coordination mechanisms between US and allied evacuation efforts",
+    "Insurance and liability issues for stranded travelers",
+    "Long-term diplomatic consequences of evacuation handling",
+    "Comparison with evacuation procedures during other recent Middle East conflicts"
   ],
-  "generatedAt": "2026-03-03T19:54:11.450Z",
+  "generatedAt": "2026-03-03T23:03:36.117Z",
   "model": "anthropic/claude-sonnet-4"
 }

@@ -1,6 +1,6 @@
 {
   "clusterId": "49654a5d-cd09-434c-807b-ceabe4aaae74",
-  "narrative": "Former President Bill Clinton testified under oath to the House Oversight Committee last week regarding his relationship with convicted sex offender Jeffrey Epstein, with video of the depositions released Monday [1]. The testimony spanned over two days and addressed Clinton's knowledge of Epstein's crimes and the nature of their association [1].\n\n## Key Testimony Points\n\nClinton testified that he had no knowledge of Epstein's sex trafficking activities, stating \"There's nothing that I saw when I was around him that made me realize he was trafficking women\" [1]. He told lawmakers he first met Epstein in 2002 when he boarded the financier's private jet for humanitarian work, but their relationship ended a year later in 2003 [1][2].\n\nClinton acknowledged taking \"at least 26 times\" on Epstein's aircraft, many as part of his global AIDS initiative [2]. He testified that his final flight on what has been dubbed the \"Lolita Express\" occurred in 2003, five years before Epstein's 2008 guilty plea [2].\n\n## Hot Tub Photo Questioning\n\nDuring the four-and-a-half-hour deposition, Clinton was shown a photo from the Justice Department's Epstein files showing him in a hot tub with an unidentified woman whose face was redacted [2]. Clinton testified the photo was taken in Brunei and that he did not remember who the woman was, stating \"I had forgotten that there was anybody in the hot tub\" [2]. When asked directly if he engaged in sexual activity with the woman, Clinton responded \"No\" [2].\n\nClinton described the setting as a hotel pool area next to suites where he and his team were staying on invitation from the sultan of Brunei, with a Secret Service agent present \"at the other end of the pool\" [2]. He testified that no minors were present in the pool area [2].\n\n## Trump Comments\n\nClinton also recounted a conversation with Donald Trump in which Trump allegedly told him about having \"some great times\" with Epstein [1]. According to Clinton's testimony, Trump said \"You know, we had some great times together over the years, but we fell out all because of a real estate deal\" [1]. Clinton added that Trump \"never said anything to me to make me think he was involved in anything improper with regard to Epstein\" [1].\n\n## Hillary Clinton's Testimony\n\nHillary Clinton provided her own deposition a day earlier, telling the committee she does not remember meeting Epstein [1]. Neither Clinton has been accused of wrongdoing in connection with Epstein [1].",
+  "narrative": "Former President Bill Clinton testified under oath to the House Oversight Committee last week regarding his relationship with convicted sex offender Jeffrey Epstein, with video of the depositions released Monday [1]. Clinton's testimony spanned over two days and lasted four-and-a-half hours [2].\n\n## Key Claims and Timeline\n\nClinton testified that he first met Epstein in 2002 when he boarded the financier's private jet for humanitarian work, but their relationship ended in 2003 [1]. Clinton acknowledged taking \"at least 26 times\" on Epstein's aircraft, many as part of his global AIDS initiative [2]. He stated he took his final flight on what's been dubbed the \"Lolita Express\" in 2003, five years before Epstein's 2008 guilty plea [2].\n\nRegarding his knowledge of Epstein's crimes, Clinton testified: \"There's nothing that I saw when I was around him that made me realize he was trafficking women\" [1]. He said he first learned of Epstein's sex crimes in 2008 when Epstein pleaded guilty [2].\n\n## Hot Tub Photo Questioning\n\nA significant portion of Clinton's testimony focused on photographs from the Justice Department's Epstein files, including one showing Clinton in a hot tub with an unidentified woman whose face was redacted [2]. Clinton testified the photo was taken in Brunei and said \"I had forgotten that there was anybody in the hot tub\" and \"I don't know who that is\" [2]. When asked directly if he engaged in sexual activity with the woman, Clinton responded \"No\" [2].\n\nClinton described the setting as a hotel pool area next to suites where his team was staying \"on invitation from the sultan of Brunei,\" with a Secret Service agent present \"at the other end of the pool\" [2]. He testified that no minors were present in the pool area [2].\n\n## Trump Connection\n\nClinton also recounted a conversation with Donald Trump where Trump allegedly told him he had \"some great times\" with Epstein [1]. According to Clinton's testimony, Trump said \"You know, we had some great times together over the years, but we fell out all because of a real estate deal\" [1]. Clinton added that Trump \"never said anything to me to make me think he was involved in anything improper with regard to Epstein\" [1].\n\n## Hillary Clinton's Testimony\n\nHillary Clinton provided her own deposition a day earlier, telling the committee she does not remember meeting Epstein [1]. The sources note that neither Clinton has been accused of wrongdoing [1].",
   "citations": [
     {
       "index": 1,
@@ -16,18 +16,17 @@
       "source": "Daily Wire",
       "title": "WATCH: Bill Clinton Asked Point Blank If He Had Sex With Woman In Epstein Hot Tub Photo",
       "url": "https://www.dailywire.com/news/bill-clinton-grilled-over-epstein-hot-tub-photo-with-unknown-woman",
-      "quote": "I had forgotten that there was anybody in the hot tub"
+      "quote": "I had forgotten that there was anybody in the hot tub. I don't know who that is."
     }
   ],
   "keyDevelopments": [
-    "House Oversight Committee released video of Bill Clinton's sworn testimony about Jeffrey Epstein",
-    "Clinton denied knowledge of Epstein's sex trafficking activities",
-    "Clinton confirmed taking at least 26 flights on Epstein's aircraft between 2002-2003",
-    "Clinton questioned about hot tub photo with unidentified woman, denied sexual activity",
-    "Clinton revealed Trump told him about having 'great times' with Epstein",
-    "Hillary Clinton testified separately that she doesn't remember meeting Epstein"
+    "House Oversight Committee releases video of Bill Clinton's sworn testimony about Jeffrey Epstein relationship",
+    "Clinton denies knowledge of Epstein's sex trafficking activities, claims relationship ended in 2003",
+    "Clinton questioned about redacted hot tub photo, denies sexual activity with unidentified woman",
+    "Clinton reveals Trump told him about having 'great times' with Epstein",
+    "Hillary Clinton testified separately, claims no memory of meeting Epstein"
   ],
-  "generatedAt": "2026-03-03T19:51:31.988Z",
+  "generatedAt": "2026-03-03T23:00:34.065Z",
   "model": "anthropic/claude-sonnet-4",
-  "tokenCount": 2458
+  "tokenCount": 2455
 }

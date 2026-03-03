@@ -2,70 +2,59 @@
   "clusterId": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
   "frames": [
     {
-      "name": "Energy Crisis Frame",
-      "description": "Focuses on the immediate impact on oil and gas prices, supply disruptions, and the closure of the Strait of Hormuz",
+      "name": "Market Impact Frame",
+      "description": "Focuses on immediate financial market reactions, stock declines, and energy price surges as primary story angle",
       "sources": [
-        "NYT Politics",
-        "DW",
+        "NBC News",
         "France 24",
         "ABC News",
-        "Yahoo Finance",
-        "NBC News"
-      ],
-      "emphasis": "Supply chain disruptions, price volatility, and the strategic importance of the Strait of Hormuz"
-    },
-    {
-      "name": "Economic Contagion Frame",
-      "description": "Emphasizes broader market impacts including stock market declines, inflation concerns, and global economic ripple effects",
-      "sources": [
-        "France 24",
-        "NBC News",
         "Yahoo Finance"
       ],
-      "emphasis": "Market volatility, inflation fears, interest rate implications, and global economic stability"
+      "emphasis": "Stock market losses, oil/gas price increases, and broader economic implications"
+    },
+    {
+      "name": "Energy Security Frame",
+      "description": "Centers on threats to global energy supply chains and infrastructure disruption",
+      "sources": [
+        "DW",
+        "NYT Politics"
+      ],
+      "emphasis": "Strait of Hormuz closure, attacks on energy facilities, and supply chain disruptions"
+    },
+    {
+      "name": "Inflation Concern Frame",
+      "description": "Highlights potential for renewed inflation crisis and impact on monetary policy",
+      "sources": [
+        "France 24",
+        "ABC News"
+      ],
+      "emphasis": "Rising consumer prices, central bank policy implications, and comparison to 2022 Ukraine crisis"
     },
     {
       "name": "Consumer Impact Frame",
-      "description": "Focuses on direct effects on American consumers, particularly rising gas prices and practical advice",
+      "description": "Focuses on direct effects on American consumers, particularly gasoline prices",
       "sources": [
-        "ABC News"
+        "ABC News",
+        "NBC News"
       ],
-      "emphasis": "Immediate consumer costs, gas price increases, and practical consumer guidance"
-    },
-    {
-      "name": "Geopolitical Escalation Frame",
-      "description": "Presents the story as an expanding regional conflict with uncertain duration and scope",
-      "sources": [
-        "NBC News",
-        "France 24"
-      ],
-      "emphasis": "Military escalation, regional spread of conflict, and uncertainty about conflict duration"
-    },
-    {
-      "name": "Infrastructure Vulnerability Frame",
-      "description": "Highlights attacks on specific energy infrastructure and facilities across the Gulf region",
-      "sources": [
-        "DW",
-        "France 24"
-      ],
-      "emphasis": "Physical damage to oil refineries, gas processing facilities, and energy infrastructure"
+      "emphasis": "Rising gas prices, consumer advice, and practical economic impacts"
     }
   ],
   "outlierPerspectives": [
-    "China's diplomatic pressure on Iran to keep the Strait of Hormuz open (DW only)",
-    "Specific insurance industry response with named companies canceling war risk coverage (DW only)",
-    "Iraq shutting down oil production due to shipping bottlenecks (ABC News only)",
-    "Travel disruptions and stranded passengers in Dubai (NBC News only)"
+    "China's diplomatic pressure on Iran to keep Strait of Hormuz open (DW only)",
+    "Insurance industry response with war risk coverage cancellations (DW only)",
+    "Travel disruptions and stranded passengers in Dubai (NBC News only)",
+    "Iraq shutting down oil production due to shipping bottlenecks (ABC News only)"
   ],
   "missingContext": [
-    "Historical precedent for similar energy crises and their duration",
-    "Alternative shipping routes and their capacity to handle diverted oil traffic",
-    "Strategic petroleum reserve levels and release policies",
-    "Detailed breakdown of which countries are most vulnerable to supply disruptions",
-    "Timeline and background of events leading to the current escalation",
-    "Analysis of Iran's actual military capabilities versus threats",
-    "Role of other major oil producers in potentially offsetting supply losses"
+    "Historical context of previous Strait of Hormuz closures and their duration",
+    "Strategic petroleum reserve levels and potential government response",
+    "Alternative shipping routes and their capacity limitations",
+    "Specific timeline and escalation triggers for the US-Israeli operations",
+    "Iran's actual military capabilities to sustain the strait closure",
+    "Regional allies' positions and potential mediation efforts",
+    "Long-term energy transition implications amid crisis"
   ],
-  "generatedAt": "2026-03-03T19:50:47.136Z",
+  "generatedAt": "2026-03-03T22:59:49.651Z",
   "model": "anthropic/claude-sonnet-4"
 }

@@ -54,6 +54,7 @@ export const config = {
   // YouTube
   youtube: {
     maxVideosPerChannel: 10,
+    maxVideoAgeDays: 14, // wider window than RSS — many creators post weekly
     maxTranscriptLength: 30_000,
     rateLimitDelayMs: 1500,
     batchSize: 5,

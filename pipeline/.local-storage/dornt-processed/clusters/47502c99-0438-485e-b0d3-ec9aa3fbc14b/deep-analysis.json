@@ -2,97 +2,99 @@
   "clusterId": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
   "stakeholders": [
     {
-      "name": "United States",
-      "role": "Primary military actor and global energy consumer",
-      "position": "Leading military operations against Iran, facing domestic economic pressure from rising energy costs",
+      "name": "Iran",
+      "role": "Primary conflict participant and regional power",
+      "position": "Retaliating against US-Israeli attacks; threatening to close Strait of Hormuz",
       "influence": "high"
     },
     {
-      "name": "Iran",
-      "role": "Target of attacks and regional disruptor",
-      "position": "Retaliating through asymmetric warfare, controlling critical energy chokepoint",
+      "name": "United States",
+      "role": "Primary conflict participant and global superpower",
+      "position": "Conducting military operations with Israel; operation may last weeks according to Trump",
       "influence": "high"
     },
     {
       "name": "Israel",
-      "role": "US military partner and regional security actor",
-      "position": "Joint participant in strikes against Iran",
+      "role": "Primary conflict participant and US ally",
+      "position": "Joint military operations with US against Iran",
       "influence": "medium"
+    },
+    {
+      "name": "China",
+      "role": "Major oil importer and Iran's economic partner",
+      "position": "Pushing Iran to keep Strait of Hormuz open to tanker traffic",
+      "influence": "high"
     },
     {
       "name": "Saudi Arabia",
       "role": "Major oil producer and regional power",
-      "position": "Victim of Iranian attacks, critical energy infrastructure compromised",
+      "position": "Victim of Iranian attacks; Aramco facilities targeted",
       "influence": "high"
-    },
-    {
-      "name": "China",
-      "role": "Major energy consumer and Iranian diplomatic partner",
-      "position": "Attempting to mediate by pressuring Iran to reopen Strait of Hormuz",
-      "influence": "medium"
     },
     {
       "name": "Qatar",
       "role": "Major LNG producer",
-      "position": "Energy infrastructure attacked, production halted",
+      "position": "Halted production due to Iranian attacks on facilities",
       "influence": "medium"
     },
     {
       "name": "Marine Insurance Companies",
-      "role": "Critical shipping enablers",
-      "position": "Canceling war risk coverage, effectively blocking commercial shipping",
+      "role": "Risk assessors for global shipping",
+      "position": "Canceling war risk coverage for Middle East Gulf vessels",
       "influence": "high"
     },
     {
-      "name": "European Union",
-      "role": "Major energy consumer",
-      "position": "Facing severe energy price spikes and supply disruptions",
-      "influence": "medium"
+      "name": "Iraq",
+      "role": "Oil producer dependent on Strait of Hormuz",
+      "position": "Forced to shut down oil production due to shipping bottleneck",
+      "influence": "low"
     }
   ],
   "predictions": [
     {
-      "text": "Continued escalation of military operations for several weeks based on Trump's stated timeline",
-      "likelihood": "likely",
-      "timeframe": "2-4 weeks",
-      "basis": "President Trump explicitly indicated operations may last weeks, and Iran shows no signs of backing down"
-    },
-    {
-      "text": "Oil prices will reach $100+ per barrel if Strait of Hormuz remains closed",
+      "text": "Oil prices will continue rising if conflict persists, potentially reaching $100+ per barrel",
       "likelihood": "likely",
       "timeframe": "1-2 weeks",
-      "basis": "20% of global oil supply blocked, existing price trajectory from $80-85 to higher levels, historical precedent during supply disruptions"
+      "basis": "Trump indicated operations may last weeks; continued supply disruption from 20% of global oil supply"
     },
     {
-      "text": "Global recession triggered by energy crisis and financial market instability",
+      "text": "China will increase diplomatic pressure on Iran to reopen shipping lanes",
+      "likelihood": "likely",
+      "timeframe": "Days to weeks",
+      "basis": "China already pushing Iran to keep strait open; heavy dependence on Middle East oil imports"
+    },
+    {
+      "text": "Global recession risk will increase significantly if conflict extends beyond one month",
       "likelihood": "possible",
-      "timeframe": "2-6 months",
-      "basis": "Severe energy price spikes historically trigger recessions, major stock market declines already occurring"
+      "timeframe": "4-6 weeks",
+      "basis": "Energy price shocks historically trigger recessions; already seeing major stock market declines"
     },
     {
-      "text": "Emergency release of strategic petroleum reserves by major consuming nations",
+      "text": "Alternative shipping routes through Red Sea and Suez Canal will see increased traffic",
       "likelihood": "likely",
       "timeframe": "1-2 weeks",
-      "basis": "Standard policy response to supply disruptions, domestic political pressure from rising gas prices"
+      "basis": "150+ vessels already anchored; economic pressure to find alternative routes"
     },
     {
-      "text": "Chinese diplomatic intervention to broker ceasefire or Strait reopening",
-      "likelihood": "possible",
-      "timeframe": "1-3 weeks",
-      "basis": "China already pressuring Iran, has significant economic leverage and energy import needs"
+      "text": "Strategic Petroleum Reserve releases by major consuming nations",
+      "likelihood": "likely",
+      "timeframe": "1 week",
+      "basis": "Standard response to major supply disruptions; political pressure from rising gas prices"
     }
   ],
-  "historicalContext": "This crisis echoes the 1980s 'Tanker War' during the Iran-Iraq conflict when both sides attacked oil infrastructure and shipping, leading to Operation Earnest Will where the US Navy escorted Kuwaiti tankers. The current situation also parallels the 1973 oil embargo and 1979 Iranian Revolution energy crises that triggered global recessions. The Strait of Hormuz has been a persistent flashpoint since the 1980s, with Iran repeatedly threatening closure during periods of tension. However, this represents the first time since World War II that a major energy chokepoint has been effectively closed by military action rather than political embargo, and the first direct US-Iranian military confrontation of this scale.",
+  "historicalContext": "This crisis echoes the 1980s 'Tanker War' during the Iran-Iraq conflict when both nations targeted oil infrastructure and shipping in the Persian Gulf. The current situation also parallels the 1973 oil embargo and 1979 Iranian Revolution in terms of sudden supply disruptions causing global energy price spikes. However, this represents the first time since World War II that a major oil chokepoint has been effectively closed due to direct military conflict involving the United States. The Strait of Hormuz has been a flashpoint for decades, with Iran previously threatening closure during sanctions periods, but never following through at this scale. The insurance industry's rapid response reflects lessons learned from previous conflicts, particularly the impact of war risk on global shipping during the Ukraine conflict.",
   "implications": [
-    "Global energy security paradigm shift toward diversification away from Middle Eastern chokepoints",
-    "Acceleration of renewable energy transition due to fossil fuel supply vulnerability",
-    "Potential collapse of global shipping insurance markets for conflict zones",
-    "Realignment of international alliances based on energy security needs",
-    "Severe inflationary pressure on global economy, particularly affecting developing nations",
-    "Possible breakdown of international maritime law and freedom of navigation principles",
-    "Increased militarization of energy infrastructure protection globally",
-    "Potential for wider regional war involving Gulf states and proxy forces"
+    "Global inflation surge as energy costs feed through to all sectors of the economy",
+    "Potential recession in energy-dependent economies, particularly in Europe and Asia",
+    "Acceleration of renewable energy transition as nations seek energy security",
+    "Strengthening of alternative energy supply chains and strategic reserves",
+    "Increased geopolitical tensions as China and other major importers face energy security threats",
+    "Potential for conflict expansion as regional powers choose sides",
+    "Disruption of global supply chains dependent on Middle Eastern energy",
+    "Political pressure on governments worldwide as consumer energy costs soar",
+    "Possible emergency coordination among International Energy Agency members",
+    "Long-term shift in global shipping patterns and energy infrastructure investment"
   ],
-  "generatedAt": "2026-03-03T19:51:14.712Z",
+  "generatedAt": "2026-03-03T23:00:16.412Z",
   "model": "anthropic/claude-sonnet-4"
 }

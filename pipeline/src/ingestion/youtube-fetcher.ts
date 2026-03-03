@@ -65,7 +65,7 @@ async function fetchChannel(
     const items = (feed.items || []).slice(0, config.youtube.maxVideosPerChannel);
     result.videosFound = items.length;
 
-    const cutoff = Date.now() - config.pipeline.maxArticleAgeDays * 24 * 60 * 60 * 1000;
+    const cutoff = Date.now() - config.youtube.maxVideoAgeDays * 24 * 60 * 60 * 1000;
 
     for (const item of items) {
       try {

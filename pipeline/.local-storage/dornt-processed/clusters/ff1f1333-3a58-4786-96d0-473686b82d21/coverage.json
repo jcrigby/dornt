@@ -3,66 +3,63 @@
   "frames": [
     {
       "name": "Technical Innovation Focus",
-      "description": "Emphasizes the technical specifications and engineering achievements of the new chips, particularly the 'Fusion Architecture' and performance improvements",
+      "description": "Emphasizes the technical specifications and engineering achievements of the new chips, particularly the Fusion Architecture and performance improvements",
       "sources": [
         "TechCrunch",
-        "Engadget"
+        "Engadget",
+        "Ars Technica"
       ],
-      "emphasis": "CPU/GPU performance gains, architectural innovations, and technical capabilities for professional users"
+      "emphasis": "CPU/GPU performance gains, new architecture design, AI compute improvements, and technical specifications"
     },
     {
       "name": "Price Increase Concern",
-      "description": "Highlights the significant price increases across the MacBook lineup while acknowledging the increased storage and performance",
+      "description": "Highlights the significant price increases across Apple's laptop lineup and frames this as potentially problematic for consumers",
       "sources": [
-        "Ars Technica",
+        "TechCrunch",
         "Engadget",
         "CNBC"
       ],
-      "emphasis": "Cost implications for consumers and the trade-offs between price and enhanced specifications"
+      "emphasis": "Price jumps of $100-$400, impact on consumer purchasing decisions, and value proposition questions"
     },
     {
       "name": "AI-First Strategy",
-      "description": "Positions the announcements as part of Apple's broader pivot toward AI capabilities and local processing",
+      "description": "Positions the announcements as part of Apple's broader pivot toward AI-centric computing and local AI processing capabilities",
       "sources": [
         "CNBC"
       ],
-      "emphasis": "Strategic business implications, AI workload performance, and competitive positioning against cloud-based solutions"
+      "emphasis": "AI workload performance, local processing vs cloud computing, and strategic positioning for enterprise customers"
     },
     {
-      "name": "Professional User Targeting",
-      "description": "Focuses on specific professional use cases and workflows that benefit from the new hardware",
+      "name": "Market Performance Context",
+      "description": "Frames the announcements within Apple's recent Mac sales challenges and need to revive demand",
       "sources": [
-        "TechCrunch",
-        "Ars Technica"
+        "CNBC"
       ],
-      "emphasis": "Target audiences like 3D animators, AI researchers, data modelers, and app developers"
+      "emphasis": "Mac sales decline, need for upgrade cycle stimulation, and competitive positioning"
     },
     {
-      "name": "Incremental Upgrade Assessment",
-      "description": "Evaluates whether the changes justify upgrading from previous generations",
+      "name": "Architectural Departure",
+      "description": "Focuses on how the M5 Pro/Max represent a significant technical shift from previous Apple Silicon generations",
       "sources": [
-        "Engadget",
         "Ars Technica"
       ],
-      "emphasis": "Value proposition for existing users and upgrade recommendations"
+      "emphasis": "Chiplet design, three-tier CPU core hierarchy, and departure from traditional scaling approaches"
     }
   ],
   "outlierPerspectives": [
-    "CNBC's business context linking Mac sales decline (7% drop to $8.39 billion) to the timing of these announcements",
-    "CNBC's analysis of memory supply constraints affecting pricing due to AI data center demand",
-    "Ars Technica's technical skepticism noting that multi-die designs 'aren't novel' as Intel and AMD have used similar approaches",
-    "CNBC's strategic framing of this as part of a broader week of announcements targeting multiple price points"
+    "RAM shortage as primary driver of price increases - only TechCrunch explicitly connects the price hikes to global memory supply constraints affecting AI data center demand",
+    "Detailed chiplet architecture analysis - only Ars Technica provides in-depth technical breakdown of the two-die Fusion Architecture design",
+    "Mac business performance context - only CNBC frames the announcements against Apple's recent 7% Mac sales decline"
   ],
   "missingContext": [
-    "Competitive benchmarks against Intel, AMD, or other ARM-based processors",
-    "Real-world battery life impact of the new chips under various workloads",
-    "Detailed comparison of the 'super cores' versus previous high-performance cores",
-    "Supply chain implications and production capacity for the new Fusion Architecture",
-    "Developer ecosystem readiness for the enhanced AI capabilities",
-    "Thermal management and cooling requirements for the multi-die design",
-    "Market share data for Mac versus PC in professional creative markets",
-    "Pricing comparison with equivalent Windows laptops for professional users"
+    "Competitive benchmarking against Intel, AMD, or other ARM processors",
+    "Real-world performance testing results beyond Apple's marketing claims",
+    "Supply chain impact analysis beyond RAM shortages",
+    "Developer ecosystem readiness for new AI capabilities",
+    "Environmental impact of increased chip complexity and manufacturing",
+    "Historical context of Apple's pricing strategy evolution",
+    "Analysis of target market segments most affected by price increases"
   ],
-  "generatedAt": "2026-03-03T20:05:44.865Z",
+  "generatedAt": "2026-03-03T23:18:52.132Z",
   "model": "anthropic/claude-sonnet-4"
 }

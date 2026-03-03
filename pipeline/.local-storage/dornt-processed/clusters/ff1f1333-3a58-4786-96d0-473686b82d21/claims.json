@@ -1,8 +1,8 @@
 [
   {
-    "id": "767e25a6-956e-4942-b197-2516b7d7331b",
+    "id": "b52f8b84-19ce-44db-89dc-b31e82b6fba8",
     "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
-    "text": "Apple announced M5 Pro and M5 Max chips on Tuesday, March 3, 2026",
+    "text": "Apple unveiled M5 Pro and M5 Max chips on Tuesday, March 3, 2026",
     "status": "undisputed",
     "supportingSources": [
       "TechCrunch",
@@ -11,21 +11,8 @@
       "CNBC"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
-  },
-  {
-    "id": "b946464b-531a-45c5-aea1-da89e0cadfde",
-    "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
-    "text": "M5 Pro and M5 Max feature 'Fusion Architecture' that merges two dies into a single SoC",
-    "status": "undisputed",
-    "supportingSources": [
-      "TechCrunch",
-      "Engadget"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
+    "firstSeenAt": "2026-03-03T23:18:55.896Z",
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
   },
   {
     "id": "cf442d52-3475-42da-a00e-a1c833f44bd4",
@@ -39,12 +26,12 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
   },
   {
-    "id": "3040ffce-e233-4721-a7ac-550c6284efff",
+    "id": "f366c91c-e745-4912-9873-81d1a3c5312a",
     "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
-    "text": "The CPU includes six 'super cores' (highest-performance cores)",
+    "text": "The chips use new 'Fusion Architecture' that merges two dies into a single SoC",
     "status": "undisputed",
     "supportingSources": [
       "TechCrunch",
@@ -52,13 +39,13 @@
       "Ars Technica"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
+    "firstSeenAt": "2026-03-03T23:18:55.896Z",
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
   },
   {
-    "id": "d7ed3f20-02ad-43f3-9731-935022098b60",
+    "id": "d5e5297b-4ff3-422a-a680-5e829e6bc04f",
     "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
-    "text": "The CPU includes 12 all-new performance cores",
+    "text": "The CPU features six 'super cores' and 12 performance cores",
     "status": "undisputed",
     "supportingSources": [
       "TechCrunch",
@@ -66,21 +53,21 @@
       "Ars Technica"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
+    "firstSeenAt": "2026-03-03T23:18:55.896Z",
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
   },
   {
-    "id": "56bfc389-6051-4b3d-adf3-19a3ea821b99",
+    "id": "cd5a5b90-2859-4453-ae7a-5d9bce3e9434",
     "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
-    "text": "CPU performance is boosted by up to 30% for pro workloads",
+    "text": "CPU performance is up to 30% faster for pro workloads compared to M4 generation",
     "status": "undisputed",
     "supportingSources": [
       "TechCrunch",
       "Engadget"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
+    "firstSeenAt": "2026-03-03T23:18:55.896Z",
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
   },
   {
     "id": "29a1c562-a56b-4a82-87d3-4d1c16d946e7",
@@ -93,7 +80,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
   },
   {
     "id": "ad7a0499-7e00-440e-8afc-2d61a7cdce91",
@@ -106,21 +93,20 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
   },
   {
     "id": "343f9491-b1f0-417e-b1e1-f406d83fbecf",
     "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
     "text": "Ray-tracing workloads improve by up to 35%",
-    "status": "disputed",
+    "status": "undisputed",
     "supportingSources": [
-      "TechCrunch"
-    ],
-    "disputingSources": [
+      "TechCrunch",
       "Engadget"
     ],
+    "disputingSources": [],
     "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
   },
   {
     "id": "bda20c8f-d947-4206-ab0b-aa2e76c2d8a1",
@@ -133,7 +119,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
   },
   {
     "id": "aabb55c5-0535-48cd-b9f6-73c6acbc6b41",
@@ -146,53 +132,39 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
   },
   {
-    "id": "60afa137-4b30-4977-ba91-75ef0026ffe7",
+    "id": "af451427-6c04-40f3-8ac4-5c4543d87b85",
     "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
-    "text": "M5 Pro can include up to 20 GPU cores",
+    "text": "M5 Pro GPU has up to 20 cores",
     "status": "undisputed",
     "supportingSources": [
-      "Ars Technica",
-      "Engadget"
+      "Engadget",
+      "Ars Technica"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
+    "firstSeenAt": "2026-03-03T23:18:55.896Z",
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
   },
   {
-    "id": "cfd84555-a397-4373-8b3f-c108212fcc66",
+    "id": "89165309-8d71-458c-92ae-861e6b7270f1",
     "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
-    "text": "M5 Max can include up to 40 GPU cores",
+    "text": "M5 Max GPU has up to 40 cores",
     "status": "undisputed",
     "supportingSources": [
       "TechCrunch",
-      "Ars Technica",
-      "Engadget"
+      "Engadget",
+      "Ars Technica"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
+    "firstSeenAt": "2026-03-03T23:18:55.896Z",
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
   },
   {
     "id": "d9ebdea3-d6a8-45ac-9f60-838d50b6a9fa",
     "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
-    "text": "New MacBook Pro models are available for preorder on March 4",
-    "status": "disputed",
-    "supportingSources": [
-      "Engadget"
-    ],
-    "disputingSources": [
-      "TechCrunch"
-    ],
-    "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
-  },
-  {
-    "id": "8d77e1a5-26d1-4370-ac31-9efe48cc9849",
-    "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
-    "text": "New MacBook Pro models will be available beginning March 11",
+    "text": "New MacBook Pro models are available for preorder March 4 with availability March 11",
     "status": "undisputed",
     "supportingSources": [
       "TechCrunch",
@@ -200,12 +172,40 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
   },
   {
-    "id": "389ff16e-c992-408d-82a4-f8d0641a3c15",
+    "id": "5454b1e4-df4e-41c6-bd40-57e73ab89970",
     "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
-    "text": "14-inch MacBook Pro with M5 Pro now starts at $2,199 (up from $1,999)",
+    "text": "14-inch MacBook Pro with M5 Pro starts at $2,199, up from $1,999",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica",
+      "Engadget",
+      "TechCrunch"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:18:55.896Z",
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
+  },
+  {
+    "id": "46e8bf8b-daa4-4d81-b155-25bdd45b8e40",
+    "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
+    "text": "16-inch MacBook Pro with M5 Pro starts at $2,699, up from $2,499",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica",
+      "Engadget",
+      "TechCrunch"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:18:55.896Z",
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
+  },
+  {
+    "id": "ce27b631-6209-4011-9e94-1db5dc18d166",
+    "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
+    "text": "M5 Pro models now come with 1TB base storage, M5 Max models with 2TB base storage",
     "status": "undisputed",
     "supportingSources": [
       "Ars Technica",
@@ -213,100 +213,48 @@
       "CNBC"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
+    "firstSeenAt": "2026-03-03T23:18:55.896Z",
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
   },
   {
-    "id": "2efc4da2-c16c-4738-8229-d3c253474f92",
+    "id": "0c41d3eb-ea76-49ae-a069-989d87bdfbff",
     "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
-    "text": "16-inch MacBook Pro with M5 Pro now starts at $2,699 (up from $2,499)",
+    "text": "MacBook Air M5 starts at $1,099 for 13-inch model, up from $999",
     "status": "undisputed",
     "supportingSources": [
-      "Ars Technica",
-      "Engadget"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
-  },
-  {
-    "id": "abcd1010-f06f-4aeb-920a-668acfb8a9b8",
-    "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
-    "text": "M5 Pro models now come with 1TB of storage by default",
-    "status": "undisputed",
-    "supportingSources": [
-      "Ars Technica",
       "Engadget",
-      "CNBC"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
-  },
-  {
-    "id": "b0f8354e-ac90-4d9d-9633-fb2c853ed05e",
-    "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
-    "text": "M5 Max models now come with 2TB of storage by default",
-    "status": "undisputed",
-    "supportingSources": [
-      "Ars Technica",
-      "Engadget",
-      "CNBC"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
-  },
-  {
-    "id": "54aa0228-f753-476a-bb13-11a7aa8570e3",
-    "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
-    "text": "Internal storage is up to 2x faster than previous-generation Pros",
-    "status": "undisputed",
-    "supportingSources": [
-      "Ars Technica",
-      "Engadget"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
-  },
-  {
-    "id": "5255c1a3-07e2-4c5a-abac-8a8906e3b596",
-    "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
-    "text": "MacBook Air M5 now starts at $1,099 for 13-inch model (up from $999)",
-    "status": "undisputed",
-    "supportingSources": [
       "CNBC",
-      "Engadget"
+      "TechCrunch"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
+    "firstSeenAt": "2026-03-03T23:18:55.896Z",
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
   },
   {
-    "id": "346d4d56-9282-41b5-8679-8efc4375abeb",
+    "id": "fc01b2d7-a5df-4ddb-ac74-c3c57c6e4986",
     "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
-    "text": "MacBook Air M5 now starts at $1,299 for 15-inch model (up from $1,199)",
+    "text": "MacBook Air M5 starts at $1,299 for 15-inch model, up from $1,199",
     "status": "undisputed",
     "supportingSources": [
+      "Engadget",
       "CNBC"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
+    "firstSeenAt": "2026-03-03T23:18:55.896Z",
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
   },
   {
-    "id": "90fcd440-dd63-40d8-8d4f-5c756cb09108",
+    "id": "2baf4826-3e3c-4b5e-9232-e09d7e3b2537",
     "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
-    "text": "MacBook Air M5 base storage doubled to 512GB",
+    "text": "MacBook Air M5 doubles base storage from 256GB to 512GB",
     "status": "undisputed",
     "supportingSources": [
-      "CNBC",
-      "Engadget"
+      "Engadget",
+      "CNBC"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
+    "firstSeenAt": "2026-03-03T23:18:55.896Z",
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
   },
   {
     "id": "1803509e-4460-43c7-9ce7-a57df7352e02",
@@ -319,6 +267,44 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T20:05:49.176Z",
-    "lastUpdatedAt": "2026-03-03T20:05:49.176Z"
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
+  },
+  {
+    "id": "1a9486ab-8e4b-4d4b-a444-7412bce305e8",
+    "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
+    "text": "Price increases are attributed to RAM shortage affecting memory supply",
+    "status": "undisputed",
+    "supportingSources": [
+      "TechCrunch",
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:18:55.896Z",
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
+  },
+  {
+    "id": "f25151c3-604b-4816-8f0f-741fd5633c9a",
+    "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
+    "text": "Apple claims the 'super cores' are the world's fastest CPU cores",
+    "status": "undisputed",
+    "supportingSources": [
+      "Engadget"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:18:55.896Z",
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
+  },
+  {
+    "id": "e6475e9b-f987-47f1-9dd1-c3bac52d2e90",
+    "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
+    "text": "Storage in new MacBook Pro is up to 2x faster than previous generation",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica",
+      "Engadget"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:18:55.896Z",
+    "lastUpdatedAt": "2026-03-03T23:18:55.896Z"
   }
 ]

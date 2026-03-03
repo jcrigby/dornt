@@ -3,35 +3,34 @@
   "frames": [
     {
       "name": "Political Retaliation Frame",
-      "description": "Presents the federal action as politically motivated punishment against Minnesota rather than legitimate policy enforcement",
+      "description": "Presents the withholding of Medicaid funds as politically motivated punishment by the Trump administration against Minnesota",
       "sources": [
         "The Hill",
         "NYT"
       ],
-      "emphasis": "The characterization of federal actions as 'political punishment' and harm to over 1 million enrolled Minnesotans"
+      "emphasis": "The alleged political nature of the action and harm to Minnesota residents"
     },
     {
-      "name": "Fraud Enforcement Frame",
-      "description": "Frames the federal action as a response to documented fraud in Minnesota's social service programs",
+      "name": "Fraud Prevention Frame",
+      "description": "Presents the action as a response to documented fraud issues in Minnesota's social service programs",
       "sources": [
         "NYT"
       ],
-      "emphasis": "The Trump administration's justification citing 'widespread fraud in state social service programs'"
+      "emphasis": "The Trump administration's stated justification based on fraud concerns"
     }
   ],
   "outlierPerspectives": [
-    "The fraud enforcement justification - only NYT mentions the Trump administration's rationale of widespread fraud in state programs",
-    "Vice President Vance's involvement - only The Hill specifically mentions Vance's role alongside the CMS Administrator"
+    "The specific involvement of Vice President Vance in the decision (mentioned only in The Hill)",
+    "Framing this as part of a broader 'fraud scandal' rather than isolated incident (NYT's headline approach)"
   ],
   "missingContext": [
     "Specific details about the alleged fraud that prompted federal action",
-    "Timeline of when the fraud was discovered and federal response initiated",
-    "Amount of Medicaid funds being withheld",
-    "Legal precedent for federal withholding of Medicaid funds over fraud concerns",
-    "Minnesota's response to or acknowledgment of the fraud allegations",
-    "Impact on specific Medicaid services or beneficiaries",
+    "Timeline of when fraud was discovered versus when funds were withheld",
+    "Legal precedent for federal withholding of Medicaid funds",
+    "Potential impact on specific Medicaid services or beneficiaries",
+    "Minnesota's response to the fraud allegations prior to the lawsuit",
     "Other states that may have faced similar federal action"
   ],
-  "generatedAt": "2026-03-03T19:58:36.068Z",
+  "generatedAt": "2026-03-03T23:08:10.212Z",
   "model": "anthropic/claude-sonnet-4"
 }

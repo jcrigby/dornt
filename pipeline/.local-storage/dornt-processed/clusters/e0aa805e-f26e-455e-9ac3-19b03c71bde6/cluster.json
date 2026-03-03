@@ -7,21 +7,25 @@
     "3ee29374-ade6-47ed-a3bc-bb3e19291a2f",
     "527c0d78-8dd4-4387-9d14-5055e318df45",
     "776d70f7-f9b7-42f2-bde3-d0601dc97aff",
-    "42cfe00c-ae27-408b-aaac-8ba74d3a660e"
+    "42cfe00c-ae27-408b-aaac-8ba74d3a660e",
+    "06f3dda2-c03d-4b3b-a50f-8d349660fbc0",
+    "2ef99611-ecaf-467e-8b51-e11197087132",
+    "2f8614db-5d6c-4660-a781-407e214b5092",
+    "3477528e-7348-4aee-9e8f-34e5f46f87f3"
   ],
   "redditPostIds": [],
   "createdAt": "2026-03-03T19:46:57.317Z",
-  "updatedAt": "2026-03-03T19:47:12.349Z",
-  "articleCount": 6,
-  "sourceCount": 6,
+  "updatedAt": "2026-03-03T22:55:58.851Z",
+  "articleCount": 10,
+  "sourceCount": 7,
   "topSources": [
+    "CNBC",
     "UPI",
     "MIT Tech Review",
     "The Guardian US",
-    "BBC World",
-    "TechCrunch"
+    "Vox"
   ],
-  "importance": 78,
+  "importance": 100,
   "status": "active",
   "centroid": [
     0.01114200212,

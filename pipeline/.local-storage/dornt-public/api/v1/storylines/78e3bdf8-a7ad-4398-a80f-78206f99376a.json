@@ -1,18 +1,21 @@
 {
   "id": "78e3bdf8-a7ad-4398-a80f-78206f99376a",
   "title": "US-Iran Military Escalation and Regional Crisis",
-  "description": "A developing military conflict between the US and Iran that has resulted in American casualties, prompted urgent evacuation advisories, and is driving oil price volatility while involving diplomatic efforts",
+  "description": "A developing military conflict between the US and Iran that has escalated from diplomatic tensions to direct military strikes, causing regional instability and international concern",
   "clusterIds": [
     "5080191b-9a74-4c46-a5aa-ee005d068c93",
     "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+    "af5405c0-3d24-43c1-be66-619b3ddc492f",
+    "e393c505-5c15-45ce-a839-597e7c6c5412",
+    "ca3849a6-eefc-4138-8e6e-3d0192537139",
     "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
     "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
     "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
-    "ca3849a6-eefc-4138-8e6e-3d0192537139",
+    "aacf264d-d37f-4e9a-981f-5cdeecaa993e",
     "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37"
   ],
-  "arc": "The storyline begins with diplomatic talks between the US and Iran amid nuclear deal tensions, escalates to active military conflict resulting in US service member deaths, prompts urgent evacuation advisories for Americans in the Middle East, drives oil price increases due to regional instability and potential Strait of Hormuz blockade concerns, and involves high-level diplomatic engagement including Trump's meetings with German Chancellor Merz and disputes over Israel's role in military strikes",
+  "arc": "Initial diplomatic talks between US and Iran over nuclear issues escalated to military strikes ordered by Trump, resulting in US service member casualties and targeting of Iranian leadership. The conflict has prompted urgent advisories for Americans to leave the Middle East, caused oil price spikes due to concerns over the Strait of Hormuz, and created international diplomatic tensions including criticism from UK Labour leader Starmer and discussions with German Chancellor Merz.",
   "startedAt": "2026-03-03T20:06:59.054Z",
-  "updatedAt": "2026-03-03T20:06:59.054Z",
+  "updatedAt": "2026-03-03T23:20:07.464Z",
   "status": "developing"
 }

@@ -1,0 +1,17 @@
+{
+  "id": "c694724f-98fc-4048-8d1e-be22c7d69d44",
+  "url": "https://www.theverge.com/tech/888647/tiktok-us-oracle-outage-march-2026",
+  "normalizedUrl": "https://theverge.com/tech/888647/tiktok-us-oracle-outage-march-2026",
+  "title": "Another Oracle outage is messing up US TikTok",
+  "source": "The Verge",
+  "feedUrl": "https://www.theverge.com/rss/index.xml",
+  "publishedAt": "2026-03-03T20:26:21.000Z",
+  "fetchedAt": "2026-03-03T22:53:38.322Z",
+  "author": "Stevie Bonifield",
+  "contentHash": "38723d4769bac0ec",
+  "fullText": "Skip to main contentTikTok users in the US may experience lag while trying to post content until the outage is resolved.TikTok users in the US may experience lag while trying to post content until the outage is resolved.by Mar 3, 2026, 8:26 PM UTCIllustration by Nick Barclay / The VergeStevie Bonifield is a news writer covering all things consumer tech. Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI.The US version of TikTok is once again experiencing issues due to an Oracle outage, just a month after coming back online from a similar outage in February.The service disruption, impacting Oracle’s Ashburn, Virginia data center, began early Tuesday afternoon, with Downdetector reports spiking around 1PM Eastern. TikTok USDS confirmed in a post on X that US users “may temporarily experience lags in posting content while Oracle works to resolve the issue.”This is the second service disruption the US version of TikTok has suffered after a deal in January that transferred majority ownership away from the platform’s original owner, Chinese company ByteDance. The previous round of issues happened shortly after a joint venture, TikTok USDS, which includes Oracle, took over the app in the US as part of that deal. According to TikTok USDS, that service disruption was caused by a power outage at an Oracle data center.Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates.Stevie BonifieldThe Verge DailyA free daily digest of the news that matters most.",
+  "summary": "The US version of TikTok is once again experiencing issues due to an Oracle outage, just a month after coming back online from a similar outage in February. \nThe service disruption, impacting Oracle's Ashburn, Virginia data center, began early Tuesday afternoon, with Downdetector reports spiking around 1PM Eastern. TikTok USDS confirmed in a post on X that US users \"may temporarily experience lags in posting content while Oracle works to resolve the issue.\"\n\n\nAn issue with an Oracle data center ",
+  "categories": [
+    "tech"
+  ]
+}

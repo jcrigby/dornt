@@ -1,0 +1,112 @@
+{
+  "clusterId": "af5405c0-3d24-43c1-be66-619b3ddc492f",
+  "stakeholders": [
+    {
+      "name": "Donald Trump",
+      "role": "US President",
+      "position": "Initiated strikes, claims goal is ending Iran's nuclear program and regime change",
+      "influence": "high"
+    },
+    {
+      "name": "Pete Hegseth",
+      "role": "US Defense Secretary",
+      "position": "Justifies strikes as preventing nuclear weapons advancement",
+      "influence": "high"
+    },
+    {
+      "name": "Marco Rubio",
+      "role": "US Secretary of State",
+      "position": "Claims strikes were preemptive to protect US forces from anticipated Iranian retaliation",
+      "influence": "high"
+    },
+    {
+      "name": "Israeli Government",
+      "role": "Military partner in strikes",
+      "position": "Coordinating joint operations with US against Iran",
+      "influence": "high"
+    },
+    {
+      "name": "Iranian Government",
+      "role": "Target of military action",
+      "position": "Under attack, regime survival threatened",
+      "influence": "medium"
+    },
+    {
+      "name": "Iranian-backed proxy groups",
+      "role": "Regional militias (Hezbollah, Hamas, Houthis)",
+      "position": "Potential retaliation forces against US and Israeli interests",
+      "influence": "medium"
+    },
+    {
+      "name": "Regional allies and neighbors",
+      "role": "11 countries now involved in conflict",
+      "position": "Varying degrees of involvement and vulnerability",
+      "influence": "medium"
+    },
+    {
+      "name": "US military personnel",
+      "role": "Forces deployed in region",
+      "position": "At least 6 killed, more at risk of casualties",
+      "influence": "low"
+    },
+    {
+      "name": "Global financial markets",
+      "role": "Economic indicator",
+      "position": "Reacting negatively with sell-offs and energy price spikes",
+      "influence": "medium"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "Iranian retaliation against US forces or allies in the region",
+      "likelihood": "likely",
+      "timeframe": "days to weeks",
+      "basis": "Iran's history of asymmetric responses and current existential threat to regime"
+    },
+    {
+      "text": "Escalation involving Iranian proxy groups across multiple theaters",
+      "likelihood": "likely",
+      "timeframe": "immediate to weeks",
+      "basis": "11 countries already involved and Iran's established proxy network"
+    },
+    {
+      "text": "Oil prices will continue rising significantly",
+      "likelihood": "likely",
+      "timeframe": "immediate",
+      "basis": "Iran's role in global energy markets and conflict in key shipping lanes"
+    },
+    {
+      "text": "Congressional debate over war authorization",
+      "likelihood": "possible",
+      "timeframe": "weeks",
+      "basis": "Scale of military action and constitutional questions about war powers"
+    },
+    {
+      "text": "Iranian regime collapse or significant political change",
+      "likelihood": "unlikely",
+      "timeframe": "months to years",
+      "basis": "Regimes under external pressure often consolidate rather than collapse immediately"
+    },
+    {
+      "text": "Diplomatic intervention by major powers to de-escalate",
+      "likelihood": "possible",
+      "timeframe": "days to weeks",
+      "basis": "Global economic impact and risk of wider regional war"
+    }
+  ],
+  "historicalContext": "This escalation follows decades of US-Iran tensions dating to the 1979 Iranian Revolution and hostage crisis. The conflict builds on previous flashpoints including the 2020 assassination of Iranian General Qasem Soleimani, Iran's nuclear program development since the US withdrawal from the JCPOA in 2018, and ongoing proxy conflicts across the Middle East. The involvement of 11 countries and joint US-Israeli operations represents an unprecedented scale of direct military confrontation between the US and Iran, surpassing previous incidents that remained largely within proxy warfare parameters. The contradictory explanations from Trump administration officials echo historical patterns of shifting rationales for military action, reminiscent of evolving justifications during conflicts in Iraq and other Middle Eastern interventions.",
+  "implications": [
+    "Potential for wider Middle East war involving multiple state and non-state actors across the region",
+    "Significant global economic disruption through energy market volatility and supply chain impacts",
+    "Strengthening of Iran-Russia-China axis as Iran seeks protection from Western military pressure",
+    "Possible collapse of remaining nuclear diplomacy frameworks and acceleration of Iranian nuclear weapons development",
+    "Increased risk to US personnel and interests globally through Iranian asymmetric retaliation capabilities",
+    "Potential refugee crisis and humanitarian disaster if conflict expands to populated areas",
+    "Strain on US military resources and readiness for other global commitments",
+    "Domestic political consequences in the US regarding war powers and congressional authorization",
+    "Disruption of regional stability affecting key US allies including Saudi Arabia, UAE, and European partners",
+    "Long-term implications for international law and norms regarding preemptive military action"
+  ],
+  "generatedAt": "2026-03-03T23:10:45.821Z",
+  "model": "anthropic/claude-sonnet-4"
+}

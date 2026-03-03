@@ -6,57 +6,68 @@
       "description": "Focuses on OpenAI's rushed decision-making and subsequent damage control efforts",
       "sources": [
         "UPI",
-        "BBC World"
+        "BBC World",
+        "The Hill"
       ],
-      "emphasis": "Altman's admission of mistakes, user backlash, app uninstalls, and attempts to revise the contract"
+      "emphasis": "OpenAI's admission of poor timing, user backlash, app uninstalls, and Altman's acknowledgment of being 'opportunistic and sloppy'"
     },
     {
-      "name": "Legal/Technical Distinction",
-      "description": "Analyzes the contractual differences between OpenAI and Anthropic's approaches",
+      "name": "Legal/Technical Safeguards Analysis",
+      "description": "Examines the contractual differences between OpenAI and Anthropic's approaches to Pentagon deals",
       "sources": [
         "MIT Tech Review"
       ],
-      "emphasis": "OpenAI's reliance on existing laws vs. Anthropic's specific contractual prohibitions"
+      "emphasis": "OpenAI's reliance on existing laws versus Anthropic's demand for specific contractual prohibitions, questioning adequacy of legal protections"
     },
     {
-      "name": "Market Positioning Strategy",
-      "description": "Views the conflict as strategic positioning in a commoditized AI market",
+      "name": "Market Competition and Branding",
+      "description": "Views the controversy through lens of business strategy and market positioning",
       "sources": [
         "The Guardian US"
       ],
-      "emphasis": "Anthropic's moral branding vs. OpenAI's pragmatic approach, with both potentially benefiting"
+      "emphasis": "AI models as commodified products, Anthropic's moral branding strategy, potential market value of taking principled stance"
     },
     {
-      "name": "Democratic Governance vs. Corporate Power",
-      "description": "Examines tensions between elected government authority and private company ethics",
+      "name": "Democratic Governance vs Corporate Power",
+      "description": "Frames debate around who should control AI policy - elected officials or private companies",
       "sources": [
         "TechCrunch"
       ],
-      "emphasis": "Altman's deference to democratic processes and OpenAI's unpreparedness for national security responsibilities"
+      "emphasis": "Altman's deference to democratic process, tech industry's unpreparedness for national security role"
     },
     {
       "name": "Authoritarian Drift Warning",
-      "description": "Frames the Pentagon's actions as resembling authoritarian tactics the US criticizes in China",
+      "description": "Presents Pentagon's actions as potentially undermining democratic values the US claims to defend",
       "sources": [
         "Vox"
       ],
-      "emphasis": "Parallels between Pentagon pressure tactics and China's military-civil fusion policy"
+      "emphasis": "Comparison to Chinese authoritarianism, questioning whether US is becoming what it opposes"
+    },
+    {
+      "name": "Employee Resistance Movement",
+      "description": "Highlights tech worker organizing against military AI applications",
+      "sources": [
+        "CNBC"
+      ],
+      "emphasis": "Cross-company solidarity, employee letters, broader context of tech worker activism"
     }
   ],
   "outlierPerspectives": [
-    "The Guardian's argument that this outcome benefits both companies strategically",
-    "Vox's comparison of Pentagon tactics to Chinese authoritarian policies",
-    "MIT Tech Review's detailed legal analysis distinguishing contract approaches"
+    "Anthropic's participation in Pentagon drone swarming competition despite public stance (Bloomberg/CNBC video)",
+    "Continued use of Claude in Iran operations despite blacklisting (BBC World, CNBC video)",
+    "Framing Pentagon as 'Department of War' in employee letters (CNBC)",
+    "Suggestion that losing Pentagon contracts may benefit Anthropic's brand (The Guardian US)"
   ],
   "missingContext": [
-    "Details about the original Anthropic contract terms and timeline",
-    "Specific information about the Venezuela raid mentioned by Vox",
-    "Financial details of the Pentagon contracts at stake",
-    "Technical capabilities that make these AI systems valuable for military use",
-    "Historical precedent for supply chain risk designations against US companies",
-    "Employee perspectives from both companies beyond the open letter",
-    "International implications for AI governance and military use"
+    "Specific details of what triggered the Iran military operations and their relationship to AI policy timing",
+    "Financial value of the Pentagon contracts at stake",
+    "Technical capabilities that make these AI models specifically valuable for military applications",
+    "Historical precedent for Pentagon designating US companies as 'supply chain risks'",
+    "Details of other AI companies' (Google, Microsoft, Meta) current Pentagon relationships",
+    "Broader context of US-China AI competition beyond rhetorical claims",
+    "Legal analysis of whether existing laws actually prevent mass surveillance and autonomous weapons",
+    "Timeline and details of how Anthropic's relationship with Pentagon deteriorated"
   ],
-  "generatedAt": "2026-03-03T20:02:09.192Z",
+  "generatedAt": "2026-03-03T23:13:53.418Z",
   "model": "anthropic/claude-sonnet-4"
 }

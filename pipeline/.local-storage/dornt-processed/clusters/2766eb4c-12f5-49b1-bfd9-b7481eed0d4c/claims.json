@@ -9,19 +9,43 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:49:26.528Z",
-    "lastUpdatedAt": "2026-03-03T19:49:26.528Z"
+    "lastUpdatedAt": "2026-03-03T22:58:26.307Z"
+  },
+  {
+    "id": "a46c3068-0ad4-404f-9ee8-9fc3a5c688bf",
+    "clusterId": "2766eb4c-12f5-49b1-bfd9-b7481eed0d4c",
+    "text": "Stanley Plotkin is 93 years old and is a vaccine legend",
+    "status": "undisputed",
+    "supportingSources": [
+      "STAT News Article 1"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T22:58:26.307Z",
+    "lastUpdatedAt": "2026-03-03T22:58:26.307Z"
   },
   {
     "id": "1a9d38f0-b2e0-402d-a89d-cfd4b687a7ac",
     "clusterId": "2766eb4c-12f5-49b1-bfd9-b7481eed0d4c",
-    "text": "93-year-old vaccine legend Stanley Plotkin is watching vaccination rates slip and calling the anti-vaccine turn inside government 'stupid' and 'immoral'",
+    "text": "Stanley Plotkin is watching vaccination rates slip",
     "status": "undisputed",
     "supportingSources": [
       "STAT News Article 1"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:49:26.528Z",
-    "lastUpdatedAt": "2026-03-03T19:49:26.528Z"
+    "lastUpdatedAt": "2026-03-03T22:58:26.307Z"
+  },
+  {
+    "id": "e626c9c4-8e5c-4cc2-892b-f0adae696b69",
+    "clusterId": "2766eb4c-12f5-49b1-bfd9-b7481eed0d4c",
+    "text": "Stanley Plotkin calls the anti-vaccine turn inside government 'stupid' and 'immoral'",
+    "status": "undisputed",
+    "supportingSources": [
+      "STAT News Article 1"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T22:58:26.307Z",
+    "lastUpdatedAt": "2026-03-03T22:58:26.307Z"
   },
   {
     "id": "b4e9e903-a46e-47fc-bd9f-e25c7d08624c",
@@ -33,7 +57,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:49:26.528Z",
-    "lastUpdatedAt": "2026-03-03T19:49:26.528Z"
+    "lastUpdatedAt": "2026-03-03T22:58:26.307Z"
   },
   {
     "id": "65f84185-6f01-4932-88c8-a62a4547e067",
@@ -41,11 +65,38 @@
     "text": "CMS wants more drugmakers to join Medicaid 'most-favored nations' pilot",
     "status": "undisputed",
     "supportingSources": [
-      "STAT News Article 2"
+      "STAT News Article 2",
+      "STAT News Article 4"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:49:26.528Z",
-    "lastUpdatedAt": "2026-03-03T19:49:26.528Z"
+    "lastUpdatedAt": "2026-03-03T22:58:26.307Z"
+  },
+  {
+    "id": "279d0343-16e4-4358-9d8e-1076dc88db06",
+    "clusterId": "2766eb4c-12f5-49b1-bfd9-b7481eed0d4c",
+    "text": "STAT Madness is an annual bracket-style competition in which people vote on the most impactful biomedical research published in the past year",
+    "status": "undisputed",
+    "supportingSources": [
+      "STAT News Article 2",
+      "STAT News Article 4"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T22:58:26.307Z",
+    "lastUpdatedAt": "2026-03-03T22:58:26.307Z"
+  },
+  {
+    "id": "d7d7dea6-e2ad-4e73-b187-6a2877d4471d",
+    "clusterId": "2766eb4c-12f5-49b1-bfd9-b7481eed0d4c",
+    "text": "Voting for STAT Madness is now open",
+    "status": "undisputed",
+    "supportingSources": [
+      "STAT News Article 2",
+      "STAT News Article 4"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T22:58:26.307Z",
+    "lastUpdatedAt": "2026-03-03T22:58:26.307Z"
   },
   {
     "id": "40744e0e-1733-4316-93a5-037b325ca7fe",
@@ -57,7 +108,7 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:49:26.528Z",
-    "lastUpdatedAt": "2026-03-03T19:49:26.528Z"
+    "lastUpdatedAt": "2026-03-03T22:58:26.307Z"
   },
   {
     "id": "c94cd0ed-0103-43e8-bfb9-06cdf6605fd4",
@@ -69,6 +120,6 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:49:26.528Z",
-    "lastUpdatedAt": "2026-03-03T19:49:26.528Z"
+    "lastUpdatedAt": "2026-03-03T22:58:26.307Z"
   }
 ]

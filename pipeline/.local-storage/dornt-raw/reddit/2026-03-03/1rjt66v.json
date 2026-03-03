@@ -1,0 +1,64 @@
+{
+  "id": "1rjt66v",
+  "subreddit": "science",
+  "title": "Microbes That 'Disarm' Peanut Allergy Proteins Discovered in Mouth And Gut. Experiments on mice revealed how Rothia and Staphylococcus can break down Ara h 1 and 2, potentially reducing the volume of triggers the immune system has to react to.",
+  "url": "https://www.sciencealert.com/microbes-that-disarm-peanut-allergy-proteins-discovered-in-mouth-and-gut",
+  "selftext": "",
+  "author": "InsaneSnow45",
+  "score": 832,
+  "numComments": 8,
+  "createdUtc": 1772553782,
+  "permalink": "https://reddit.com/r/science/comments/1rjt66v/microbes_that_disarm_peanut_allergy_proteins/",
+  "fetchedAt": "2026-03-03T22:52:52.899Z",
+  "topComments": [
+    {
+      "id": "o8fhf4f",
+      "author": "AutoModerator",
+      "body": "Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.\n\n---\n\n**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/).\n\n---\n\nUser: u/InsaneSnow45  \nPermalink: https://www.sciencealert.com/microbes-that-disarm-peanut-allergy-proteins-discovered-in-mouth-and-gut\n\n---\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",
+      "score": 1,
+      "createdUtc": 1772553782
+    },
+    {
+      "id": "o8fi1ej",
+      "author": "InsaneSnow45",
+      "body": "&gt;Bacteria that live in our mouths and intestines can 'disarm' the proteins that trigger allergic reactions to peanuts, a new study has found.\n\n&gt;Giving people with severe peanut allergies a hefty boost of these microbes could potentially help them cope better with exposure – but that's still a long way off.\n\n&gt;A [team](https://www.sciencedirect.com/science/article/abs/pii/S1931312826000818?via%3Dihub) led by scientists from the Autonomous University of Madrid in Spain and McMaster University in Canada has identified two microbes – Rothia and Staphylococcus – with this unique ability.\n\n&gt;These bacteria, which occur naturally in human saliva and the small intestine, can break down the proteins in peanuts that trigger life-threatening anaphylaxis.\n\n&gt;This serious allergic reaction is the reason schools elect to outlaw peanuts: while up to 2 percent of people in Europe and the US have peanut allergies, rates are much higher among children, for whom the risk of death is far greater, too.\n\n&gt;Allergic reactions happen when our bodies identify a threat, but anaphylaxis to peanuts is something of an overreaction, a glitch in the immune system.\n\n&gt;The danger a peanut actually poses to the body (mainly, that our own digestive enzymes can't break it down properly) pales in comparison to the danger of an anaphylactic response.\n\n&gt;People with severe peanut allergies produce large amounts of immunoglobulin E (IgE) antibodies when exposed to peanut proteins, including two called Ara h 1 and 2. This leads to an inflammation response strong enough to cause their throat to swell shut and blood pressure to drop, in a reaction called anaphylactic shock.",
+      "score": 18,
+      "createdUtc": 1772553960
+    },
+    {
+      "id": "o8fobpc",
+      "author": "Charming_Switch1119",
+      "body": "omg this is actually huge for people with peanut allergies.. hope they can turn this into a real treatment soon.",
+      "score": 19,
+      "createdUtc": 1772555757
+    },
+    {
+      "id": "o8g3jds",
+      "author": "thunbergfangirl",
+      "body": "This is fascinating because there are some hypotheses involving microbiome damage as a trigger for allergies.",
+      "score": 5,
+      "createdUtc": 1772560072
+    },
+    {
+      "id": "o8g9s1h",
+      "author": "lil_kreen",
+      "body": "Do these microbes live on the things they're good at breaking down? Seems like avoiding them might be a self-fulfilling prophecy related to the microbiome?",
+      "score": 2,
+      "createdUtc": 1772561806
+    },
+    {
+      "id": "o8h8i0n",
+      "author": "Hip_III",
+      "body": "Some people with a major peanut allergy will experience anaphylaxis within a few minutes of eating peanuts. I don't imagine these bacteria can break down the allergen proteins that quickly.\n\nMight be more effective for people who take an hour or two to have an allergic response to peanuts.",
+      "score": 2,
+      "createdUtc": 1772571638
+    },
+    {
+      "id": "o8haqk2",
+      "author": "ruibranco",
+      "body": "This fits really well into the broader picture of why food allergies have been skyrocketing in developed countries over the past few decades. The hygiene hypothesis has been around for a while, but we're only now starting to understand the specific mechanisms at the microbial level.What's interesting here is that Rothia and Staphylococcus are both commensal bacteria that have coexisted with us for thousands of years. The fact that they can enzymatically degrade the exact proteins (Ara h 1 and 2) that trigger the most severe IgE responses suggests this isn't some random side effect. It looks more like a built-in tolerance pathway that we've been inadvertently disrupting through antibiotic overuse, overly sanitized environments, and processed diets.The timing angle that one of the other commenters raised is valid though. If anaphylaxis can hit within minutes, a gradual bacterial breakdown process might not be fast enough to prevent acute reactions. But the real value here might be more about long-term tolerance building. If these microbes are consistently reducing the allergen load in the gut over time, the immune system might gradually stop treating peanut proteins as a major threat.Still a long way from clinical application, but the fact that these bacteria already live in our bodies naturally makes the therapeutic angle much more realistic than trying to engineer something from scratch.",
+      "score": 1,
+      "createdUtc": 1772572276
+    }
+  ]
+}

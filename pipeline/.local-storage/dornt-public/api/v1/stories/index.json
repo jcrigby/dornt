@@ -1,6 +1,28 @@
 {
   "stories": [
     {
+      "id": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
+      "title": "OpenAI Revises Pentagon Contract Amid Backlash and Criticism from Rival AI Firm Anthropic.",
+      "summary": "",
+      "articleCount": 10,
+      "sourceCount": 7,
+      "topSources": [
+        "CNBC",
+        "UPI",
+        "MIT Tech Review",
+        "The Guardian US",
+        "Vox"
+      ],
+      "categories": [
+        "finance",
+        "tech",
+        "international"
+      ],
+      "importance": 100,
+      "updatedAt": "2026-03-03T22:55:58.851Z",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/08/altmansam_050825gn14_w.jpg?w=900"
+    },
+    {
       "id": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
       "title": "Four people killed in shootout between US-registered speedboat and Cuban border guards.",
       "summary": "",
@@ -18,26 +40,26 @@
       "updatedAt": "2026-02-26T17:46:25.228Z"
     },
     {
-      "id": "5080191b-9a74-4c46-a5aa-ee005d068c93",
-      "title": "US and Iran Hold Talks Amid Tensions Over Nuclear Deal.",
+      "id": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
+      "title": "US Issues Urgent Advisory for Americans to Leave the Middle East Immediately",
       "summary": "",
-      "articleCount": 13,
+      "articleCount": 9,
       "sourceCount": 6,
       "topSources": [
         "The Guardian US",
-        "Axios",
-        "Vox",
-        "Foreign Policy",
-        "France 24"
+        "Business Insider",
+        "YouTube: ABC News",
+        "BBC World",
+        "Al Jazeera"
       ],
       "categories": [
         "international",
-        "digital",
-        "analysis"
+        "finance",
+        "youtube"
       ],
-      "importance": 99,
-      "updatedAt": "2026-03-03T19:46:57.552Z",
-      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/GettyImages-2220140693.jpg"
+      "importance": 87,
+      "updatedAt": "2026-03-03T22:55:58.858Z",
+      "imageUrl": "https://img.youtube.com/vi/fMhrVOeR2PY/hqdefault.jpg"
     },
     {
       "id": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
@@ -62,25 +84,24 @@
       "imageUrl": "https://s.france24.com/media/display/8771dd38-1719-11f1-8e0d-005056bf30b7/w:1024/p:16x9/AP26062570244683.jpg"
     },
     {
-      "id": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
-      "title": "OpenAI Revises Pentagon Contract Amid Backlash and Criticism from Rival AI Firm Anthropic.",
+      "id": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+      "title": "US and Iran Hold Talks Amid Tensions Over Nuclear Deal.",
       "summary": "",
-      "articleCount": 6,
-      "sourceCount": 6,
+      "articleCount": 14,
+      "sourceCount": 3,
       "topSources": [
-        "UPI",
-        "MIT Tech Review",
         "The Guardian US",
-        "BBC World",
-        "TechCrunch"
+        "Axios",
+        "Vox"
       ],
       "categories": [
-        "tech",
         "international",
-        "wire"
+        "digital",
+        "analysis"
       ],
-      "importance": 78,
-      "updatedAt": "2026-03-03T19:47:12.349Z"
+      "importance": 72,
+      "updatedAt": "2026-03-03T22:55:58.830Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/GettyImages-2220140693.jpg"
     },
     {
       "id": "2c327508-a138-4e59-9937-6a549ca252b5",
@@ -100,111 +121,64 @@
       "updatedAt": "2026-02-26T17:46:25.227Z"
     },
     {
-      "id": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
-      "title": "US Issues Urgent Advisory for Americans to Leave the Middle East Immediately",
-      "summary": "",
-      "articleCount": 6,
-      "sourceCount": 5,
-      "topSources": [
-        "Business Insider",
-        "The Guardian US",
-        "BBC World",
-        "YouTube: ABC News",
-        "YouTube: CNBC"
-      ],
-      "categories": [
-        "finance",
-        "international",
-        "youtube"
-      ],
-      "importance": 68,
-      "updatedAt": "2026-03-03T19:47:12.348Z",
-      "imageUrl": "https://img.youtube.com/vi/fMhrVOeR2PY/hqdefault.jpg"
-    },
-    {
-      "id": "ca3849a6-eefc-4138-8e6e-3d0192537139",
-      "title": "US President Trump disputes claims Israel forced US hand in Iran military strikes.",
-      "summary": "",
-      "articleCount": 6,
-      "sourceCount": 5,
-      "topSources": [
-        "ABC News",
-        "The Hill",
-        "The Guardian US",
-        "YouTube: NBC News",
-        "YouTube: ABC News"
-      ],
-      "categories": [
-        "news",
-        "youtube",
-        "cable"
-      ],
-      "importance": 68,
-      "updatedAt": "2026-03-03T19:47:12.350Z",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/03/Trump_Merz_03032026.jpg?w=900"
-    },
-    {
       "id": "140ca8bf-8591-4956-85ce-7bfa08fbd287",
       "title": "US Justice Department Reverses Course on Lawsuits Against Law Firms.",
       "summary": "",
-      "articleCount": 5,
-      "sourceCount": 5,
+      "articleCount": 8,
+      "sourceCount": 4,
       "topSources": [
         "Axios",
-        "The Hill",
-        "The Guardian US",
-        "NYT",
-        "WaPo Politics"
-      ],
-      "categories": [
-        "digital",
-        "broadsheet",
-        "international"
-      ],
-      "importance": 65,
-      "updatedAt": "2026-03-03T19:47:12.350Z",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/03/trump_donald_03062025_GettyImages-2203670514.jpg?w=900"
-    },
-    {
-      "id": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
-      "title": "First 2026 Midterm Primaries Held in Arkansas, North Carolina, and Texas",
-      "summary": "",
-      "articleCount": 5,
-      "sourceCount": 5,
-      "topSources": [
-        "CNBC",
-        "UPI",
-        "The Guardian US",
+        "Business Insider",
         "NYT Politics",
-        "YouTube: CNBC"
+        "UPI"
       ],
       "categories": [
-        "finance",
-        "wire",
+        "broadsheet",
+        "digital",
         "international"
       ],
-      "importance": 65,
-      "updatedAt": "2026-03-03T19:47:12.351Z",
-      "imageUrl": "https://img.youtube.com/vi/ZJ87RfvhEnw/hqdefault.jpg"
+      "importance": 64,
+      "updatedAt": "2026-03-03T22:55:58.867Z",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/03/trump_donald_03062025_GettyImages-2203670514.jpg?w=900"
     },
     {
       "id": "ff1f1333-3a58-4786-96d0-473686b82d21",
       "title": "Apple Unveils M5 Pro and M5 Max Chips, Updates MacBook Pro and Monitor Lineup",
       "summary": "",
-      "articleCount": 7,
-      "sourceCount": 4,
+      "articleCount": 11,
+      "sourceCount": 3,
       "topSources": [
         "Engadget",
-        "Ars Technica",
         "TechCrunch",
-        "CNBC"
+        "Ars Technica"
       ],
       "categories": [
         "tech",
         "finance"
       ],
+      "importance": 63,
+      "updatedAt": "2026-03-03T22:55:58.864Z"
+    },
+    {
+      "id": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+      "title": "President Trump Meets with German Chancellor Merz to Discuss Iran and Global Issues.",
+      "summary": "",
+      "articleCount": 7,
+      "sourceCount": 4,
+      "topSources": [
+        "YouTube: NBC News",
+        "YouTube: ABC News",
+        "The Hill",
+        "NYT World"
+      ],
+      "categories": [
+        "news",
+        "youtube",
+        "digital"
+      ],
       "importance": 61,
-      "updatedAt": "2026-03-03T19:47:12.345Z"
+      "updatedAt": "2026-03-03T22:55:58.756Z",
+      "imageUrl": "https://img.youtube.com/vi/wmuqupnEbXU/hqdefault.jpg"
     },
     {
       "id": "49654a5d-cd09-434c-807b-ceabe4aaae74",
@@ -225,25 +199,25 @@
       "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Untitled-design-2026-03-03T094219.997.jpg"
     },
     {
-      "id": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
-      "title": "President Trump Meets with German Chancellor Merz to Discuss Iran and Global Issues.",
+      "id": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+      "title": "First 2026 Midterm Primaries Held in Arkansas, North Carolina, and Texas",
       "summary": "",
       "articleCount": 6,
       "sourceCount": 4,
       "topSources": [
-        "YouTube: NBC News",
-        "YouTube: ABC News",
-        "The Hill",
-        "DW"
+        "CNBC",
+        "UPI",
+        "The Guardian US",
+        "ABC News"
       ],
       "categories": [
-        "news",
-        "youtube",
-        "digital"
+        "finance",
+        "wire",
+        "international"
       ],
       "importance": 58,
-      "updatedAt": "2026-03-03T19:47:12.347Z",
-      "imageUrl": "https://img.youtube.com/vi/wmuqupnEbXU/hqdefault.jpg"
+      "updatedAt": "2026-03-03T22:55:58.823Z",
+      "imageUrl": "https://img.youtube.com/vi/ZJ87RfvhEnw/hqdefault.jpg"
     },
     {
       "id": "c16a2291-01bd-4674-bac6-7e521b57504c",
@@ -260,6 +234,47 @@
       "categories": [],
       "importance": 55,
       "updatedAt": "2026-02-26T17:45:57.041Z"
+    },
+    {
+      "id": "e393c505-5c15-45ce-a839-597e7c6c5412",
+      "title": "US Airstrike Targets Iranian Leadership, Potential Succession Uncertainty Ensues",
+      "summary": "",
+      "articleCount": 5,
+      "sourceCount": 4,
+      "topSources": [
+        "Foreign Policy",
+        "The Atlantic",
+        "Vox",
+        "Fox Politics"
+      ],
+      "categories": [
+        "analysis",
+        "digital",
+        "cable"
+      ],
+      "importance": 55,
+      "updatedAt": "2026-03-03T22:56:01.493Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/03/trump-iran-airstrikes-democracy-security-middle-east-russia-china-2263537529.jpg"
+    },
+    {
+      "id": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+      "title": "Oil Prices Rise Amid Concerns Over Potential Blockade of Strait of Hormuz",
+      "summary": "",
+      "articleCount": 5,
+      "sourceCount": 4,
+      "topSources": [
+        "CNBC",
+        "WaPo Politics",
+        "The Guardian World",
+        "Inside Climate News"
+      ],
+      "categories": [
+        "finance",
+        "broadsheet",
+        "international"
+      ],
+      "importance": 55,
+      "updatedAt": "2026-03-03T22:55:58.849Z"
     },
     {
       "id": "f9fce595-287f-4847-8766-6e4e3f0a685e",
@@ -294,42 +309,41 @@
       "updatedAt": "2026-02-26T17:45:57.085Z"
     },
     {
-      "id": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
-      "title": "Oil Prices Rise Amid Concerns Over Potential Blockade of Strait of Hormuz",
+      "id": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+      "title": "Canada and India Strengthen Ties with New Nuclear Energy Deal and Diplomatic Reset.",
       "summary": "",
       "articleCount": 4,
       "sourceCount": 3,
       "topSources": [
-        "CNBC",
-        "WaPo Politics",
-        "The Guardian World"
+        "NYT World",
+        "The Hindu",
+        "BBC World"
       ],
       "categories": [
-        "finance",
-        "broadsheet",
-        "international"
+        "international",
+        "broadsheet"
       ],
       "importance": 42,
-      "updatedAt": "2026-03-03T19:47:12.346Z"
+      "updatedAt": "2026-03-03T22:55:58.850Z"
     },
     {
-      "id": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
-      "title": "U.S. service members killed in Iran conflict, death toll rises",
+      "id": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+      "title": "US President Trump disputes claims Israel forced US hand in Iran military strikes.",
       "summary": "",
-      "articleCount": 3,
-      "sourceCount": 3,
+      "articleCount": 7,
+      "sourceCount": 2,
       "topSources": [
-        "Axios",
-        "Vox",
-        "Foreign Policy"
+        "The Hill",
+        "The Guardian US"
       ],
       "categories": [
-        "digital",
-        "analysis"
+        "international",
+        "news",
+        "youtube"
       ],
-      "importance": 39,
-      "updatedAt": "2026-03-03T19:46:57.296Z",
-      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/03/Operation-Epic-Fury.jpeg"
+      "importance": 41,
+      "updatedAt": "2026-03-03T22:55:58.871Z",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/03/Trump_Merz_03032026.jpg?w=900"
     },
     {
       "id": "8f32c883-2139-458c-89c0-8971f2915219",
@@ -377,6 +391,24 @@
       "updatedAt": "2026-02-26T17:45:56.941Z"
     },
     {
+      "id": "aacf264d-d37f-4e9a-981f-5cdeecaa993e",
+      "title": "US President Trump Criticizes UK Labour Leader Starmer Over Iran Strike Policy",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 3,
+      "topSources": [
+        "BBC News",
+        "Fox Politics",
+        "The Guardian US"
+      ],
+      "categories": [
+        "international",
+        "cable"
+      ],
+      "importance": 39,
+      "updatedAt": "2026-03-03T22:55:58.766Z"
+    },
+    {
       "id": "afe792e4-4b40-4fcd-8d61-609780082b39",
       "title": "World Economic Forum President and CEO Steps Down Amid Scrutiny Over Epstein Connections",
       "summary": "",
@@ -390,24 +422,6 @@
       "categories": [],
       "importance": 39,
       "updatedAt": "2026-02-26T17:45:56.942Z"
-    },
-    {
-      "id": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-      "title": "Canada and India Strengthen Ties with New Nuclear Energy Deal and Diplomatic Reset.",
-      "summary": "",
-      "articleCount": 3,
-      "sourceCount": 3,
-      "topSources": [
-        "NYT World",
-        "The Hindu",
-        "BBC World"
-      ],
-      "categories": [
-        "international",
-        "broadsheet"
-      ],
-      "importance": 39,
-      "updatedAt": "2026-03-03T19:46:57.343Z"
     },
     {
       "id": "f7ec6574-73d4-4e66-b1db-83d78ba59519",
@@ -458,6 +472,24 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/01/AP26025690873375-e1769532150154.jpg?w=900"
     },
     {
+      "id": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+      "title": "U.S. service members killed in Iran conflict, death toll rises",
+      "summary": "",
+      "articleCount": 4,
+      "sourceCount": 2,
+      "topSources": [
+        "Axios",
+        "Vox"
+      ],
+      "categories": [
+        "digital",
+        "analysis"
+      ],
+      "importance": 32,
+      "updatedAt": "2026-03-03T22:55:58.829Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/03/Operation-Epic-Fury.jpeg"
+    },
+    {
       "id": "2dab45ae-8ee8-4a88-b8ee-786bfb715a77",
       "title": "ESPN Host Criticizes USA Men's Hockey Team as 'Sad Little Pawns' at Trump's State of the Union",
       "summary": "",
@@ -500,6 +532,25 @@
       "updatedAt": "2026-02-26T17:45:56.938Z"
     },
     {
+      "id": "af5405c0-3d24-43c1-be66-619b3ddc492f",
+      "title": "US President Trump Orders Military Strike Against Iran, Citing National Security Concerns",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 2,
+      "topSources": [
+        "Vox",
+        "YouTube: ABC News"
+      ],
+      "categories": [
+        "digital",
+        "news",
+        "youtube"
+      ],
+      "importance": 29,
+      "updatedAt": "2026-03-03T22:55:58.815Z",
+      "imageUrl": "https://img.youtube.com/vi/9SDZvaZaNWQ/hqdefault.jpg"
+    },
+    {
       "id": "b32e097e-54c0-4329-9f6c-7a15f73c4bcc",
       "title": "Spanish Colonel Antonio Tejero Molina, leader of 1981 failed coup, dies at 93.",
       "summary": "",
@@ -512,6 +563,21 @@
       "categories": [],
       "importance": 29,
       "updatedAt": "2026-02-26T17:45:56.926Z"
+    },
+    {
+      "id": "edf5e77e-72fb-4fb4-8753-c63b6cdfa58e",
+      "title": "Google and Samsung Introduce Gemini AI Features for Android Devices",
+      "summary": "",
+      "articleCount": 6,
+      "sourceCount": 1,
+      "topSources": [
+        "The Verge"
+      ],
+      "categories": [
+        "tech"
+      ],
+      "importance": 28,
+      "updatedAt": "2026-03-03T22:55:58.819Z"
     },
     {
       "id": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
@@ -529,25 +595,10 @@
       "updatedAt": "2026-03-03T19:46:57.348Z"
     },
     {
-      "id": "edf5e77e-72fb-4fb4-8753-c63b6cdfa58e",
-      "title": "Google and Samsung Introduce Gemini AI Features for Android Devices",
-      "summary": "",
-      "articleCount": 5,
-      "sourceCount": 1,
-      "topSources": [
-        "The Verge"
-      ],
-      "categories": [
-        "tech"
-      ],
-      "importance": 25,
-      "updatedAt": "2026-03-03T19:46:57.423Z"
-    },
-    {
       "id": "2766eb4c-12f5-49b1-bfd9-b7481eed0d4c",
       "title": "Merck Cancer Drug Enters Medicaid Pilot Program Under 'Most-Favored Nations' Pricing Model",
       "summary": "",
-      "articleCount": 3,
+      "articleCount": 4,
       "sourceCount": 1,
       "topSources": [
         "STAT News"
@@ -555,8 +606,8 @@
       "categories": [
         "health"
       ],
-      "importance": 19,
-      "updatedAt": "2026-03-03T19:46:57.340Z"
+      "importance": 22,
+      "updatedAt": "2026-03-03T22:55:58.653Z"
     },
     {
       "id": "8264d146-f3ce-485d-83d6-515980f25d52",
@@ -598,6 +649,6 @@
       "updatedAt": "2026-02-26T17:45:56.901Z"
     }
   ],
-  "generatedAt": "2026-03-03T20:07:25.872Z",
-  "totalCount": 35
+  "generatedAt": "2026-03-03T23:20:35.459Z",
+  "totalCount": 38
 }

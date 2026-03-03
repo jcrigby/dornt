@@ -4,19 +4,20 @@
   "articleIds": [
     "0a67d1fe-b80c-419f-b83e-c531bbe447b4",
     "245d7ea3-cb40-4432-8e8f-1bf47c6c7e29",
-    "744c0181-7265-440e-b3a5-03e159094525"
+    "744c0181-7265-440e-b3a5-03e159094525",
+    "33e16ee7-b7fd-43fb-baea-1874e4943b10"
   ],
   "redditPostIds": [],
   "createdAt": "2026-03-03T19:46:57.343Z",
-  "updatedAt": "2026-03-03T19:46:57.343Z",
-  "articleCount": 3,
+  "updatedAt": "2026-03-03T22:55:58.850Z",
+  "articleCount": 4,
   "sourceCount": 3,
   "topSources": [
     "NYT World",
     "The Hindu",
     "BBC World"
   ],
-  "importance": 39,
+  "importance": 42,
   "status": "active",
   "centroid": [
     -0.006368225466666666,

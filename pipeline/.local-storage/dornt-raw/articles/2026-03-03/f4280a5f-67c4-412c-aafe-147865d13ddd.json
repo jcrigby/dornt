@@ -1,0 +1,17 @@
+{
+  "id": "f4280a5f-67c4-412c-aafe-147865d13ddd",
+  "url": "https://arstechnica.com/tech-policy/2026/03/oops-south-korean-cops-lost-5m-in-seized-crypto-after-leaking-wallet-password/",
+  "normalizedUrl": "https://arstechnica.com/tech-policy/2026/03/oops-south-korean-cops-lost-5m-in-seized-crypto-after-leaking-wallet-password",
+  "title": "Clueless cops post seized crypto wallet password. $5M quickly stolen.",
+  "source": "Ars Technica",
+  "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
+  "publishedAt": "Mon, 02 Mar 2026 22:27:52 +0000",
+  "fetchedAt": "2026-03-03T22:53:41.700Z",
+  "author": "\n                    Ashley Belanger\n                ",
+  "contentHash": "e75fd0b9d94211c4",
+  "fullText": "Because the press release was widely circulated online, the thief could be anyone. South Korea’s National Tax Service has no clear suspects, Gizmodo suggested, and no easy way to claw back funds.\nThe officials’ best bet might be if the thief tries to move the stolen tokens through a regulated exchange, but The Block noted that the thief might struggle to convert that much cryptocurrency into cash under current market conditions. So seemingly, the thief, who likely wasn’t expecting the big payday anyway, may be motivated to lie low and avoid major exchanges.\nCho suggested that cops could have easily prevented the theft, likening posting any image of the mnemonic recovery phrase to leaving a wallet wide open. He noted that the original holder of the Ledger wallet was following best practices by only recording the phrase on a handwritten note and not storing the password online. Cops should have known to check the images for the recovery phrase, Cho said, and their mistake will likely cost the national treasury billions of won.\nIt’s possible that whoever took the cryptocurrency just seized on an opportunity after seeing the cops’ failure to redact the images while scrolling through the National Tax Service’s press releases at dawn. It’s also possible that bad actors are closely monitoring South Korean police cryptocurrency announcements, following what The Block reported was “a series of crypto custody lapses.”\nIn January, officials in Gwangju had to investigate after “a substantial quantity of seized bitcoin was lost,” The Block reported. That was believed to be linked to a phishing attack targeting Coinbase but perhaps signaled that police weren’t always adequately securing seized assets.\nEven more disturbingly, last month, police in Seoul’s Gangnam district had to launch an internal investigation after 22 seized bitcoins went missing, The Block reported. That case also involved a cold wallet suddenly drained without the physical device leaving police control, possibly indicating that some sensitive information isn’t handled securely.\nIn the latest press release, the National Tax Service officer said they are strengthening internal controls and job training to prevent future leaks.",
+  "summary": "South Korean police deeply apologized for preventable loss of seized funds.",
+  "categories": [
+    "tech"
+  ]
+}

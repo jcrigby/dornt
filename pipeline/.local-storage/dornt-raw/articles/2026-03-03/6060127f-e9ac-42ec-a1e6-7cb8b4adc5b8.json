@@ -1,0 +1,17 @@
+{
+  "id": "6060127f-e9ac-42ec-a1e6-7cb8b4adc5b8",
+  "url": "https://techcrunch.com/2026/03/03/amid-new-competition-chrome-speeds-up-its-release-schedule/",
+  "normalizedUrl": "https://techcrunch.com/2026/03/03/amid-new-competition-chrome-speeds-up-its-release-schedule",
+  "title": "Amid new competition, Chrome speeds up its release schedule",
+  "source": "TechCrunch",
+  "feedUrl": "https://techcrunch.com/feed/",
+  "publishedAt": "Tue, 03 Mar 2026 17:00:00 +0000",
+  "fetchedAt": "2026-03-03T22:53:47.577Z",
+  "author": "Sarah Perez",
+  "contentHash": "1e1d2a54005f69dc",
+  "fullText": "As AI-powered browsers from companies like OpenAI, Perplexity, and others attempt to carve out a space for themselves in a market that’s long been dominated by Chrome, Google says that it’s now speeding up the pace of Chrome releases. Starting this September, Chrome will move from a four-week release schedule to a two-week schedule, the tech giant announced on Tuesday.\n\nChrome has committed to shipping a new milestone of some sort with each release, in areas like stability, speed, or ease of use. (This is in addition to the weekly security updates that were introduced back in 2023.) As a result, those milestones will now come twice as frequently.\n\nOfficially, Google says that the new schedule reflects the ever-changing web platform, and it wants to ensure developers have immediate access to the latest tools and improvements. However, the move comes at a time when Chrome is finally facing what could one day become real competition from AI model providers, who are trying to rebuild the browser for an agentic web, where more tasks are automated on users’ behalf. \n\nChatGPT Atlas, OpenAI’s web browser, offers its AI assistant built in and is experimenting with various automations. Perplexity’s Comet, meanwhile, includes a sidecar AI assistant for all and other tools like an email assistant and meeting scheduler for its paid customers.\n\nIn response to the emerging threats, Google has been rapidly rolling out deeper Gemini integrations into Chrome, including its own set of agentic features for autonomous tasks.\n\nGoogle told TechCrunch this latest move isn’t AI-related, but it’s hard to see how the need to compete at a faster pace isn’t playing a role.\n\nThe new release schedule starts with the beta and stable versions (ver. 153) of Chrome on September 8, 2026, and will apply to all platforms, including desktop, Android, and iOS. No changes are being made to other early release platforms, like the Dev and Canary channels.\n\nImage Credits:Google\n\nThe Extended Stable release, designed for enterprise admins and Chromium embedders who need more time to manage updates, will continue to be on an eight-week cycle, as before. This option will also still be available to Chromebook users, Google notes. \n\n \n \n \n \n\n \n\n Sarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\n\nYou can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. \n\n \n \n View Bio",
+  "summary": "Google Chrome will begin shipping new releases every two weeks in September, instead of monthly.",
+  "categories": [
+    "tech"
+  ]
+}

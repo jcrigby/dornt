@@ -14,21 +14,20 @@
     "3ca0e67f-b417-40f3-913b-41fbddb45d83",
     "52803460-aaf8-418f-ae5a-163a3ee104da",
     "59908e49-90c4-4a5e-8015-41c3e4e36ace",
-    "5a7a28a9-7805-4e41-bbf9-346c0d139efa"
+    "5a7a28a9-7805-4e41-bbf9-346c0d139efa",
+    "2be647e7-51f0-4417-a92e-32f1adcd5471"
   ],
   "redditPostIds": [],
   "createdAt": "2026-02-26T17:45:56.963Z",
-  "updatedAt": "2026-03-03T19:46:57.552Z",
-  "articleCount": 13,
-  "sourceCount": 6,
+  "updatedAt": "2026-03-03T22:55:58.830Z",
+  "articleCount": 14,
+  "sourceCount": 3,
   "topSources": [
     "The Guardian US",
     "Axios",
-    "Vox",
-    "Foreign Policy",
-    "France 24"
+    "Vox"
   ],
-  "importance": 99,
+  "importance": 72,
   "status": "active",
   "centroid": [
     -0.0697032675,

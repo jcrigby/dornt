@@ -1,0 +1,17 @@
+{
+  "id": "fa08f1aa-cc87-458b-b5a3-8c3377d1bf0b",
+  "url": "https://www.statnews.com/2026/03/03/fda-breakthrough-designation-generative-ai-chatbot-recovryai/?utm_campaign=rss",
+  "normalizedUrl": "https://statnews.com/2026/03/03/fda-breakthrough-designation-generative-ai-chatbot-recovryai",
+  "title": "STAT+: FDA grants ‘breakthrough’ status to generative AI chatbot for surgical patients",
+  "source": "STAT News",
+  "feedUrl": "https://www.statnews.com/feed/",
+  "publishedAt": "Tue, 03 Mar 2026 09:30:00 +0000",
+  "fetchedAt": "2026-03-03T22:53:47.659Z",
+  "author": "Katie Palmer",
+  "contentHash": "ad040057b25759ce",
+  "fullText": "Katie Palmer covers telehealth, clinical artificial intelligence, and the health data economy — with an emphasis on the impacts of digital health care for patients, providers, and businesses. You can reach Katie on Signal at palmer.01.The Food and Drug Administration has been talking a big game about bringing artificial intelligence to patients. In January, when it announced relaxed rules for certain AI products, Commissioner Marty Makary said the agency is “developing a new regulatory framework for AI.” \n\nHow the agency will regulate rapidly-evolving uses of generative AI is one of the big questions facing health technology developers. Large language models’ wide-ranging applications evade simple measures of safety and efficacy, challenging the FDA’s longstanding approach to device validation — and the agency has yet to authorize a device that relies on generative AI. But a recent breakthrough designation from the FDA could offer hints about its approach to regulating patient-facing chatbots that fall under its purview. \n\nIn November, the FDA quietly handed one of its breakthrough device designations to a chatbot for patients recovering from joint replacement surgery. Under development by RecovryAI, which is coming out of stealth as it announces the designation, the LLM-powered device would be prescribed to patients to use in the 30 days after surgery. It will encourage them to check in twice a day about their sleep, activity, diet, and other elements of recovery, answering questions and escalating to a care team when necessary. \n \n \n STAT+ Exclusive Story\n Already have an account? Log in \n \n \n \n \n \n \n This article is exclusive to STAT+ subscribers\n Unlock this article — plus in-depth analysis, newsletters, premium events, and news alerts.\n Already have an account? Log in\n \n View All Plans\n \n \n \n \n \n To read the rest of this story subscribe to STAT+. \n Subscribe",
+  "summary": "The FDA's decision on a chatbot for patients recovering from surgery could offer clues on how the agency plans to regulate generative AI tools.",
+  "categories": [
+    "health"
+  ]
+}

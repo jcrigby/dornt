@@ -5,19 +5,21 @@
     "0b47777e-3c41-4543-b0ce-4482f8a7d80a",
     "21374897-2c91-404b-aab8-4dbbc56b51a2",
     "7aee0bc7-1d48-4a97-8e9e-0ee459e393fe",
-    "14ec1340-906c-472d-8ba9-ced7a11d8c36"
+    "14ec1340-906c-472d-8ba9-ced7a11d8c36",
+    "32c96c02-1fb2-492d-9ecf-54ac9202ffad"
   ],
   "redditPostIds": [],
   "createdAt": "2026-03-03T19:46:57.348Z",
-  "updatedAt": "2026-03-03T19:47:12.346Z",
-  "articleCount": 4,
-  "sourceCount": 3,
+  "updatedAt": "2026-03-03T22:55:58.849Z",
+  "articleCount": 5,
+  "sourceCount": 4,
   "topSources": [
     "CNBC",
     "WaPo Politics",
-    "The Guardian World"
+    "The Guardian World",
+    "Inside Climate News"
   ],
-  "importance": 42,
+  "importance": 55,
   "status": "active",
   "centroid": [
     -0.055844386,

@@ -1,14 +1,14 @@
 {
   "id": "e1fd571c-07d6-4f2b-b836-835554ba66e7",
-  "title": "Trump Administration Immigration and Border Enforcement",
-  "description": "Various enforcement actions and policy implementations by the Trump administration targeting immigration and border security",
+  "title": "Trump Administration Immigration and Healthcare Policy Implementation",
+  "description": "Early implementation of Trump administration policies affecting immigration enforcement and healthcare funding",
   "clusterIds": [
     "8f32c883-2139-458c-89c0-8971f2915219",
     "a6b0c47f-98e0-45a7-bf55-a9789f67f6d9",
-    "e6cafb87-f166-4d5a-91cb-c54ef7db483d"
+    "990b1f94-1769-4ee0-8176-69266ea89516"
   ],
-  "arc": "The storyline includes legal challenges to Trump's third-country deportation policy being ruled unconstitutional by a Biden-appointed judge, DHS agents detaining a Columbia University student after entering university buildings, and a deadly shootout between a US-registered speedboat and Cuban border guards resulting in four fatalities",
+  "arc": "A Biden-appointed judge ruled Trump's third-country deportation policy unconstitutional, while DHS agents detained a Columbia University student after entering university buildings. Separately, the Trump administration froze some Medicaid funding to Minnesota over alleged fraud concerns, showing early policy implementation across immigration and healthcare sectors.",
   "startedAt": "2026-02-26T18:44:36.184Z",
-  "updatedAt": "2026-03-03T20:06:59.054Z",
+  "updatedAt": "2026-03-03T23:20:07.464Z",
   "status": "ongoing"
 }

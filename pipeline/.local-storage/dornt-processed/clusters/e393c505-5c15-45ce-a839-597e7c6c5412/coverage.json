@@ -1,0 +1,53 @@
+{
+  "clusterId": "e393c505-5c15-45ce-a839-597e7c6c5412",
+  "frames": [
+    {
+      "name": "Uncertain Succession Crisis",
+      "description": "Focuses on the unclear leadership transition and lack of organized opposition in Iran",
+      "sources": [
+        "The Atlantic",
+        "Vox"
+      ],
+      "emphasis": "The absence of credible democratic alternatives and the complexity of Iran's power structure making regime change difficult"
+    },
+    {
+      "name": "Strategic Military Success",
+      "description": "Presents the strikes as tactically successful in eliminating Iran's leadership succession bench",
+      "sources": [
+        "Fox Politics"
+      ],
+      "emphasis": "The operational effectiveness of eliminating multiple layers of Iranian leadership and constitutional succession mechanisms"
+    },
+    {
+      "name": "Historical Justice and Opportunity",
+      "description": "Frames the action as justified retaliation for regime brutality and an opportunity for Iranian liberation",
+      "sources": [
+        "Foreign Policy"
+      ],
+      "emphasis": "The moral justification for the strikes based on Iran's crackdown on protesters and the potential for democratic transformation"
+    },
+    {
+      "name": "Regional Stability Concerns",
+      "description": "Emphasizes the risks of broader Middle East conflict and potential Iranian state collapse",
+      "sources": [
+        "Vox"
+      ],
+      "emphasis": "The dangers of creating a failed state and escalating regional warfare"
+    }
+  ],
+  "outlierPerspectives": [
+    "Venezuela as a model for Iranian transition (mentioned only in The Atlantic)",
+    "Iran's constitutional succession mechanism being specifically targeted by strikes on the Assembly of Experts building (detailed only in Fox Politics)",
+    "The 'axis of aggressors' framing linking Iran to China, Russia, and North Korea (only in Foreign Policy)"
+  ],
+  "missingContext": [
+    "Detailed explanation of what triggered the immediate decision to strike now versus earlier opportunities",
+    "Analysis of Iran's actual military capabilities and likely retaliation scenarios",
+    "Assessment of regional allies' positions and potential responses",
+    "Examination of domestic Iranian public opinion beyond protest movements",
+    "Discussion of international law implications of targeting a sovereign nation's leadership",
+    "Analysis of how this action affects U.S. relationships with European allies and other partners"
+  ],
+  "generatedAt": "2026-03-03T23:15:05.372Z",
+  "model": "anthropic/claude-sonnet-4"
+}

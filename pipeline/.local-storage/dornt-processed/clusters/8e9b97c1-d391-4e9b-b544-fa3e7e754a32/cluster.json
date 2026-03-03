@@ -6,21 +6,21 @@
     "0959563a-4326-47fe-b071-4ee6dcc7a348",
     "0db5aa2f-7ad2-4681-b893-6166055ac68c",
     "5aa2741d-343b-44d3-8409-728423d5dd02",
-    "7ff0562d-13b1-4c55-91c0-cca23e74e7b5"
+    "7ff0562d-13b1-4c55-91c0-cca23e74e7b5",
+    "28cbe45f-2496-4049-9ca6-a3cc08d7ff49"
   ],
   "redditPostIds": [],
   "createdAt": "2026-03-03T19:46:57.328Z",
-  "updatedAt": "2026-03-03T19:47:12.351Z",
-  "articleCount": 5,
-  "sourceCount": 5,
+  "updatedAt": "2026-03-03T22:55:58.823Z",
+  "articleCount": 6,
+  "sourceCount": 4,
   "topSources": [
     "CNBC",
     "UPI",
     "The Guardian US",
-    "NYT Politics",
-    "YouTube: CNBC"
+    "ABC News"
   ],
-  "importance": 65,
+  "importance": 58,
   "status": "active",
   "centroid": [
     -0.010439027749999998,

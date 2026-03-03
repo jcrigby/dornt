@@ -6,19 +6,21 @@
       "0b47777e-3c41-4543-b0ce-4482f8a7d80a",
       "21374897-2c91-404b-aab8-4dbbc56b51a2",
       "7aee0bc7-1d48-4a97-8e9e-0ee459e393fe",
-      "14ec1340-906c-472d-8ba9-ced7a11d8c36"
+      "14ec1340-906c-472d-8ba9-ced7a11d8c36",
+      "32c96c02-1fb2-492d-9ecf-54ac9202ffad"
     ],
     "redditPostIds": [],
     "createdAt": "2026-03-03T19:46:57.348Z",
-    "updatedAt": "2026-03-03T19:47:12.346Z",
-    "articleCount": 4,
-    "sourceCount": 3,
+    "updatedAt": "2026-03-03T22:55:58.849Z",
+    "articleCount": 5,
+    "sourceCount": 4,
     "topSources": [
       "CNBC",
       "WaPo Politics",
-      "The Guardian World"
+      "The Guardian World",
+      "Inside Climate News"
     ],
-    "importance": 42,
+    "importance": 55,
     "status": "active",
     "centroid": [
       -0.055844386,
@@ -1561,7 +1563,7 @@
   },
   "synthesis": {
     "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
-    "narrative": "## State of the Story: Iran Closes Strait of Hormuz, Global Energy Markets in Turmoil\n\n### Current Situation\n\nIran has ordered the closure of the Strait of Hormuz, a critical global shipping chokepoint, following weekend military strikes by the US and Israel [2]. A senior commander from Iran's Revolutionary Guard announced Monday that the strait had been shut and warned that any vessel attempting to transit the waterway would be targeted [3]. This has effectively halted maritime traffic through the waterway for four consecutive days as of Tuesday [2].\n\n### Energy Market Impact\n\nThe closure has triggered severe disruptions across global energy markets. Oil prices have surged dramatically, with US crude rising more than 5% to $75.21 per barrel and Brent crude jumping over 5% to $82.15 per barrel on Tuesday alone [1]. Oil prices have soared more than 12% this week, with analysts warning prices could surge above $100 per barrel if the closure is prolonged [1].\n\nNatural gas markets have been even more severely affected. European natural gas prices have soared more than 60% this week after Qatar ceased liquefied natural gas production due to Iranian drone attacks on its facilities at Ras Laffan Industrial City and Mesaieed Industrial City [1][3]. British futures contracts were up about 21% Tuesday while Dutch contracts jumped about 25% [1].\n\n### Strategic Importance of the Strait\n\nThe Strait of Hormuz represents one of the world's most critical energy transit routes. Roughly 13 million barrels per day passed through it in 2025, representing about 31% of all seaborne crude flows [3]. About 20% of global oil consumption and 20% of global LNG exports pass through the strait [1][3]. The waterway also handles one-third of the most widely used fertilizer shipments [2].\n\n### Shipping Disruption\n\nMaritime traffic has virtually ceased, with only seven vessels crossing the strait on March 2, representing a 60% drop from the previous day and a fraction of the daily average of 79 ships [2]. At least 150 tankers carrying crude oil, LNG, and oil products dropped anchor in the Gulf over the weekend, representing 4% of the global fleet by tonnage [2].\n\n### Military Incidents\n\nIranian forces have escalated attacks on shipping. They claimed to have hit the Honduras-flagged fuel tanker Athe Nova with two drones on Monday, setting it on fire [2]. Two other tankers were hit off the coast of Oman on Sunday, causing the death of one crew member [2].\n\n### Regional Impact\n\nThe closure affects major energy producers including Saudi Arabia, UAE, Iraq, and Kuwait, in addition to Iran [2]. Qatar has shut down its LNG sites, which account for about 20% of global LNG exports [2]. Saudi Arabia has halted production at its largest domestic refinery, while parts of gas and oil production have been shut down in Israel and Iraq's autonomous Kurdistan region [2].\n\n### International Response\n\nChina, as the world's largest oil importer and major buyer of Iranian oil, has called for vessels in the strait to be protected by all sides and urged \"all parties to immediately cease military operations, avoid escalating tensions and safeguard the safety of navigation in the strait of Hormuz\" [2]. Asian countries are expected to face the maximum impact, with Thailand, India, Korea, and the Philippines identified as most vulnerable to higher oil prices due to their high import dependence [3].",
+    "narrative": "## State of the Story: Iran Strait of Hormuz Closure Disrupts Global Energy Markets\n\n### Key Facts Established\n\nIran has ordered the closure of the Strait of Hormuz following U.S. and Israeli military operations against the country [1][2]. A senior commander from Iran's Revolutionary Guard announced Monday that the strait had been shut and warned that any vessel attempting to transit would be targeted [3]. The closure has effectively halted maritime traffic through this critical global trade artery, which normally carries about 20% of global oil consumption and LNG exports [1][2].\n\nThe conflict began over the weekend with U.S. and Israeli missile attacks on Iran, which prompted Iranian retaliation [2]. The three-day bombing campaign has reportedly killed hundreds, including Iran's leader Ayatollah Ali Khamenei [4]. Iran has responded by attacking energy infrastructure across the region, including facilities in Saudi Arabia and Qatar [4].\n\n### Market Impact and Price Movements\n\nOil prices have surged dramatically, with U.S. crude rising more than 5% to $75.21 per barrel and Brent crude jumping over 5% to $82.15 per barrel by Tuesday afternoon [1]. Prices have soared more than 12% this week overall [1]. European natural gas prices have experienced even more dramatic increases, rising more than 60% this week, with British futures up 21% and Dutch contracts jumping 25% on Tuesday alone [1].\n\n### Shipping Disruption\n\nMaritime traffic through the strait has been severely impacted. Only seven vessels crossed on March 2, representing a 60% drop from the previous day and a fraction of the normal daily average of 79 ships [2]. On Sunday, only five oil tankers moved through the strait compared to the usual 60 per day [4]. At least 150 tankers carrying crude oil, LNG, and oil products have dropped anchor in the Gulf, representing 4% of the global fleet by tonnage [2].\n\n### Regional Energy Infrastructure Damage\n\nIranian forces have targeted energy facilities across the region. Qatar has shut down its LNG production facilities after Iranian drone attacks on sites at Ras Laffan Industrial City and Mesaieed Industrial City [3][4]. Saudi Arabia's Ras Tanura oil refinery sustained \"limited\" damage after intercepting two Iranian drones [4]. Iranian forces also claimed to have hit the Honduras-flagged fuel tanker Athe Nova with drones on Monday, setting it on fire [2].\n\n### Global Response and Vulnerability\n\nChina has called for vessels in the strait to be protected by all sides and urged \"all parties to immediately cease military operations\" [2]. As the world's largest oil importer and major buyer of Iranian oil, China faces significant exposure to the disruption [2]. Analysts identify Asian countries including Thailand, India, Korea, and the Philippines as most vulnerable to higher oil prices due to their import dependence [3].\n\n### Timeline of Events\n\n- **Weekend (Feb 28-Mar 1)**: U.S. and Israeli missile attacks on Iran begin; Iranian retaliation commences\n- **Sunday, March 1**: Only 5 oil tankers transit the strait (vs. normal 60); tanker attacks off Oman coast kill one crew member\n- **Monday, March 2**: Iran formally orders Strait of Hormuz closure; Qatar halts LNG production; Saudi refinery attacked; only 7 vessels cross strait\n- **Tuesday, March 3**: Oil and gas prices continue surging; China calls for protection of vessels\n\n### Breaking Developments\n\nAnalysts warn that oil prices could surge above $100 per barrel if the strait remains closed for a prolonged period [1]. The situation has been characterized as potentially \"the largest oil supply disruption in history\" if the reduction in tanker traffic continues [4]. The conflict represents an unprecedented escalation with Iran deliberately targeting regional energy infrastructure to pressure global markets [4].",
     "citations": [
       {
         "index": 1,
@@ -1569,7 +1571,7 @@
         "source": "CNBC",
         "title": "Oil surges for second day, Brent tops $83 after Iran orders Strait of Hormuz closure",
         "url": "https://www.cnbc.com/2026/03/03/strait-of-hormuz-closure-which-countries-will-be-hit-the-most.html",
-        "quote": "U.S. crude oil prices rose more than 5%, or $4.04, to $75.21 per barrel by 1:30 p.m. ET, while global benchmark Brent also jumped more than 5%, or $4.41, to $82.15 per barrel. Oil prices have soared more than 12% this week as tanker traffic through the Strait has ground to a halt."
+        "quote": "Iran ordered the closure of the Strait of Hormuz and threatened to attack any tanker that tries to pass through the waterway"
       },
       {
         "index": 2,
@@ -1577,7 +1579,7 @@
         "source": "The Guardian World",
         "title": "China calls for vessels in strait of Hormuz to be protected amid soaring shipping costs",
         "url": "https://www.theguardian.com/business/2026/mar/03/china-calls-protection-vessels-strait-hormuz-amid-soaring-shipping-costs",
-        "quote": "Maritime traffic through the strait – a narrow channel on Iran's southern border that connects the Persian Gulf with the Gulf of Oman – has effectively been closed since the US and Israel launched missile attacks on Iran at the weekend, prompting a retaliation from Tehran."
+        "quote": "Maritime traffic through the strait has effectively been closed since the US and Israel launched missile attacks on Iran at the weekend"
       },
       {
         "index": 3,
@@ -1585,186 +1587,81 @@
         "source": "CNBC",
         "title": "The Strait of Hormuz is facing a blockade. These countries will be most impacted",
         "url": "https://www.cnbc.com/2026/03/03/strait-of-hormuz-closure-which-countries-will-be-hit-the-most.html",
-        "quote": "A senior commander from Iran's Revolutionary Guard said Monday that the Strait of Hormuz had been shut and warned that any vessel attempting to transit the waterway would be targeted, Iranian media reported."
+        "quote": "A senior commander from Iran's Revolutionary Guard said Monday that the Strait of Hormuz had been shut and warned that any vessel attempting to transit the waterway would be targeted"
+      },
+      {
+        "index": 4,
+        "articleId": "32c96c02-1fb2-492d-9ecf-54ac9202ffad",
+        "source": "Inside Climate News",
+        "title": "War in Iran Could Have 'Historic' Disruptions on Energy Markets",
+        "url": "https://insideclimatenews.org/news/02032026/iran-war-oil-energy-markets/",
+        "quote": "Already, the three-day-old bombing campaign has killed hundreds of people in Iran, including the country's leader, Ayatollah Ali Khamenei"
       }
     ],
     "keyDevelopments": [
-      "Iran orders closure of Strait of Hormuz following US-Israeli weekend strikes",
-      "Oil prices surge over 12% this week, with Brent topping $83 per barrel",
-      "European natural gas prices soar over 60% as Qatar halts LNG production",
-      "Maritime traffic effectively halted for four consecutive days",
-      "Iranian forces attack multiple tankers, killing at least one crew member",
-      "150 tankers representing 4% of global fleet drop anchor in Gulf",
-      "China calls for protection of vessels and de-escalation",
-      "Major energy producers shut down facilities across the region"
+      "Iran orders closure of Strait of Hormuz following U.S.-Israeli attacks",
+      "Maritime traffic through strait drops to 7 vessels on March 2 vs. normal 79 daily average",
+      "Oil prices surge over 12% this week, natural gas prices up over 60%",
+      "Qatar shuts down LNG production after Iranian drone attacks on facilities",
+      "Saudi Arabia's Ras Tanura refinery sustains damage from intercepted Iranian drones",
+      "At least 150 tankers drop anchor in Gulf representing 4% of global fleet",
+      "China calls for protection of vessels and immediate ceasefire",
+      "Analysts warn of potential $100+ oil prices if closure continues"
     ],
-    "generatedAt": "2026-03-03T20:03:10.891Z",
+    "generatedAt": "2026-03-03T23:16:08.217Z",
     "model": "anthropic/claude-sonnet-4",
-    "tokenCount": 3405
+    "tokenCount": 4200
   },
   "claims": [
     {
-      "id": "3a7503e0-b1ee-41c8-bbdd-dbe28e819bb0",
+      "id": "dcf2bfc1-1e6e-4407-9472-563a3e4fa374",
       "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
-      "text": "Iran has ordered/announced the closure of the Strait of Hormuz",
+      "text": "Iran has ordered/announced closure of the Strait of Hormuz",
       "status": "undisputed",
       "supportingSources": [
         "CNBC",
+        "The Guardian World"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:16:31.269Z",
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
+    },
+    {
+      "id": "4cd63651-bffd-46ce-aac5-636d0a0e4767",
+      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+      "text": "A senior commander from Iran's Revolutionary Guard said the Strait of Hormuz had been shut and warned vessels attempting transit would be targeted",
+      "status": "undisputed",
+      "supportingSources": [
+        "CNBC"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T20:03:26.746Z",
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
+    },
+    {
+      "id": "2f6d868f-2a82-4853-8285-926b88216e74",
+      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+      "text": "Maritime traffic through the strait has effectively been closed/halted",
+      "status": "undisputed",
+      "supportingSources": [
         "WaPo Politics",
         "The Guardian World"
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
     },
     {
-      "id": "4cd63651-bffd-46ce-aac5-636d0a0e4767",
+      "id": "a33ff533-467f-476f-9d9e-1624fca4d907",
       "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
-      "text": "A senior commander from Iran's Revolutionary Guard said Monday that the Strait of Hormuz had been shut and warned that any vessel attempting to transit the waterway would be targeted",
-      "status": "undisputed",
-      "supportingSources": [
-        "CNBC"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
-    },
-    {
-      "id": "2f6d868f-2a82-4853-8285-926b88216e74",
-      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
-      "text": "Maritime traffic through the strait has effectively been closed since the US and Israel launched missile attacks on Iran at the weekend",
+      "text": "The strait has remained devoid of ships for a fourth day on Tuesday",
       "status": "undisputed",
       "supportingSources": [
         "The Guardian World"
       ],
       "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
-    },
-    {
-      "id": "c1d7c52b-f16a-41d8-a8e5-c8b06f0dfd77",
-      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
-      "text": "Roughly 13 million barrels per day passed through the Strait of Hormuz in 2025, representing about 31% of all seaborne crude flows",
-      "status": "disputed",
-      "supportingSources": [
-        "CNBC"
-      ],
-      "disputingSources": [
-        "The Guardian World"
-      ],
-      "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
-    },
-    {
-      "id": "ed9be437-5915-48c4-a3ad-75322c90cdd0",
-      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
-      "text": "About 20% of global oil consumption passes through the Strait of Hormuz",
-      "status": "disputed",
-      "supportingSources": [
-        "CNBC",
-        "The Guardian World"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
-    },
-    {
-      "id": "43f0caf4-0d7c-4f75-a6b2-e4b196838061",
-      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
-      "text": "Global benchmark Brent was up 2.6% at around $80 per barrel",
-      "status": "evolving",
-      "supportingSources": [
-        "CNBC"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
-    },
-    {
-      "id": "0cf5dfcb-d3aa-404a-9c54-06abf0332ed6",
-      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
-      "text": "Brent crude topped $83 per barrel, jumping more than 5% to $82.15 per barrel",
-      "status": "evolving",
-      "supportingSources": [
-        "CNBC"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
-    },
-    {
-      "id": "9d6d5a66-5ca7-4355-b66d-f758c577cef3",
-      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
-      "text": "U.S. crude oil prices rose more than 5% to $75.21 per barrel",
-      "status": "undisputed",
-      "supportingSources": [
-        "CNBC"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
-    },
-    {
-      "id": "299160a8-14c8-4dc9-ad6f-97b51e348d18",
-      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
-      "text": "Oil prices have soared more than 12% this week",
-      "status": "undisputed",
-      "supportingSources": [
-        "CNBC"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
-    },
-    {
-      "id": "ad74dd57-8657-4687-9bb8-edc5c4862d7e",
-      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
-      "text": "Qatar halted/ceased LNG production due to Iranian drone attacks on its facilities",
-      "status": "undisputed",
-      "supportingSources": [
-        "CNBC",
-        "The Guardian World"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
-    },
-    {
-      "id": "7d4d3e44-a092-460a-9a88-35c6a0477565",
-      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
-      "text": "Iranian drones hit Qatar's facilities at Ras Laffan Industrial City and Mesaieed Industrial City",
-      "status": "undisputed",
-      "supportingSources": [
-        "CNBC"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
-    },
-    {
-      "id": "9d15013b-dfb8-4ea7-beb1-b180d45e2ede",
-      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
-      "text": "About 20% of global LNG exports come from the Persian Gulf and pass through the Strait of Hormuz",
-      "status": "undisputed",
-      "supportingSources": [
-        "CNBC",
-        "The Guardian World"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
-    },
-    {
-      "id": "a093895c-9492-408d-9282-f61bf3071b7e",
-      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
-      "text": "European natural gas prices have soared more than 60% this week",
-      "status": "undisputed",
-      "supportingSources": [
-        "CNBC"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+      "firstSeenAt": "2026-03-03T23:16:31.269Z",
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
     },
     {
       "id": "63ae2ca0-4f0b-406b-bb92-d48866003a93",
@@ -1776,19 +1673,166 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
     },
     {
-      "id": "4b0f97c1-68fd-4d5d-9fcf-7413fbc9a99d",
+      "id": "66d2f6b3-6350-495d-b3c8-3ed205d22894",
       "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
-      "text": "Daily average of ships through the strait is 79 vessels",
+      "text": "On Sunday only five oil tankers moved through the strait, compared with about 60 per day before the war",
+      "status": "undisputed",
+      "supportingSources": [
+        "Inside Climate News"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:16:31.269Z",
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
+    },
+    {
+      "id": "c1d7c52b-f16a-41d8-a8e5-c8b06f0dfd77",
+      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+      "text": "Roughly 13 million barrels per day passed through the strait in 2025, representing about 31% of all seaborne crude flows",
+      "status": "undisputed",
+      "supportingSources": [
+        "CNBC"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T20:03:26.746Z",
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
+    },
+    {
+      "id": "06613fae-31fc-416d-83fa-e584e9f76217",
+      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+      "text": "About 20% of global oil consumption/seaborne crude oil passes through the Strait",
+      "status": "undisputed",
+      "supportingSources": [
+        "CNBC",
+        "The Guardian World"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:16:31.269Z",
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
+    },
+    {
+      "id": "cfb88fab-c5b4-432b-aa47-fee7f70d9e30",
+      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+      "text": "About 20% of global liquefied natural gas exports come from the Persian Gulf and pass through the Strait",
+      "status": "undisputed",
+      "supportingSources": [
+        "CNBC",
+        "The Guardian World"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:16:31.269Z",
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
+    },
+    {
+      "id": "f6e0c72e-c676-4e8f-98fc-4b910fa7d6fc",
+      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+      "text": "Qatar halted/ceased LNG production after Iranian drone attacks on facilities",
+      "status": "undisputed",
+      "supportingSources": [
+        "CNBC",
+        "Inside Climate News"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:16:31.269Z",
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
+    },
+    {
+      "id": "7d4d3e44-a092-460a-9a88-35c6a0477565",
+      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+      "text": "Iranian drones hit Qatar's facilities at Ras Laffan Industrial City and Mesaieed Industrial City",
+      "status": "undisputed",
+      "supportingSources": [
+        "CNBC"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T20:03:26.746Z",
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
+    },
+    {
+      "id": "43f0caf4-0d7c-4f75-a6b2-e4b196838061",
+      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+      "text": "Global benchmark Brent was up 2.6% at around $80 per barrel",
+      "status": "evolving",
+      "supportingSources": [
+        "CNBC (first article)"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T20:03:26.746Z",
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
+    },
+    {
+      "id": "c041d435-e80f-46c4-b7f6-28afe85b79fb",
+      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+      "text": "Brent jumped more than 5% to $82.15 per barrel",
+      "status": "evolving",
+      "supportingSources": [
+        "CNBC (second article)"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:16:31.269Z",
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
+    },
+    {
+      "id": "9d6d5a66-5ca7-4355-b66d-f758c577cef3",
+      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+      "text": "U.S. crude oil prices rose more than 5% to $75.21 per barrel",
+      "status": "undisputed",
+      "supportingSources": [
+        "CNBC"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T20:03:26.746Z",
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
+    },
+    {
+      "id": "299160a8-14c8-4dc9-ad6f-97b51e348d18",
+      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+      "text": "Oil prices have soared more than 12% this week",
+      "status": "undisputed",
+      "supportingSources": [
+        "CNBC"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T20:03:26.746Z",
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
+    },
+    {
+      "id": "a093895c-9492-408d-9282-f61bf3071b7e",
+      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+      "text": "European natural gas prices have soared more than 60% this week",
+      "status": "undisputed",
+      "supportingSources": [
+        "CNBC"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T20:03:26.746Z",
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
+    },
+    {
+      "id": "2f6d868f-2a82-4853-8285-926b88216e74",
+      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+      "text": "The US and Israel launched missile attacks on Iran at the weekend",
       "status": "undisputed",
       "supportingSources": [
         "The Guardian World"
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
+    },
+    {
+      "id": "9220e75f-fe27-440f-b8a8-1dd2f26f8184",
+      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+      "text": "The three-day-old bombing campaign has killed hundreds of people in Iran, including the country's leader, Ayatollah Ali Khamenei",
+      "status": "undisputed",
+      "supportingSources": [
+        "Inside Climate News"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:16:31.269Z",
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
     },
     {
       "id": "bf5ff709-210c-48e5-8097-b386f9bf3bc6",
@@ -1800,7 +1844,7 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
     },
     {
       "id": "6036041a-5c79-4c86-92a9-e26f6968c721",
@@ -1812,7 +1856,19 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
+    },
+    {
+      "id": "a14fbbe5-821f-41fe-87e3-784645b91ab0",
+      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+      "text": "Saudi Arabia's Ras Tanura oil refinery sustained 'limited' damage after interception of two drones",
+      "status": "undisputed",
+      "supportingSources": [
+        "Inside Climate News"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:16:31.269Z",
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
     },
     {
       "id": "87de8634-882e-434f-ad4d-b10741094b79",
@@ -1824,86 +1880,100 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
     },
     {
-      "id": "ad2b71d2-7438-49de-bfc0-0fc49a5fb662",
+      "id": "5f4af6a9-b5fa-4a82-8ad3-f5a3db991126",
       "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
-      "text": "Saudi Arabia halted production at its largest domestic refinery",
+      "text": "China is the world's largest importer of oil and fossil gas",
       "status": "undisputed",
       "supportingSources": [
         "The Guardian World"
       ],
       "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+      "firstSeenAt": "2026-03-03T23:16:31.269Z",
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
     },
     {
-      "id": "007cedd4-171d-40b2-bd11-b97de275839a",
+      "id": "f416ee85-1b9e-4470-ba3d-3b9725817597",
       "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
-      "text": "Parts of gas and oil production were shut down in Israel and in Iraq's autonomous Kurdistan region",
+      "text": "Qatar and the United Arab Emirates account for 99% of Pakistan's LNG imports, 72% of Bangladesh's and 53% of India's",
       "status": "undisputed",
       "supportingSources": [
-        "The Guardian World"
+        "CNBC"
       ],
       "disputingSources": [],
-      "firstSeenAt": "2026-03-03T20:03:26.746Z",
-      "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+      "firstSeenAt": "2026-03-03T23:16:31.269Z",
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
+    },
+    {
+      "id": "c3cdc3aa-d584-4eaa-ab55-d8f635a4a357",
+      "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+      "text": "About 60% of India's oil imports come from the Middle East",
+      "status": "undisputed",
+      "supportingSources": [
+        "CNBC"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:16:31.269Z",
+      "lastUpdatedAt": "2026-03-03T23:16:31.269Z"
     }
   ],
   "coverage": {
     "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
     "frames": [
       {
-        "name": "Economic Impact Assessment",
-        "description": "Focuses on quantifying economic consequences and identifying which countries/regions will be most affected by the blockade",
+        "name": "Economic Impact/Market Analysis",
+        "description": "Focuses on financial market reactions, price movements, and economic consequences for different regions and countries",
         "sources": [
           "CNBC",
-          "The Guardian"
+          "The Guardian World"
         ],
-        "emphasis": "Specific percentage impacts, vulnerable countries (Thailand, India, Korea, Philippines), oil price projections above $100/barrel"
+        "emphasis": "Oil price surges, regional vulnerability assessments, specific country impacts, and market data"
       },
       {
-        "name": "Market Volatility Focus",
-        "description": "Emphasizes immediate market reactions and price movements in oil and gas futures",
+        "name": "Geopolitical Crisis",
+        "description": "Frames the situation as an escalating military conflict with diplomatic implications",
         "sources": [
-          "CNBC"
+          "The Guardian World",
+          "Inside Climate News"
         ],
-        "emphasis": "Daily price changes, percentage increases in oil/gas prices, trading data and futures movements"
+        "emphasis": "Military actions, casualties, international responses, and diplomatic calls for de-escalation"
       },
       {
-        "name": "Geopolitical Tensions",
-        "description": "Frames the story as an escalating conflict with diplomatic implications",
+        "name": "Energy Security Threat",
+        "description": "Presents the story as a critical disruption to global energy infrastructure and supply chains",
         "sources": [
-          "The Guardian"
+          "WaPo Politics",
+          "Inside Climate News"
         ],
-        "emphasis": "Military operations, retaliation cycles, calls for de-escalation, international diplomatic responses"
+        "emphasis": "Supply chain vulnerabilities, infrastructure damage, and long-term energy security implications"
       },
       {
-        "name": "Supply Chain Disruption",
-        "description": "Highlights the physical interruption of global trade and shipping",
+        "name": "Historical Precedent Warning",
+        "description": "Emphasizes the unprecedented nature and potential scale of the disruption",
         "sources": [
-          "The Guardian",
-          "WaPo"
+          "Inside Climate News"
         ],
-        "emphasis": "Shipping route closures, vessel counts, rerouting of container ships, physical infrastructure impacts"
+        "emphasis": "Potential for 'historic' or 'epochal' market disruptions and lack of precedent for current situation"
       }
     ],
     "outlierPerspectives": [
-      "China's specific diplomatic call for vessel protection and navigation safety (The Guardian only)",
-      "Detailed breakdown of LNG import dependencies by specific percentages for Pakistan, Bangladesh, and India (CNBC only)",
-      "Focus on fertilizer trade disruption through the strait (The Guardian only)"
+      "China's specific diplomatic response calling for vessel protection (only in The Guardian)",
+      "Detailed casualty reporting including death of Ayatollah Ali Khamenei (only in Inside Climate News)",
+      "U.S. consumer insulation from natural gas impacts but vulnerability to oil price increases (only in Inside Climate News)",
+      "Specific mention of fertilizer trade disruption through the strait (only in The Guardian)"
     ],
     "missingContext": [
-      "Historical precedent for Strait of Hormuz closures and their duration",
-      "Alternative shipping routes and their capacity/cost implications",
+      "Legal basis or international law regarding strait closure",
+      "Historical precedents of Strait of Hormuz closures and their duration",
       "Strategic petroleum reserve levels in affected countries",
+      "Alternative shipping routes and their capacity/costs",
       "Timeline and specific triggers that led to the current escalation",
-      "International maritime law implications of the blockade",
-      "Military capabilities and logistics of maintaining the closure",
-      "Previous diplomatic efforts to prevent this scenario"
+      "International maritime law enforcement mechanisms",
+      "Backup energy infrastructure and emergency protocols in affected regions"
     ],
-    "generatedAt": "2026-03-03T20:03:23.960Z",
+    "generatedAt": "2026-03-03T23:16:22.076Z",
     "model": "anthropic/claude-sonnet-4"
   },
   "community": null,
@@ -1913,96 +1983,96 @@
       {
         "name": "Iran/Revolutionary Guard",
         "role": "Primary actor implementing strait closure",
-        "position": "Aggressive retaliation for US-Israeli strikes, using energy leverage as strategic weapon",
+        "position": "Retaliating against U.S./Israeli attacks by weaponizing energy chokepoint",
         "influence": "high"
       },
       {
         "name": "United States",
-        "role": "Military actor and global energy consumer",
-        "position": "Conducted weekend strikes triggering closure, likely preparing military response",
+        "role": "Military aggressor and global energy market stabilizer",
+        "position": "Launched weekend attacks on Iran, likely preparing naval response",
         "influence": "high"
       },
       {
         "name": "Israel",
-        "role": "Military partner in strikes, regional energy consumer",
-        "position": "Joint military action with US, facing domestic energy disruptions",
+        "role": "Military partner in Iran operations",
+        "position": "Co-participant in weekend bombing campaign against Iran",
         "influence": "medium"
-      },
-      {
-        "name": "Qatar",
-        "role": "Major LNG producer, victim of Iranian attacks",
-        "position": "Forced to halt 20% of global LNG exports due to facility attacks",
-        "influence": "high"
-      },
-      {
-        "name": "Saudi Arabia/UAE/Kuwait",
-        "role": "Gulf oil producers affected by closure",
-        "position": "Economic victims of closure, likely supporting international intervention",
-        "influence": "high"
       },
       {
         "name": "China",
-        "role": "Largest oil importer, major Iranian oil buyer",
-        "position": "Calling for de-escalation and navigation safety, economically vulnerable",
+        "role": "World's largest oil importer and Iran trade partner",
+        "position": "Calling for vessel protection and immediate ceasefire",
         "influence": "high"
       },
       {
-        "name": "European Union",
-        "role": "Major energy consumer facing 60% gas price surge",
-        "position": "Likely supporting intervention to restore energy flows",
+        "name": "Qatar",
+        "role": "Major LNG producer under attack",
+        "position": "Victim of Iranian strikes, halted production at key facilities",
         "influence": "medium"
       },
       {
-        "name": "Asian importers (Thailand, India, Korea, Philippines)",
-        "role": "Vulnerable energy importers",
-        "position": "Seeking alternative supply routes, supporting international action",
+        "name": "Saudi Arabia",
+        "role": "Regional oil power and Iranian rival",
+        "position": "Under Iranian attack but maintaining limited damage narrative",
+        "influence": "high"
+      },
+      {
+        "name": "Asian Import-Dependent Nations",
+        "role": "Vulnerable energy consumers",
+        "position": "Facing severe supply disruption (India, Thailand, Korea, Philippines)",
+        "influence": "medium"
+      },
+      {
+        "name": "Global Shipping Industry",
+        "role": "Critical infrastructure operators",
+        "position": "150+ tankers anchored, avoiding transit through strait",
         "influence": "medium"
       }
     ],
     "predictions": [
       {
-        "text": "US-led naval coalition will attempt to forcibly reopen the strait within 7-10 days",
+        "text": "U.S. naval forces will deploy to escort tankers and attempt to reopen the strait",
         "likelihood": "likely",
-        "timeframe": "1-2 weeks",
-        "basis": "Strategic importance of waterway, precedent of Operation Earnest Will (1987-1988), and unsustainable economic impact"
+        "timeframe": "within 7-14 days",
+        "basis": "Historical precedent from 1987-1988 Tanker War and strategic imperative to maintain global energy flows"
       },
       {
-        "text": "Oil prices will exceed $100/barrel if closure continues beyond one week",
+        "text": "Oil prices will exceed $100/barrel if closure persists beyond one week",
         "likelihood": "likely",
-        "timeframe": "1 week",
-        "basis": "Already 12% weekly surge with analyst warnings, and 31% of seaborne crude flows affected"
+        "timeframe": "within 10 days",
+        "basis": "Already 12% weekly increase with 31% of seaborne crude flows disrupted"
       },
       {
-        "text": "Iran will escalate attacks on shipping and energy infrastructure in response to military intervention",
+        "text": "Iran will escalate attacks on regional energy infrastructure",
         "likelihood": "likely",
-        "timeframe": "immediate upon intervention",
-        "basis": "Pattern of drone attacks on Qatar facilities and tanker strikes already demonstrated"
+        "timeframe": "ongoing through next 2 weeks",
+        "basis": "Pattern established with Qatar LNG and Saudi refinery strikes"
       },
       {
-        "text": "Emergency strategic petroleum reserve releases by major consuming nations",
+        "text": "China will increase diplomatic pressure for ceasefire while securing alternative supply routes",
         "likelihood": "likely",
-        "timeframe": "3-5 days",
-        "basis": "Precedent during previous supply disruptions and current price surge trajectory"
+        "timeframe": "immediate and ongoing",
+        "basis": "China's position as largest oil importer and existing Iran trade relationship"
       },
       {
-        "text": "Regional conflict expansion involving Gulf states and proxy forces",
+        "text": "Global recession triggered by sustained energy price shock",
         "likelihood": "possible",
-        "timeframe": "2-4 weeks",
-        "basis": "Iran's attacks on Qatar facilities suggest willingness to target neutral parties"
+        "timeframe": "3-6 months if closure exceeds 30 days",
+        "basis": "20% of global oil and LNG flows disrupted, with 60% gas price increases already recorded"
       }
     ],
-    "historicalContext": "This crisis echoes the 1987-1988 'Tanker War' during the Iran-Iraq conflict, when Iran similarly threatened Strait of Hormuz shipping, prompting Operation Earnest Will - the largest US naval convoy operation since WWII. Iran has repeatedly threatened strait closure during tensions (2012 sanctions, 2019 tanker incidents, 2020 Soleimani assassination) but never fully implemented it. The strait's strategic importance has only grown since 1987, now handling 31% of seaborne crude versus 20% then. Previous Iranian threats typically lasted days to weeks before diplomatic or military pressure forced reopening. The current closure represents Iran's most significant use of energy leverage since the 1979 oil crisis, demonstrating how regional conflicts can instantly disrupt global energy security.",
+    "historicalContext": "This crisis echoes the 1987-1988 'Tanker War' during the Iran-Iraq conflict, when Iran similarly threatened Strait of Hormuz shipping, prompting Operation Earnest Will - the largest U.S. naval convoy operation since WWII. However, the current situation is unprecedented in scale, with Iran directly ordering complete closure rather than selective targeting. The strait has been a recurring flashpoint since the 1980s, with Iran repeatedly threatening closure during sanctions periods (2012, 2018-2019). The death of Ayatollah Khamenei, if confirmed, represents the most significant Iranian leadership decapitation since the 1979 revolution, potentially triggering succession crisis alongside the energy warfare.",
     "implications": [
-      "Fundamental shift in global energy security calculations, demonstrating vulnerability of critical chokepoints to regional conflicts",
-      "Acceleration of strategic petroleum reserve policies and alternative supply route development by major consuming nations",
-      "Potential reshaping of Middle East naval presence with permanent international maritime security arrangements",
-      "Economic recession risk for energy-import dependent economies, particularly in Asia, due to sustained high energy costs",
-      "Strengthening of Iran's position as regional power through demonstration of global economic leverage capabilities",
-      "Increased urgency for renewable energy transition and energy independence policies among major consumers",
-      "Potential breakdown of existing Gulf security arrangements if conflict expands beyond Iran-US-Israel triangle",
-      "Risk of global supply chain disruptions extending beyond energy to fertilizers and other commodities transiting the strait"
+      "Global energy security architecture faces fundamental challenge as 20% of oil and LNG flows remain disrupted",
+      "Asian economies particularly vulnerable due to import dependence, with India facing 60% Middle East oil reliance",
+      "Potential acceleration of global energy transition as nations seek to reduce chokepoint vulnerabilities",
+      "International maritime law precedent being set for weaponization of critical trade routes",
+      "Global inflation pressures intensifying with 60% European gas price increases already recorded",
+      "Geopolitical realignment as China's energy security interests may conflict with U.S. military response",
+      "Regional energy infrastructure becoming primary warfare target, expanding conflict beyond traditional military assets",
+      "Global supply chain disruption extending beyond energy to affect all goods transiting the Persian Gulf"
     ],
-    "generatedAt": "2026-03-03T20:03:54.482Z",
+    "generatedAt": "2026-03-03T23:16:56.887Z",
     "model": "anthropic/claude-sonnet-4"
   },
   "articles": [
@@ -2033,6 +2103,13 @@
       "source": "The Guardian World",
       "url": "https://www.theguardian.com/business/2026/mar/03/china-calls-protection-vessels-strait-hormuz-amid-soaring-shipping-costs",
       "publishedAt": "Tue, 03 Mar 2026 17:19:35 GMT"
+    },
+    {
+      "id": "32c96c02-1fb2-492d-9ecf-54ac9202ffad",
+      "title": "War in Iran Could Have ‘Historic’ Disruptions on Energy Markets",
+      "source": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/02032026/iran-war-oil-energy-markets/",
+      "publishedAt": "Mon, 02 Mar 2026 22:51:56 +0000"
     }
   ],
   "relatedStorylines": [

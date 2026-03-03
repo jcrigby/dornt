@@ -1,6 +1,6 @@
 {
   "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
-  "narrative": "Canadian Prime Minister Mark Carney concluded a diplomatic visit to India from February 27 to March 2, 2026, marking a significant reset in bilateral relations that had deteriorated following the 2023 assassination of Sikh separatist Hardeep Singh Nijjar on Canadian soil [1][2]. The visit resulted in multiple agreements, including what Indian Prime Minister Narendra Modi described as a \"landmark deal for long-term uranium supply\" and cooperation on small modular reactors [2].\n\n## Key Agreements and Cooperation Areas\n\nThe two leaders announced agreements spanning multiple sectors, with both countries pledging to \"ramp up cooperation in defence, critical technologies, small and modular nuclear reactors, education and renewable energy\" [1]. The centerpiece was a 10-year nuclear energy deal [2], alongside agreements on \"technology, critical minerals, space, defence and education\" [2]. Carney indicated that both countries agreed to conclude a comprehensive economic partnership agreement (free trade deal) \"by the end of 2026\" [2], with both nations seeking to \"reduce exposure to punitive US trade tariffs\" [2].\n\n## Diplomatic Reset Amid Ongoing Tensions\n\nThe visit represents a cautious rebuilding of relations that \"almost came to a standstill\" after former Canadian Prime Minister Justin Trudeau accused India of links to Nijjar's killing, leading to mutual diplomat expulsions and cancelled visa services [2]. Under Carney's leadership, the relationship has been \"cautiously rebuilt\" partly because his government \"believes India is not currently linked to violent crimes or threats on Canadian soil\" [2].\n\nHowever, significant disagreements remain. Canada's spy agency continues to list India \"as one of the countries carrying out espionage and foreign interference in the country, along with Russia, China and Iran\" [2]. The Canadian Security Intelligence Service stated that its \"threat assessment of the main perpetrators of foreign interference and espionage against Canada has not changed\" [2]. Additionally, \"some in Canada have countered\" the government's position, \"including a Liberal MP from Carney's own party and members of the Sikh diaspora in Canada, who say they believe they continue to be targeted by India\" [2].\n\n## Official Responses and Future Outlook\n\nFollowing the visit, Modi expressed optimism about the renewed partnership, stating he looks forward \"to working together with you to build a future defined by trust, growth, innovation and shared prosperity for the people of our nations\" [1]. Carney characterized his visit as \"not just a renewal of the Canada-India partnership but an expansion with new ambition and focus, between two confident countries charting their own course for the future\" [1]. The case involving four men charged over Nijjar's killing remains before the courts [2].",
+  "narrative": "Canadian Prime Minister Mark Carney concluded a visit to India from February 27 to March 2, 2026, marking a significant reset in bilateral relations that had deteriorated following diplomatic tensions over the 2023 assassination of Sikh separatist Hardeep Singh Nijjar [1][2]. The visit resulted in multiple agreements between the two nations, with both leaders emphasizing renewed partnership and cooperation.\n\n## Key Agreements and Cooperation Areas\n\nThe centerpiece of the visit was a 10-year nuclear energy deal described as \"landmark\" by Modi, covering long-term uranium supply and cooperation on small modular reactors and advanced reactors [2]. Beyond nuclear energy, the two countries signed agreements covering critical minerals, technology, space, defense, and education [1][2]. Both leaders also committed to concluding a comprehensive economic partnership agreement (free trade deal) by the end of 2026, with both nations seeking to reduce exposure to punitive US trade tariffs [2].\n\n## Diplomatic Context and Tensions\n\nThe visit represents a cautious rebuilding of relations that had \"almost came to a standstill\" following former Canadian Prime Minister Justin Trudeau's 2023 accusation that India was linked to Nijjar's assassination on Canadian soil [2]. India \"vociferously rejected\" these allegations [2]. The diplomatic crisis had resulted in both countries expelling each other's diplomats and cancelling visa services [2].\n\nHowever, significant tensions remain beneath the surface. Canada's spy agency continues to list India among countries carrying out espionage and foreign interference, alongside Russia, China and Iran [2]. The Canadian Security Intelligence Service stated Monday that its \"threat assessment of the main perpetrators of foreign interference and espionage against Canada has not changed\" [2]. Additionally, some Canadian officials, including a Liberal MP from Carney's own party and members of the Sikh diaspora, maintain that they continue to be targeted by India [2].\n\n## Official Responses and Contradictions\n\nCanadian Foreign Minister Anita Anand distanced herself from comments by a senior Canadian official claiming India had ceased all foreign interference in Canada, stating \"The words of the senior official are not words that I personally would use\" [2]. Despite this, Anand defended the re-engagement, arguing that \"we need to have these diplomatic conversations in order to make progress\" [2].\n\nCarney's office cancelled a planned news conference following his meeting with Modi, citing his tight schedule [2]. The case involving four men charged over Nijjar's killing remains before the courts [2].\n\n## Leaders' Public Statements\n\nModi responded positively to Carney's characterization of the visit, writing on X: \"Your visit has built a strong foundation for a truly renewed partnership. I look forward to working together with you to build a future defined by trust, growth, innovation and shared prosperity for the people of our nations\" [1]. Carney had described his visit as \"not just a renewal of the Canada-India partnership but an expansion with new ambition and focus, between two confident countries charting their own course for the future\" [1].",
   "citations": [
     {
       "index": 1,
@@ -8,7 +8,7 @@
       "source": "The Hindu",
       "title": "Canada PM's visit to India built strong foundation for truly renewed partnership: Modi",
       "url": "https://www.thehindu.com/news/national/canada-pms-visit-to-india-built-strong-foundation-for-truly-renewed-partnership-modi/article70700904.ece",
-      "quote": "The Canadian Prime Minister was in India from February 27 to March 2, during which India and Canada sealed key pacts on supplies of Uranium and critical minerals and agreed to conclude a comprehensive economic partnership agreement soon."
+      "quote": "Your visit has built a strong foundation for a truly renewed partnership. I look forward to working together with you to build a future defined by trust, growth, innovation and shared prosperity for the people of our nations"
     },
     {
       "index": 2,
@@ -16,27 +16,19 @@
       "source": "BBC World",
       "title": "India and Canada reset ties with 'landmark' nuclear energy deal",
       "url": "https://www.bbc.com/news/articles/cx24gl7jrgno?at_medium=RSS&at_campaign=rss",
-      "quote": "India and Canada have announced a host of agreements, including a 10-year nuclear energy deal, after their prime ministers met in Delhi to reset ties that plummeted due to diplomatic tensions."
-    },
-    {
-      "index": 3,
-      "articleId": "0a67d1fe-b80c-419f-b83e-c531bbe447b4",
-      "source": "NYT World",
-      "title": "Carney Hails New Ties Between Canada and India, Setting Aside Rift Over Killing",
-      "url": "https://www.nytimes.com/2026/03/02/world/canada/carney-india-modi.html",
-      "quote": "Prime Minister Mark Carney focused on business during a meeting with his Indian counterpart, Narendra Modi, with little mention of India's alleged role in a deadly shooting in 2023."
+      "quote": "Trade and diplomatic relations almost came to a standstill as both sides expelled each other's diplomats and cancelled visa services"
     }
   ],
   "keyDevelopments": [
-    "Canadian PM Mark Carney completed 4-day visit to India (Feb 27-Mar 2, 2026)",
-    "10-year nuclear energy deal signed, including uranium supply and small modular reactor cooperation",
-    "Agreement to conclude comprehensive free trade deal by end of 2026",
-    "Multiple cooperation agreements in defense, technology, critical minerals, space, and education",
-    "Diplomatic reset despite ongoing tensions over 2023 Nijjar assassination case",
-    "Canadian intelligence continues to list India as foreign interference threat",
-    "Four men charged in Nijjar killing case still before courts"
+    "10-year nuclear energy deal signed covering uranium supply and reactor technology",
+    "Commitment to conclude free trade agreement by end of 2026",
+    "Multiple cooperation agreements in defense, technology, critical minerals, space and education",
+    "Canadian Foreign Minister distances herself from claims that India ceased interference activities",
+    "Canadian spy agency maintains threat assessment unchanged regarding Indian espionage",
+    "Carney's office cancels planned news conference citing schedule constraints",
+    "Modi and Carney exchange positive public statements about renewed partnership"
   ],
-  "generatedAt": "2026-03-03T20:00:39.808Z",
+  "generatedAt": "2026-03-03T23:12:18.379Z",
   "model": "anthropic/claude-sonnet-4",
-  "tokenCount": 2543
+  "tokenCount": 3211
 }

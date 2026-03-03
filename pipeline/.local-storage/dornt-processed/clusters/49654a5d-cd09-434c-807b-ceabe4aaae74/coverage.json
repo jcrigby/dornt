@@ -3,51 +3,34 @@
   "frames": [
     {
       "name": "Denial and Distance Frame",
-      "description": "Emphasizes Clinton's denials of knowledge about Epstein's crimes and his claims of ending their relationship before 2008",
-      "sources": [
-        "DW",
-        "Daily Wire"
-      ],
-      "emphasis": "Clinton's testimony that he had no knowledge of sex trafficking and ended ties with Epstein in 2003"
-    },
-    {
-      "name": "Trump Deflection Frame",
-      "description": "Highlights Clinton's claims about Trump's relationship with Epstein as a counter-narrative",
+      "description": "Presents Clinton's testimony as categorical denials of knowledge about Epstein's crimes and emphasizes the timeline showing Clinton distanced himself before Epstein's legal troubles",
       "sources": [
         "DW"
       ],
-      "emphasis": "Clinton's testimony that Trump told him about having 'great times' with Epstein"
+      "emphasis": "Clinton's lack of knowledge about trafficking, timeline of relationship ending before 2008 guilty plea, and Trump's comments about Epstein"
     },
     {
-      "name": "Photographic Evidence Frame",
-      "description": "Focuses on specific visual evidence and Clinton's responses to compromising photos",
+      "name": "Scrutiny and Specific Allegations Frame",
+      "description": "Focuses on detailed questioning about specific incidents, particularly the hot tub photo, and Clinton's responses to direct questions about sexual activity",
       "sources": [
         "Daily Wire"
       ],
-      "emphasis": "Detailed questioning about hot tub and pool photos with unidentified women"
-    },
-    {
-      "name": "Humanitarian Cover Frame",
-      "description": "Presents the relationship as primarily business/charitable in nature",
-      "sources": [
-        "DW",
-        "Daily Wire"
-      ],
-      "emphasis": "Clinton's AIDS initiative work as the context for Epstein flights"
+      "emphasis": "Specific photographic evidence, direct questioning about sexual activity, detailed account of Clinton's extensive travel with Epstein (26+ flights)"
     }
   ],
   "outlierPerspectives": [
-    "Detailed focus on specific photographic evidence and Clinton's memory claims about unidentified women (Daily Wire only)",
-    "Clinton's account of Trump's comments about Epstein relationship (DW only)"
+    "Trump's alleged comments to Clinton about having 'great times' with Epstein (only covered by DW)",
+    "Detailed examination of the Brunei hot tub incident with specific questioning about sexual activity (only covered by Daily Wire)",
+    "Hillary Clinton's separate deposition and claim not to remember meeting Epstein (only mentioned by DW)"
   ],
   "missingContext": [
-    "Timeline discrepancies between Clinton's claimed 2003 end date and flight logs",
-    "Details about what triggered this congressional investigation",
+    "Timeline of when the Justice Department photos were taken versus when they were released",
+    "Details about what prompted this congressional investigation and its scope",
+    "Information about other witnesses or evidence being examined by the committee",
+    "Context about the broader Epstein files release and what other revelations it contained",
     "Legal implications or potential consequences of the testimony",
-    "Broader context of ongoing Epstein-related investigations",
-    "Verification status of flight records and photo authenticity",
-    "Hillary Clinton's specific testimony details beyond brief mention"
+    "Comparison with previous statements Clinton has made about his relationship with Epstein"
   ],
-  "generatedAt": "2026-03-03T19:51:43.931Z",
+  "generatedAt": "2026-03-03T23:00:45.836Z",
   "model": "anthropic/claude-sonnet-4"
 }

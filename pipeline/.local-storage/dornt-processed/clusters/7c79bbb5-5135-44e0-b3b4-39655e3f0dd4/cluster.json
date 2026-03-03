@@ -4,19 +4,19 @@
   "articleIds": [
     "000f4d66-69ff-4590-8f83-6bd16780a648",
     "1c534059-6d51-4157-8fcf-efb99e59b3b9",
-    "54c390dc-1eb7-40c2-8c40-9e9359813d48"
+    "54c390dc-1eb7-40c2-8c40-9e9359813d48",
+    "2b0dc9b8-b0af-4aef-9052-22a7df3f6a22"
   ],
   "redditPostIds": [],
   "createdAt": "2026-03-03T19:46:57.296Z",
-  "updatedAt": "2026-03-03T19:46:57.296Z",
-  "articleCount": 3,
-  "sourceCount": 3,
+  "updatedAt": "2026-03-03T22:55:58.829Z",
+  "articleCount": 4,
+  "sourceCount": 2,
   "topSources": [
     "Axios",
-    "Vox",
-    "Foreign Policy"
+    "Vox"
   ],
-  "importance": 39,
+  "importance": 32,
   "status": "active",
   "centroid": [
     -0.027105092999999997,

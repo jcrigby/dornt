@@ -1,0 +1,43 @@
+{
+  "id": "1rk2r93",
+  "subreddit": "science",
+  "title": "Hybrid Solar Panel Turns Raindrops into Electricity | A Spanish research team’s patented thin film generates 110 volts from a single raindrop’s impact.",
+  "url": "https://www.zmescience.com/science/news-science/hybrid-solar-panel-turns-raindrops-into-electricity/",
+  "selftext": "",
+  "author": "InsaneSnow45",
+  "score": 161,
+  "numComments": 18,
+  "createdUtc": 1772574729,
+  "permalink": "https://reddit.com/r/science/comments/1rk2r93/hybrid_solar_panel_turns_raindrops_into/",
+  "fetchedAt": "2026-03-03T22:52:55.089Z",
+  "topComments": [
+    {
+      "id": "o8hjfr3",
+      "author": "AutoModerator",
+      "body": "Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.\n\n---\n\n**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/).\n\n---\n\nUser: u/InsaneSnow45  \nPermalink: https://www.zmescience.com/science/news-science/hybrid-solar-panel-turns-raindrops-into-electricity/\n\n---\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",
+      "score": 1,
+      "createdUtc": 1772574730
+    },
+    {
+      "id": "o8hmq4e",
+      "author": "gredr",
+      "body": "So, I did a little back-of-the-napkin math, and during an hour-long heavy rainstorm (7.6 mm/hr) with quite fast-traveling drops (10 m/s), where the panel can extract *all* of the kinetic energy from the droplet with no interference from any previously-fallen drops, you'll get:\n\n(drum roll)\n\n0.18 Wh per panel. Good news, that'll keep the LED indicator on the front of the \"powered off\" television running. It won't be nearly enough to run the inverter, though.",
+      "score": 1,
+      "createdUtc": 1772575668
+    },
+    {
+      "id": "o8hmzz2",
+      "author": "AmpEater",
+      "body": "Voltage isn’t energy \n\nEnergy is what matters \n\nThis doesn’t matter \n",
+      "score": 1,
+      "createdUtc": 1772575744
+    },
+    {
+      "id": "o8hm4jo",
+      "author": "timmeh87",
+      "body": "4 mw per sq cm? Meh. Encapsulation doesnt even last a week? Double meh. I guess it would be cool if they could develop it to make it 1000 times better",
+      "score": 1,
+      "createdUtc": 1772575499
+    }
+  ]
+}

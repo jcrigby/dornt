@@ -6,21 +6,23 @@
     "5b253891-91c5-4aac-80c8-61de5a33bea4",
     "6ddbd68c-fa0e-4285-9485-50e829f089f1",
     "79710319-ef43-4848-9829-56323ffa0268",
-    "7af254a3-b760-4a80-b2f0-6a7600c6624f"
+    "7af254a3-b760-4a80-b2f0-6a7600c6624f",
+    "0c7364fa-e993-4d3a-a775-4314eb8b2f82",
+    "21f9db9d-26df-43fb-b24d-b10cfe59faf1",
+    "41555bb5-7272-4377-bdc9-9c761843fa02"
   ],
   "redditPostIds": [],
   "createdAt": "2026-03-03T19:46:57.507Z",
-  "updatedAt": "2026-03-03T19:47:12.350Z",
-  "articleCount": 5,
-  "sourceCount": 5,
+  "updatedAt": "2026-03-03T22:55:58.867Z",
+  "articleCount": 8,
+  "sourceCount": 4,
   "topSources": [
     "Axios",
-    "The Hill",
-    "The Guardian US",
-    "NYT",
-    "WaPo Politics"
+    "Business Insider",
+    "NYT Politics",
+    "UPI"
   ],
-  "importance": 65,
+  "importance": 64,
   "status": "active",
   "centroid": [
     -0.013218597666666667,

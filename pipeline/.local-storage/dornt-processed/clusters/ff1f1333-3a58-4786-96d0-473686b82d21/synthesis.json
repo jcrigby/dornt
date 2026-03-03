@@ -1,6 +1,6 @@
 {
   "clusterId": "ff1f1333-3a58-4786-96d0-473686b82d21",
-  "narrative": "Apple announced a comprehensive Mac lineup refresh on Tuesday, March 3, 2026, introducing M5-powered MacBook Air and MacBook Pro models alongside new Studio Display monitors, marking the company's biggest Mac update in over a year [2]. The announcements come as Apple's Mac business faces challenges, with sales dropping nearly 7% to $8.39 billion during the holiday quarter, falling short of analyst expectations of nearly $9 billion [2].\n\n## MacBook Air M5 Updates\n\nThe new MacBook Air M5 maintains the same physical design as its M4 predecessor but receives significant internal upgrades [1]. Apple doubled the base storage from 256GB to 512GB while increasing prices by $100 across all models—the 13-inch now starts at $1,099 (up from $999) and the 15-inch at $1,299 (up from $1,199) [1][2]. The M5 chip delivers 28% faster unified memory and 4x faster AI performance compared to the M4, with storage speeds also doubling [1]. The device includes Apple's new N1 chip enabling Wi-Fi 7 and Bluetooth 6 connectivity [1][3].\n\n## MacBook Pro M5 Pro and M5 Max Introduction\n\nApple unveiled the M5 Pro and M5 Max chips featuring a new \"Fusion Architecture\" that merges two dies into a single system-on-chip [4][5]. Both chips include an 18-core CPU configuration with six \"super cores\" (Apple's highest-performance cores) and 12 new performance cores optimized for multithreaded workloads [4][5]. This represents an upgrade from the M4 Pro's 14-core and M4 Max's 16-core configurations [4]. The GPU scales up to 40 cores with Neural Accelerators in each core, delivering over 4x the peak GPU compute for AI compared to the previous generation [4][5].\n\n## Pricing and Storage Changes\n\nApple significantly increased MacBook Pro pricing while doubling base storage configurations [2][6]. The 14-inch M5 Pro model now starts at $2,199 (up from $1,999), while the 16-inch starts at $2,699 (up from $2,499) [2][6]. The M5 Max models start at $3,599 for 14-inch and $3,899 for 16-inch [6]. Base M5 MacBook Pro pricing increased from $1,599 to $1,699, but storage doubled from 512GB to 1TB [3][6]. M5 Pro models now start with 1TB storage, while M5 Max models begin at 2TB [2][3].\n\n## Performance Claims\n\nApple positions the new MacBook Pro as delivering substantial performance improvements, particularly for AI workloads. The company claims the M5 Pro and M5 Max can process large language model prompts nearly four times faster than comparable M4-based machines and up to eight times faster than M1 models [2]. For creative professionals, Apple states that Blender 3D rendering will see a 50% speed increase on the MacBook Air M5 [1], while graphics performance improves by up to 20% overall on the Pro models, with ray-tracing workloads improving by as much as 35% [4][5].\n\n## Display Updates\n\nApple also refreshed its monitor lineup, replacing the aging Pro Display XDR with a new two-tier Studio Display family [2]. The base Studio Display starts at $1,599, while the higher-end Studio Display XDR begins at $3,299, featuring higher brightness, mini-LED backlighting, and faster refresh rates [2].\n\n## Availability and Market Strategy\n\nPre-orders for the new MacBook models begin at 9:15 AM ET on March 4, with availability starting March 11 [1][4][6]. The pricing strategy represents a clear pivot toward premium positioning, following Apple's Monday announcement of more value-focused products including a refreshed low-cost iPhone [2]. Industry observers note that tighter memory supply, with suppliers favoring the more lucrative AI data center market over consumer hardware, is driving up costs [2].",
+  "narrative": "Apple unveiled new MacBook Air and MacBook Pro models with M5 chips on Tuesday, March 3, 2026, marking the company's biggest Mac refresh in over a year [2]. However, the updates come with significant price increases across all models, driven by a global RAM shortage affecting the tech industry [4].\n\n## Price Increases and Storage Upgrades\n\nThe MacBook Air M5 now starts at $1,099 for the 13-inch model and $1,299 for the 15-inch, representing $100 increases from their M4 predecessors [1][2][7]. The MacBook Pro sees even steeper price hikes, with the 14-inch M5 Pro starting at $2,199 (up from $1,999) and the 16-inch M5 Max at $3,899 (up $400 from its predecessor) [2][4]. Apple justified these increases by doubling base storage across the lineup—MacBook Air models now start with 512GB instead of 256GB, while MacBook Pro M5 Pro models begin at 1TB and M5 Max models at 2TB [1][2][5].\n\n## New M5 Pro and M5 Max Architecture\n\nThe M5 Pro and M5 Max represent a significant departure from previous Apple Silicon designs, featuring what Apple calls a \"Fusion Architecture\" that combines two silicon chiplets into a single processor [3][6][8]. This marks the first time Apple has used this multi-die approach for Pro and Max chips, previously reserved only for Ultra configurations [3]. Both chips feature an 18-core CPU with six \"super cores\" (Apple's new branding for high-performance cores) and 12 new performance cores optimized for multithreaded workloads [3][5][6][8].\n\n## Performance Claims and AI Focus\n\nApple positions the M5 chips as delivering substantial AI performance improvements, claiming the M5 Pro and M5 Max offer \"over 4x the peak GPU compute for AI compared to the previous generation\" [6][8]. For the MacBook Air M5, Apple claims 4x faster AI performance compared to the M4 model [7]. The company also states that MacBook Pro users will see large language model prompts processed \"nearly four times faster than comparable M4-based machines\" [2]. Graphics performance is said to improve by up to 20% overall, with ray-tracing workloads seeing up to 35% improvements [5][6].\n\n## Market Context and Industry Impact\n\nThe price increases come amid a global RAM shortage caused by high demand from AI data centers, which analysts predict will impact smartphone shipments and other consumer hardware [4]. Apple's Mac business has struggled recently, with sales dropping nearly 7% to $8.39 billion during the holiday quarter, falling short of analyst expectations of nearly $9 billion [2]. The new machines are positioned to encourage upgrades, particularly from users with older Intel-era systems or early M-series devices [2].\n\n## Additional Features and Availability\n\nAll new MacBook models include Apple's N1 wireless chip, enabling Wi-Fi 7 and Bluetooth 6 connectivity [1][5][7]. The MacBook Air M5 maintains the same battery life as its predecessor, while the MacBook Pro is rated for up to 24 hours [1][9]. Pre-orders begin March 4 at 9:15 AM ET, with availability starting March 11 [7][9]. Apple also updated its display lineup, introducing a new two-tier Studio Display family to replace the aging Pro Display XDR [2].",
   "citations": [
     {
       "index": 1,
@@ -8,7 +8,7 @@
       "source": "Engadget",
       "title": "MacBook Air M5 vs. MacBook Air M4: What's changed beyond the Apple silicon",
       "url": "https://www.engadget.com/computing/apple-unveils-the-m5-pro-and-m5-max-chips-which-feature-new-faster-super-cores-141533420.html?src=rss",
-      "quote": "it's more expensive — a $100 price bump across all models. In exchange, the MacBook Air M5 does get faster performance and double the storage"
+      "quote": "Apple unveiled a new MacBook Air today, and apart from the new M5 chip, things don't look remarkably different. Sure, it's getting a mild refresh, but maybe not in the way most people would want. Namely, it's more expensive — a $100 price bump across all models."
     },
     {
       "index": 2,
@@ -16,51 +16,75 @@
       "source": "CNBC",
       "title": "Apple raises MacBook prices across the board as M5 chips, new displays signal AI-first strategy",
       "url": "https://www.cnbc.com/2026/03/03/apple-macbook-prices-m5-ai.html",
-      "quote": "Apple on Tuesday rolled out new MacBook Pro and MacBook Air models with its latest M5 chips, along with an updated Studio Display lineup, in its biggest Mac refresh in more than a year"
+      "quote": "Apple on Tuesday rolled out new MacBook Pro and MacBook Air models with its latest M5 chips, along with an updated Studio Display lineup, in its biggest Mac refresh in more than a year."
     },
     {
       "index": 3,
       "articleId": "7ba8bad7-9466-406d-a340-7c8fece94db2",
       "source": "Ars Technica",
-      "title": "Apple intros M5 Pro and Max MacBook Pros and its first new monitors in years",
+      "title": "M5 Pro and M5 Max are surprisingly big departures from older Apple Silicon",
       "url": "https://arstechnica.com/gadgets/2026/03/apple-intros-m5-pro-and-max-macbook-pros-and-its-first-new-monitors-in-years/",
-      "quote": "the M5 Pro now comes with 1TB of storage by default, while M5 Max chips come with 2TB of storage by default"
+      "quote": "Apple says that M5 Pro and M5 Max use an 'all-new Fusion Architecture' that welds two silicon chiplets into a single processor. Apple has used this approach before, but historically only to combine two Max chips together into an Ultra."
     },
     {
       "index": 4,
       "articleId": "09817cd1-f933-49a5-8531-37d76855c4db",
       "source": "TechCrunch",
-      "title": "Apple unveils M5 Pro and M5 Max chips with new 'Fusion Architecture'",
+      "title": "The new MacBook Pro laptops are as much as $400 more expensive than their predecessors. Thank the RAM shortage.",
       "url": "https://techcrunch.com/2026/03/03/apple-unveils-m5-pro-and-m5-max-chips-with-new-fusion-architecture/",
-      "quote": "The tech giant says the chips are engineered around its new Fusion Architecture, an advanced design that merges two dies into a single, high-performance system on a chip"
+      "quote": "With the demands for more computers and data centers to power AI, the market is experiencing a shortage of RAM, causing memory prices to surge."
     },
     {
       "index": 5,
+      "articleId": "7ba8bad7-9466-406d-a340-7c8fece94db2",
+      "source": "Ars Technica",
+      "title": "Apple intros M5 Pro and Max MacBook Pros and its first new monitors in years",
+      "url": "https://arstechnica.com/gadgets/2026/03/apple-intros-m5-pro-and-max-macbook-pros-and-its-first-new-monitors-in-years/",
+      "quote": "Both use an 18-core CPU with six higher-performing cores and 12 lower-performing cores, but Apple is changing how it talks about each kind of core. The high-performance cores are now called 'super cores'"
+    },
+    {
+      "index": 6,
+      "articleId": "09817cd1-f933-49a5-8531-37d76855c4db",
+      "source": "TechCrunch",
+      "title": "Apple unveils M5 Pro and M5 Max chips with new 'Fusion Architecture'",
+      "url": "https://techcrunch.com/2026/03/03/apple-unveils-m5-pro-and-m5-max-chips-with-new-fusion-architecture/",
+      "quote": "The tech giant says the chips are engineered around its new Fusion Architecture, an advanced design that merges two dies into a single, high-performance system on a chip (SoC)"
+    },
+    {
+      "index": 7,
+      "articleId": "0a682a0a-c1d3-4014-af55-f5a1f09dca8d",
+      "source": "Engadget",
+      "title": "The MacBook Air M5 starts at $1,099, up $100 from the M4",
+      "url": "https://www.engadget.com/computing/apple-unveils-the-m5-pro-and-m5-max-chips-which-feature-new-faster-super-cores-141533420.html?src=rss",
+      "quote": "Apple is reverting a price cut from last year. It dropped the M4-powered MBA's starting price down to $999, but for the M5-equipped model, you'll need to shell out at least $1,099."
+    },
+    {
+      "index": 8,
       "articleId": "0a682a0a-c1d3-4014-af55-f5a1f09dca8d",
       "source": "Engadget",
       "title": "Apple unveils the M5 Pro and M5 Max chips, which feature new, faster 'super cores'",
       "url": "https://www.engadget.com/computing/apple-unveils-the-m5-pro-and-m5-max-chips-which-feature-new-faster-super-cores-141533420.html?src=rss",
-      "quote": "The chips both feature a new 18-core CPU, six of which Apple is now calling 'super cores, that are the word's fastest CPU core'"
+      "quote": "At the heart of the M5 Pro and M5 Max are what Apple is calling a new 'Fusion Architecture' that 'combines two dies into a single system on a chip (SoC).'"
     },
     {
-      "index": 6,
+      "index": 9,
       "articleId": "0a682a0a-c1d3-4014-af55-f5a1f09dca8d",
       "source": "Engadget",
       "title": "Apple brings its M5 Pro and Max silicon to the next MacBook Pro generation",
       "url": "https://www.engadget.com/computing/apple-unveils-the-m5-pro-and-m5-max-chips-which-feature-new-faster-super-cores-141533420.html?src=rss",
-      "quote": "The 14-inch with the M5 Pro now starts at $2,199 instead of $1,999, while the 16-inch starts at a whopping $2,699 instead of $2,499"
+      "quote": "Pre-orders will open on March 4 with an expected ship date of March 11. You'll want to save some extra coin this time, though, as prices have gone up compared to the prior generation."
     }
   ],
   "keyDevelopments": [
-    "Apple announces M5-powered MacBook Air and MacBook Pro lineup refresh",
-    "Introduction of M5 Pro and M5 Max chips with new 'Fusion Architecture'",
-    "Significant price increases across MacBook lineup ($100-$400 depending on model)",
-    "Base storage doubled across all models (MacBook Air: 256GB to 512GB, MacBook Pro: varies by model)",
-    "New Studio Display monitor lineup replaces Pro Display XDR",
-    "Pre-orders begin March 4, availability March 11",
-    "Performance claims of 4x faster AI processing and up to 50% faster 3D rendering"
+    "Apple announces M5 MacBook Air and MacBook Pro with significant price increases across all models",
+    "Introduction of new 'Fusion Architecture' using dual chiplets in M5 Pro and M5 Max chips",
+    "Base storage doubled across MacBook lineup (Air: 256GB→512GB, Pro: varies by model)",
+    "New three-tier CPU core hierarchy: 'super cores,' performance cores, and efficiency cores",
+    "Major AI performance claims: 4x faster AI compute compared to previous generation",
+    "Global RAM shortage cited as driver for price increases",
+    "Apple's N1 wireless chip enables Wi-Fi 7 and Bluetooth 6 across new MacBook lineup"
   ],
-  "generatedAt": "2026-03-03T20:05:27.816Z",
+  "generatedAt": "2026-03-03T23:18:34.597Z",
   "model": "anthropic/claude-sonnet-4",
-  "tokenCount": 6965
+  "tokenCount": 9880
 }

@@ -8,21 +8,19 @@
       "4e9c80a5-0e6a-4c52-baaa-9b52642bdba3",
       "5111b237-894b-4c1a-a707-95c33cbe7f8a",
       "6ecf05fe-3e24-4be6-a987-d1660bad8cfa",
-      "82ff8bb5-de79-4f47-b8be-adb4cf990837"
+      "82ff8bb5-de79-4f47-b8be-adb4cf990837",
+      "44416c97-e1b1-4072-b530-f90c3293f99a"
     ],
     "redditPostIds": [],
     "createdAt": "2026-03-03T19:46:57.335Z",
-    "updatedAt": "2026-03-03T19:47:12.350Z",
-    "articleCount": 6,
-    "sourceCount": 5,
+    "updatedAt": "2026-03-03T22:55:58.871Z",
+    "articleCount": 7,
+    "sourceCount": 2,
     "topSources": [
-      "ABC News",
       "The Hill",
-      "The Guardian US",
-      "YouTube: NBC News",
-      "YouTube: ABC News"
+      "The Guardian US"
     ],
-    "importance": 68,
+    "importance": 41,
     "status": "active",
     "centroid": [
       -0.031356261499999996,
@@ -1565,26 +1563,10 @@
   },
   "synthesis": {
     "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
-    "narrative": "President Trump on Tuesday contradicted his Secretary of State Marco Rubio regarding who initiated the recent U.S.-Israel strikes against Iran, claiming he \"might have forced Israel's hand\" rather than being pressured by Israel to act [1][2][3]. \n\n## Trump's Account vs. Rubio's Version\n\nWhen asked directly whether Israel forced the U.S. into launching strikes against Iran, Trump responded: \"No, I might have forced their hand\" [1][2][6]. He explained that \"we were having negotiations with these lunatics and it was my opinion that they were going to attack first\" [1][2][6]. Trump stated he \"felt strongly\" that Iran would attack first and \"didn't want that to happen,\" leading him to potentially force Israel's hand instead [1][2][6].\n\nThis directly contradicts Secretary of State Marco Rubio, who said Monday that \"the threat from Iran was 'imminent'\" because the U.S. knew Iran would retaliate if attacked by Israel [2]. Rubio had stated: \"There absolutely was an imminent threat... we knew that if Iran was attacked, and we believed they would be attacked, that they would immediately come after us\" [2].\n\n## Military Impact and Iran's Response\n\nTrump claimed the strikes have had \"a very very powerful impact because virtually everything they have has been knocked out now\" with Iran's \"missile count going way down\" [1][3][6]. He stated that Iran \"no longer have air protection\" and \"no longer have any detection facilities at all left\" [6].\n\nTrump expressed surprise at Iran's retaliation pattern, noting they were \"hitting countries that were, you know, let's call them neutral, right? They lived together for a long time\" [1][2][6]. He said these previously neutral countries \"are all fighting against them and fighting strongly against them\" now [1][3][6]. Trump emphasized that Iran was \"hitting only civilian places, hotels, and apartment buildings\" while the U.S. was \"hitting them where it is much more appropriate\" [6].\n\n## Casualties and Leadership Strikes\n\nTrump provided specific casualty figures, stating that \"49 people were taken out in the first hit\" and referenced \"another hit today on the new leadership\" that \"looks like that was pretty substantial also\" [6]. He claimed Iran had \"violently killed\" 35,000 protesters \"over the last 3 weeks\" and that \"the leader of the pack is gone\" [6].\n\n## International Tensions\n\nThe strikes have created diplomatic friction with allies. Trump criticized Spain and the UK for their lack of cooperation, with reports indicating Spain refused to let the U.S. use jointly operated bases for Iran strikes [3]. Trump also \"chides Starmer for unwillingness to back US strikes on Iran\" [3].\n\n## Congressional Oversight\n\nCongress is scheduled to be briefed on the Iran strikes \"ahead of possible vote over president's war powers,\" with \"top congressional Democrats demand[ing] specific answers from Trump officials\" [3].",
+    "narrative": "## State of the Story: Trump-Iran Strikes Controversy\n\n### Key Facts Established\n\nPresident Donald Trump launched strikes against Iran over the weekend [1][3][4], with Trump claiming the attacks have had a \"very powerful impact because virtually everything they have has been knocked out\" [1][4]. The strikes have created a significant contradiction between Trump and his Secretary of State Marco Rubio regarding the decision-making process.\n\n### Central Contradiction\n\nTrump directly contradicted his Secretary of State Marco Rubio's earlier explanation for the Iran strikes. When asked by reporters if Israel forced the US hand, Trump responded: \"No, I might have forced their hand\" [1][2][3]. Trump explained that \"we were having negotiations with these lunatics, and it was my opinion that they were going to attack first\" [1][2][3].\n\nThis directly contradicts Rubio's Monday statement that \"the US attacked Iran after understanding that Israel was planning to strike first\" [1] and that there was an \"imminent threat\" because \"we knew that if Iran was attacked, and we believed they would be attacked, that they would immediately come after us\" [3].\n\n### Iran's Response and Regional Impact\n\nTrump expressed surprise at Iran's military response, stating that Iran was \"hitting countries that were, you know, let's call them neutral, right? They lived together for a long time\" [2][3][7]. He noted that \"now those countries are all fighting against them and fighting strongly against them\" [1][4].\n\nTrump also claimed that Iran has \"killed I guess it's 35,000\" protesters \"over the last 3 weeks\" and that \"the leader of the pack is gone\" with \"49 people were taken out in the first hit\" [7].\n\n### International Relations Strain\n\nThe conflict has created diplomatic tensions with US allies. Trump threatened to \"cut off all trade with Spain\" after it \"refuses to let US use jointly operated bases for Iran strikes\" [1][4]. He also \"chides Starmer for unwillingness to back US strikes on Iran\" [1][4].\n\n### Timeline of Events\n\n- **Weekend**: Initial US strikes against Iran launched [1][3][4]\n- **Monday**: Secretary of State Rubio explains strikes were prompted by Israeli plans to attack Iran [1][3]\n- **Tuesday**: Trump contradicts Rubio's explanation, claiming he may have forced Israel's hand instead [1][2][3][4][5][6][7]\n- **Tuesday**: Trump meets with German Chancellor Friedrich Merz at the White House [1][4]\n\n### Ongoing Developments\n\n- Congress is set to be briefed on Iran strikes with possible vote over presidential war powers [1][4]\n- The State Department is \"actively securing military aircraft and charter flights for American citizens who wish to leave the Middle East\" [4]\n- DHS continues investigating possible \"Iranian sleeper cells\" [1][4]\n- Trump indicated there was \"another hit today on the new leadership\" in Iran [7]",
     "citations": [
       {
         "index": 1,
-        "articleId": "4e9c80a5-0e6a-4c52-baaa-9b52642bdba3",
-        "source": "NBC News",
-        "title": "Trump says he 'might have forced Israel's hand' in striking Iran first",
-        "url": "https://www.youtube.com/watch?v=CRoDnaoQRyY",
-        "quote": "No, I might have forced their hand. Um, you see, we were having negotiations with these lunatics and it was my opinion that they were going to attack first."
-      },
-      {
-        "index": 2,
-        "articleId": "6ecf05fe-3e24-4be6-a987-d1660bad8cfa",
-        "source": "ABC News",
-        "title": "Iran live updates: Trump slams Spain, UK over Iran war cooperation",
-        "url": "https://abcnews.com/International/video/trump-pushes-back-notion-israel-forced-us-hand-130724338",
-        "quote": "There absolutely was an imminent threat. And the imminent threat was that we knew that if Iran was attacked, and we believed they would be attacked, that they would immediately come after us"
-      },
-      {
-        "index": 3,
         "articleId": "49aae069-93eb-4328-a714-456bdcdab2f0",
         "source": "The Guardian US",
         "title": "Trump insists Israel did not force US hand on Iran attack as he meets German chancellor – live",
@@ -1592,15 +1574,39 @@
         "quote": "I think they were going to attack first, and I didn't want that to happen. So, if anything, I might have forced Israel's hand"
       },
       {
+        "index": 2,
+        "articleId": "4e9c80a5-0e6a-4c52-baaa-9b52642bdba3",
+        "source": "NBC News (YouTube)",
+        "title": "Trump says he 'might have forced Israel's hand' in striking Iran first",
+        "url": "https://www.youtube.com/watch?v=CRoDnaoQRyY",
+        "quote": "No, I might have forced their hand. Um, you see, we were having negotiations with these lunatics and it was my opinion that they were going to attack first"
+      },
+      {
+        "index": 3,
+        "articleId": "6ecf05fe-3e24-4be6-a987-d1660bad8cfa",
+        "source": "ABC News",
+        "title": "Iran live updates: Trump slams Spain, UK over Iran war cooperation",
+        "url": "https://abcnews.com/International/video/trump-pushes-back-notion-israel-forced-us-hand-130724338",
+        "quote": "No. I might have forced their hand. You see, we were having negotiations with these lunatics, and it was my opinion that they were going to attack first"
+      },
+      {
         "index": 4,
+        "articleId": "49aae069-93eb-4328-a714-456bdcdab2f0",
+        "source": "The Guardian US",
+        "title": "Trump insists Israel did not force US hand on Iran attack as he meets German chancellor – live",
+        "url": "https://www.theguardian.com/us-news/live/2026/mar/03/donald-trump-iran-war-powers-kristi-noem-primaries-friedrich-merz-latest-news-updates",
+        "quote": "His comments appear to contradict Marco Rubio, the US secretary of state, who said on Monday that the US attacked Iran after Israel was planning to strike first"
+      },
+      {
+        "index": 5,
         "articleId": "6ecf05fe-3e24-4be6-a987-d1660bad8cfa",
         "source": "ABC News",
         "title": "WATCH: Trump pushes back on notion that Israel forced US' hand to attack Iran",
         "url": "https://abcnews.com/International/video/trump-pushes-back-notion-israel-forced-us-hand-130724338",
-        "quote": "Iran was 'going to attack if we didn't do it.'"
+        "quote": "Iran was going to attack if we didn't do it"
       },
       {
-        "index": 5,
+        "index": 6,
         "articleId": "098d4ee9-caba-4c2c-8192-bd72e2d352a8",
         "source": "The Hill",
         "title": "Trump says 'if anything,' he forced Israel's hand on Iran strikes",
@@ -1608,26 +1614,28 @@
         "quote": "It was my opinion that they were going to attack first"
       },
       {
-        "index": 6,
+        "index": 7,
         "articleId": "5111b237-894b-4c1a-a707-95c33cbe7f8a",
-        "source": "ABC News",
+        "source": "ABC News (YouTube)",
         "title": "President Trump says Iran was \"going to attack if we didn't do it\"",
         "url": "https://www.youtube.com/watch?v=o-C-YYH7ges",
-        "quote": "49 people were taken out in the first hit. And I guess there was another hit today on the new leadership and it looks like that was pretty substantial also."
+        "quote": "These are bad people. These are people that killed I guess it's 35,000. It's coming out. 35,000 over the last 3 weeks protesters"
       }
     ],
     "keyDevelopments": [
-      "Trump contradicts Secretary of State Rubio's account of who initiated the Iran strikes",
-      "Trump claims he 'might have forced Israel's hand' rather than being pressured by Israel",
-      "Iran reportedly striking neutral countries, causing them to turn against Iran",
-      "U.S. claims significant degradation of Iranian military capabilities",
-      "Multiple leadership strikes reported with substantial casualties",
-      "Diplomatic tensions with Spain and UK over strike cooperation",
-      "Congressional briefing scheduled on Iran strikes with potential war powers vote"
+      "Trump directly contradicts Secretary of State Rubio's explanation for Iran strikes",
+      "Trump claims he 'might have forced Israel's hand' rather than vice versa",
+      "Iran reportedly striking neutral countries, surprising Trump",
+      "Spain refuses to allow US use of jointly operated bases for Iran operations",
+      "UK refuses to back US strikes on Iran",
+      "Congressional briefing scheduled on Iran strikes with possible war powers vote",
+      "State Department organizing evacuation flights for Americans in Middle East",
+      "Trump claims Iran killed 35,000 protesters in recent weeks",
+      "Additional strikes reported against new Iranian leadership"
     ],
-    "generatedAt": "2026-03-03T19:59:43.916Z",
+    "generatedAt": "2026-03-03T23:11:21.299Z",
     "model": "anthropic/claude-sonnet-4",
-    "tokenCount": 4107
+    "tokenCount": 4980
   },
   "claims": [
     {
@@ -1643,7 +1651,7 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T19:59:58.477Z",
-      "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+      "lastUpdatedAt": "2026-03-03T23:11:32.392Z"
     },
     {
       "id": "f1d6d4aa-0297-466e-9e90-a857951f9c2c",
@@ -1658,7 +1666,7 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T19:59:58.477Z",
-      "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+      "lastUpdatedAt": "2026-03-03T23:11:32.392Z"
     },
     {
       "id": "afb31c25-2f96-4a42-a435-9a99d179c692",
@@ -1672,75 +1680,20 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T19:59:58.477Z",
-      "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+      "lastUpdatedAt": "2026-03-03T23:11:32.392Z"
     },
     {
-      "id": "90c36d8a-da38-4223-8b9a-4a0d7c6bf516",
+      "id": "4d4ee97f-ce22-48a6-bb04-6370b4abbb28",
       "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
-      "text": "The strikes have had a 'very powerful impact' and 'virtually everything they have has been knocked out'",
+      "text": "Trump's comments contradict Secretary of State Marco Rubio's earlier statements",
       "status": "undisputed",
       "supportingSources": [
         "The Guardian US",
-        "NBC News",
         "ABC News"
       ],
       "disputingSources": [],
-      "firstSeenAt": "2026-03-03T19:59:58.477Z",
-      "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
-    },
-    {
-      "id": "1537d56d-6383-4a3f-b81c-071a89fdea85",
-      "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
-      "text": "Iran's missile count is going down",
-      "status": "undisputed",
-      "supportingSources": [
-        "NBC News",
-        "ABC News"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T19:59:58.477Z",
-      "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
-    },
-    {
-      "id": "54feda7b-b982-4fe2-b77f-359dcca07e07",
-      "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
-      "text": "Iran is hitting countries that were previously neutral",
-      "status": "undisputed",
-      "supportingSources": [
-        "The Guardian US",
-        "NBC News",
-        "ABC News"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T19:59:58.477Z",
-      "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
-    },
-    {
-      "id": "a03e42e4-19c3-4a9f-8278-0ddf924b6ba1",
-      "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
-      "text": "Those neutral countries are now fighting against Iran",
-      "status": "undisputed",
-      "supportingSources": [
-        "The Guardian US",
-        "NBC News",
-        "ABC News"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T19:59:58.477Z",
-      "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
-    },
-    {
-      "id": "f1b668cb-e3d3-499c-84b7-6cafc8927c36",
-      "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
-      "text": "Trump and Rubio gave contradictory explanations for why the US attacked Iran",
-      "status": "disputed",
-      "supportingSources": [
-        "The Guardian US",
-        "ABC News"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T19:59:58.477Z",
-      "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+      "firstSeenAt": "2026-03-03T23:11:32.392Z",
+      "lastUpdatedAt": "2026-03-03T23:11:32.392Z"
     },
     {
       "id": "00068a2c-8fd4-4fa2-81e6-a61b2dc688d9",
@@ -1753,7 +1706,35 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T19:59:58.477Z",
-      "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+      "lastUpdatedAt": "2026-03-03T23:11:32.392Z"
+    },
+    {
+      "id": "68f8c028-7edb-441c-9f7c-6e8aeeff36cc",
+      "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+      "text": "The strikes have had a 'very powerful impact because virtually everything they have has been knocked out'",
+      "status": "undisputed",
+      "supportingSources": [
+        "The Guardian US",
+        "NBC News",
+        "ABC News"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:11:32.392Z",
+      "lastUpdatedAt": "2026-03-03T23:11:32.392Z"
+    },
+    {
+      "id": "dfdc78a3-df7a-461e-b1e9-318c867d1755",
+      "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+      "text": "Iran is launching strikes against neutral countries in the Middle East",
+      "status": "undisputed",
+      "supportingSources": [
+        "The Guardian US",
+        "NBC News",
+        "ABC News"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:11:32.392Z",
+      "lastUpdatedAt": "2026-03-03T23:11:32.392Z"
     },
     {
       "id": "54529569-a95f-46ed-a9d0-7d5515e14d6a",
@@ -1765,7 +1746,7 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T19:59:58.477Z",
-      "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+      "lastUpdatedAt": "2026-03-03T23:11:32.392Z"
     },
     {
       "id": "866f67fa-ebf0-4d81-9612-62d0729a3e48",
@@ -1777,19 +1758,7 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T19:59:58.477Z",
-      "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
-    },
-    {
-      "id": "e0568507-7aa1-4434-a37a-f9686003b4b4",
-      "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
-      "text": "There was another hit on new Iranian leadership that was 'pretty substantial'",
-      "status": "undisputed",
-      "supportingSources": [
-        "ABC News"
-      ],
-      "disputingSources": [],
-      "firstSeenAt": "2026-03-03T19:59:58.477Z",
-      "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+      "lastUpdatedAt": "2026-03-03T23:11:32.392Z"
     },
     {
       "id": "08301262-5195-4aa3-a4b3-35400c5b7daf",
@@ -1801,7 +1770,7 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T19:59:58.477Z",
-      "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+      "lastUpdatedAt": "2026-03-03T23:11:32.392Z"
     },
     {
       "id": "6b8afb5e-b763-428d-99d5-a42aad1a855c",
@@ -1813,7 +1782,7 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T19:59:58.477Z",
-      "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+      "lastUpdatedAt": "2026-03-03T23:11:32.392Z"
     },
     {
       "id": "3d6ce76b-1b44-48b2-b573-679a0fd8a4dd",
@@ -1825,7 +1794,19 @@
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T19:59:58.477Z",
-      "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+      "lastUpdatedAt": "2026-03-03T23:11:32.392Z"
+    },
+    {
+      "id": "2dc4881e-1dba-4462-8001-b8cde0a89da9",
+      "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+      "text": "Trump said he will cut off all trade with Spain",
+      "status": "undisputed",
+      "supportingSources": [
+        "The Guardian US"
+      ],
+      "disputingSources": [],
+      "firstSeenAt": "2026-03-03T23:11:32.392Z",
+      "lastUpdatedAt": "2026-03-03T23:11:32.392Z"
     },
     {
       "id": "63b83d6b-3bf4-4268-8398-68af64f5b41a",
@@ -1833,12 +1814,11 @@
       "text": "The UK refused to back US strikes on Iran",
       "status": "undisputed",
       "supportingSources": [
-        "The Guardian US",
-        "ABC News"
+        "The Guardian US"
       ],
       "disputingSources": [],
       "firstSeenAt": "2026-03-03T19:59:58.477Z",
-      "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+      "lastUpdatedAt": "2026-03-03T23:11:32.392Z"
     }
   ],
   "coverage": {
@@ -1846,67 +1826,68 @@
     "frames": [
       {
         "name": "Presidential Agency Frame",
-        "description": "Presents Trump as the decisive actor who initiated strikes to prevent Iranian aggression, emphasizing his strategic leadership",
+        "description": "Presents Trump as the primary decision-maker who acted preemptively based on intelligence about Iranian intentions, emphasizing his leadership role",
         "sources": [
           "The Hill",
+          "ABC News",
           "NBC News",
-          "ABC News"
+          "YouTube ABC News"
         ],
-        "emphasis": "Trump's claim that he 'forced Israel's hand' rather than being pressured by Israel, positioning him as proactive rather than reactive"
+        "emphasis": "Trump's claim that he 'forced Israel's hand' rather than being pressured by Israel, and his assessment that Iran was going to attack first"
       },
       {
-        "name": "Administrative Contradiction Frame",
-        "description": "Highlights inconsistencies between Trump's statements and those of his Secretary of State Marco Rubio",
+        "name": "Administration Contradiction Frame",
+        "description": "Highlights the discrepancy between Trump's statements and Secretary of State Rubio's earlier comments about Israel's role in prompting US action",
         "sources": [
           "The Guardian US",
           "ABC News"
         ],
-        "emphasis": "The discrepancy between Trump saying he forced Israel's hand versus Rubio's earlier statement that Israel's plans prompted US action"
-      },
-      {
-        "name": "Preemptive Defense Frame",
-        "description": "Frames the strikes as necessary defensive action based on intelligence about imminent Iranian attacks",
-        "sources": [
-          "NBC News",
-          "ABC News",
-          "YouTube sources"
-        ],
-        "emphasis": "Trump's assertion that Iran 'was going to attack first' and negotiations indicated imminent threat"
+        "emphasis": "The apparent contradiction between Trump saying he forced Israel's hand versus Rubio's statement that Israel was planning to strike first"
       },
       {
         "name": "Military Success Frame",
-        "description": "Emphasizes the effectiveness of strikes and Iran's weakened position",
+        "description": "Focuses on the claimed effectiveness of the strikes and Iran's weakened military capabilities",
         "sources": [
-          "The Guardian US",
+          "YouTube ABC News",
           "NBC News",
-          "ABC News"
+          "The Guardian US"
         ],
-        "emphasis": "Claims that 'virtually everything they have has been knocked out' and Iran's reduced capabilities"
+        "emphasis": "Trump's assertions that 'virtually everything they have has been knocked out' and Iran's reduced missile capabilities"
       },
       {
-        "name": "International Relations Strain Frame",
-        "description": "Covers diplomatic tensions with allies over support for the strikes",
+        "name": "Regional Escalation Frame",
+        "description": "Covers Iran's strikes against neutral countries and the broader regional conflict",
         "sources": [
-          "The Guardian US",
-          "ABC News"
+          "YouTube ABC News",
+          "NBC News",
+          "The Guardian US"
         ],
-        "emphasis": "Trump's criticism of Spain and UK for refusing cooperation, highlighting alliance fractures"
+        "emphasis": "Iran's attacks on previously neutral countries and the surprise this caused"
+      },
+      {
+        "name": "Congressional Oversight Frame",
+        "description": "Focuses on legislative branch demands for briefings and potential votes on war powers",
+        "sources": [
+          "The Guardian US"
+        ],
+        "emphasis": "Congressional Democrats demanding answers and potential votes on presidential war powers"
       }
     ],
     "outlierPerspectives": [
-      "Iran's targeting of previously neutral countries as evidence of regime's 'evil' nature (only covered in detail by YouTube sources)",
-      "Specific casualty claims of 35,000 Iranian protesters killed (only mentioned in ABC News YouTube coverage)",
-      "Details about Iranian officials seeking immunity and potentially surrendering (unique to ABC News YouTube coverage)"
+      "Trump's claim that Iran killed '35,000 protesters' in recent weeks (only mentioned in YouTube ABC News coverage)",
+      "Spain's refusal to allow US use of jointly operated bases for Iran strikes",
+      "DHS investigation into possible 'Iranian sleeper cells'",
+      "Trump's statement about US munition stockpiles allowing wars to be fought 'forever'"
     ],
     "missingContext": [
-      "Independent verification of casualty figures and military damage claims",
-      "Details about the specific negotiations Trump referenced with Iran",
-      "Timeline and specifics of the intelligence that suggested imminent Iranian attack",
-      "Legal basis for the strikes under domestic and international law",
-      "Congressional authorization status and War Powers Act implications",
-      "Broader regional impact beyond the countries Trump mentioned Iran was striking"
+      "Timeline of events leading to the strikes - when negotiations occurred, what intelligence prompted the assessment",
+      "Clarification of what specific 'negotiations with lunatics' Trump referenced",
+      "Details about the legal/constitutional basis for the strikes without congressional authorization",
+      "Verification of casualty claims and damage assessments from independent sources",
+      "Background on the US-Spain base agreement and its terms",
+      "Context about which 'neutral countries' Iran allegedly struck and verification of these claims"
     ],
-    "generatedAt": "2026-03-03T20:00:00.679Z",
+    "generatedAt": "2026-03-03T23:11:36.843Z",
     "model": "anthropic/claude-sonnet-4"
   },
   "community": null,
@@ -1914,92 +1895,99 @@
     "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
     "stakeholders": [
       {
-        "name": "President Trump",
-        "role": "U.S. Commander-in-Chief",
-        "position": "Claims he initiated strikes preemptively, believes Iran was planning first strike",
+        "name": "Donald Trump",
+        "role": "US President",
+        "position": "Initiated strikes claiming preemptive action against Iranian threat",
         "influence": "high"
       },
       {
-        "name": "Secretary of State Marco Rubio",
-        "role": "Chief U.S. Diplomat",
-        "position": "States strikes were response to imminent Iranian threat following expected Israeli attack",
-        "influence": "high"
+        "name": "Marco Rubio",
+        "role": "US Secretary of State",
+        "position": "Initially explained strikes as response to Israeli plans, now contradicted by Trump",
+        "influence": "medium"
       },
       {
         "name": "Israel",
-        "role": "Regional ally and strike partner",
-        "position": "Participated in strikes, according to Trump may have been pressured into action",
+        "role": "Regional ally",
+        "position": "Allegedly planning strikes on Iran, though Trump claims he may have influenced their timing",
         "influence": "high"
       },
       {
         "name": "Iran",
         "role": "Target of strikes",
-        "position": "Retaliating against previously neutral countries, leadership reportedly decimated",
-        "influence": "medium"
-      },
-      {
-        "name": "Congress",
-        "role": "Constitutional oversight body",
-        "position": "Demanding briefings and considering war powers vote",
+        "position": "Responding militarily against regional countries, leadership reportedly decimated",
         "influence": "medium"
       },
       {
         "name": "Spain",
         "role": "NATO ally",
-        "position": "Refused use of jointly operated bases for Iran strikes",
+        "position": "Refused to allow US use of jointly operated bases for Iran strikes",
         "influence": "low"
       },
       {
         "name": "United Kingdom",
         "role": "Traditional ally",
-        "position": "Refused to back U.S. strikes on Iran",
+        "position": "Refused to back US strikes on Iran",
+        "influence": "medium"
+      },
+      {
+        "name": "US Congress",
+        "role": "Legislative oversight body",
+        "position": "Set to be briefed with possible vote on presidential war powers",
+        "influence": "medium"
+      },
+      {
+        "name": "Regional Middle Eastern countries",
+        "role": "Affected parties",
+        "position": "Now fighting against Iran after being targeted by Iranian strikes",
         "influence": "medium"
       }
     ],
     "predictions": [
       {
-        "text": "Congressional war powers vote will likely occur within days",
+        "text": "Congressional hearings and potential war powers resolution vote",
         "likelihood": "likely",
-        "timeframe": "1-2 weeks",
-        "basis": "Congress already scheduled briefings and Democrats demanding answers suggests formal vote is imminent"
+        "timeframe": "within days",
+        "basis": "Congress already scheduled to be briefed and considering war powers vote"
       },
       {
-        "text": "Iran will continue retaliating against regional countries",
+        "text": "Continued diplomatic tensions with European allies",
         "likelihood": "likely",
         "timeframe": "ongoing",
-        "basis": "Trump noted Iran is already hitting previously neutral countries, suggesting escalation pattern"
+        "basis": "Trump's threats against Spain and criticism of UK indicate escalating diplomatic friction"
       },
       {
-        "text": "Further diplomatic tensions with European allies",
-        "likelihood": "possible",
-        "timeframe": "short-term",
-        "basis": "Spain and UK already refusing cooperation, Trump publicly criticizing allies"
-      },
-      {
-        "text": "Additional strikes on remaining Iranian leadership",
+        "text": "Further US military action against Iran",
         "likelihood": "possible",
         "timeframe": "days to weeks",
-        "basis": "Trump referenced ongoing hits on 'new leadership' suggesting continued targeting"
+        "basis": "Trump indicated 'another hit today on the new leadership' suggesting ongoing operations"
       },
       {
-        "text": "Trump-Rubio contradiction will require clarification",
+        "text": "Regional escalation involving multiple Middle Eastern countries",
+        "likelihood": "likely",
+        "timeframe": "ongoing",
+        "basis": "Trump stated regional countries are now 'fighting strongly' against Iran after being targeted"
+      },
+      {
+        "text": "Internal administration tensions over messaging",
         "likelihood": "likely",
         "timeframe": "immediate",
-        "basis": "Direct contradiction between President and Secretary of State on strike rationale creates policy confusion"
+        "basis": "Direct contradiction between Trump and Rubio creates credibility and coordination issues"
       }
     ],
-    "historicalContext": "This incident reflects recurring patterns in U.S.-Iran tensions dating to the 1979 revolution, with periodic escalations including the 1987-1988 Tanker War, post-9/11 tensions, and the 2020 Soleimani assassination. The contradiction between Trump and Rubio echoes historical instances where administrations have struggled with consistent messaging during military operations, such as conflicting accounts during the 2003 Iraq invasion rationale. The involvement of Israel in joint strikes against Iran represents a significant escalation from previous proxy conflicts, while allied reluctance to support U.S. military action recalls divisions over the 2003 Iraq War when France and Germany opposed intervention.",
+    "historicalContext": "This situation echoes patterns from Trump's first presidency, where he frequently contradicted his own officials and took unilateral military action. The Iran strikes represent a significant escalation from the targeted assassination of Qasem Soleimani in 2020, moving to what appears to be broader infrastructure and leadership targeting. The contradiction between Trump and Rubio mirrors past instances where Trump's public statements undermined his administration's diplomatic messaging, such as during North Korea negotiations. The allied resistance, particularly from Spain and the UK, reflects growing European reluctance to support US military interventions without clear international consensus, a trend that began during the Iraq War and has intensified in recent years.",
     "implications": [
-      "Constitutional crisis potential as Congress may challenge presidential war powers without prior authorization",
-      "NATO alliance strain as key allies refuse cooperation, potentially weakening collective security framework",
-      "Regional destabilization as Iran retaliates against previously neutral countries, expanding conflict scope",
-      "Administrative credibility damage from contradictory explanations between President and Secretary of State",
-      "Escalation risk as continued leadership strikes may prompt more aggressive Iranian responses",
-      "International law questions regarding preemptive strikes without clear imminent threat documentation",
-      "Intelligence sharing complications with allies who opposed the strikes",
-      "Domestic political consequences as opposition likely to challenge strike authorization and rationale"
+      "Erosion of NATO unity and transatlantic relations due to unilateral US action and threats against allies",
+      "Potential constitutional crisis over presidential war powers if Congress challenges Trump's authority",
+      "Regional destabilization in the Middle East with multiple countries now engaged in conflict with Iran",
+      "Credibility damage to US diplomatic messaging due to high-level contradictions between President and Secretary of State",
+      "Possible Iranian retaliation against US interests globally, including activation of alleged sleeper cells",
+      "Precedent for future unilateral military action without clear allied support or congressional authorization",
+      "Humanitarian crisis potential with 35,000 reported Iranian protester deaths and ongoing military escalation",
+      "Economic implications from threatened trade cuts with allies like Spain",
+      "Weakening of international law and diplomatic norms regarding preemptive military action"
     ],
-    "generatedAt": "2026-03-03T20:00:22.058Z",
+    "generatedAt": "2026-03-03T23:11:58.996Z",
     "model": "anthropic/claude-sonnet-4"
   },
   "articles": [
@@ -2047,6 +2035,13 @@
       "source": "ABC News",
       "url": "https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492",
       "publishedAt": "Tue, 03 Mar 2026 14:06:30 -0500"
+    },
+    {
+      "id": "44416c97-e1b1-4072-b530-f90c3293f99a",
+      "title": "Trump insists Israel did not force US hand on Iran attack as he meets German chancellor – live",
+      "source": "The Guardian US",
+      "url": "https://www.theguardian.com/us-news/live/2026/mar/03/donald-trump-iran-war-powers-kristi-noem-primaries-friedrich-merz-latest-news-updates",
+      "publishedAt": "Tue, 03 Mar 2026 22:27:21 GMT"
     }
   ],
   "relatedStorylines": [

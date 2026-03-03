@@ -9,38 +9,41 @@
       "Business Insider",
       "BBC World",
       "YouTube: ABC News",
-      "YouTube: CNBC"
+      "YouTube: CNBC",
+      "Al Jazeera"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
   },
   {
     "id": "79b48031-d19b-466a-bb24-6938cd1cc65c",
     "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
-    "text": "Mora Namdar, US assistant secretary of state for consular affairs, issued the advisory",
+    "text": "The advisory was issued by Mora Namdar, US assistant secretary of state for consular affairs",
     "status": "undisputed",
     "supportingSources": [
       "The Guardian US",
-      "Business Insider"
+      "Business Insider",
+      "Al Jazeera"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
   },
   {
-    "id": "45c42678-7951-4ba8-9264-9fddba42c514",
+    "id": "c0bda97b-8474-4b47-a640-3bd4129dcaee",
     "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
-    "text": "Countries included in advisory: Bahrain, Egypt, Iran, Iraq, Israel, West Bank, Gaza, Jordan, Kuwait, Lebanon, Oman, Qatar, Saudi Arabia, Syria, UAE, Yemen",
+    "text": "Countries included in the departure advisory: Bahrain, Egypt, Iran, Iraq, Israel, the West Bank, Gaza, Jordan, Kuwait, Lebanon, Oman, Qatar, Saudi Arabia, Syria, the United Arab Emirates and Yemen",
     "status": "undisputed",
     "supportingSources": [
       "The Guardian US",
       "BBC World",
-      "Business Insider"
+      "Business Insider",
+      "Al Jazeera"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
+    "firstSeenAt": "2026-03-03T23:03:48.978Z",
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
   },
   {
     "id": "3d4efb6c-f2f9-4a2b-8c7f-5c1dba0e2b8e",
@@ -52,23 +55,39 @@
       "Business Insider",
       "BBC World",
       "YouTube: ABC News",
-      "YouTube: CNBC"
+      "YouTube: CNBC",
+      "Al Jazeera",
+      "CNBC"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
   },
   {
     "id": "2ca7fcc1-af00-4a4e-a397-def2fbb31aaa",
     "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
-    "text": "Iran's supreme leader Ayatollah Ali Khamenei was killed in a US-Israeli strike on Saturday",
+    "text": "Ayatollah Ali Khamenei was killed in a US-Israeli strike on Saturday",
     "status": "undisputed",
     "supportingSources": [
       "The Guardian US"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
+  },
+  {
+    "id": "9039e03f-5d23-4a58-8184-8ed12b1999bf",
+    "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
+    "text": "Iran has retaliated by launching missiles toward Israeli and US military facilities in the region",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US",
+      "BBC World",
+      "Al Jazeera"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:03:48.978Z",
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
   },
   {
     "id": "80f35d47-8630-433b-a01f-0fd9aa9e67fd",
@@ -77,24 +96,12 @@
     "status": "undisputed",
     "supportingSources": [
       "The Guardian US",
+      "BBC World",
       "BBC World"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
-  },
-  {
-    "id": "8d28a2c8-9704-4aed-bf7e-0443e7459540",
-    "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
-    "text": "Major airlines have canceled flights to and from the region since Saturday",
-    "status": "undisputed",
-    "supportingSources": [
-      "The Guardian US",
-      "BBC World"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
   },
   {
     "id": "7e5b66bb-b010-4d6a-add2-bcdcff894dfc",
@@ -106,7 +113,21 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
+  },
+  {
+    "id": "4f49c0b8-3426-4952-862e-e8dac0a30eaa",
+    "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
+    "text": "Some 21,300 flights have been cancelled at seven major airports since the strikes started",
+    "status": "disputed",
+    "supportingSources": [
+      "Al Jazeera"
+    ],
+    "disputingSources": [
+      "The Guardian US"
+    ],
+    "firstSeenAt": "2026-03-03T23:03:48.978Z",
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
   },
   {
     "id": "bf93ef70-09d1-409c-ba13-9fae6b560d8f",
@@ -119,19 +140,31 @@
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
   },
   {
     "id": "73f95b14-693b-474a-a6cc-1911efecfd53",
     "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
-    "text": "US Embassy in Qatar advised Americans they were unable to help them evacuate",
+    "text": "US embassy in Qatar advised Americans they were unable to help them evacuate",
     "status": "undisputed",
     "supportingSources": [
       "Business Insider"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
+  },
+  {
+    "id": "665911b5-521f-4e95-9547-accd5a7940a5",
+    "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
+    "text": "US Embassy in Saudi Arabia warned citizens to stay away from its consulate in Dhahran due to threat of imminent missile and UAV attacks",
+    "status": "undisputed",
+    "supportingSources": [
+      "Business Insider"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:03:48.978Z",
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
   },
   {
     "id": "637e53bd-b479-496b-b621-1a76d482bff1",
@@ -139,36 +172,51 @@
     "text": "State Department is actively securing military aircraft and charter flights for American citizens who wish to leave the Middle East",
     "status": "undisputed",
     "supportingSources": [
-      "Business Insider"
+      "Business Insider",
+      "BBC World",
+      "Al Jazeera"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
   },
   {
-    "id": "d7ec3c1c-44ae-493f-a64c-7683bbf6c091",
+    "id": "ddc2ffbc-86f6-4306-be68-338ef127f1a8",
     "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
-    "text": "State Department has been in contact with nearly 3,000 Americans abroad",
+    "text": "State Department has been in direct contact with nearly 3,000 Americans abroad",
     "status": "undisputed",
     "supportingSources": [
-      "Business Insider"
+      "Business Insider",
+      "BBC World",
+      "Al Jazeera"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
+    "firstSeenAt": "2026-03-03T23:03:48.978Z",
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
   },
   {
-    "id": "1a56fbbf-750e-4c0d-9bb8-5a47365e9b1b",
+    "id": "8b4c7baa-d020-4c80-85ad-3a7cb2f3c2d1",
     "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
-    "text": "US Embassy in Saudi Arabia struck by attack drones",
+    "text": "9,000 US citizens have already successfully returned home from the region",
     "status": "undisputed",
     "supportingSources": [
-      "YouTube: ABC News",
-      "YouTube: CNBC"
+      "BBC World"
     ],
     "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
+    "firstSeenAt": "2026-03-03T23:03:48.978Z",
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
+  },
+  {
+    "id": "6008614f-c356-46e9-abd1-ef107ef68e4d",
+    "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
+    "text": "US is sending charter flights to evacuate Americans from the United Arab Emirates, Jordan and Saudi Arabia",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:03:48.978Z",
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
   },
   {
     "id": "7994d04c-fc6e-484e-855c-b0a1aa91e306",
@@ -176,11 +224,11 @@
     "text": "Six US service members have lost their lives in Operation Epic Fury",
     "status": "undisputed",
     "supportingSources": [
-      "YouTube: CNBC"
+      "YouTube: ABC News"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
   },
   {
     "id": "bd05e2a3-68b3-4278-9fb0-5ef6f421c63c",
@@ -188,67 +236,52 @@
     "text": "US forces hit one of Iran's underground nuclear facilities",
     "status": "undisputed",
     "supportingSources": [
-      "YouTube: ABC News",
-      "YouTube: CNBC"
+      "YouTube: ABC News"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
+  },
+  {
+    "id": "4b6b24bc-6e5d-4685-a173-a9cd0dbaab09",
+    "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
+    "text": "Iran hit the US embassy in Riyadh, Saudi Arabia",
+    "status": "undisputed",
+    "supportingSources": [
+      "YouTube: CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:03:48.978Z",
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
   },
   {
     "id": "f8633b00-5d97-495b-bd86-fa8ad77decff",
     "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
-    "text": "Three F-15 jets were shot down by friendly fire",
+    "text": "Three F-15 jets were shot down by friendly fire with an American aviator on the ground in Kuwait",
     "status": "undisputed",
     "supportingSources": [
       "YouTube: ABC News"
     ],
     "disputingSources": [],
     "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
   },
   {
-    "id": "174f7fdd-be24-441a-b393-5f4906ecf54b",
+    "id": "8001077e-7801-4bd6-95a9-8d8673ef61db",
     "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
-    "text": "Nearly 2,000 strikes on Iran across the first 48 hours",
+    "text": "Trump said the conflict happened very quickly and that he thought Iran was going to attack first",
     "status": "undisputed",
-    "supportingSources": [
-      "YouTube: ABC News"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
-  },
-  {
-    "id": "e7b50a9b-b971-43a9-8616-037b42821381",
-    "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
-    "text": "Iran fired at at least 11 countries",
-    "status": "undisputed",
-    "supportingSources": [
-      "YouTube: ABC News"
-    ],
-    "disputingSources": [],
-    "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
-  },
-  {
-    "id": "cc17439e-29d2-47ee-8d04-e8f6d65dca17",
-    "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
-    "text": "Trump said Iran was going to attack first and the US attacked preemptively",
-    "status": "disputed",
     "supportingSources": [
       "YouTube: CNBC"
     ],
-    "disputingSources": [
-      "YouTube: ABC News"
-    ],
-    "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:03:48.978Z",
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
   },
   {
     "id": "746aa74c-e2c2-4c86-ac73-cf58e7cccb94",
     "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
-    "text": "Secretary of State Marco Rubio said the attacks were preemptive after Israel informed the US of planned strikes",
+    "text": "Secretary of State Marco Rubio said the attacks were preemptive and that the US was aware Israel was about to attack Iran",
     "status": "disputed",
     "supportingSources": [
       "YouTube: ABC News",
@@ -258,6 +291,67 @@
       "YouTube: CNBC"
     ],
     "firstSeenAt": "2026-03-03T19:54:14.792Z",
-    "lastUpdatedAt": "2026-03-03T19:54:14.792Z"
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
+  },
+  {
+    "id": "f1699395-661e-407e-a8a9-adbc07e3b314",
+    "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
+    "text": "Iran has closed the Strait of Hormuz",
+    "status": "undisputed",
+    "supportingSources": [
+      "YouTube: ABC News",
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:03:48.978Z",
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
+  },
+  {
+    "id": "c031af9e-2ac9-4caf-9aac-28be0821ceb8",
+    "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
+    "text": "About 400,000 French nationals are thought to be in the Middle East",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:03:48.978Z",
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
+  },
+  {
+    "id": "49d0f784-8e60-4454-bc94-a9e247efcbb8",
+    "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
+    "text": "An estimated 300,000 British citizens are in the region",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:03:48.978Z",
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
+  },
+  {
+    "id": "ab62d559-4eb6-4d5f-9db4-c53f12aa5483",
+    "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
+    "text": "Dubai Airport remained closed or severely restricted for a fourth day on Tuesday",
+    "status": "undisputed",
+    "supportingSources": [
+      "Al Jazeera"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:03:48.978Z",
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
+  },
+  {
+    "id": "f643c511-a5c4-47c7-8d34-baaeed5cadb4",
+    "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
+    "text": "The UAE said 60 flights had taken off, operating in dedicated emergency air corridors",
+    "status": "undisputed",
+    "supportingSources": [
+      "Al Jazeera"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T23:03:48.978Z",
+    "lastUpdatedAt": "2026-03-03T23:03:48.978Z"
   }
 ]
