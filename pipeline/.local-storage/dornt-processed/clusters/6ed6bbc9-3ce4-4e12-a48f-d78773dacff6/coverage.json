@@ -1,0 +1,65 @@
+{
+  "clusterId": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
+  "frames": [
+    {
+      "name": "Humanitarian Crisis Frame",
+      "description": "Focuses on stranded Americans struggling to evacuate, emphasizing human suffering and government abandonment",
+      "sources": [
+        "The Guardian US",
+        "BBC World"
+      ],
+      "emphasis": "Personal stories of stranded citizens, lack of government evacuation assistance, and humanitarian impact on civilians"
+    },
+    {
+      "name": "Government Failure Frame",
+      "description": "Highlights US government's inability or unwillingness to help evacuate citizens despite issuing departure warnings",
+      "sources": [
+        "Business Insider",
+        "The Guardian US"
+      ],
+      "emphasis": "Embassy statements saying they cannot help evacuate citizens, lack of organized evacuation flights, and government abandonment"
+    },
+    {
+      "name": "Military Escalation Frame",
+      "description": "Presents the story as part of broader US-Iran military conflict with focus on strategic implications",
+      "sources": [
+        "ABC News",
+        "CNBC"
+      ],
+      "emphasis": "Military operations, casualty counts, nuclear facilities targeted, and strategic military planning"
+    },
+    {
+      "name": "International Comparison Frame",
+      "description": "Contrasts US response with other nations' evacuation efforts for their citizens",
+      "sources": [
+        "The Guardian US",
+        "BBC World"
+      ],
+      "emphasis": "UK and France organizing evacuation flights while US has not, highlighting comparative government responses"
+    },
+    {
+      "name": "Practical Advisory Frame",
+      "description": "Treats story as informational guide for Americans needing to leave the region",
+      "sources": [
+        "Business Insider"
+      ],
+      "emphasis": "Contact numbers, procedures, embassy guidance, and practical steps for evacuation"
+    }
+  ],
+  "outlierPerspectives": [
+    "Trump's justification that Iran was preparing to attack first, presented without evidence verification (CNBC)",
+    "Focus on friendly fire incident with US F-15 jets shot down by allied forces (ABC News)",
+    "Detailed coverage of oil market implications and Strait of Hormuz closure (ABC News)"
+  ],
+  "missingContext": [
+    "Historical precedent for US citizen evacuations in similar conflicts",
+    "Legal obligations of US government to assist citizens abroad during emergencies",
+    "Detailed timeline of how the US-Iran conflict escalated to this point",
+    "Comparison of evacuation capabilities and resources between US and other nations",
+    "Analysis of why commercial flights were cancelled but government evacuation flights were not arranged",
+    "Economic impact on stranded citizens (costs, lost income, etc.)",
+    "Verification of casualty figures and military claims from independent sources"
+  ],
+  "generatedAt": "2026-03-03T19:54:11.450Z",
+  "model": "anthropic/claude-sonnet-4"
+}

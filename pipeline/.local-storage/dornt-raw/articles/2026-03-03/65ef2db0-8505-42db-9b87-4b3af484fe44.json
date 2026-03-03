@@ -1,0 +1,16 @@
+{
+  "id": "65ef2db0-8505-42db-9b87-4b3af484fe44",
+  "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/huawei_takes_ai_datacenters_global/",
+  "normalizedUrl": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/huawei_takes_ai_datacenters_global",
+  "title": "Huawei brings its flatpack AI datacenters, packed full of Chinese chips, to the world",
+  "source": "The Register",
+  "feedUrl": "https://www.theregister.com/headlines.atom",
+  "publishedAt": "2026-03-03T02:49:25.000Z",
+  "fetchedAt": "2026-03-03T19:21:12.673Z",
+  "author": "Simon Sharwood",
+  "contentHash": "153af19fe0c79e09",
+  "fullText": "As the AI boom rages, investors and buyers have thrown cash at anyone that even looks capable of selling them hardware capable of crunching tokens at speed. And now they have a new option: China’s Huawei.\nAt home, Huawei offers an “Intelligent Computing Platform” that includes its storage, servers powered by its own Kunpeng CPUs and homebrew Ascend GPUs. Tests of those devices suggest their performance can’t match 5th-gen processors from Intel or AMD, and significantly lag Nvidia’s 2022 Hopper architecture.\nBut Huawei has decided to start selling them outside China anyway, with a promise that it has the smarts to prepare a datacenter to host its kit in four to six months – which it claims is a couple of months faster than others can manage – thanks to its clever integration of power supplies, cooling infrastructure, and cabling. The company also claims it can deliver 1,024-node super-clusters within 15 days and achieve 99.99 percent uptime thanks in part to systems that detect faults before they impact performance.\n\n \n\nAt Mobile World Congress in Barcelona, the Chinese tech giant asserted it is therefore an option for rapid rollouts of AI infrastructure.\n\n \n\nThat’s not an unsupportable assertion because the company can point to Chinese customers who say they trained models using only Huawei kit, even if they did so without revealing details of the hardware involved.\n\nEU considers whether there's Huawei of axing Chinese kit from networks within 3 years\n\nChina turns on a vast experimental network it says is an heir to ARPANET\n\nBaidu answers China's call for home-grown silicon with custom AI accelerators\n\nHuawei used its own silicon to re-educate DeepSeek so its output won’t bother Beijing\n\nAnother challenge for Huawei to overcome is its pariah in the West, as nations including the USA and UK have declared it an unacceptable risk to national security.\nBut plenty of other countries still welcome the company, and those nations are likely well down the list of markets that companies such as Nvidia and AMD prioritize for GPU sales – meaning Huawei might be a more viable supplier.\nHuawei will therefore find willing buyers around the world and perhaps see its infrastructure used to power major applications – an assertion The Register makes because we are aware that a flock of small neo-clouds are winning customers who are happy to work with a diverse pool of suppliers and to forage for scarce AI infrastructure resources. ®",
+  "categories": [
+    "tech"
+  ]
+}

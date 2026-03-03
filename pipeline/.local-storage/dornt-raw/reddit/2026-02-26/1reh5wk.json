@@ -1,0 +1,64 @@
+{
+  "id": "1reh5wk",
+  "subreddit": "geopolitics",
+  "title": "AIs can’t stop recommending nuclear strikes in war game simulations",
+  "url": "https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/",
+  "selftext": "",
+  "author": "Jpahoda",
+  "score": 79,
+  "numComments": 41,
+  "createdUtc": 1772035238,
+  "permalink": "https://reddit.com/r/geopolitics/comments/1reh5wk/ais_cant_stop_recommending_nuclear_strikes_in_war/",
+  "fetchedAt": "2026-02-26T01:23:07.695Z",
+  "topComments": [
+    {
+      "id": "o7coy9k",
+      "author": "airmantharp",
+      "body": "Why wouldn't the computer push the 'I win' button when you provide it?",
+      "score": 62,
+      "createdUtc": 1772037539
+    },
+    {
+      "id": "o7cvuj1",
+      "author": "Yankee9Niner",
+      "body": "How about a nice game of chess?",
+      "score": 53,
+      "createdUtc": 1772039431
+    },
+    {
+      "id": "o7cndg1",
+      "author": "Sustructu",
+      "body": "Well, didn't Able Archer 83 had the same conclusion, but then with real human beings?",
+      "score": 51,
+      "createdUtc": 1772037113
+    },
+    {
+      "id": "o7chqvi",
+      "author": "Marginallyhuman",
+      "body": "If the AIs can’t comprehend the implications of even one nuclear strike then they are toddler AIs and the wonks who set them to the task of war games are the idiots.",
+      "score": 32,
+      "createdUtc": 1772035577
+    },
+    {
+      "id": "o7ctjyy",
+      "author": "lieutenant-dan416",
+      "body": "Probably trained on my runs of Civ 2",
+      "score": 30,
+      "createdUtc": 1772038791
+    },
+    {
+      "id": "o7dcwpb",
+      "author": "Smalahove1",
+      "body": "Its a large language model.......\n\nIts a text parrot...\n\nTrue AI we are very far from.",
+      "score": 14,
+      "createdUtc": 1772044051
+    },
+    {
+      "id": "o7dnmit",
+      "author": "No-Understanding2406",
+      "body": "i think people are drawing exactly the wrong conclusion from this study. the finding is not that AI is uniquely dangerous in nuclear decision-making. the finding is that AI models optimize for the stated objective function, and when you frame a war game as \"win the conflict,\" the model correctly identifies that nuclear weapons are the most efficient path to winning.\n\nthe reason human decision-makers do not select nuclear strikes in 95% of wargame scenarios is not because humans are smarter. it is because humans carry context the model does not have: political survival instincts, fear of personal death, emotional weight of killing millions, institutional memory of hiroshima. these are not rational inputs - they are biases, and in this specific case they are biases that keep us alive.\n\nairmantharp is asking the right question. if you give an optimizer an \"I win\" button with no penalty function for the consequences, it will push it every time. the real lesson here is about objective specification, not AI safety in the abstract. the models are not broken. the simulation is broken because it does not encode the things that actually prevent nuclear use in the real world: second-strike capability, domestic political costs, alliance collapse, civilizational guilt.\n\nthis is basically the paperclip maximizer problem but with ICBMs.",
+      "score": 13,
+      "createdUtc": 1772046956
+    }
+  ]
+}

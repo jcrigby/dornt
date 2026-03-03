@@ -1,0 +1,56 @@
+{
+  "clusterId": "ff5078a2-bb36-4878-ad61-12396a10b8ac",
+  "frames": [
+    {
+      "name": "Platform Enforcement Frame",
+      "description": "Focuses on Kalshi as a responsible platform taking action against rule violations, emphasizing their surveillance systems and enforcement mechanisms",
+      "sources": [
+        "The Verge",
+        "TechCrunch"
+      ],
+      "emphasis": "Kalshi's detection capabilities, investigation process, and disciplinary actions as evidence of platform self-regulation"
+    },
+    {
+      "name": "Insider Trading Violation Frame",
+      "description": "Presents the story as a straightforward case of policy violations and rule-breaking in prediction markets",
+      "sources": [
+        "The Hill",
+        "The Verge",
+        "TechCrunch"
+      ],
+      "emphasis": "The specific violations, fines imposed, and suspension periods as enforcement of existing rules"
+    },
+    {
+      "name": "Market Integrity Concerns Frame",
+      "description": "Contextualizes the incident within broader concerns about prediction market manipulation and the challenges of ensuring fair trading",
+      "sources": [
+        "The Verge",
+        "TechCrunch"
+      ],
+      "emphasis": "Growing concerns about insider trading in prediction markets, regulatory attention, and the difficulty of monitoring vast markets"
+    },
+    {
+      "name": "Corporate Response Frame",
+      "description": "Highlights MrBeast's company response and their existing policies regarding employee participation in prediction markets",
+      "sources": [
+        "TechCrunch"
+      ],
+      "emphasis": "Beast Industries' zero-tolerance policy, internal investigation, and extension of rules to contestants on their Amazon show"
+    }
+  ],
+  "outlierPerspectives": [
+    "Beast Industries' call for greater transparency from Kalshi in sharing investigation findings for future prevention",
+    "The specific mention of contestants on MrBeast's Amazon Prime show 'Beast Games' being prohibited from related betting",
+    "Kalshi's decision to donate the fine to a consumer education nonprofit"
+  ],
+  "missingContext": [
+    "Details about what specific markets or bets Kaptur placed that triggered the investigation",
+    "Information about MrBeast's (Jimmy Donaldson's) personal response or knowledge of the situation",
+    "Comparison to traditional securities insider trading penalties and how prediction market violations are typically handled",
+    "Details about Kalshi's surveillance systems and how they detected the 'statistically anomalous' trading patterns",
+    "Information about the other 200+ investigations Kalshi mentioned conducting",
+    "Context about the regulatory status of prediction markets and oversight mechanisms beyond platform self-regulation"
+  ],
+  "generatedAt": "2026-02-26T18:30:56.985Z",
+  "model": "anthropic/claude-sonnet-4"
+}

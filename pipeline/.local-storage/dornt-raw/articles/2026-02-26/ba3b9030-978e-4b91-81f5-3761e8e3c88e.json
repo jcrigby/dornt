@@ -1,0 +1,17 @@
+{
+  "id": "ba3b9030-978e-4b91-81f5-3761e8e3c88e",
+  "url": "https://www.wired.com/review/kubuntu-focus-zr-gen-1-linux-laptop/",
+  "normalizedUrl": "https://wired.com/review/kubuntu-focus-zr-gen-1-linux-laptop",
+  "title": "Kubuntu Focus Zr Gen 1 Review: A Powerhouse Linux Laptop",
+  "source": "Wired",
+  "feedUrl": "https://www.wired.com/feed/rss",
+  "publishedAt": "Wed, 25 Feb 2026 11:30:00 +0000",
+  "fetchedAt": "2026-02-26T17:24:34.917Z",
+  "author": "Scott Gilbertson",
+  "contentHash": "aec0fdd77c7383cc",
+  "fullText": "Inside, the Zr Gen 1 features an Intel Core Ultra 9 275HX, with 24 cores, an RTX 5090 graphics card, 24 GB GDDR7 RAM (expandable up to 192 GB), and two SSDs, one with a capacity of 1 TB and the other with 2 TB. (You can have up to four drives, one of them being a PCIe GEN 5x4 NVMe.) Along with the discrete GPU, there's an integrated one as well, which means you can turn off the discrete one to maximize battery life. I spent about 90 percent of the time with the discrete card off and just turned it on when editing photos and video.Thanks to the size of the Zr, there's plenty of room for a full size keyboard with a numeric pad. The keyboard is user-configurable and features a 65,536-color LED backlight system that you can tweak to your liking with the Focus tool. Typing on the keyboard is comfortable. There's 3.5 mm of travel to the keys, so they're plenty springy and responsive. As is generally the case with dedicated Linux laptops, there's a Kubuntu (gear icon) key rather than a Windows key.Did I mention the Zr Gen 1 weighs 8 pounds? It is a big thing, too big for a shoulder bag. You'll definitely want a backpack for this one, but even then this isn't the sort of thing you bring to the coffee shop. It's more the sort of thing you cart to the lab and back, or perhaps just leave on your desk connected to your home lab. To that end I would say that, when I tell you battery life averaged around four hours, I would also add that it doesn't matter. This isn't a laptop you carry around. That you can take it to the couch and watch a movie on it when you want is an added bonus, but not really the point of the machine.What is the point of a laptop like this? Anything that requires serious computing power, be it machine learning (running TensorFlow), local LLMs, big data crunching workflows, even high-end video editing. I should note that Davinci Resolve ran unlike it has ever run on anything else when I installed it on the Zr Gen 1. I always thought everyone had to wait a couple of seconds before applying a LUT to a large clip. It turns out that can be instantaneous, if you have the GPU for it. I wouldn't go so far as to say you could edit video without proxy clips, but … maybe you could, depending on the length of your clips.Bring It in FocusPhotograph: Scott GilbertsonThe advantage of buying a laptop with Linux support is that you don't have to deal with the potential complexities of managing a Linux system. I am typing this on an Arch-based machine. If I install an update right now and it breaks vim, or tmux, or rxvt-unicode, or any other bit of software from the kernel all the way up to these three, fixing that is on me. What Kubuntu Focus offers is that you don't have to worry about any of that stuff breaking.",
+  "summary": "Need the power of a Linux desktop in a laptop? Kubuntu Focus’ latest laptop is perfect for developers, video editors, and anyone who needs serious computing power.",
+  "categories": [
+    "tech"
+  ]
+}

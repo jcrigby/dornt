@@ -1,0 +1,79 @@
+{
+  "clusterId": "49654a5d-cd09-434c-807b-ceabe4aaae74",
+  "stakeholders": [
+    {
+      "name": "Bill Clinton",
+      "role": "Former U.S. President and deposition witness",
+      "position": "Denies knowledge of Epstein's crimes; claims relationship ended in 2003",
+      "influence": "high"
+    },
+    {
+      "name": "Hillary Clinton",
+      "role": "Former Secretary of State and deposition witness",
+      "position": "Claims no memory of meeting Epstein",
+      "influence": "high"
+    },
+    {
+      "name": "House Oversight Committee",
+      "role": "Congressional investigative body",
+      "position": "Seeking information about Epstein connections",
+      "influence": "medium"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "Former President mentioned in testimony",
+      "position": "Previously acknowledged knowing Epstein but claims they 'fell out'",
+      "influence": "high"
+    },
+    {
+      "name": "Jeffrey Epstein victims and advocacy groups",
+      "role": "Seeking accountability and transparency",
+      "position": "Likely seeking full disclosure of all Epstein connections",
+      "influence": "medium"
+    },
+    {
+      "name": "Department of Justice",
+      "role": "Law enforcement agency with Epstein files",
+      "position": "Provider of evidence including photographs",
+      "influence": "high"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "Additional depositions of other high-profile Epstein associates will be released",
+      "likelihood": "likely",
+      "timeframe": "next 3-6 months",
+      "basis": "House Oversight Committee appears to be conducting systematic investigation"
+    },
+    {
+      "text": "Political opponents will use testimony for campaign attacks in 2024 election cycle",
+      "likelihood": "likely",
+      "timeframe": "immediate to November 2024",
+      "basis": "High-profile nature of witnesses and proximity to election"
+    },
+    {
+      "text": "Legal challenges to deposition releases or additional testimony requests",
+      "likelihood": "possible",
+      "timeframe": "next 2-3 months",
+      "basis": "Privacy concerns and potential executive privilege claims"
+    },
+    {
+      "text": "Further congressional hearings on Epstein connections",
+      "likelihood": "possible",
+      "timeframe": "next 6 months",
+      "basis": "Committee's apparent ongoing investigation and public interest"
+    }
+  ],
+  "historicalContext": "This testimony connects to the broader Jeffrey Epstein scandal that emerged publicly in 2008 with his initial guilty plea, intensified in 2019 with new federal charges, and continued after his death in federal custody. Epstein's connections to powerful figures including politicians, business leaders, and celebrities have been subject of ongoing scrutiny. The House Oversight Committee's investigation represents the most formal congressional examination of these relationships to date. Clinton's association with Epstein has been documented since at least 2016 when flight logs became public, but this marks his first sworn testimony on the matter.",
+  "implications": [
+    "Sets precedent for congressional oversight of former presidents' private associations",
+    "May influence public perception of Clinton legacy and Democratic Party ahead of 2024 elections",
+    "Could prompt additional investigations into other Epstein associates",
+    "Raises questions about vetting processes for high-level political figures' associations",
+    "May impact ongoing civil litigation involving Epstein victims",
+    "Demonstrates continued congressional interest in Epstein case despite his death",
+    "Could influence public trust in political institutions and elite accountability"
+  ],
+  "generatedAt": "2026-03-03T19:52:02.968Z",
+  "model": "anthropic/claude-sonnet-4"
+}

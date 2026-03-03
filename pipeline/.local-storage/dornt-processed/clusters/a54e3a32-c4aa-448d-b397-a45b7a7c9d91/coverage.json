@@ -1,0 +1,52 @@
+{
+  "clusterId": "a54e3a32-c4aa-448d-b397-a45b7a7c9d91",
+  "frames": [
+    {
+      "name": "Brain drain/emigration crisis",
+      "description": "Frames Ardern's move as part of a broader pattern of New Zealand citizens leaving due to economic conditions",
+      "sources": [
+        "The Guardian World",
+        "NYT World"
+      ],
+      "emphasis": "Record emigration numbers, weak economy, high living costs, and unemployment driving departures to Australia"
+    },
+    {
+      "name": "Personal/family decision",
+      "description": "Presents the move as a routine family relocation for work opportunities and proximity to New Zealand",
+      "sources": [
+        "The Guardian World"
+      ],
+      "emphasis": "Work opportunities in Australia and the 'added bonus of more time back home in New Zealand'"
+    },
+    {
+      "name": "Post-leadership transition",
+      "description": "Contextualizes the move within normal patterns of former leaders spending time overseas",
+      "sources": [
+        "The Guardian World"
+      ],
+      "emphasis": "It's 'not unusual for former leaders to spend time overseas after leaving office'"
+    },
+    {
+      "name": "Symbolic representation",
+      "description": "Frames Ardern as representative of broader demographic trends",
+      "sources": [
+        "NYT World"
+      ],
+      "emphasis": "Ardern as 'part of a wave of Kiwis relocating to their larger neighbor'"
+    }
+  ],
+  "outlierPerspectives": [
+    "Detailed biographical context of Ardern's political legacy and challenges during her tenure (only in Guardian coverage)",
+    "Specific mention of Sydney's northern beaches property viewings as the trigger for speculation"
+  ],
+  "missingContext": [
+    "Specific details about what work Ardern is doing in Australia",
+    "Timeline of when the family actually moved",
+    "Comparison of emigration rates under different New Zealand governments",
+    "Australian government or public reaction to high-profile New Zealand arrivals",
+    "Economic data comparing living costs and wages between the two countries",
+    "Ardern's own statements about the move rather than just spokesperson comments"
+  ],
+  "generatedAt": "2026-02-26T18:20:38.926Z",
+  "model": "anthropic/claude-sonnet-4"
+}

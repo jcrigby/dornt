@@ -1,0 +1,17 @@
+{
+  "id": "0a682a0a-c1d3-4014-af55-f5a1f09dca8d",
+  "url": "https://www.engadget.com/computing/apple-unveils-the-m5-pro-and-m5-max-chips-which-feature-new-faster-super-cores-141533420.html?src=rss",
+  "normalizedUrl": "https://engadget.com/computing/apple-unveils-the-m5-pro-and-m5-max-chips-which-feature-new-faster-super-cores-141533420.html?src=rss",
+  "title": "Apple unveils the M5 Pro and M5 Max chips, which feature new, faster 'super cores'",
+  "source": "Engadget",
+  "feedUrl": "https://www.engadget.com/rss.xml",
+  "publishedAt": "Tue, 03 Mar 2026 14:26:13 +0000",
+  "fetchedAt": "2026-03-03T19:21:18.715Z",
+  "author": "Cherlynn Low",
+  "contentHash": "140dd9f45836462d",
+  "fullText": "As part of its big week of announcements, Apple has unveiled a new pair of M5 chips alongside two new MacBooks. The new M5 Pro and M5 Max chips will power the new MacBook Pro that was just announced today, while the new MacBook Air comes with the base M5. According to the company’s press release, the M5 Pro and M5 Max come with an “advanced GPU with Neural Accelerators and higher unified memory bandwidth for a massive increase in AI compute.”At the heart of the M5 Pro and M5 Max are what Apple is calling a new “Fusion Architecture” that “combines two dies into a single system on a chip (SoC).” The chips both feature a new 18-core CPU, six of which Apple is now calling “super cores, that are the word’s fastest CPU core.”The other 12 are “all-new performance cores, optimized for power-efficient, multithreaded workloads.” Altogether, Apple says these CPU changes improve performance by “up to 30 percent for pro workloads.” Meanwhile, the GPU is a jump over the next-gen design we saw in the M5, as it goes to up to 40 cores. Each GPU core has a Neural Accelerator in it, and together with the higher unified memory bandwidth, the company says the M5 Pro and M5 Max offer “over 4x the peak GPU compute for AI compared to the previous generation.”Apple added that graphics performance is also getting a substantial boost, by up to “35 percent for apps using ray tracing” compared to the M4 Pro and M4 Max.To be clear, this isn’t the first time Apple has claimed it has the “world’s fastest” core. According to our resident Apple Silicon expert Devindra Hardawar, the benchmarks have proven the company’s claims true. It’s also worth noting that the two-die design isn’t novel or unique, as companies like Intel and AMD have been doing similar.The M5 Pro and M5 Max will first show up in the new MacBook Pro, which is available for pre-order starting March 4, and will arrive on Wednesday, March 11.If you buy something through a link in this article, we may earn commission.",
+  "summary": "As part of its big week of announcements, Apple has unveiled a new pair of M5 chips alongside two new MacBooks. The new M5 Pro and M5 Max chips will power the new MacBook Pro that was just announced today, while the new MacBook Air comes with the base M5. According to the company’s press release, the M5 Pro and M5 Max come with an “advanced GPU with Neural Accelerators and higher unified memory bandwidth for a massive increase in AI compute.”\nAt the heart of the M5 Pro and M5 Max are what Apple ",
+  "categories": [
+    "tech"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "1rf8ri9",
+  "subreddit": "technology",
+  "title": "Hacker used Anthropic's Claude chatbot to attack multiple government agencies in Mexico: This resulted in the theft of tax and voter information.",
+  "url": "https://www.engadget.com/ai/hacker-used-anthropics-claude-chatbot-to-attack-multiple-government-agencies-in-mexico-171237255.html?utm_source=newsletter.theresanaiforthat.com&amp;utm_medium=newsletter&amp;utm_campaign=claude-robs-a-government&amp;_bhlid=45a39bafd6026a0af9461e9526d6253eeff35e94&amp;guccounter=1",
+  "selftext": "",
+  "author": "Vrgom20",
+  "score": 202,
+  "numComments": 14,
+  "createdUtc": 1772108624,
+  "permalink": "https://reddit.com/r/technology/comments/1rf8ri9/hacker_used_anthropics_claude_chatbot_to_attack/",
+  "fetchedAt": "2026-02-26T17:22:20.033Z",
+  "topComments": [
+    {
+      "id": "o7i8iwl",
+      "author": "ACasualRead",
+      "body": "Hence why the current Trump federal administration is so desperate to force Anthropic to kill off its AI safety guardrails. They wanna do the same thing to states and blue city voter logs.",
+      "score": 27,
+      "createdUtc": 1772110448
+    },
+    {
+      "id": "o7iodh0",
+      "author": "shk2096",
+      "body": "How do they do this? I can’t even get Claude to discuss age verification",
+      "score": 12,
+      "createdUtc": 1772115819
+    },
+    {
+      "id": "o7ikviw",
+      "author": "EnigmaFilms",
+      "body": "So is anthropic a co-conspirator in this case I mean that data is probably on their hard drive somewhere",
+      "score": 6,
+      "createdUtc": 1772114710
+    },
+    {
+      "id": "o7j27ei",
+      "author": "trooperjess",
+      "body": "Isnt this the company that the government wants to take over?",
+      "score": 3,
+      "createdUtc": 1772119933
+    },
+    {
+      "id": "o7j84r9",
+      "author": "virtual_adam",
+      "body": "These articles are just made to confuse people. Opus didn’t “hack” anyone or anything. It wrote code. Code that was already in one way or another in its training set\n\nClaude’s strongest models are **really** good at writing code, so this shouldn’t surprise anyone, and probably happens hundreds of times daily without news reports",
+      "score": 1,
+      "createdUtc": 1772121568
+    }
+  ]
+}

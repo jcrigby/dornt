@@ -1,0 +1,71 @@
+{
+  "clusterId": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
+  "frames": [
+    {
+      "name": "Energy Crisis Frame",
+      "description": "Focuses on the immediate impact on oil and gas prices, supply disruptions, and the closure of the Strait of Hormuz",
+      "sources": [
+        "NYT Politics",
+        "DW",
+        "France 24",
+        "ABC News",
+        "Yahoo Finance",
+        "NBC News"
+      ],
+      "emphasis": "Supply chain disruptions, price volatility, and the strategic importance of the Strait of Hormuz"
+    },
+    {
+      "name": "Economic Contagion Frame",
+      "description": "Emphasizes broader market impacts including stock market declines, inflation concerns, and global economic ripple effects",
+      "sources": [
+        "France 24",
+        "NBC News",
+        "Yahoo Finance"
+      ],
+      "emphasis": "Market volatility, inflation fears, interest rate implications, and global economic stability"
+    },
+    {
+      "name": "Consumer Impact Frame",
+      "description": "Focuses on direct effects on American consumers, particularly rising gas prices and practical advice",
+      "sources": [
+        "ABC News"
+      ],
+      "emphasis": "Immediate consumer costs, gas price increases, and practical consumer guidance"
+    },
+    {
+      "name": "Geopolitical Escalation Frame",
+      "description": "Presents the story as an expanding regional conflict with uncertain duration and scope",
+      "sources": [
+        "NBC News",
+        "France 24"
+      ],
+      "emphasis": "Military escalation, regional spread of conflict, and uncertainty about conflict duration"
+    },
+    {
+      "name": "Infrastructure Vulnerability Frame",
+      "description": "Highlights attacks on specific energy infrastructure and facilities across the Gulf region",
+      "sources": [
+        "DW",
+        "France 24"
+      ],
+      "emphasis": "Physical damage to oil refineries, gas processing facilities, and energy infrastructure"
+    }
+  ],
+  "outlierPerspectives": [
+    "China's diplomatic pressure on Iran to keep the Strait of Hormuz open (DW only)",
+    "Specific insurance industry response with named companies canceling war risk coverage (DW only)",
+    "Iraq shutting down oil production due to shipping bottlenecks (ABC News only)",
+    "Travel disruptions and stranded passengers in Dubai (NBC News only)"
+  ],
+  "missingContext": [
+    "Historical precedent for similar energy crises and their duration",
+    "Alternative shipping routes and their capacity to handle diverted oil traffic",
+    "Strategic petroleum reserve levels and release policies",
+    "Detailed breakdown of which countries are most vulnerable to supply disruptions",
+    "Timeline and background of events leading to the current escalation",
+    "Analysis of Iran's actual military capabilities versus threats",
+    "Role of other major oil producers in potentially offsetting supply losses"
+  ],
+  "generatedAt": "2026-03-03T19:50:47.136Z",
+  "model": "anthropic/claude-sonnet-4"
+}

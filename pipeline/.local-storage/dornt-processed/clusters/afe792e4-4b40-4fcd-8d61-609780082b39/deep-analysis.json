@@ -1,0 +1,91 @@
+{
+  "clusterId": "afe792e4-4b40-4fcd-8d61-609780082b39",
+  "stakeholders": [
+    {
+      "name": "Børge Brende",
+      "role": "Former WEF President/CEO",
+      "position": "Resigned citing Epstein connections as distraction; maintains innocence of wrongdoing",
+      "influence": "medium"
+    },
+    {
+      "name": "World Economic Forum",
+      "role": "Global organization hosting Davos",
+      "position": "Accepted resignation; conducted independent review finding no additional concerns",
+      "influence": "high"
+    },
+    {
+      "name": "Alois Zwinggi",
+      "role": "Interim WEF President/CEO",
+      "position": "Stepping into leadership role during transition",
+      "influence": "medium"
+    },
+    {
+      "name": "WEF Board of Trustees",
+      "role": "Governing body",
+      "position": "Overseeing permanent successor selection process",
+      "influence": "high"
+    },
+    {
+      "name": "André Hoffmann and Larry Fink",
+      "role": "WEF Co-chairs",
+      "position": "Expressed appreciation for Brende's service while respecting resignation decision",
+      "influence": "high"
+    },
+    {
+      "name": "US Department of Justice",
+      "role": "Government agency",
+      "position": "Released documents revealing Epstein connections",
+      "influence": "high"
+    },
+    {
+      "name": "Norwegian Government",
+      "role": "Brende's former employer",
+      "position": "Facing scrutiny over multiple officials' Epstein connections",
+      "influence": "medium"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "WEF will announce permanent CEO within 3-6 months",
+      "likelihood": "likely",
+      "timeframe": "3-6 months",
+      "basis": "Organizations typically move quickly to fill leadership vacancies, especially high-profile ones"
+    },
+    {
+      "text": "Additional resignations from other organizations as Epstein document releases continue",
+      "likelihood": "likely",
+      "timeframe": "Next 6-12 months",
+      "basis": "Pattern already established with Summers, Pritzker, and Brende resignations following document releases"
+    },
+    {
+      "text": "Increased scrutiny of WEF's vetting processes for leadership and participants",
+      "likelihood": "likely",
+      "timeframe": "Immediate to 6 months",
+      "basis": "High-profile resignation will prompt governance review and media attention"
+    },
+    {
+      "text": "Norwegian political investigations into Epstein connections expand",
+      "likelihood": "possible",
+      "timeframe": "6-12 months",
+      "basis": "Multiple Norwegian officials implicated, including charges against Jagland"
+    },
+    {
+      "text": "Brende faces further legal or professional consequences",
+      "likelihood": "unlikely",
+      "timeframe": "12+ months",
+      "basis": "Independent review found no additional concerns; resignation appears to be damage control rather than admission of wrongdoing"
+    }
+  ],
+  "historicalContext": "This resignation is part of a broader reckoning with Jeffrey Epstein's extensive network of elite connections that has unfolded since his 2019 arrest and death. The release of court documents and ongoing investigations have systematically exposed relationships between Epstein and prominent figures across politics, business, and academia. Previous high-profile departures include MIT's Joi Ito (2019), Harvard's Martin Nowak (2020), and most recently Larry Summers and Thomas Pritzker in 2024. The pattern demonstrates how Epstein's conviction in 2008 and subsequent activities continued to compromise elite networks, with many claiming ignorance of his crimes while maintaining professional relationships. The Norwegian connection is particularly significant, as multiple officials including former PM Jagland now face scrutiny, suggesting Epstein cultivated systematic relationships within Norway's political establishment.",
+  "implications": [
+    "Reputational damage to WEF's credibility as convener of global elites, potentially affecting attendance and influence at future Davos meetings",
+    "Increased pressure on organizations to implement more rigorous background checks and due diligence processes for leadership positions",
+    "Growing legal and political scrutiny of Norwegian officials' connections to Epstein, potentially destabilizing political careers",
+    "Demonstration that Epstein document releases continue to have real consequences years after his death, encouraging further investigations",
+    "Potential for reduced trust in elite global institutions as more connections to convicted criminals are revealed",
+    "Precedent set for resignation as preferred damage control strategy when Epstein connections are exposed",
+    "Increased media and public attention on the vetting processes of international organizations and their leadership selection criteria"
+  ],
+  "generatedAt": "2026-02-26T18:23:57.829Z",
+  "model": "anthropic/claude-sonnet-4"
+}

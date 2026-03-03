@@ -1,0 +1,62 @@
+{
+  "clusterId": "2febfd95-9de2-4dfd-a778-f70ecae1e798",
+  "frames": [
+    {
+      "name": "Human tragedy and rescue operations",
+      "description": "Focuses on personal stories of loss, rescue efforts, and the immediate human impact of the disaster",
+      "sources": [
+        "The Guardian World",
+        "Al Jazeera"
+      ],
+      "emphasis": "Individual victims' stories, family grief, rescue worker efforts, and community response"
+    },
+    {
+      "name": "Emergency response and government action",
+      "description": "Highlights official response measures, emergency declarations, and government assistance",
+      "sources": [
+        "The Guardian World",
+        "Al Jazeera"
+      ],
+      "emphasis": "State of emergency declarations, presidential response, humanitarian assistance, and official casualty figures"
+    },
+    {
+      "name": "Meteorological record-breaking event",
+      "description": "Presents the disaster as an unprecedented weather event with specific rainfall measurements",
+      "sources": [
+        "The Guardian World"
+      ],
+      "emphasis": "Record rainfall statistics (584mm in February), wettest February on record, extreme weather context"
+    },
+    {
+      "name": "Systemic vulnerability and inequality",
+      "description": "Frames the disaster within broader patterns of social vulnerability and inadequate public support",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "emphasis": "Lack of government support for communities, higher risk for poorer populations, systemic issues"
+    },
+    {
+      "name": "Climate change context",
+      "description": "Connects the event to broader climate change patterns and extreme weather trends",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "emphasis": "Scientists' attribution to climate change, increasing severity and frequency of extreme weather"
+    }
+  ],
+  "outlierPerspectives": [
+    "Regional context linking to Peru's simultaneous flooding emergency",
+    "Explicit connection between poverty and disaster vulnerability",
+    "Scientific attribution to climate change as a contributing factor"
+  ],
+  "missingContext": [
+    "Historical flood patterns in Minas Gerais region",
+    "Infrastructure and urban planning factors that may have contributed to vulnerability",
+    "Comparison with previous major flooding events in Brazil",
+    "Details about early warning systems and their effectiveness",
+    "Economic impact and reconstruction costs",
+    "Specific geological factors that made landslides more likely"
+  ],
+  "generatedAt": "2026-02-26T18:14:07.075Z",
+  "model": "anthropic/claude-sonnet-4"
+}

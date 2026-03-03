@@ -1,0 +1,321 @@
+[
+  {
+    "id": "e15725f5-8ca0-4ce9-8500-555f6ed5c241",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Tuesday is the first day of 2026 midterm primaries",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC",
+      "UPI",
+      "The Guardian US",
+      "NYT Politics",
+      "YouTube: CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "d2239236-bc80-4583-8322-5c00b669aec1",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Primaries are taking place in Texas, Arkansas, and North Carolina",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC",
+      "UPI",
+      "The Guardian US",
+      "NYT Politics"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "d83227d0-6ad8-4acc-b7ea-7eee08199c7d",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "John Cornyn is the incumbent Republican Senator from Texas",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC",
+      "UPI",
+      "The Guardian US",
+      "YouTube: CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "c736b211-bb41-4c0f-8912-8b977aac9c40",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Ken Paxton is challenging Cornyn in the Republican primary",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC",
+      "UPI",
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "a775296e-81a0-40ba-9212-022ab3806c2b",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Wesley Hunt is also running in the Republican primary",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC",
+      "UPI"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "6631b32b-0463-4678-8b8d-ee83cf59dfdb",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Jasmine Crockett and James Talarico are running in the Democratic primary",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC",
+      "UPI",
+      "The Guardian US",
+      "YouTube: CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "c7687dec-d0a1-49ba-bedd-a5cb8e96c4b3",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Most polls show Paxton as the frontrunner in the Republican primary",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "72668b0e-f8c7-4a11-bf43-062691180036",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Paxton was impeached by the Texas House over corruption allegations",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "f403051f-5bf0-48cb-8194-8c0be3b1667c",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Paxton was charged with securities fraud",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "3610a93d-7d60-4700-8244-165866e25ee2",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Paxton is in the middle of an acrimonious divorce",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "326e11d0-fd65-44cb-a41e-44f550a0b600",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Trump has not endorsed any candidate in the Texas Republican primary",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC",
+      "YouTube: CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "d7cb2318-3302-40b7-8846-0b75b3c08e3c",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "A candidate needs at least 50% of the vote to win a Texas primary",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI",
+      "YouTube: CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "467c9910-3e91-4440-bacf-abc20ec1a271",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "If no candidate gets 50%, a runoff election would be held on May 26",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "581a0d40-ac86-494a-8392-238767dc8ef4",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Texas hasn't elected a Democrat statewide since 1994",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US",
+      "YouTube: CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "a6a9bfd5-9960-4b50-acec-06ac06931fa3",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Political ad spending has surpassed $122 million",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "3a8eb7d8-ff34-4819-93dd-14f1e97b1488",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "This is the most expensive Senate primary on record",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "ef2b7097-7566-4133-b47c-8f7f4a4d281c",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Roy Cooper is running for the Democratic nomination for Senate in North Carolina",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "afcedfea-5b78-4d0b-9e19-740b845c7c03",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Michael Whatley is running in the Republican primary for Senate in North Carolina",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "f4cad490-6b35-4e51-8dda-dbabbeb63a72",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "North Carolina's Senate seats have been held by Republicans since 2014",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "b171b699-f995-4e3e-935f-b6c6f218566b",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Cornyn is 74 years old",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "e8bfd88a-ccab-4c55-ae25-910661977bd2",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Paxton is 64 years old",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "224e8c0e-14e1-4039-979b-90f874d4d399",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Talarico is 36 years old",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "445ea3d1-d521-4886-8574-76491dd711a9",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Crockett is 44 years old",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "c9224d99-1071-43dc-99c1-31e7a966b552",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Talarico is a former middle school teacher and current seminary student",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  },
+  {
+    "id": "e494b1bb-30fa-4f55-8445-77634eda071e",
+    "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+    "text": "Crockett entered the race in December, just before the filing deadline",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:57:49.234Z",
+    "lastUpdatedAt": "2026-03-03T19:57:49.234Z"
+  }
+]

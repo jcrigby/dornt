@@ -1,0 +1,78 @@
+{
+  "clusterId": "9d104137-80b5-48f3-9ce5-3444333c6e08",
+  "stakeholders": [
+    {
+      "name": "Marco Rubio",
+      "role": "U.S. Secretary of State",
+      "position": "Representing Trump administration's aggressive Donroe Doctrine policy while engaging in diplomatic outreach to Caribbean allies",
+      "influence": "high"
+    },
+    {
+      "name": "CARICOM Leaders",
+      "role": "15-nation Caribbean Community bloc leadership",
+      "position": "Mixed reactions - some praise U.S. military actions while expressing concerns about humanitarian consequences and regional destabilization",
+      "influence": "medium"
+    },
+    {
+      "name": "Terrance Drew",
+      "role": "Prime Minister of St. Kitts and Nevis, summit host",
+      "position": "Characterizes current moment as 'decisive hour' for region amid shifting global order",
+      "influence": "medium"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "U.S. President",
+      "position": "Architect and champion of aggressive Donroe Doctrine, claiming restoration of American dominance in Western Hemisphere",
+      "influence": "high"
+    },
+    {
+      "name": "Cuban Government",
+      "role": "Target of U.S. pressure campaign",
+      "position": "Under severe economic pressure, forced to implement energy rationing and service cuts",
+      "influence": "low"
+    },
+    {
+      "name": "U.S. Treasury Department",
+      "role": "Policy implementation agency",
+      "position": "Issued new guidance potentially relaxing some Cuba oil restrictions while maintaining overall pressure",
+      "influence": "medium"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "Caribbean nations will seek formal agreements limiting U.S. military operations in their territorial waters",
+      "likelihood": "likely",
+      "timeframe": "within 6 months",
+      "basis": "Regional concerns about sovereignty and humanitarian consequences of continued military strikes"
+    },
+    {
+      "text": "U.S. will gradually modify Cuba policy through Treasury guidance rather than dramatic policy reversals",
+      "likelihood": "likely",
+      "timeframe": "next 3-6 months",
+      "basis": "Wednesday's Treasury guidance suggests incremental approach to policy adjustments"
+    },
+    {
+      "text": "Cuba will face continued economic crisis leading to potential mass migration",
+      "likelihood": "possible",
+      "timeframe": "6-12 months",
+      "basis": "Current energy rationing and service cuts indicate severe economic stress that could trigger population movement"
+    },
+    {
+      "text": "Other Latin American nations will face similar U.S. pressure campaigns",
+      "likelihood": "likely",
+      "timeframe": "next 12 months",
+      "basis": "Trump's stated goal of 'restoring American dominance' suggests broader regional application of Donroe Doctrine"
+    }
+  ],
+  "historicalContext": "The Donroe Doctrine represents a significant escalation of U.S. intervention in the Western Hemisphere, echoing historical patterns of American regional dominance but with unprecedented military directness. The capture of Venezuelan President Maduro marks the first forcible removal of a sitting Latin American head of state by U.S. forces in decades, while the systematic pressure campaign against Cuba recalls Cold War-era isolation tactics but with modern economic warfare tools. Caribbean nations find themselves in a familiar position of balancing relationships with a dominant regional power while protecting their sovereignty, similar to dynamics during previous periods of heightened U.S. interventionism in the 1980s and early 2000s.",
+  "implications": [
+    "Potential breakdown of multilateral diplomatic norms in the Western Hemisphere as unilateral U.S. action becomes normalized",
+    "Risk of humanitarian crisis in Cuba could trigger regional migration flows affecting Caribbean and Central American nations",
+    "Erosion of Caribbean sovereignty as nations face pressure to align with U.S. policies or risk economic consequences",
+    "Precedent for forcible regime change could destabilize other Latin American governments deemed problematic by Washington",
+    "Strain on traditional alliance structures as Caribbean nations must balance economic dependence with sovereignty concerns",
+    "Potential for increased Chinese and Russian influence as regional nations seek alternatives to U.S. dominance"
+  ],
+  "generatedAt": "2026-02-26T18:20:11.407Z",
+  "model": "anthropic/claude-sonnet-4"
+}

@@ -1,0 +1,86 @@
+{
+  "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+  "stakeholders": [
+    {
+      "name": "Cuban Government/Border Guards",
+      "role": "Territorial security enforcement",
+      "position": "Claims self-defense against armed terrorist infiltration attempt",
+      "influence": "high"
+    },
+    {
+      "name": "US State Department/Marco Rubio",
+      "role": "Diplomatic oversight and investigation",
+      "position": "Skeptical of Cuban claims, conducting independent investigation",
+      "influence": "high"
+    },
+    {
+      "name": "Florida State Government/James Uthmeier",
+      "role": "State-level law enforcement and advocacy",
+      "position": "Hostile to Cuban government, demanding accountability",
+      "influence": "medium"
+    },
+    {
+      "name": "Cuban-American Community",
+      "role": "Diaspora with family/political ties to Cuba",
+      "position": "Likely sympathetic to victims, suspicious of Cuban narrative",
+      "influence": "medium"
+    },
+    {
+      "name": "Families of Victims",
+      "role": "Direct stakeholders seeking truth and justice",
+      "position": "Seeking accurate information about circumstances",
+      "influence": "low"
+    },
+    {
+      "name": "International Maritime Authorities",
+      "role": "Oversight of territorial waters incidents",
+      "position": "Neutral arbiters of maritime law compliance",
+      "influence": "low"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "US investigation will contradict key elements of Cuban terrorism narrative",
+      "likelihood": "likely",
+      "timeframe": "2-4 weeks",
+      "basis": "Rubio's explicit skepticism and historical pattern of conflicting US-Cuba accounts"
+    },
+    {
+      "text": "Florida will impose additional sanctions or restrictions on Cuba-related activities",
+      "likelihood": "likely",
+      "timeframe": "1-2 weeks",
+      "basis": "Uthmeier's strong rhetoric and Florida's history of anti-Cuba measures"
+    },
+    {
+      "text": "Incident will escalate broader US-Cuba diplomatic tensions",
+      "likelihood": "likely",
+      "timeframe": "immediate to 1 month",
+      "basis": "Historical pattern of such incidents becoming diplomatic flashpoints"
+    },
+    {
+      "text": "Cuban authorities will release additional evidence supporting terrorism claims",
+      "likelihood": "possible",
+      "timeframe": "1-2 weeks",
+      "basis": "Need to counter US skepticism and justify use of lethal force"
+    },
+    {
+      "text": "International maritime investigation will be requested",
+      "likelihood": "possible",
+      "timeframe": "2-6 weeks",
+      "basis": "Disputed territorial waters incident with international implications"
+    }
+  ],
+  "historicalContext": "This incident occurs against a backdrop of decades-long US-Cuba tensions, with particular resonance to the 1996 Brothers to the Rescue shootdown that killed four people almost exactly 30 years prior. The area has seen previous armed confrontations, including during Cuba's 2022 migration crisis. Such maritime incidents have historically served as flashpoints that escalate broader diplomatic tensions between the two nations. The involvement of Cuban-Americans in alleged infiltration attempts reflects ongoing diaspora efforts to influence Cuban politics, while Cuba's terrorism allegations echo longstanding claims about US-backed destabilization efforts dating to the Bay of Pigs era.",
+  "implications": [
+    "Further deterioration of US-Cuba diplomatic relations under current administrations",
+    "Increased scrutiny and potential restrictions on Cuban-American maritime activities in Florida waters",
+    "Heightened tensions within Cuban-American community regarding intervention strategies",
+    "Potential impact on broader Caribbean maritime security cooperation",
+    "Risk of copycat incidents or escalatory responses from either side",
+    "Complications for any future US-Cuba normalization efforts",
+    "Increased Cuban justification for enhanced coastal security measures",
+    "Potential strain on third-party nations' relationships with both US and Cuba"
+  ],
+  "generatedAt": "2026-02-26T18:27:07.960Z",
+  "model": "anthropic/claude-sonnet-4"
+}

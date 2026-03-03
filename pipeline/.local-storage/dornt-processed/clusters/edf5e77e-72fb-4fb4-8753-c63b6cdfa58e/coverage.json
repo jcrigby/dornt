@@ -1,0 +1,31 @@
+{
+  "clusterId": "edf5e77e-72fb-4fb4-8753-c63b6cdfa58e",
+  "frames": [
+    {
+      "name": "Technology Innovation Frame",
+      "description": "Presents the story as technological advancement and feature enhancement, focusing on AI capabilities and user convenience",
+      "sources": [
+        "The Verge"
+      ],
+      "emphasis": "New AI features, enhanced user experience, and Google's technological capabilities across device lineup"
+    }
+  ],
+  "outlierPerspectives": [
+    "Competitive positioning against Apple's delayed Siri features",
+    "Cross-brand collaboration with Samsung on AI features"
+  ],
+  "missingContext": [
+    "Privacy implications of AI assistants performing tasks with user credentials",
+    "Security considerations for autonomous app interactions",
+    "Data collection and sharing practices for agentic AI features",
+    "User control and consent mechanisms for AI-driven purchases",
+    "Potential liability issues if AI makes incorrect orders or bookings",
+    "Market impact on app developers and service providers",
+    "Accessibility implications of new visual features",
+    "Battery and performance impact of background AI operations",
+    "Rollout timeline and geographic availability details",
+    "Integration challenges with third-party services"
+  ],
+  "generatedAt": "2026-03-03T20:04:15.657Z",
+  "model": "anthropic/claude-sonnet-4"
+}

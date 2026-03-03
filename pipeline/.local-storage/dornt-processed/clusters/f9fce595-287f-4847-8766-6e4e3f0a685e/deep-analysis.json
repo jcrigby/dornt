@@ -1,0 +1,88 @@
+{
+  "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+  "stakeholders": [
+    {
+      "name": "Brazão Brothers (João Francisco and Domingos Inácio)",
+      "role": "Convicted masterminds",
+      "position": "Denied involvement, now facing 76+ year sentences",
+      "influence": "High - former politicians with deep militia connections"
+    },
+    {
+      "name": "Anielle Franco",
+      "role": "Victim's sister and Brazil's Minister of Racial Equality",
+      "position": "Advocates for justice and political reform",
+      "influence": "High - government position and symbolic importance"
+    },
+    {
+      "name": "Brazilian Supreme Court",
+      "role": "Judicial authority",
+      "position": "Unanimous conviction, strong stance against political violence",
+      "influence": "High - final arbiter with constitutional authority"
+    },
+    {
+      "name": "Rio de Janeiro Militia Groups",
+      "role": "Criminal organizations with political ties",
+      "position": "Threatened by exposure of political connections",
+      "influence": "Medium - weakened by convictions but still operational"
+    },
+    {
+      "name": "Brazilian Federal Government",
+      "role": "Executive authority",
+      "position": "Supportive of justice through Anielle Franco's role",
+      "influence": "High - can implement broader reforms"
+    },
+    {
+      "name": "Rio de Janeiro Political Establishment",
+      "role": "Local power structure",
+      "position": "Mixed - some implicated, others seeking reform",
+      "influence": "Medium - under scrutiny but retains local power"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "Appeals process will be initiated by the Brazão brothers",
+      "likelihood": "likely",
+      "timeframe": "Within 30 days",
+      "basis": "Standard legal procedure for major convictions, though Supreme Court decisions have limited appeal options"
+    },
+    {
+      "text": "Additional investigations into Rio militia-political connections will be launched",
+      "likelihood": "likely",
+      "timeframe": "6-12 months",
+      "basis": "Case exposed extensive criminal networks; Justice de Moraes indicated broader militia involvement"
+    },
+    {
+      "text": "Legislative proposals for political violence prevention will be introduced",
+      "likelihood": "possible",
+      "timeframe": "3-6 months",
+      "basis": "Anielle Franco's ministerial position and stated commitment to confronting political violence"
+    },
+    {
+      "text": "Further arrests of militia-connected politicians in Rio",
+      "likelihood": "possible",
+      "timeframe": "12-18 months",
+      "basis": "Investigation revealed extensive criminal networks beyond the convicted parties"
+    },
+    {
+      "text": "International attention will increase pressure for broader anti-corruption reforms",
+      "likelihood": "likely",
+      "timeframe": "Ongoing",
+      "basis": "High-profile nature of case and international coverage of Brazilian political violence"
+    }
+  ],
+  "historicalContext": "This conviction represents a rare success in Brazil's struggle against political violence and impunity. Brazil has one of the world's highest rates of violence against politicians, with over 400 political candidates and elected officials killed between 2016-2020 according to human rights organizations. The Franco case became emblematic of this crisis, particularly affecting women, Black politicians, and LGBTQ+ representatives. Rio de Janeiro has been especially plagued by militia groups - paramilitary organizations often led by off-duty police and firefighters that control territory through violence and extortion. These groups have historically maintained corrupt relationships with politicians, making Franco's opposition to their housing development schemes particularly dangerous. The eight-year investigation faced numerous obstacles typical of high-profile political cases in Brazil, including evidence destruction and investigator changes, reflecting systemic challenges in the country's justice system.",
+  "implications": [
+    "Establishes precedent for holding high-level politicians accountable for ordering political assassinations",
+    "Signals potential weakening of militia-political networks in Rio de Janeiro",
+    "May encourage other victims of political violence to pursue justice through formal channels",
+    "Could deter future political violence against marginalized politicians and activists",
+    "Demonstrates Supreme Court's willingness to confront organized crime-political nexus",
+    "May prompt international pressure for broader anti-corruption and political violence prevention measures",
+    "Could inspire legislative reforms to protect political candidates and elected officials",
+    "Validates the importance of federal-level intervention in cases where local authorities are compromised",
+    "Highlights ongoing challenges facing Black, female, and LGBTQ+ politicians in Brazil",
+    "May lead to increased scrutiny of real estate development projects with criminal connections"
+  ],
+  "generatedAt": "2026-02-26T18:30:26.958Z",
+  "model": "anthropic/claude-sonnet-4"
+}

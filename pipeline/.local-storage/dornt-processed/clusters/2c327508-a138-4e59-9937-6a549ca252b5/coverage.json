@@ -1,0 +1,64 @@
+{
+  "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+  "frames": [
+    {
+      "name": "Qualification Skepticism",
+      "description": "Emphasizes Means' lack of medical license and unconventional background as disqualifying factors",
+      "sources": [
+        "Ars Technica",
+        "The Atlantic"
+      ],
+      "emphasis": "Medical credentials gap - Stanford degree but no active license, dropped out of residency, career as wellness influencer rather than practicing physician"
+    },
+    {
+      "name": "Confirmation Performance Analysis",
+      "description": "Focuses on how Means moderated her tone and messaging during the hearing compared to her previous public statements",
+      "sources": [
+        "The Atlantic",
+        "The Hill"
+      ],
+      "emphasis": "Strategic presentation shift - toned down eccentric wellness beliefs, sought common ground, avoided controversial topics she previously embraced"
+    },
+    {
+      "name": "Vaccine Messaging Concerns",
+      "description": "Centers on Means' evasive responses about vaccine recommendations and public health messaging",
+      "sources": [
+        "Axios",
+        "NYT"
+      ],
+      "emphasis": "Reluctance to provide clear vaccine advocacy despite role requiring public health leadership on vaccination campaigns"
+    },
+    {
+      "name": "Financial Conflicts of Interest",
+      "description": "Highlights potential ethics issues from her business relationships and promotional activities",
+      "sources": [
+        "Ars Technica",
+        "The Atlantic"
+      ],
+      "emphasis": "Half-million dollar earnings from wellness companies, undisclosed promotional relationships, ongoing ties to Levels Health company"
+    },
+    {
+      "name": "MAHA Movement Integration",
+      "description": "Positions Means as part of broader 'Make America Healthy Again' agenda alongside RFK Jr.",
+      "sources": [
+        "Ars Technica",
+        "Axios"
+      ],
+      "emphasis": "Alliance with Kennedy, co-authored book considered 'MAHA bible,' represents alternative health approach in Trump administration"
+    }
+  ],
+  "outlierPerspectives": [
+    "The Atlantic's detailed coverage of Means' spiritual and unconventional wellness beliefs (talking to trees, natural disasters as 'communication from God')",
+    "Axios' focus on internal Trump administration tensions over Kennedy's agenda, including the glyphosate executive order controversy"
+  ],
+  "missingContext": [
+    "Comparison to previous surgeon generals' qualifications and backgrounds",
+    "Details about the Senate committee's composition and likely voting patterns",
+    "Broader context about the surgeon general's actual powers and responsibilities",
+    "Public health community's formal response or position statements",
+    "Timeline and process for confirmation vote",
+    "Means' specific policy positions on major public health issues beyond vaccines"
+  ],
+  "generatedAt": "2026-02-26T18:12:13.434Z",
+  "model": "anthropic/claude-sonnet-4"
+}

@@ -1,0 +1,43 @@
+{
+  "clusterId": "2766eb4c-12f5-49b1-bfd9-b7481eed0d4c",
+  "frames": [
+    {
+      "name": "Drug Pricing Policy Implementation",
+      "description": "Focuses on Trump's 'most-favored nation' drug pricing policy as a concrete policy mechanism with measurable impacts, particularly on international pricing dynamics",
+      "sources": [
+        "STAT News"
+      ],
+      "emphasis": "Policy effectiveness and real-world implementation of drug pricing reforms"
+    },
+    {
+      "name": "Political Strategy and Messaging",
+      "description": "Frames the administration's health policies through the lens of political positioning and attempts to control narrative focus",
+      "sources": [
+        "STAT News"
+      ],
+      "emphasis": "Trump administration's efforts to shift attention from controversial vaccine policies to popular issues like drug pricing"
+    },
+    {
+      "name": "Medicaid Program Expansion",
+      "description": "Presents the story as healthcare program development with focus on expanding pilot programs to include more pharmaceutical companies",
+      "sources": [
+        "STAT News"
+      ],
+      "emphasis": "Operational aspects of expanding Medicaid 'most-favored nations' pilot program"
+    }
+  ],
+  "outlierPerspectives": [
+    "Vaccine expert criticism framing anti-vaccine government positions as 'stupid' and 'immoral'",
+    "International pricing implications suggesting higher drug prices abroad as consequence of US policy"
+  ],
+  "missingContext": [
+    "Specific details of how 'most-favored nation' pricing mechanism works",
+    "Quantitative data on current vaccination rate declines mentioned",
+    "Details about which pharmaceutical companies are participating or being recruited for Medicaid pilot",
+    "Timeline and implementation details of the drug pricing policies",
+    "Comparison with previous administrations' drug pricing approaches",
+    "Industry response to these policy changes"
+  ],
+  "generatedAt": "2026-03-03T19:49:31.077Z",
+  "model": "anthropic/claude-sonnet-4"
+}

@@ -1,0 +1,88 @@
+[
+  {
+    "id": "78e3bdf8-a7ad-4398-a80f-78206f99376a",
+    "title": "US-Iran Military Escalation and Regional Crisis",
+    "description": "A developing military conflict between the US and Iran that has resulted in American casualties, prompted urgent evacuation advisories, and is driving oil price volatility while involving diplomatic efforts",
+    "clusterIds": [
+      "5080191b-9a74-4c46-a5aa-ee005d068c93",
+      "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+      "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
+      "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
+      "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+      "ca3849a6-eefc-4138-8e6e-3d0192537139",
+      "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37"
+    ],
+    "arc": "The storyline begins with diplomatic talks between the US and Iran amid nuclear deal tensions, escalates to active military conflict resulting in US service member deaths, prompts urgent evacuation advisories for Americans in the Middle East, drives oil price increases due to regional instability and potential Strait of Hormuz blockade concerns, and involves high-level diplomatic engagement including Trump's meetings with German Chancellor Merz and disputes over Israel's role in military strikes",
+    "startedAt": "2026-03-03T20:06:59.054Z",
+    "updatedAt": "2026-03-03T20:06:59.054Z",
+    "status": "developing"
+  },
+  {
+    "id": "cc9e8f0f-3541-493c-9db0-943779523e6d",
+    "title": "AI in Military Applications Controversy",
+    "description": "A dispute between major AI companies and the Pentagon over the use of artificial intelligence systems in military and defense applications",
+    "clusterIds": [
+      "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
+      "e0aa805e-f26e-455e-9ac3-19b03c71bde6"
+    ],
+    "arc": "The controversy involves reported disagreements between the Pentagon and Anthropic over AI system use in missile defense capabilities, followed by OpenAI revising its Pentagon contract amid backlash and criticism from rival AI firm Anthropic, highlighting broader tensions in the AI industry over military applications",
+    "startedAt": "2026-02-26T18:44:36.184Z",
+    "updatedAt": "2026-03-03T20:06:59.054Z",
+    "status": "ongoing"
+  },
+  {
+    "id": "a4af0e99-9598-4e44-ad1e-961db2ae40d5",
+    "title": "Jeffrey Epstein Investigation Continues",
+    "description": "Ongoing congressional investigation into Jeffrey Epstein connections, involving high-profile testimonies and resignations",
+    "clusterIds": [
+      "49654a5d-cd09-434c-807b-ceabe4aaae74",
+      "afe792e4-4b40-4fcd-8d61-609780082b39"
+    ],
+    "arc": "The investigation has expanded to include Hillary Clinton's testimony before a House committee and resulted in the resignation of the World Economic Forum President and CEO amid scrutiny over Epstein connections, indicating the continuing fallout from the Epstein scandal",
+    "startedAt": "2026-02-26T18:44:36.184Z",
+    "updatedAt": "2026-03-03T20:06:59.054Z",
+    "status": "ongoing"
+  },
+  {
+    "id": "e1fd571c-07d6-4f2b-b836-835554ba66e7",
+    "title": "Trump Administration Immigration and Border Enforcement",
+    "description": "Various enforcement actions and policy implementations by the Trump administration targeting immigration and border security",
+    "clusterIds": [
+      "8f32c883-2139-458c-89c0-8971f2915219",
+      "a6b0c47f-98e0-45a7-bf55-a9789f67f6d9",
+      "e6cafb87-f166-4d5a-91cb-c54ef7db483d"
+    ],
+    "arc": "The storyline includes legal challenges to Trump's third-country deportation policy being ruled unconstitutional by a Biden-appointed judge, DHS agents detaining a Columbia University student after entering university buildings, and a deadly shootout between a US-registered speedboat and Cuban border guards resulting in four fatalities",
+    "startedAt": "2026-02-26T18:44:36.184Z",
+    "updatedAt": "2026-03-03T20:06:59.054Z",
+    "status": "ongoing"
+  },
+  {
+    "id": "c77ff099-11bc-4d89-85e0-fb389b6dbe8a",
+    "title": "Trump Administration Healthcare Policy Changes",
+    "description": "Healthcare policy initiatives and enforcement actions by the Trump administration affecting various programs and pricing models",
+    "clusterIds": [
+      "2766eb4c-12f5-49b1-bfd9-b7481eed0d4c",
+      "990b1f94-1769-4ee0-8176-69266ea89516",
+      "2c327508-a138-4e59-9937-6a549ca252b5"
+    ],
+    "arc": "The administration is implementing new healthcare policies including Merck's cancer drug entering a Medicaid pilot program under a 'Most-Favored Nations' pricing model, freezing some Medicaid funding to Minnesota over alleged fraud concerns, and facing Senate scrutiny over Surgeon General nominee Casey Means' vaccination stance",
+    "startedAt": "2026-02-26T18:44:36.184Z",
+    "updatedAt": "2026-03-03T20:06:59.054Z",
+    "status": "ongoing"
+  },
+  {
+    "id": "3587196c-6479-4204-9741-968a7dcc25a5",
+    "title": "2026 Midterm Election Cycle Begins",
+    "description": "The start of the 2026 midterm election cycle with early primary elections and political developments",
+    "clusterIds": [
+      "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+      "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+      "2dab45ae-8ee8-4a88-b8ee-786bfb715a77"
+    ],
+    "arc": "The election cycle begins with the first 2026 midterm primaries held in Arkansas, North Carolina, and Texas, while political tensions are evident in incidents at Trump's State of the Union including the arrest of a guest (prompting Rep. Ilhan Omar to demand an investigation) and an ESPN host's criticism of the USA Men's Hockey Team",
+    "startedAt": "2026-02-26T18:44:36.184Z",
+    "updatedAt": "2026-03-03T20:06:59.054Z",
+    "status": "developing"
+  }
+]

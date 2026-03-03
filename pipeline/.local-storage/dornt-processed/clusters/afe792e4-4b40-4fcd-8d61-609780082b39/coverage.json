@@ -1,0 +1,52 @@
+{
+  "clusterId": "afe792e4-4b40-4fcd-8d61-609780082b39",
+  "frames": [
+    {
+      "name": "Accountability and Transparency Frame",
+      "description": "Presents the resignation as a responsible response to maintain institutional integrity, emphasizing the WEF's commitment to transparency through independent review",
+      "sources": [
+        "The Guardian US",
+        "BBC World"
+      ],
+      "emphasis": "The organization's proper handling of the situation and Brende's decision to avoid 'distractions'"
+    },
+    {
+      "name": "Elite Network Scrutiny Frame",
+      "description": "Focuses on broader pattern of high-profile resignations and ongoing scrutiny of powerful figures with Epstein connections",
+      "sources": [
+        "The Guardian US"
+      ],
+      "emphasis": "Part of wider fallout affecting business leaders, academics, and politicians globally"
+    },
+    {
+      "name": "Conservative Skepticism Frame",
+      "description": "Frames the story with subtle skepticism toward the 'globalist body' and emphasizes Trump's recent interaction with Brende at Davos",
+      "sources": [
+        "Fox News"
+      ],
+      "emphasis": "The WEF as a 'globalist body' and includes prominent photo of Trump with Brende"
+    },
+    {
+      "name": "Procedural Compliance Frame",
+      "description": "Emphasizes the formal review process, findings, and organizational succession planning",
+      "sources": [
+        "BBC World",
+        "Fox News"
+      ],
+      "emphasis": "The independent review's conclusions and interim leadership arrangements"
+    }
+  ],
+  "outlierPerspectives": [
+    "Fox News uniquely describes the WEF as a 'globalist body' and prominently features Trump's recent interaction with Brende",
+    "The Guardian uniquely contextualizes this within a broader pattern of elite resignations, mentioning Larry Summers and Thomas Pritzker",
+    "BBC uniquely mentions the criminal charges against former Norwegian PM Thorbjørn Jagland in connection with Epstein"
+  ],
+  "missingContext": [
+    "Timeline clarity: Most sources don't clearly explain when Brende initially denied contact versus when he admitted it",
+    "Nature of the business relationships: Limited detail about what business contexts brought these figures together with Epstein",
+    "WEF's broader governance: Little context about the organization's structure and how this affects its operations",
+    "Epstein document release scope: Limited explanation of what the recent DOJ document release contained beyond Brende's communications"
+  ],
+  "generatedAt": "2026-02-26T18:23:35.925Z",
+  "model": "anthropic/claude-sonnet-4"
+}

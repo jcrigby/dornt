@@ -1,0 +1,79 @@
+{
+  "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+  "stakeholders": [
+    {
+      "name": "Mark Carney",
+      "role": "Canadian Prime Minister",
+      "position": "Seeking to reset Canada-India relations while balancing domestic security concerns and Sikh diaspora interests",
+      "influence": "high"
+    },
+    {
+      "name": "Narendra Modi",
+      "role": "Indian Prime Minister",
+      "position": "Welcoming renewed partnership while maintaining India's rejection of assassination allegations",
+      "influence": "high"
+    },
+    {
+      "name": "Canadian Sikh diaspora",
+      "role": "Domestic political constituency",
+      "position": "Skeptical of diplomatic reset, claiming continued targeting by India",
+      "influence": "medium"
+    },
+    {
+      "name": "Canadian Security Intelligence Service (CSIS)",
+      "role": "National intelligence agency",
+      "position": "Maintains India as foreign interference threat despite government's diplomatic pivot",
+      "influence": "medium"
+    },
+    {
+      "name": "Liberal Party MPs (dissenting)",
+      "role": "Parliamentary opposition within ruling party",
+      "position": "Challenging government's assessment that India poses no current threat",
+      "influence": "low"
+    },
+    {
+      "name": "United States",
+      "role": "Trade partner imposing tariffs",
+      "position": "Indirect influence through trade policies driving Canada-India cooperation",
+      "influence": "medium"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "The comprehensive economic partnership agreement will face delays beyond the stated end-2026 deadline due to ongoing security concerns and domestic political pressure",
+      "likelihood": "likely",
+      "timeframe": "2027-2028",
+      "basis": "Historical complexity of trade negotiations combined with unresolved security tensions and domestic opposition"
+    },
+    {
+      "text": "Further diplomatic incidents will occur if new evidence emerges in the Nijjar case or if Canadian Sikhs report additional targeting",
+      "likelihood": "possible",
+      "timeframe": "6-18 months",
+      "basis": "Ongoing court case and CSIS maintaining India as interference threat despite government's position"
+    },
+    {
+      "text": "Nuclear and critical minerals agreements will proceed as planned due to strategic importance for both countries",
+      "likelihood": "likely",
+      "timeframe": "12-24 months",
+      "basis": "These agreements serve clear economic and strategic interests for both nations and are less politically sensitive"
+    },
+    {
+      "text": "Carney will face increased domestic political pressure from Sikh communities and opposition parties over the diplomatic reset",
+      "likelihood": "likely",
+      "timeframe": "3-6 months",
+      "basis": "Already documented opposition from Liberal MPs and Sikh diaspora groups who feel their security concerns are being minimized"
+    }
+  ],
+  "historicalContext": "This diplomatic reset occurs against the backdrop of the worst Canada-India relations crisis since the 1980s Khalistan movement tensions. The 2023 Nijjar assassination allegation by former PM Justin Trudeau echoed historical patterns of India-Canada disputes over Sikh separatism, including the 1985 Air India bombing that killed 329 people. The current reset mirrors previous cycles where economic interests eventually override security concerns, as seen in the gradual normalization after the Air India tragedy. However, the involvement of intelligence agencies and formal diplomatic expulsions in 2023 represents an unprecedented escalation that makes this reset more fragile than previous reconciliations.",
+  "implications": [
+    "The reset establishes a precedent for compartmentalizing security concerns from economic cooperation, potentially weakening Canada's stance on foreign interference",
+    "Success of the partnership could provide a model for other middle powers seeking to reduce dependence on US-China trade dynamics",
+    "The uranium and critical minerals deals significantly enhance India's energy security and position in the global nuclear supply chain",
+    "Domestic political tensions in Canada may intensify if the Sikh diaspora feels abandoned by the government's diplomatic pivot",
+    "The timeline pressure for the free trade agreement may lead to compromises that favor India's larger market leverage",
+    "Intelligence sharing between Canada and Five Eyes allies may be affected if India is simultaneously treated as both partner and threat",
+    "The reset could encourage other countries accused of transnational repression to wait out political transitions rather than address underlying issues"
+  ],
+  "generatedAt": "2026-03-03T20:01:15.565Z",
+  "model": "anthropic/claude-sonnet-4"
+}

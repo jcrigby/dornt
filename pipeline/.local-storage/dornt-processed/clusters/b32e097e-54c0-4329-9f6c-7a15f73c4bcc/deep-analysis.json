@@ -1,0 +1,72 @@
+{
+  "clusterId": "b32e097e-54c0-4329-9f6c-7a15f73c4bcc",
+  "stakeholders": [
+    {
+      "name": "Spanish Government/PSOE",
+      "role": "Current ruling party and state apparatus",
+      "position": "Likely views Tejero's death as closing a dark chapter while using declassified documents to reinforce democratic values",
+      "influence": "high"
+    },
+    {
+      "name": "Spanish Military",
+      "role": "Institution that rejected the 1981 coup",
+      "position": "Maintains constitutional loyalty established after rejecting Tejero's coup attempt",
+      "influence": "high"
+    },
+    {
+      "name": "Spanish Historians/Academics",
+      "role": "Researchers studying Spain's democratic transition",
+      "position": "Will analyze newly declassified documents to better understand the coup's context and implications",
+      "influence": "medium"
+    },
+    {
+      "name": "Far-right Political Groups",
+      "role": "Contemporary Spanish nationalist movements",
+      "position": "May attempt to rehabilitate or contextualize Tejero's actions within current political narratives",
+      "influence": "low"
+    },
+    {
+      "name": "Tejero Family/Supporters",
+      "role": "Personal connections to the deceased colonel",
+      "position": "Likely to defend his legacy or maintain private grief without public political statements",
+      "influence": "low"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "Spanish government will use declassified documents to produce educational materials reinforcing democratic values",
+      "likelihood": "likely",
+      "timeframe": "6-12 months",
+      "basis": "Timing of document release coinciding with Tejero's death suggests coordinated effort to control historical narrative"
+    },
+    {
+      "text": "Academic conferences and publications will emerge analyzing the newly available coup documents",
+      "likelihood": "likely",
+      "timeframe": "1-2 years",
+      "basis": "Historical significance of the event and availability of new primary sources will drive scholarly interest"
+    },
+    {
+      "text": "Renewed public debate about Spain's transition to democracy and remaining authoritarian influences",
+      "likelihood": "possible",
+      "timeframe": "3-6 months",
+      "basis": "Tejero's death may prompt reflection on democratic consolidation, especially given current European democratic concerns"
+    },
+    {
+      "text": "Documentary films or media productions about the 1981 coup attempt",
+      "likelihood": "possible",
+      "timeframe": "1-3 years",
+      "basis": "Combination of Tejero's death and new documentary evidence creates compelling narrative opportunity"
+    }
+  ],
+  "historicalContext": "The 1981 coup attempt occurred during Spain's fragile transition to democracy following Francisco Franco's death in 1975. The event, known as '23-F,' represented the most serious threat to Spain's nascent democratic institutions. Tejero's actions came amid economic crisis, regional tensions over Basque and Catalan autonomy, and military unease with democratic reforms. The coup's failure, particularly due to lack of military support and King Juan Carlos I's televised defense of democracy, became a defining moment that solidified Spain's democratic transition. The timing of document declassification with Tejero's death suggests the Spanish state views this as an opportune moment to provide historical closure while reinforcing democratic narratives.",
+  "implications": [
+    "Strengthening of Spanish democratic institutions through historical transparency and education about past threats",
+    "Potential for renewed academic understanding of military-civilian relations during democratic transitions",
+    "Symbolic closure of Spain's post-Franco transition period, marking full integration into European democratic norms",
+    "Possible template for other nations dealing with declassification of sensitive historical documents related to failed coups",
+    "Reinforcement of constitutional monarchy's role in defending democracy, relevant to current European monarchical debates",
+    "Educational opportunity to contrast failed authoritarianism with successful democratic consolidation in contemporary European context"
+  ],
+  "generatedAt": "2026-02-26T18:24:35.207Z",
+  "model": "anthropic/claude-sonnet-4"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "e250249a-00f1-411b-8ab6-7e101e978278",
+  "url": "https://www.engadget.com/ai/metas-ai-display-glasses-reportedly-share-intimate-videos-with-human-moderators-135939855.html?src=rss",
+  "normalizedUrl": "https://engadget.com/ai/metas-ai-display-glasses-reportedly-share-intimate-videos-with-human-moderators-135939855.html?src=rss",
+  "title": "Meta's AI display glasses reportedly share intimate videos with human moderators",
+  "source": "Engadget",
+  "feedUrl": "https://www.engadget.com/rss.xml",
+  "publishedAt": "Tue, 03 Mar 2026 13:59:40 +0000",
+  "fetchedAt": "2026-03-03T19:21:21.192Z",
+  "author": "Steve Dent",
+  "contentHash": "93c22f27d74b70eb",
+  "fullText": "Users of Meta's AI smart glasses in Europe may be unknowingly sharing intimate video and sensitive financial information with moderators outside of the bloc, according to a report from Sweden's Svenska Dagbladet released last week. Employees in Kenya doing AI \"annotation\" told the journalists that they've seen people nude, using the toilet and engaging in sexual activity, along with credit card numbers and other sensitive information.With Meta's Ray-Ban Display and other glasses with AI capabilities, users can record what they're looking at or get answers to questions via a Meta AI assistant. If a wearer wants to make use of that AI, though, they must agree to Meta's terms of service that allow any data captured to be reviewed by humans. That's because Meta's large language models (LLMs) often require people to annotate visual data so that the AI can understand it and build its training models.This data can end up in places like Nairobi, Kenya, often moderated by underpaid workers. Such actions are subject to Europe's GDPR rules that require transparency about how personal data is processed, according to a data protection lawyer cited in the report.However, Svenska Dagbladet's reporters said they needed to jump through some hoops to see Meta's privacy policy for its wearable products. That policy states that either humans or automated systems may review sensitive data, and puts the onus on the user to not share sensitive information.Meta declined to comment directly on the story, and simply said that \"when live AI is being used, we process that media according to the Meta AI Terms of Service and Privacy Policy.\" To find out more, check out Svenska Dagbladet's detailed reporting on the subject.",
+  "summary": "Users of Meta's AI smart glasses in Europe may be unknowingly sharing intimate video and sensitive financial information with moderators outside of the bloc, according to a report from Sweden's Svenska Dagbladet released last week. Employees in Kenya doing AI \"annotation\" told the journalists that they've seen people nude, using the toilet and engaging in sexual activity, along with credit card numbers and other sensitive information. \nWith Meta's Ray-Ban Display and other glasses with AI capabi",
+  "categories": [
+    "tech"
+  ]
+}

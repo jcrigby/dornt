@@ -1,0 +1,67 @@
+{
+  "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+  "frames": [
+    {
+      "name": "Electoral Horse Race",
+      "description": "Focuses on polling numbers, campaign spending, and electoral mechanics like runoff possibilities",
+      "sources": [
+        "CNBC",
+        "UPI"
+      ],
+      "emphasis": "Who's winning, spending amounts ($122m), polling data, and procedural requirements like 50% threshold for avoiding runoffs"
+    },
+    {
+      "name": "Ideological Battle Within Parties",
+      "description": "Presents primaries as contests between different political philosophies and approaches",
+      "sources": [
+        "The Guardian US",
+        "CNBC"
+      ],
+      "emphasis": "MAGA vs. establishment Republicans; progressive 'resistance' vs. bridge-building Democrats"
+    },
+    {
+      "name": "National Implications",
+      "description": "Views Texas races as indicators for broader midterm trends and party control",
+      "sources": [
+        "CNBC",
+        "The Guardian US"
+      ],
+      "emphasis": "How results will affect House/Senate control, resource allocation for other battleground states"
+    },
+    {
+      "name": "Historical Context",
+      "description": "Emphasizes the rarity of Democratic statewide victories in Texas",
+      "sources": [
+        "The Guardian US",
+        "YouTube: CNBC"
+      ],
+      "emphasis": "Democrats haven't won statewide since 1994, potential for historic change"
+    },
+    {
+      "name": "Candidate Contrast",
+      "description": "Highlights stark differences in candidate styles and backgrounds",
+      "sources": [
+        "CNBC",
+        "The Guardian US",
+        "YouTube: CNBC"
+      ],
+      "emphasis": "Paxton's scandals vs. Cornyn's establishment credentials; Crockett's 'firebrand' style vs. Talarico's 'politics of love'"
+    }
+  ],
+  "outlierPerspectives": [
+    "Talarico's unique framing of politics as 'top vs. bottom' rather than 'left vs. right' and his use of Christian faith to justify progressive policies",
+    "The specific mention of Trump's role in mid-decade gerrymandering to preserve GOP House majority",
+    "Focus on early voting surge, particularly on Democratic side, as indicator of engagement"
+  ],
+  "missingContext": [
+    "Specific policy positions of the candidates beyond general ideological descriptions",
+    "Detailed explanation of the scandals surrounding Ken Paxton beyond brief mentions",
+    "Analysis of demographic changes in Texas that might affect electoral viability",
+    "Historical performance data for similar primary matchups",
+    "Explanation of why North Carolina and Arkansas primaries receive minimal coverage despite being mentioned",
+    "Details about the congressional races also occurring, which are only briefly mentioned",
+    "Voter turnout data or expectations beyond the general 'surge' reference"
+  ],
+  "generatedAt": "2026-03-03T19:57:47.023Z",
+  "model": "anthropic/claude-sonnet-4"
+}

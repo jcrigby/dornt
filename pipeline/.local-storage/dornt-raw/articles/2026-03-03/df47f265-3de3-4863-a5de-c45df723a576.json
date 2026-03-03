@@ -1,0 +1,16 @@
+{
+  "id": "df47f265-3de3-4863-a5de-c45df723a576",
+  "url": "https://www.sciencedaily.com/releases/2026/03/260303082606.htm",
+  "normalizedUrl": "https://sciencedaily.com/releases/2026/03/260303082606.htm",
+  "title": "Blasted off Mars and still alive",
+  "source": "ScienceDaily",
+  "feedUrl": "https://www.sciencedaily.com/rss/all.xml",
+  "publishedAt": "Tue, 03 Mar 2026 08:53:09 EST",
+  "fetchedAt": "2026-03-03T19:19:37.047Z",
+  "contentHash": "602e6189efe92864",
+  "fullText": "By simulating the crushing shock of a Mars asteroid impact, researchers found that a hardy bacterium can survive extreme ejection pressures. The discovery strengthens the idea that life could travel between planets inside impact debris. Credit: AI/ScienceDaily.com\n \n\n The extremophile bacterium Deinococcus radiodurans can survive the pressures developed during ejection from Mars as a result of massive asteroid impact. Craters on the Moon and Mars show how frequently bodies in our solar system are hit by incoming material, and impacts are an important process in planetary history. Lily Zhao, K. T. Ramesh, and colleagues simulated the conditions under which a microbe might be hurled into space by the force of an impact, subjecting Deinococcus radiodurans to pressures of up to 3 GPa (30,000 times atmospheric pressure) by putting the cells between two steel plates and then hitting that steel sandwich with a third plate. Previous work has shown that the hardy microbe can withstand radiation and desiccation, making it a candidate for interplanetary survival. The authors were able to detect biological stress in the bacteria by reading out which genes were expressed at varying pressures. Samples exposed to 2.4 GPa began to show ruptured membranes, but the structure of the bacterium’s cell envelope help explain the survival of 60% of microbes. Transcription profiles suggest that the bacteria prioritized the repair of cellular damage in the aftermath of the impact. According to the authors, microorganisms can survive more extreme conditions than previously thought, including launch across space after major impacts, and life may be able to move between planets.",
+  "summary": "A famously resilient bacterium may be tough enough to survive one of the most violent events imaginable on Mars. In laboratory experiments designed to mimic the crushing shock of a massive asteroid impact, researchers squeezed Deinococcus radiodurans between steel plates and blasted it with pressures reaching 3 GPa (30,000 times atmospheric pressure). Even under these extreme conditions, a significant portion of the microbes survived.",
+  "categories": [
+    "science"
+  ]
+}

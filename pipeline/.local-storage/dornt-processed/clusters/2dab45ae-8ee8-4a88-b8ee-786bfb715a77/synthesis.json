@@ -1,0 +1,33 @@
+{
+  "clusterId": "2dab45ae-8ee8-4a88-b8ee-786bfb715a77",
+  "narrative": "## State of the Story: Criticism of USA Men's Hockey Team's State of the Union Appearance\n\nThe USA men's Olympic hockey team's appearance at President Trump's State of the Union address on February 24, 2026, has sparked controversy among media commentators who criticized the athletes for allowing themselves to be used as \"political props.\"\n\n### Key Facts\n\nThe gold medal-winning USA men's hockey team attended Trump's State of the Union address after being invited by the president [1]. The team had recently defeated Canada 2-1 in the Winter Olympics finals [1]. During the address, Trump introduced the team and announced he would award goaltender Connor Hellebuyck the Presidential Medal of Freedom [1]. The players entered the House Chamber wearing their gold medals and USA sweatshirts, receiving thunderous \"U-S-A\" chants [1].\n\n### Media Criticism\n\nTwo prominent media figures criticized the team's participation. Symone Sanders, former advisor to Vice President Kamala Harris and current MS NOW co-host, stated during the address that the team \"allowed themselves to be used as political props\" [1]. She questioned why \"the men's hockey team allowed themselves to be utilized in this particular fashion\" while acknowledging that \"no one is against USA and our Olympic athletes\" [1].\n\nSeparately, ESPN radio host Peter Rosenberg called the players \"sad little pawns\" in a YouTube video, saying \"Y'all decided to go all the way full on props for the president\" and adding controversial remarks about their \"white, cushy, privileged\" lives [2].\n\n### Public and Political Response\n\nThe team's appearance generated largely positive bipartisan reactions among voters, according to polling data from Maslansky + Partners [1]. Independent voters particularly responded positively to the moment [1]. The entrance was noted as \"one of the few moments to get (at least mostly) standing bipartisan support\" and \"one of the only times Democrats stood throughout Trump's speech\" [1][2].\n\nCritics on social media responded negatively to Sanders' comments, with some calling her a \"political prop\" herself [1]. Conservative commentators defended the team's appearance [1].\n\n### Historical Context\n\nBoth sources note apparent inconsistencies in media treatment of athletes visiting different presidential administrations, referencing the 2012 Boston Bruins' White House visit during the Obama administration [2].",
+  "citations": [
+    {
+      "index": 1,
+      "articleId": "5d783db9-4ec8-4f01-9263-9962a8aab2f1",
+      "source": "Fox Politics",
+      "title": "Former top Harris advisor ignites backlash over 'political props' comment targeting USA men's hockey team",
+      "url": "https://www.foxnews.com/politics/former-top-harris-adviser-ignites-backlash-over-political-props-comment-targeting-hockey-team",
+      "quote": "They should not be used as political props though, and, frankly, allowed themselves to be used as political props"
+    },
+    {
+      "index": 2,
+      "articleId": "34e2e573-de48-409e-8bcb-db7bc483e3bc",
+      "source": "Breitbart",
+      "title": "ESPN Radio Host Calls USA Men's Hockey 'Sad Little Pawns' at Trump's State of the Union",
+      "url": "https://www.breitbart.com/sports/2026/02/25/espn-radio-host-calls-usa-mens-hockey-sad-little-pawns-at-trumps-state-of-the-union/",
+      "quote": "Y'all decided to go all the way full on props for the president. You pawns, you sad little pawns."
+    }
+  ],
+  "keyDevelopments": [
+    "USA men's hockey team attended Trump's State of the Union on Feb 24, 2026 after Olympic gold medal win",
+    "Trump announced Presidential Medal of Freedom for goaltender Connor Hellebuyck during the address",
+    "Media figures Symone Sanders and Peter Rosenberg criticized team as 'political props' and 'pawns'",
+    "Polling showed largely positive bipartisan voter reaction to the team's appearance",
+    "Social media backlash emerged against the critics, particularly Sanders",
+    "Conservative commentators highlighted perceived media double standards regarding athlete White House visits"
+  ],
+  "generatedAt": "2026-02-26T18:12:56.227Z",
+  "model": "anthropic/claude-sonnet-4",
+  "tokenCount": 3094
+}

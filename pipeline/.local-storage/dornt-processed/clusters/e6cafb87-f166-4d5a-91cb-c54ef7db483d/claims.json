@@ -1,0 +1,272 @@
+[
+  {
+    "id": "25af82b3-f493-41c6-bd0c-a3a23ca436d6",
+    "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+    "text": "Four people were killed on a US-registered speedboat in a confrontation with Cuban border guards",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI",
+      "NYT World",
+      "The Guardian World",
+      "BBC World",
+      "Breitbart",
+      "Fox Politics",
+      "Daily Wire",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:26:47.805Z",
+    "lastUpdatedAt": "2026-02-26T18:26:47.805Z"
+  },
+  {
+    "id": "6c4f9a2a-8d28-4ee5-b219-6b4d43871cc5",
+    "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+    "text": "Six people were injured on the speedboat",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI",
+      "The Guardian World",
+      "BBC World",
+      "Breitbart",
+      "Fox Politics",
+      "Daily Wire",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:26:47.805Z",
+    "lastUpdatedAt": "2026-02-26T18:26:47.805Z"
+  },
+  {
+    "id": "f4dbe1e9-4732-4a6a-b198-d118ed8d97d7",
+    "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+    "text": "The speedboat was registered in Florida with registration number FL7726SH",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI",
+      "The Guardian World",
+      "BBC World",
+      "Daily Wire",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:26:47.805Z",
+    "lastUpdatedAt": "2026-02-26T18:26:47.805Z"
+  },
+  {
+    "id": "030ca85a-da6d-40ca-9bda-bae27d49acb0",
+    "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+    "text": "The incident occurred near Cayo Falcones in Villa Clara province",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI",
+      "The Guardian World",
+      "BBC World",
+      "Daily Wire",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:26:47.805Z",
+    "lastUpdatedAt": "2026-02-26T18:26:47.805Z"
+  },
+  {
+    "id": "46a7c6ab-0307-44a8-b6ca-367d9a48b7a8",
+    "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+    "text": "The speedboat was approximately one nautical mile from the Cuban coast",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI",
+      "BBC World",
+      "Daily Wire",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:26:47.805Z",
+    "lastUpdatedAt": "2026-02-26T18:26:47.805Z"
+  },
+  {
+    "id": "570334bc-3348-4ed6-a358-ad1252047aef",
+    "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+    "text": "A Cuban border guard commander was injured in the confrontation",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI",
+      "The Guardian World",
+      "BBC World",
+      "Daily Wire",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:26:47.805Z",
+    "lastUpdatedAt": "2026-02-26T18:26:47.805Z"
+  },
+  {
+    "id": "bf79dc2e-1eab-45c4-b729-ef005d6c47d3",
+    "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+    "text": "The speedboat crew opened fire first on Cuban border guards",
+    "status": "disputed",
+    "supportingSources": [
+      "UPI",
+      "The Guardian World",
+      "BBC World",
+      "Daily Wire",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:26:47.805Z",
+    "lastUpdatedAt": "2026-02-26T18:26:47.805Z"
+  },
+  {
+    "id": "a811b6ee-8fb7-4963-b0dd-109d4497da15",
+    "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+    "text": "All 10 people on the speedboat were Cuban nationals residing in the US",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World",
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:26:47.805Z",
+    "lastUpdatedAt": "2026-02-26T18:26:47.805Z"
+  },
+  {
+    "id": "938aba64-15c5-4194-8077-f1799a292724",
+    "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+    "text": "The group was planning 'an infiltration with terrorist aims'",
+    "status": "disputed",
+    "supportingSources": [
+      "The Guardian World",
+      "BBC World",
+      "Breitbart"
+    ],
+    "disputingSources": [
+      "Breitbart"
+    ],
+    "firstSeenAt": "2026-02-26T18:26:47.805Z",
+    "lastUpdatedAt": "2026-02-26T18:26:47.805Z"
+  },
+  {
+    "id": "859feb50-5d85-49dc-91bd-8c83d0c49f22",
+    "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+    "text": "The speedboat was carrying assault rifles, handguns, homemade explosives, ballistic vests and telescopic sights",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World",
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:26:47.805Z",
+    "lastUpdatedAt": "2026-02-26T18:26:47.805Z"
+  },
+  {
+    "id": "cecbcdce-ec20-4cfd-8277-0c2c4d4025ca",
+    "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+    "text": "Two of the passengers, Amijail Sánchez González and Leordan Enrique Cruz Gómez, were previously wanted by Cuban authorities for terrorism-related activities",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World",
+      "Breitbart"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:26:47.805Z",
+    "lastUpdatedAt": "2026-02-26T18:26:47.805Z"
+  },
+  {
+    "id": "fccd33cd-0558-49c2-a7f6-29c28bc0f2f3",
+    "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+    "text": "One of the dead was identified as Michel Ortega Casanova",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:26:47.805Z",
+    "lastUpdatedAt": "2026-02-26T18:26:47.805Z"
+  },
+  {
+    "id": "aaf64dbd-5fdd-4a9a-a7cc-ba2944dfc0c7",
+    "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+    "text": "Duniel Hernández Santos was arrested in Cuban territory and confessed to being part of the plot",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World",
+      "Breitbart"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:26:47.805Z",
+    "lastUpdatedAt": "2026-02-26T18:26:47.805Z"
+  },
+  {
+    "id": "5f613ce2-a175-4b2d-9ad8-7b9fe520430d",
+    "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+    "text": "The speedboat was part of a flotilla to get relatives out of Cuba",
+    "status": "disputed",
+    "supportingSources": [
+      "The Guardian World",
+      "Daily Wire"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:26:47.805Z",
+    "lastUpdatedAt": "2026-02-26T18:26:47.805Z"
+  },
+  {
+    "id": "1a81bea5-44b2-4e35-8037-4879e2fe5dcc",
+    "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+    "text": "No US government personnel were involved in the operation",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World",
+      "Daily Wire"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:26:47.805Z",
+    "lastUpdatedAt": "2026-02-26T18:26:47.805Z"
+  },
+  {
+    "id": "a23dbb62-d1c9-41dc-b9a1-1120e4900553",
+    "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+    "text": "Secretary of State Marco Rubio said the US would conduct its own investigation",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World",
+      "BBC World",
+      "Fox Politics",
+      "Daily Wire",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:26:47.805Z",
+    "lastUpdatedAt": "2026-02-26T18:26:47.805Z"
+  },
+  {
+    "id": "51cd896c-3757-4a17-9d91-6148ddbffdbd",
+    "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+    "text": "Florida Attorney General James Uthmeier ordered an investigation into the incident",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World",
+      "Fox Politics",
+      "Daily Wire",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:26:47.805Z",
+    "lastUpdatedAt": "2026-02-26T18:26:47.805Z"
+  },
+  {
+    "id": "46a89b3d-113d-4ff3-a2fa-0a93440a207d",
+    "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+    "text": "The incident occurred on February 25, 2026",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI",
+      "The Guardian World",
+      "BBC World",
+      "Fox Politics",
+      "Daily Wire",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:26:47.805Z",
+    "lastUpdatedAt": "2026-02-26T18:26:47.805Z"
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "id": "1rf8m0o",
+  "subreddit": "science",
+  "title": "Scientists created an exam so broad, challenging and deeply rooted in expert human knowledge that current AI systems consistently fail it. “Humanity’s Last Exam” introduces 2,500 questions spanning mathematics, humanities, natural sciences, ancient languages and highly specialized subfields.",
+  "url": "https://stories.tamu.edu/news/2026/02/25/dont-panic-humanitys-last-exam-has-begun/",
+  "selftext": "",
+  "author": "mvea",
+  "score": 8247,
+  "numComments": 629,
+  "createdUtc": 1772108157,
+  "permalink": "https://reddit.com/r/science/comments/1rf8m0o/scientists_created_an_exam_so_broad_challenging/",
+  "fetchedAt": "2026-02-26T17:22:31.772Z",
+  "topComments": [
+    {
+      "id": "o7i2vyh",
+      "author": "AutoModerator",
+      "body": "Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.\n\n---\n\n**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/).\n\n---\n\nUser: u/mvea  \nPermalink: https://stories.tamu.edu/news/2026/02/25/dont-panic-humanitys-last-exam-has-begun/\n\n---\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",
+      "score": 1,
+      "createdUtc": 1772108158
+    },
+    {
+      "id": "o7i5x9s",
+      "author": "aurumae",
+      "body": "From the paper\n\n&gt; Before submission, each question is tested against state-of-the-art LLMs to verify its difficulty—questions are rejected if LLMs can answer them correctly.\n\nThis seems like a bit of a circular approach. The only questions on the test are ones that have been tested against LLMs and that the LLMs have already failed to answer correctly. It’s certainly interesting as it shows where the limits of the current crop of LLMs are, but even in the paper they say that this is unlikely to last and previous LLMs have gone from near zero to near perfect scores in tests like this in a relatively short timeframe.",
+      "score": 1705,
+      "createdUtc": 1772109425
+    },
+    {
+      "id": "o7i6orm",
+      "author": "ReeeeeDDDDDDDDDD",
+      "body": "Another example question that the AI is asked in this exam is:\n\n&gt;I am providing the standardized Biblical Hebrew source text from the Biblia Hebraica Stuttgartensia (Psalms 104:7). Your task is to distinguish between closed and open syllables. Please identify and list all closed syllables (ending in a consonant sound) based on the latest research on the Tiberian pronunciation tradition of Biblical Hebrew by scholars such as Geoffrey Khan, Aaron D. Hornkohl, Kim Phillips, and Benjamin Suchard. Medieval sources, such as the Karaite transcription manuscripts, have enabled modern researchers to better understand specific aspects of Biblical Hebrew pronunciation in the Tiberian tradition, including the qualities and functions of the shewa and which letters were pronounced as consonants at the ends of syllables.\n\nמִן־גַּעֲרָ֣תְךָ֣ יְנוּס֑וּן מִן־ק֥וֹל רַֽ֝עַמְךָ֗ יֵחָפֵזֽוּן (Psalms 104:7) ?",
+      "score": 853,
+      "createdUtc": 1772109737
+    },
+    {
+      "id": "o7i5oa2",
+      "author": "HiddenoO",
+      "body": "The benchmark has been in use for almost a year now and current-gen models are already getting &gt;40% on it, see e.g. [https://deepmind.google/models/model-cards/gemini-3-1-pro/](https://deepmind.google/models/model-cards/gemini-3-1-pro/) with 44.4%. Take that as you will.\n\nI understand that publishing journal papers is a fairly lengthy process, but the article would've made much more sense a year ago.",
+      "score": 339,
+      "createdUtc": 1772109323
+    }
+  ]
+}

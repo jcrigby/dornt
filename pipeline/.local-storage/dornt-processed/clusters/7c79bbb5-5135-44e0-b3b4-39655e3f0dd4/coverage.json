@@ -1,0 +1,46 @@
+{
+  "clusterId": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+  "frames": [
+    {
+      "name": "Military Operations Focus",
+      "description": "Presents the conflict primarily through the lens of military strategy, casualties, and operational updates",
+      "sources": [
+        "Axios",
+        "Foreign Policy"
+      ],
+      "emphasis": "U.S. service member deaths, military objectives achieved, operational scope and timeline"
+    },
+    {
+      "name": "Humanitarian Crisis Frame",
+      "description": "Centers civilian casualties and humanitarian impact as the primary concern",
+      "sources": [
+        "Vox"
+      ],
+      "emphasis": "Civilian death tolls, attacks on schools and hospitals, humanitarian consequences"
+    },
+    {
+      "name": "Political Consequences Frame",
+      "description": "Focuses on domestic political implications and public opinion regarding the conflict",
+      "sources": [
+        "Foreign Policy"
+      ],
+      "emphasis": "Trump's approval ratings, polling on Iran strikes, political costs of casualties"
+    }
+  ],
+  "outlierPerspectives": [
+    "Detailed documentation of specific civilian casualty incidents (Vox's focus on the Minab elementary school strike killing 175 people)",
+    "Polling data showing only 25% American support for Iran strikes (Foreign Policy)",
+    "Analysis of friendly fire incidents and operational chaos (Axios reporting on Kuwaiti forces shooting down U.S. jets)"
+  ],
+  "missingContext": [
+    "What triggered this military operation - the precipitating events or justification",
+    "International diplomatic response and efforts at de-escalation",
+    "Economic implications and oil market impacts",
+    "Regional allies' positions beyond Kuwait's involvement",
+    "Congressional authorization or legal framework for the operation",
+    "Comparison to previous U.S.-Iran military confrontations",
+    "Iran's military capabilities and strategic response options"
+  ],
+  "generatedAt": "2026-03-03T19:55:21.041Z",
+  "model": "anthropic/claude-sonnet-4"
+}

@@ -1,0 +1,79 @@
+{
+  "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+  "stakeholders": [
+    {
+      "name": "Aliya Rahman",
+      "role": "Disability rights activist and State of the Union guest",
+      "position": "Claims she was peacefully standing and was unjustly arrested",
+      "influence": "low"
+    },
+    {
+      "name": "Rep. Ilhan Omar",
+      "role": "Democratic congresswoman who invited Rahman",
+      "position": "Condemns arrest as heavy-handed and demands explanation",
+      "influence": "medium"
+    },
+    {
+      "name": "U.S. Capitol Police",
+      "role": "Law enforcement agency responsible for Congressional security",
+      "position": "Defends arrest as necessary enforcement of demonstration rules",
+      "influence": "high"
+    },
+    {
+      "name": "President Trump",
+      "role": "President delivering State of the Union",
+      "position": "No stated position on the arrest itself",
+      "influence": "high"
+    },
+    {
+      "name": "House Sergeant-at-Arms",
+      "role": "Congressional security official",
+      "position": "Confirmed Rahman was arrested for 'standing up'",
+      "influence": "medium"
+    },
+    {
+      "name": "Democratic Congressional Leadership",
+      "role": "Political opposition party",
+      "position": "Likely to support Omar's criticism of the arrest",
+      "influence": "medium"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "Rahman will likely file a civil rights lawsuit against Capitol Police for excessive force and wrongful arrest",
+      "likelihood": "likely",
+      "timeframe": "within 3-6 months",
+      "basis": "Her documented injuries, disability status, and pattern of previous encounters with federal agents create strong grounds for civil litigation"
+    },
+    {
+      "text": "Congressional Democrats will call for hearings on Capitol Police protocols for handling disabled guests",
+      "likelihood": "possible",
+      "timeframe": "within 2-4 weeks",
+      "basis": "Omar's call for explanation and the optics of arresting a disabled person using a crutch during a peaceful protest"
+    },
+    {
+      "text": "Capitol Police will review and potentially revise guest conduct policies",
+      "likelihood": "possible",
+      "timeframe": "within 1-3 months",
+      "basis": "Public scrutiny and potential legal liability may prompt policy clarification on what constitutes 'demonstration'"
+    },
+    {
+      "text": "Rahman's case will become a rallying point for disability rights and immigration reform activists",
+      "likelihood": "likely",
+      "timeframe": "immediate to 6 months",
+      "basis": "Her dual status as disability advocate and immigration enforcement victim creates intersectional appeal for multiple advocacy groups"
+    }
+  ],
+  "historicalContext": "This incident occurs within a broader pattern of heightened tensions around immigration enforcement and protest rights during Trump's presidency. Rahman's previous encounter with ICE agents in January 2025 reflects the administration's aggressive immigration policies. The arrest also echoes historical tensions over protest protocols in Congress, including past incidents where guests have been removed for various forms of demonstration during presidential addresses. The intersection of disability rights and protest rights has gained prominence since the Americans with Disabilities Act, with courts generally requiring accommodations for disabled protesters while still allowing enforcement of content-neutral time, place, and manner restrictions.",
+  "implications": [
+    "Sets precedent for how Capitol Police interpret and enforce 'demonstration' rules, potentially criminalizing silent standing",
+    "Raises questions about reasonable accommodations for disabled individuals in Congressional settings",
+    "May chill future guest attendance at State of the Union addresses due to fear of arrest for minimal actions",
+    "Could prompt legislative review of Capitol Police authority and guest conduct protocols",
+    "Highlights intersection of immigration enforcement, disability rights, and free speech issues",
+    "May influence public perception of law enforcement treatment of vulnerable populations",
+    "Could affect future congressional guest invitation practices by Democratic members"
+  ],
+  "generatedAt": "2026-02-26T18:11:25.057Z",
+  "model": "anthropic/claude-sonnet-4"
+}

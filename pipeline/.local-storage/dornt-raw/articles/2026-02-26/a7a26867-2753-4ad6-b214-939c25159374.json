@@ -1,0 +1,16 @@
+{
+  "id": "a7a26867-2753-4ad6-b214-939c25159374",
+  "url": "https://www.cnbc.com/2026/02/25/alphabet-robotics-software-intrinsic-google-ai.html",
+  "normalizedUrl": "https://cnbc.com/2026/02/25/alphabet-robotics-software-intrinsic-google-ai.html",
+  "title": "Former Alphabet 'moonshot' robotics company Intrinsic is folding into Google",
+  "source": "CNBC",
+  "feedUrl": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+  "publishedAt": "Wed, 25 Feb 2026 23:02:38 GMT",
+  "fetchedAt": "2026-02-26T01:24:22.662Z",
+  "contentHash": "83207665d2a1c447",
+  "fullText": "Google is folding in former moon shot robotics software company Intrinsic as Alphabet tries to streamline its ambitions in the space.After five and a half years developing its technology at Alphabet's \"moonshot factory\" X, Intrinsic became an independent Alphabet company in its \"Other Bets\" division in July 2021. The Google parent company announced Wednesday that it will be folded into Google itself.While hardware like robotic arms has become cheaper, programming them remains incredibly complex, often requiring hundreds of hours of manual coding by specialized engineers that can vary based on the particular robot. Intrinsic's flagship product, Flowstate, is a web-based platform that allows users to build robotic applications without having to write thousands of lines of code. \"Joining Google allows us to amplify our collective work across frontier AI spanning R&D through to deployment and daily operations enabling industrial use cases in manufacturing and logistics,\" the company said in its announcement. Read more CNBC tech newsFirst look at Nvidia's new AI system Vera Rubin is 10 times more efficient than its predecessorSamsung's S26 gives an advance look at what the Google-powered Apple Siri could doThrive Capital invested about $1 billion in OpenAI at a $285 billion valuation, source saysHead of Amazon's AGI lab is leaving the companyThe company added that the platform will utilize Gemini models and Cloud and work closely with Google DeepMind.This shift moves the software platform to a core enterprise priority so Google can better compete with rivals like Amazon and Tesla. It also shows the company is ready to scale its products while working more closely with Google's AI teams.In November, Intrinsic and Nvidia supplier Foxconn announced a partnership to deploy AI robots for electronics assembly in Foxconn's U.S. factories.Intrinsic CEO Wendy Tan White said in Wednesday's announcement that by using Google's AI and infrastructure, it can \"unlock the promise of physical AI for a much broader set of manufacturing businesses and developers.\"",
+  "summary": "Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.",
+  "categories": [
+    "finance"
+  ]
+}

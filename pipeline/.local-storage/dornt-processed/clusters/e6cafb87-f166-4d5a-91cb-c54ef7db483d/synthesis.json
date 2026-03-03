@@ -1,0 +1,105 @@
+{
+  "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+  "narrative": "## State of the Story: Fatal Shootout Between Cuban Forces and Florida-Registered Speedboat\n\nOn Wednesday, February 25, 2026, Cuban border guards shot and killed four people aboard a Florida-registered speedboat in Cuban territorial waters, with six others wounded in what both sides describe as an armed confrontation [1][2][6][9][10][11].\n\n### Key Facts Established\n\n**Location and Timing**: The incident occurred Wednesday morning approximately one nautical mile northeast of the El Pino channel, near Cayo Falcones in Cuba's Villa Clara province [6][9][12][13]. The speedboat bore Florida registration number FL7726SH [12][13].\n\n**Casualties**: Four people aboard the speedboat were killed and six wounded [1][2][6][9][10][11]. A Cuban border guard commander was also injured in the exchange [1][2][6][9][11]. The wounded from the speedboat were evacuated and received medical assistance [6][9][11].\n\n**Sequence of Events**: Cuban authorities claim their five-member border guard unit approached the speedboat for identification when those aboard \"opened fire\" first, injuring the Cuban commander [6][9][11][12]. Cuban forces then returned fire, resulting in the casualties [11][12].\n\n### Cuban Government Claims\n\nCuba has made several specific allegations about the incident's nature and participants:\n\n- The 10 people aboard planned \"an infiltration with terrorist aims\" and were \"Cuban nationals residing in the US\" [1]\n- Most had \"prior records involving criminal and violent activity\" [1]\n- The boat carried \"handguns, assault rifles and improvised explosive devices\" along with \"other tactical gear\" [1]\n- Cuba identified several individuals, including two allegedly wanted for terrorism-related activities: Amijail Sánchez González and Leordan Enrique Cruz Gómez [2][5]\n- One fatality was identified as Michel Ortega Casanova [2]\n- An 11th person, Duniel Hernández Santos, was arrested on Cuban territory and allegedly \"confessed to being part of the alleged plot\" [1][5]\n\n### US Response and Investigation\n\nSecretary of State Marco Rubio, speaking from St. Kitts and Nevis, confirmed the US was investigating the \"highly unusual\" incident [1][2][6]. Rubio stated it was not a US government operation and no US personnel were involved [2][6]. He emphasized the US would not rely solely on Cuban accounts: \"We're not going to base our conclusions on what they've [Cuba] told us\" [2][10].\n\nFlorida Attorney General James Uthmeier ordered a state investigation, declaring \"The Cuban government cannot be trusted, and we will do everything in our power to hold these communists accountable\" [2][6][8][10][12].\n\n### Conflicting Accounts and Unverified Claims\n\nWhile Cuban authorities provide detailed allegations about the participants' backgrounds and intentions, sources note that \"No evidence was offered to support the claim the victims were exiled Cubans tasked by the U.S. to infiltrate the island nation\" [5]. \n\nOne unnamed US official told The New York Times the speedboat was \"part of a flotilla to get relatives out of Cuba\" [10][12][13], presenting a different potential motive than Cuba's terrorism allegations.\n\n### Historical Context\n\nThe incident occurs during heightened US-Cuba tensions and comes \"almost 30 years to the day since Cuban defence forces shot down two small civilian planes belonging to Brothers to the Rescue\" in 1996, killing four people [1][10]. The area has seen previous armed clashes, including incidents in 2022 during Cuba's migration crisis [2][7][10].\n\n### Ongoing Developments\n\nUS diplomats were working to gain access to determine if any victims were American citizens or permanent residents [6]. Cuban authorities continue investigating to \"fully clarify the events\" [9][11][12]. The BBC attempted to verify the speedboat's registration details but found no ownership information in available databases [1].",
+  "citations": [
+    {
+      "index": 1,
+      "articleId": "272dc47d-6a2a-4ee1-b97d-3eeeb7176c54",
+      "source": "BBC World",
+      "title": "Cuba says group shot on US-registered speedboat planned 'armed infiltration'",
+      "url": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
+      "quote": "Cuba has accused 10 people aboard a US-registered speedboat it intercepted off its coast on Wednesday of planning 'an infiltration with terrorist aims'"
+    },
+    {
+      "index": 2,
+      "articleId": "262a30c7-2ec2-4afc-92a0-442204e7d887",
+      "source": "The Guardian World",
+      "title": "Cuba says it killed heavily armed exiles who attacked from US-registered speedboat",
+      "url": "https://www.theguardian.com/world/2026/feb/25/cuba-says-border-guards-killed-four-gunmen-on-us-registered-speedboat",
+      "quote": "Cuban forces killed four exiles and wounded six others who sailed into its waters onboard a Florida-registered speedboat and opened fire on a Cuban patrol"
+    },
+    {
+      "index": 5,
+      "articleId": "2d270d42-1b59-411d-a2a2-b75007084609",
+      "source": "Breitbart",
+      "title": "Cuba Alleges 4 Killed in Speedboat Shooting Were Sent from the U.S. to Infiltrate the Country",
+      "url": "https://www.breitbart.com/politics/2026/02/26/cuba-alleges-4-killed-in-speedboat-shooting-were-sent-from-the-u-s-to-infiltrate-the-country/",
+      "quote": "No evidence was offered to support the claim the victims were exiled Cubans tasked by the U.S. to infiltrate the island nation"
+    },
+    {
+      "index": 6,
+      "articleId": "687e1b26-8286-4b0b-bdfd-46be2896acec",
+      "source": "ABC News",
+      "title": "Cuba says 4 killed, 6 hurt on US-registered boat in 'confrontation' off Cuba's coast",
+      "url": "https://abcnews.com/International/4-people-us-registered-boat-killed-confrontation-troops/story?id=130501458",
+      "quote": "As Border Guard troops approached the boat for identification after it was detected in Cuban waters, those on board the speedboat 'opened fire,' injuring the commander of the Cuban vessel"
+    },
+    {
+      "index": 7,
+      "articleId": "2142d341-2647-45b0-bef7-8f3c36482713",
+      "source": "NYT World",
+      "title": "Vessels Have Clashed With Cuban Border Forces Before",
+      "url": "https://www.nytimes.com/2026/02/26/us/cuba-speedboat-florida-shooting-killed.html",
+      "quote": "Two such armed clashes occurred in 2022"
+    },
+    {
+      "index": 8,
+      "articleId": "5d37acc1-b4fe-4a9e-9712-705d06c9482f",
+      "source": "Fox Politics",
+      "title": "Florida launches probe after Cuba kills 4 aboard US-flagged speedboat near Keys",
+      "url": "https://www.foxnews.com/politics/florida-launches-probe-after-cuba-kills-4-aboard-us-flagged-speedboat-near-keys",
+      "quote": "I've directed the Office of Statewide Prosecution to work with our federal, state, and law enforcement partners to begin an investigation"
+    },
+    {
+      "index": 9,
+      "articleId": "07e97535-72eb-4ca9-9bbc-310aac4d4f31",
+      "source": "UPI",
+      "title": "4 dead on U.S.-registered speedboat in shootout with Cuban border guards",
+      "url": "https://www.upi.com/Top_News/World-News/2026/02/25/latam-cuba-us-boat-gunfire/7101772052199/",
+      "quote": "The Embassy said the speedboat, registered in Florida, opened fire on the Cuban vessel, injuring its commander"
+    },
+    {
+      "index": 10,
+      "articleId": "262a30c7-2ec2-4afc-92a0-442204e7d887",
+      "source": "The Guardian World",
+      "title": "Cuba says border guards killed four people on US-registered speedboat",
+      "url": "https://www.theguardian.com/world/2026/feb/25/cuba-says-border-guards-killed-four-gunmen-on-us-registered-speedboat",
+      "quote": "A US official told the New York Times that the firefight involved a US civilian boat that was trying to transport relatives out of Cuba"
+    },
+    {
+      "index": 11,
+      "articleId": "2d270d42-1b59-411d-a2a2-b75007084609",
+      "source": "Breitbart",
+      "title": "Cuban Coast Guard Opens Fire on U.S.-Registered Speedboat, Four Killed",
+      "url": "https://www.breitbart.com/politics/2026/02/26/cuba-alleges-4-killed-in-speedboat-shooting-were-sent-from-the-u-s-to-infiltrate-the-country/",
+      "quote": "According to the Cuban Interior Ministry statement, the speedboat passengers began shooting at the Cuban Coast Guard vessel when it approached them"
+    },
+    {
+      "index": 12,
+      "articleId": "60f439a0-6c38-4359-a39f-c1bb1b6a07d4",
+      "source": "Daily Wire",
+      "title": "Deadly Gun Battle Off Cuba's Coast — Florida-Registered Boat At Center Of Clash",
+      "url": "https://www.dailywire.com/news/deadly-gun-battle-off-cubas-coast-florida-registered-boat-at-center-of-clash",
+      "quote": "The vessel, registered in Florida, United States, with registration number FL7726SH, approached up to 1 nautical mile northeast of the El Pino channel"
+    },
+    {
+      "index": 13,
+      "articleId": "60f439a0-6c38-4359-a39f-c1bb1b6a07d4",
+      "source": "Daily Wire",
+      "title": "Deadly Gun Battle Off Cuba's Coast — Florida-Registered Boat At Center Of Clash",
+      "url": "https://www.dailywire.com/news/deadly-gun-battle-off-cubas-coast-florida-registered-boat-at-center-of-clash",
+      "quote": "An unnamed U.S. official told The New York Times that the speedboat was a civilian vessel and was 'part of a flotilla to get relatives out of Cuba'"
+    }
+  ],
+  "keyDevelopments": [
+    "Four killed, six wounded in armed confrontation between Cuban border guards and Florida-registered speedboat occupants",
+    "Cuba claims incident was planned 'terrorist infiltration' by Cuban exiles from US",
+    "US Secretary of State Marco Rubio confirms no US government personnel involved, launches independent investigation",
+    "Florida Attorney General orders state investigation into incident",
+    "Cuba identifies several participants and alleges discovery of weapons and explosives",
+    "Incident occurs during heightened US-Cuba tensions, nearly 30 years after similar Brothers to the Rescue shootdown"
+  ],
+  "generatedAt": "2026-02-26T18:26:28.920Z",
+  "model": "anthropic/claude-sonnet-4",
+  "tokenCount": 8807
+}

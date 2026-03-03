@@ -1,0 +1,221 @@
+[
+  {
+    "id": "3542a138-1dec-4242-9552-a490bde8ee93",
+    "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+    "text": "Aliya Rahman was invited to the State of the Union by Rep. Ilhan Omar",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US",
+      "NYT Politics",
+      "WaPo Politics",
+      "NBC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:11:03.880Z",
+    "lastUpdatedAt": "2026-02-26T18:11:03.880Z"
+  },
+  {
+    "id": "260f0d85-fe70-40c1-a5c4-b3d4e5a15e5f",
+    "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+    "text": "Rahman is a 43-year-old software engineer who lives in Minneapolis",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:11:03.880Z",
+    "lastUpdatedAt": "2026-02-26T18:11:03.880Z"
+  },
+  {
+    "id": "406d1542-cdfa-48c2-ba27-502b1c43f57f",
+    "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+    "text": "Rahman is a U.S. citizen",
+    "status": "undisputed",
+    "supportingSources": [
+      "NYT Politics"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:11:03.880Z",
+    "lastUpdatedAt": "2026-02-26T18:11:03.880Z"
+  },
+  {
+    "id": "d51df05b-b2f7-4e58-b6ae-305413835467",
+    "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+    "text": "Rahman was arrested and charged with unlawful conduct and disrupting Congress at the State of the Union",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US",
+      "NYT Politics",
+      "NBC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:11:03.880Z",
+    "lastUpdatedAt": "2026-02-26T18:11:03.880Z"
+  },
+  {
+    "id": "18e3bc19-8828-4c1f-9860-e605a8fe95e4",
+    "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+    "text": "Rahman stood up during Trump's State of the Union speech",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US",
+      "NYT Politics",
+      "NBC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:11:03.880Z",
+    "lastUpdatedAt": "2026-02-26T18:11:03.880Z"
+  },
+  {
+    "id": "5f6908de-dd2d-4264-90e0-cefbaffe3214",
+    "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+    "text": "Rahman was completely silent during the incident - no sounds, gestures, signs, or buttons",
+    "status": "disputed",
+    "supportingSources": [
+      "The Guardian US",
+      "NBC News"
+    ],
+    "disputingSources": [
+      "Capitol Police"
+    ],
+    "firstSeenAt": "2026-02-26T18:11:03.880Z",
+    "lastUpdatedAt": "2026-02-26T18:11:03.880Z"
+  },
+  {
+    "id": "6088f382-b392-4050-971b-f8e9230c995e",
+    "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+    "text": "Capitol Police said Rahman 'started demonstrating during the State of the Union'",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:11:03.880Z",
+    "lastUpdatedAt": "2026-02-26T18:11:03.880Z"
+  },
+  {
+    "id": "26fa6864-f842-4aae-8010-c8cd2daee3e8",
+    "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+    "text": "Rahman was told to sit down by Capitol Police but refused",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US",
+      "NBC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:11:03.880Z",
+    "lastUpdatedAt": "2026-02-26T18:11:03.880Z"
+  },
+  {
+    "id": "03d01fb0-924e-4073-93c4-fb0232aa5cf4",
+    "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+    "text": "Rahman needed hospital treatment after her arrest",
+    "status": "undisputed",
+    "supportingSources": [
+      "NBC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:11:03.880Z",
+    "lastUpdatedAt": "2026-02-26T18:11:03.880Z"
+  },
+  {
+    "id": "31e33c31-f2ca-4025-b1cd-c8295156d7a8",
+    "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+    "text": "Rahman was using a crutch and has shoulder injuries including torn rotator cuff and cartilage tears",
+    "status": "undisputed",
+    "supportingSources": [
+      "NBC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:11:03.880Z",
+    "lastUpdatedAt": "2026-02-26T18:11:03.880Z"
+  },
+  {
+    "id": "a0536519-4f15-4979-bfab-fd20a2f649e9",
+    "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+    "text": "Rahman was previously dragged from her car by immigration agents in Minneapolis in January",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US",
+      "NYT Politics",
+      "NBC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:11:03.880Z",
+    "lastUpdatedAt": "2026-02-26T18:11:03.880Z"
+  },
+  {
+    "id": "95db5dcf-cfd6-4697-ae38-2c41133fc37b",
+    "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+    "text": "Rahman suffered a traumatic brain injury in 2024",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:11:03.880Z",
+    "lastUpdatedAt": "2026-02-26T18:11:03.880Z"
+  },
+  {
+    "id": "57c334f9-caeb-4e0b-977d-af9247b6c8f3",
+    "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+    "text": "Rahman stood up during the part of Trump's speech about DHS funding",
+    "status": "undisputed",
+    "supportingSources": [
+      "NBC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:11:03.880Z",
+    "lastUpdatedAt": "2026-02-26T18:11:03.880Z"
+  },
+  {
+    "id": "1ff3b1c0-fee1-4af4-849d-6ad0029df8c1",
+    "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+    "text": "Other attendees tried to intervene when police were pulling Rahman",
+    "status": "undisputed",
+    "supportingSources": [
+      "NBC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:11:03.880Z",
+    "lastUpdatedAt": "2026-02-26T18:11:03.880Z"
+  },
+  {
+    "id": "3d947f3b-969d-4ea6-b8ee-48000c27e602",
+    "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+    "text": "Rahman was in police custody and hospital until just before 4 a.m.",
+    "status": "undisputed",
+    "supportingSources": [
+      "NBC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:11:03.880Z",
+    "lastUpdatedAt": "2026-02-26T18:11:03.880Z"
+  },
+  {
+    "id": "62f5a9fb-81c3-4b46-afb0-d2485e93a86f",
+    "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+    "text": "Rep. Omar condemned the arrest and called for a full explanation",
+    "status": "undisputed",
+    "supportingSources": [
+      "NYT Politics",
+      "WaPo Politics",
+      "NBC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:11:03.880Z",
+    "lastUpdatedAt": "2026-02-26T18:11:03.880Z"
+  },
+  {
+    "id": "70888f4a-e7e5-4a39-865c-6fc57bb9a00b",
+    "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+    "text": "Rahman had no intention of disrupting the State of the Union",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:11:03.880Z",
+    "lastUpdatedAt": "2026-02-26T18:11:03.880Z"
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "id": "5a7231aa-6357-411c-a12a-7f77a85ae1db",
+  "date": "2026-02-26",
+  "headline": "Clinton Testifies in Epstein Probe as US-Cuba Maritime Incident Leaves Four Dead",
+  "topStories": [
+    {
+      "clusterId": "49654a5d-cd09-434c-807b-ceabe4aaae74",
+      "title": "Hillary Clinton testifies before House committee in ongoing Jeffrey Epstein investigation",
+      "summary": "Former Secretary of State Hillary Clinton appeared before a House committee as part of the ongoing congressional investigation into Jeffrey Epstein's activities. The testimony represents a significant development in the probe examining connections between political figures and the late financier.",
+      "importance": 100
+    },
+    {
+      "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+      "title": "Four people killed in shootout between US-registered speedboat and Cuban border guards",
+      "summary": "A deadly maritime confrontation occurred between Cuban border patrol forces and occupants of a US-registered speedboat, resulting in four fatalities. The incident highlights ongoing tensions in US-Cuba relations and raises questions about maritime security in the region.",
+      "importance": 100
+    },
+    {
+      "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+      "title": "US and Iran Hold Talks Amid Tensions Over Nuclear Deal",
+      "summary": "American and Iranian officials engaged in diplomatic discussions as both nations navigate ongoing disputes over nuclear agreements. The talks come amid heightened regional tensions and represent efforts to address nuclear proliferation concerns through diplomatic channels.",
+      "importance": 81
+    },
+    {
+      "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+      "title": "Trump's Surgeon General Nominee, Casey Means, Faces Senate Scrutiny Over Vaccination Stance",
+      "summary": "Casey Means, nominated by President Trump for Surgeon General, underwent Senate questioning regarding her positions on vaccination policies. The confirmation process has drawn attention to public health policy directions under the new administration.",
+      "importance": 71
+    },
+    {
+      "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+      "title": "Samsung Unveils Galaxy S26 Smartphones with Enhanced Features and Pricing",
+      "summary": "Samsung announced its latest Galaxy S26 smartphone lineup, featuring updated technology and new pricing structures. The release represents the company's continued competition in the premium smartphone market.",
+      "importance": 55
+    }
+  ],
+  "emergingThemes": [
+    "High-profile congressional investigations intensifying with testimony from major political figures",
+    "US-Cuba relations under strain following deadly maritime incident",
+    "Trump administration cabinet confirmations facing scrutiny over policy positions",
+    "Technology sector developments in AI integration and consumer electronics"
+  ],
+  "notableShifts": [
+    "Epstein investigation expanding to include testimony from former high-ranking officials, indicating broader scope of congressional probe",
+    "US-Cuba diplomatic tensions escalating from policy disagreements to deadly confrontations",
+    "Senate confirmation processes becoming more contentious over nominees' stances on established policies",
+    "AI deployment debates shifting from theoretical concerns to practical implementation disputes between government and private sector"
+  ],
+  "generatedAt": "2026-02-26T18:44:57.209Z",
+  "model": "anthropic/claude-sonnet-4"
+}

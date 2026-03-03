@@ -1,0 +1,40 @@
+{
+  "clusterId": "afe792e4-4b40-4fcd-8d61-609780082b39",
+  "narrative": "Børge Brende, president and CEO of the World Economic Forum (WEF), has resigned following scrutiny over his connections to convicted sex offender Jeffrey Epstein [1][2][3]. Brende stepped down after more than eight years leading the organization, which hosts the annual Davos summit [1][3].\n\n## Key Facts\n\nBrende acknowledged dining with Epstein on three occasions between 2018 and 2019, and engaging in email and text communications with the disgraced financier [1][2][3]. These interactions came to light following the release of documents by the US Department of Justice [1][3]. Initially, Brende had denied having any contact with Epstein in November, but later admitted to knowing him after their relationship was revealed [1].\n\nThe WEF launched an independent review into Brende's connections after the revelations emerged [1][2][3]. The review, conducted by outside counsel, concluded that \"there were no additional concerns beyond what has been previously disclosed\" [1][2][3]. Brende has maintained he was \"completely unaware\" of Epstein's criminal activity and has expressed regret for not investigating Epstein more thoroughly [3].\n\n## Leadership Transition\n\nAlois Zwinggi, previously a managing director on the WEF's executive body, will serve as interim president and CEO [2][3]. The board of trustees will oversee the process to identify a permanent successor [2][3]. WEF co-chairs André Hoffmann and Larry Fink expressed appreciation for Brende's contributions and said they respected his decision to step down [1][2][3].\n\n## Broader Context\n\nBrende's resignation adds to a growing list of high-profile figures stepping down over Epstein connections. This week, Larry Summers announced his resignation from Harvard teaching \"in connection with the ongoing review by the university of documents related to Jeffrey Epstein\" [1]. Last week, billionaire Thomas Pritzker stepped down as executive chair of Hyatt after admitting \"terrible judgment\" in maintaining contact with Epstein and Ghislaine Maxwell [1]. Additionally, former Norwegian Prime Minister Thorbjørn Jagland was charged with \"gross corruption\" over his ties with Epstein [3].",
+  "citations": [
+    {
+      "index": 1,
+      "articleId": "0a3686c0-9561-4f25-9a11-9c1c2c534e29",
+      "source": "The Guardian US",
+      "title": "Boss of World Economic Forum quits after links to Epstein revealed",
+      "url": "https://www.theguardian.com/us-news/2026/feb/26/boss-world-economic-forum-quits-epstein-links",
+      "quote": "Børge Brende said he will step down as president and chief executive after more than eight years leading the body"
+    },
+    {
+      "index": 2,
+      "articleId": "72218c81-b5f1-4245-a646-327aef0d5cd9",
+      "source": "Fox News",
+      "title": "World Economic Forum president and CEO steps down after facing scrutiny over Epstein links",
+      "url": "https://www.foxnews.com/world/world-economic-forum-president-ceo-steps-down-after-facing-scrutiny-over-epstein-links",
+      "quote": "Disclosures by the U.S. Justice Department indicated that Brende had attended three business dinners with Epstein and engaged him in communications through email and texts"
+    },
+    {
+      "index": 3,
+      "articleId": "0b9d92ef-8206-409f-b01a-42576c43cb2d",
+      "source": "BBC World",
+      "title": "World Economic Forum boss quits after review of Epstein links",
+      "url": "https://www.bbc.com/news/articles/cr5lq9ll15jo?at_medium=RSS&at_campaign=rss",
+      "quote": "Brende has acknowledged he dined with Epstein three times between 2018 and 2019 and communicated with him by email and text, but said he was 'completely unaware' of his past criminal activity"
+    }
+  ],
+  "keyDevelopments": [
+    "Børge Brende resigns as WEF president and CEO after 8+ years",
+    "Independent review finds no additional concerns beyond disclosed Epstein interactions",
+    "Alois Zwinggi named interim president and CEO",
+    "Part of broader wave of resignations among high-profile figures with Epstein connections",
+    "Former Norwegian PM Thorbjørn Jagland charged with corruption over Epstein ties"
+  ],
+  "generatedAt": "2026-02-26T18:23:21.159Z",
+  "model": "anthropic/claude-sonnet-4",
+  "tokenCount": 3080
+}

@@ -1,0 +1,97 @@
+{
+  "clusterId": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+  "stakeholders": [
+    {
+      "name": "John Cornyn",
+      "role": "Incumbent Republican Senator from Texas",
+      "position": "Establishment Republican emphasizing seniority and legislative record",
+      "influence": "high"
+    },
+    {
+      "name": "Ken Paxton",
+      "role": "Texas Attorney General and MAGA-aligned challenger",
+      "position": "Trump-era populist positioning himself as anti-establishment",
+      "influence": "high"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "Former President and Republican kingmaker",
+      "position": "Neutral - has not endorsed in Texas primary despite complimenting both Cornyn and Paxton",
+      "influence": "high"
+    },
+    {
+      "name": "Jasmine Crockett",
+      "role": "Progressive House Representative seeking Democratic Senate nomination",
+      "position": "Combative progressive emphasizing fight against Trump",
+      "influence": "medium"
+    },
+    {
+      "name": "James Talarico",
+      "role": "State Representative and seminary student seeking Democratic nomination",
+      "position": "Moderate Democrat advocating 'politics of love' and rural outreach",
+      "influence": "medium"
+    },
+    {
+      "name": "Wesley Hunt",
+      "role": "House Representative in Republican primary",
+      "position": "Third candidate in crowded Republican field",
+      "influence": "low"
+    },
+    {
+      "name": "Roy Cooper",
+      "role": "Former North Carolina Governor seeking Democratic Senate nomination",
+      "position": "Moderate Democrat with statewide electoral experience",
+      "influence": "medium"
+    },
+    {
+      "name": "Michael Whatley",
+      "role": "Former RNC Chairman seeking Republican Senate nomination in North Carolina",
+      "position": "Trump-aligned Republican with national party connections",
+      "influence": "medium"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "Texas Republican primary will go to runoff between Cornyn and Paxton",
+      "likelihood": "likely",
+      "timeframe": "May 26, 2026",
+      "basis": "Three-way race makes 50% threshold difficult; polls show Paxton leading but not decisively"
+    },
+    {
+      "text": "Paxton will win Republican nomination if he reaches runoff",
+      "likelihood": "possible",
+      "timeframe": "May-June 2026",
+      "basis": "MAGA base energy and anti-establishment sentiment favor challenger in runoff scenario"
+    },
+    {
+      "text": "Democratic primary will be decided by turnout demographics",
+      "likelihood": "likely",
+      "timeframe": "March 4 or May 26, 2026",
+      "basis": "Crockett's strategy depends on young/minority turnout while Talarico appeals to broader coalition"
+    },
+    {
+      "text": "Texas Senate race becomes competitive if Paxton wins nomination",
+      "likelihood": "possible",
+      "timeframe": "November 2026",
+      "basis": "Paxton's legal troubles and polarizing nature could make safe Republican seat vulnerable"
+    },
+    {
+      "text": "Record spending will continue through general election",
+      "likelihood": "likely",
+      "timeframe": "Through November 2026",
+      "basis": "Already record-breaking primary spending indicates high-stakes general election investment"
+    }
+  ],
+  "historicalContext": "This election cycle represents the first major test of Republican Party dynamics in the post-Trump presidency era, with Texas serving as a crucial battleground between establishment and MAGA factions. Texas has been reliably Republican in statewide races since 1994, but demographic shifts and suburban realignment have made it increasingly competitive. The Democratic primary reflects broader party tensions between progressive activism and moderate coalition-building that emerged after 2020. North Carolina's open Senate seat continues the state's pattern as a purple state battleground, with Republicans holding both Senate seats since 2014 but Democrats remaining competitive in statewide races.",
+  "implications": [
+    "A Paxton victory could signal continued MAGA dominance over establishment Republicans in primary elections",
+    "Texas becoming competitive would force Republicans to defend previously safe territory, affecting national resource allocation",
+    "The Democratic primary outcome will indicate whether the party prioritizes base mobilization or swing voter appeal in Trump-era politics",
+    "Record spending levels suggest escalating costs of competitive Senate races nationwide",
+    "Early voting surges, particularly among Democrats, may indicate sustained high political engagement from 2024",
+    "Trump's neutral stance in Texas primary suggests strategic calculation about general election viability",
+    "The races will test whether legal controversies (Paxton's charges) remain disqualifying factors for Republican primary voters"
+  ],
+  "generatedAt": "2026-03-03T19:58:14.103Z",
+  "model": "anthropic/claude-sonnet-4"
+}

@@ -1,0 +1,78 @@
+{
+  "clusterId": "2dab45ae-8ee8-4a88-b8ee-786bfb715a77",
+  "stakeholders": [
+    {
+      "name": "USA Men's Olympic Hockey Team",
+      "role": "Gold medal winners and central figures",
+      "position": "Accepted presidential invitation to attend State of the Union",
+      "influence": "Medium - symbolic power as Olympic champions, limited political influence"
+    },
+    {
+      "name": "President Trump",
+      "role": "Host and political beneficiary",
+      "position": "Used team's appearance to generate positive moment during address",
+      "influence": "High - presidential platform and ability to award honors"
+    },
+    {
+      "name": "Symone Sanders",
+      "role": "Media critic and former Harris advisor",
+      "position": "Criticized team for being 'political props'",
+      "influence": "Medium - prominent media voice with political credibility"
+    },
+    {
+      "name": "Peter Rosenberg",
+      "role": "ESPN radio host and media commentator",
+      "position": "Harshly criticized team as 'sad little pawns'",
+      "influence": "Low-Medium - sports media platform but controversial remarks"
+    },
+    {
+      "name": "Independent Voters",
+      "role": "Key political demographic",
+      "position": "Responded positively to the moment according to polling",
+      "influence": "High - crucial swing voting bloc"
+    },
+    {
+      "name": "Connor Hellebuyck",
+      "role": "Team goaltender and Medal of Freedom recipient",
+      "position": "Received highest civilian honor from Trump",
+      "influence": "Medium - elevated profile through presidential recognition"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "Media criticism will intensify along partisan lines with conservative outlets defending the team and liberal outlets questioning the politicization",
+      "likelihood": "likely",
+      "timeframe": "next 1-2 weeks",
+      "basis": "Established pattern of partisan media response to political-sports intersections"
+    },
+    {
+      "text": "Other Olympic athletes may face pressure to decline future political invitations to avoid similar controversy",
+      "likelihood": "possible",
+      "timeframe": "remainder of Trump presidency",
+      "basis": "Athletes typically prefer avoiding political controversy that could damage endorsement opportunities"
+    },
+    {
+      "text": "Rosenberg may face professional consequences for his controversial racial commentary",
+      "likelihood": "possible",
+      "timeframe": "next 2-4 weeks",
+      "basis": "ESPN has previously disciplined hosts for controversial political statements"
+    },
+    {
+      "text": "Trump will continue using Olympic and sports victories for political messaging throughout his presidency",
+      "likelihood": "likely",
+      "timeframe": "ongoing",
+      "basis": "Polling showed positive bipartisan response, making it politically beneficial"
+    }
+  ],
+  "historicalContext": "This controversy echoes longstanding tensions over athletes' political roles, dating back to Muhammad Ali's Vietnam War stance and more recently Colin Kaepernick's kneeling protests. The 2012 Boston Bruins' Obama White House visit, where goalie Tim Thomas declined to attend citing political disagreements, demonstrates how athletes have historically navigated political invitations differently. Presidential recognition of sports teams has been a bipartisan tradition since the 1960s, but has become increasingly scrutinized in the polarized political climate. The criticism also reflects broader debates about the appropriateness of mixing sports and politics that intensified during Trump's first presidency.",
+  "implications": [
+    "Future Olympic athletes may become more cautious about accepting presidential invitations, potentially ending a longstanding bipartisan tradition",
+    "The incident highlights the increasing politicization of traditionally apolitical ceremonial events",
+    "Media criticism based on athletes' racial and socioeconomic backgrounds could set concerning precedents for sports commentary",
+    "The positive polling response suggests that patriotic displays still resonate across party lines despite political polarization",
+    "The controversy may influence how future administrations approach sports team recognition to minimize political backlash",
+    "ESPN and other sports networks may need to establish clearer guidelines for hosts making political commentary about athletes"
+  ],
+  "generatedAt": "2026-02-26T18:13:34.340Z",
+  "model": "anthropic/claude-sonnet-4"
+}

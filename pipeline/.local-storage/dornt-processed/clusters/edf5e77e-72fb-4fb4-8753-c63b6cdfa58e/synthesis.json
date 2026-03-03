@@ -1,0 +1,23 @@
+{
+  "clusterId": "edf5e77e-72fb-4fb4-8753-c63b6cdfa58e",
+  "narrative": "Google has released its March 2026 Pixel update, introducing several AI-powered features across its device lineup. The most significant addition is Gemini's new agentic capabilities, which allow the AI assistant to complete tasks autonomously on behalf of users [1]. This feature enables users to ask Gemini to order groceries or book rides through select apps including Uber and Grubhub, with the assistant working in the background while users can supervise or interrupt its operations at any time [1].\n\nThe agentic Gemini feature is rolling out to the Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL [1]. Notably, this same functionality will also be available on Samsung's S26 phones, positioning these Android devices ahead of Apple's Siri, which has experienced months of delays for similar features [1].\n\nGoogle has also enhanced Circle to Search functionality across the entire Pixel 10 lineup, adding the ability to break down outfits and search for individual clothing pieces, as well as virtually try on looks [1]. The Magic Cue feature, which provides proactive suggestions based on context across messaging, email, weather, and phone apps, has been updated to automatically provide restaurant recommendations based on friends' preferences [1]. Magic Cue is coming to Pixel 10 series devices and the Pixel 10 Pro Fold in select countries and languages [1].\n\nAdditional updates include a new \"comfort\" view for Pixel 10 devices that reduces visual stimulation from bright or saturated colors [1]. Older Pixel devices are receiving updates as well: Pixel 8 and newer models will display a desktop experience when connected to external displays, while Pixel 7 and newer devices can access commute updates through the At-a-Glance widget [1]. Pixel 6 and newer models are gaining support for a Now Playing music identification app, custom AI-generated app icons, and home/lockscreen widgets for sports scores and stock prices [1].",
+  "citations": [
+    {
+      "index": 1,
+      "articleId": "1fac7af7-5599-413c-bee8-687f4049bc0a",
+      "source": "The Verge",
+      "title": "Google's latest Pixel drop allows Gemini to order groceries for you and more",
+      "url": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026",
+      "quote": "Google is adding several new features to Pixel phones with its latest March update, including the ability for its Gemini AI assistant to do things for you, like order groceries or book a ride."
+    }
+  ],
+  "keyDevelopments": [
+    "Gemini AI assistant gains agentic capabilities to autonomously complete tasks like ordering groceries and booking rides",
+    "New features roll out to Pixel 10 series devices including enhanced Circle to Search and Magic Cue updates",
+    "Samsung S26 phones will receive the same Gemini agentic features, ahead of delayed Siri improvements",
+    "Older Pixel devices (6-9 series) receive various feature updates including desktop mode and enhanced widgets"
+  ],
+  "generatedAt": "2026-03-03T20:04:07.144Z",
+  "model": "anthropic/claude-sonnet-4",
+  "tokenCount": 1520
+}

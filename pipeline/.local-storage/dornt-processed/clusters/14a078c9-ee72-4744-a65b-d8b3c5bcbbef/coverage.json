@@ -1,0 +1,54 @@
+{
+  "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+  "frames": [
+    {
+      "name": "Civil Rights/Police Overreach Frame",
+      "description": "Presents Rahman's arrest as excessive force against a disabled activist, emphasizing her silence and peaceful nature of her action",
+      "sources": [
+        "The Guardian US",
+        "NBC News"
+      ],
+      "emphasis": "Rahman's disability, her silence during the incident, physical injuries from arrest, and pattern of law enforcement overreach"
+    },
+    {
+      "name": "Congressional Disruption/Rule Violation Frame",
+      "description": "Focuses on Capitol Police enforcement of established rules prohibiting demonstrations during State of the Union",
+      "sources": [
+        "NBC News"
+      ],
+      "emphasis": "Clear prohibition on demonstrations, Rahman's refusal to comply with lawful orders, established protocols"
+    },
+    {
+      "name": "Political Accountability Frame",
+      "description": "Centers on Rep. Omar's response and calls for investigation into the incident",
+      "sources": [
+        "NYT Politics",
+        "WaPo Politics"
+      ],
+      "emphasis": "Omar's condemnation, demands for investigation, implications for democratic norms"
+    },
+    {
+      "name": "Broader Immigration Enforcement Context Frame",
+      "description": "Connects the State of the Union incident to Rahman's previous encounter with ICE agents in Minneapolis",
+      "sources": [
+        "The Guardian US",
+        "NBC News"
+      ],
+      "emphasis": "Pattern of aggressive law enforcement, Rahman's status as ICE encounter victim, broader immigration policy context"
+    }
+  ],
+  "outlierPerspectives": [
+    "Rahman's perspective that standing during applause should be permitted since 'there are only two things you can do at the State of the Union, and they are sit down and stand up'",
+    "Rahman's framing of her attendance as educational rather than activist: seeking to 'understand the texture' of politics as someone outside policy work"
+  ],
+  "missingContext": [
+    "Specific Capitol Police protocols for handling disruptions during State of the Union addresses",
+    "Historical precedent for arrests during State of the Union speeches",
+    "Details about Rahman's legal status following the ICE encounter in Minneapolis",
+    "Explanation of how guest invitations and security screening work for State of the Union",
+    "Medical documentation of Rahman's injuries and disability claims",
+    "Full text of what Trump said during the moment Rahman stood up"
+  ],
+  "generatedAt": "2026-02-26T18:11:04.960Z",
+  "model": "anthropic/claude-sonnet-4"
+}

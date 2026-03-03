@@ -1,0 +1,62 @@
+{
+  "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+  "frames": [
+    {
+      "name": "Strategic Incoherence Frame",
+      "description": "Portrays Trump's Iran war as strategically confused, with shifting objectives and contradictory messaging revealing absence of clear planning",
+      "sources": [
+        "The Guardian US",
+        "The Atlantic",
+        "France 24"
+      ],
+      "emphasis": "Trump's contradictory statements, lack of clear strategy, and hour-by-hour spinning as evidence of poor decision-making"
+    },
+    {
+      "name": "Campaign Promise Betrayal Frame",
+      "description": "Frames the war as Trump abandoning his 'America First' anti-war promises and betraying his base who voted for peace",
+      "sources": [
+        "Foreign Policy"
+      ],
+      "emphasis": "Trump's hypocrisy in becoming the 'warmongering neocon' he once criticized, disappointing supporters like Tucker Carlson"
+    },
+    {
+      "name": "Messaging Chaos Frame",
+      "description": "Focuses on the administration's scattered communication strategy through multiple interviews rather than formal addresses",
+      "sources": [
+        "Axios",
+        "France 24"
+      ],
+      "emphasis": "Trump's scattershot media approach and varying timelines/objectives depending on the outlet and timing"
+    },
+    {
+      "name": "Risk-Benefit Analysis Frame",
+      "description": "Presents balanced assessment of potential strategic gains versus dangers of military action against Iran",
+      "sources": [
+        "Vox"
+      ],
+      "emphasis": "Weighing degraded Iranian capabilities and deterrence against risks of retaliation and regional instability"
+    },
+    {
+      "name": "Domestic Political Calculation Frame",
+      "description": "Views the war through lens of Trump's domestic political needs, particularly regarding midterm elections",
+      "sources": [
+        "The Guardian US"
+      ],
+      "emphasis": "War as serving Trump's need to assert emergency authority and avoid electoral 'regime change' at home"
+    }
+  ],
+  "outlierPerspectives": [
+    "The Guardian's framing of the war as primarily about Trump's narcissism and domestic political survival rather than foreign policy objectives",
+    "Foreign Policy's emphasis on Trump betraying his peace-candidate image and disappointing his base",
+    "The Atlantic's focus on the tactical-before-strategic approach as fundamentally backwards military planning"
+  ],
+  "missingContext": [
+    "Congressional oversight and authorization questions - most sources mention Trump 'shut out congressional consultation' but don't explore constitutional implications",
+    "Allied reactions and international law considerations - limited coverage of how key allies view the legality and wisdom of the strikes",
+    "Iranian domestic political dynamics - little analysis of how the strikes affect Iranian internal politics beyond regime change speculation",
+    "Economic and energy market impacts - minimal coverage of oil prices, sanctions, or broader economic consequences",
+    "Regional proxy conflicts - limited exploration of how the war affects ongoing conflicts in Gaza, Lebanon, Yemen where Iranian proxies operate"
+  ],
+  "generatedAt": "2026-03-03T19:52:56.792Z",
+  "model": "anthropic/claude-sonnet-4"
+}

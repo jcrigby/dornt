@@ -1,0 +1,78 @@
+{
+  "clusterId": "ff5078a2-bb36-4878-ad61-12396a10b8ac",
+  "stakeholders": [
+    {
+      "name": "Kalshi",
+      "role": "Prediction market platform operator",
+      "position": "Enforcing insider trading policies to maintain market integrity and regulatory compliance",
+      "influence": "high"
+    },
+    {
+      "name": "Artem Kaptur",
+      "role": "MrBeast video editor and sanctioned trader",
+      "position": "Subject to disciplinary action for insider trading violations",
+      "influence": "low"
+    },
+    {
+      "name": "MrBeast/Beast Industries",
+      "role": "YouTube content creator and employer",
+      "position": "Distancing from employee's actions, conducting independent investigation",
+      "influence": "medium"
+    },
+    {
+      "name": "Commodity Futures Trading Commission (CFTC)",
+      "role": "Federal financial regulator",
+      "position": "Receiving reports and potentially investigating prediction market violations",
+      "influence": "high"
+    },
+    {
+      "name": "Kyle Langford",
+      "role": "California gubernatorial candidate and sanctioned trader",
+      "position": "Subject to disciplinary action for trading on own candidacy",
+      "influence": "low"
+    },
+    {
+      "name": "State regulators (Nevada, Massachusetts)",
+      "role": "State-level financial regulators",
+      "position": "Challenging Kalshi's operations in their jurisdictions",
+      "influence": "medium"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "Increased regulatory scrutiny and potential federal action against prediction markets",
+      "likelihood": "likely",
+      "timeframe": "6-12 months",
+      "basis": "Multiple state challenges and CFTC involvement indicate growing regulatory concern"
+    },
+    {
+      "text": "More prediction platforms will implement stricter surveillance and disclosure policies",
+      "likelihood": "likely",
+      "timeframe": "3-6 months",
+      "basis": "Kalshi's proactive enforcement sets industry precedent for self-regulation"
+    },
+    {
+      "text": "Additional insider trading cases will be disclosed by Kalshi",
+      "likelihood": "likely",
+      "timeframe": "1-3 months",
+      "basis": "Platform reported 200+ investigations with dozen active cases pending"
+    },
+    {
+      "text": "Content creators will implement stricter policies regarding prediction market participation",
+      "likelihood": "possible",
+      "timeframe": "2-4 months",
+      "basis": "MrBeast's response suggests industry awareness of reputational risks"
+    }
+  ],
+  "historicalContext": "This case represents the first public disclosure of insider trading enforcement in the emerging prediction markets industry. Prediction markets have operated in regulatory gray areas, with platforms like Kalshi gaining CFTC approval for certain markets while facing state-level challenges. The enforcement action parallels traditional securities market insider trading cases but applies novel concepts to prediction markets involving social media content and political candidacies. The timing coincides with broader regulatory scrutiny of prediction markets following their growth during recent election cycles.",
+  "implications": [
+    "Establishes precedent for insider trading enforcement in prediction markets, potentially deterring future violations",
+    "Demonstrates prediction platforms' commitment to self-regulation amid growing regulatory pressure",
+    "Highlights vulnerability of content creators and public figures to insider trading allegations in prediction markets",
+    "May influence federal and state regulatory approaches to prediction market oversight",
+    "Could impact the business models of content creators who rely on audience engagement around predictable events",
+    "Sets expectations for transparency and reporting standards in the prediction market industry"
+  ],
+  "generatedAt": "2026-02-26T18:31:13.878Z",
+  "model": "anthropic/claude-sonnet-4"
+}

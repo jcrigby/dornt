@@ -1,0 +1,212 @@
+[
+  {
+    "id": "573cd554-c307-450d-a1e9-cd1db0c6784e",
+    "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+    "text": "Trump said he 'might have forced Israel's hand' rather than Israel forcing the US hand",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Hill",
+      "The Guardian US",
+      "NBC News",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:59:58.477Z",
+    "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+  },
+  {
+    "id": "f1d6d4aa-0297-466e-9e90-a857951f9c2c",
+    "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+    "text": "Trump believed Iran was going to attack first",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Hill",
+      "The Guardian US",
+      "NBC News",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:59:58.477Z",
+    "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+  },
+  {
+    "id": "afb31c25-2f96-4a42-a435-9a99d179c692",
+    "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+    "text": "The US was having negotiations with Iran before the strikes",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US",
+      "NBC News",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:59:58.477Z",
+    "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+  },
+  {
+    "id": "90c36d8a-da38-4223-8b9a-4a0d7c6bf516",
+    "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+    "text": "The strikes have had a 'very powerful impact' and 'virtually everything they have has been knocked out'",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US",
+      "NBC News",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:59:58.477Z",
+    "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+  },
+  {
+    "id": "1537d56d-6383-4a3f-b81c-071a89fdea85",
+    "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+    "text": "Iran's missile count is going down",
+    "status": "undisputed",
+    "supportingSources": [
+      "NBC News",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:59:58.477Z",
+    "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+  },
+  {
+    "id": "54feda7b-b982-4fe2-b77f-359dcca07e07",
+    "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+    "text": "Iran is hitting countries that were previously neutral",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US",
+      "NBC News",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:59:58.477Z",
+    "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+  },
+  {
+    "id": "a03e42e4-19c3-4a9f-8278-0ddf924b6ba1",
+    "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+    "text": "Those neutral countries are now fighting against Iran",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US",
+      "NBC News",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:59:58.477Z",
+    "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+  },
+  {
+    "id": "f1b668cb-e3d3-499c-84b7-6cafc8927c36",
+    "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+    "text": "Trump and Rubio gave contradictory explanations for why the US attacked Iran",
+    "status": "disputed",
+    "supportingSources": [
+      "The Guardian US",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:59:58.477Z",
+    "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+  },
+  {
+    "id": "00068a2c-8fd4-4fa2-81e6-a61b2dc688d9",
+    "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+    "text": "Rubio said the US attacked Iran after Israel was planning to strike first",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:59:58.477Z",
+    "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+  },
+  {
+    "id": "54529569-a95f-46ed-a9d0-7d5515e14d6a",
+    "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+    "text": "Iran killed 35,000 protesters over the last 3 weeks",
+    "status": "undisputed",
+    "supportingSources": [
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:59:58.477Z",
+    "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+  },
+  {
+    "id": "866f67fa-ebf0-4d81-9612-62d0729a3e48",
+    "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+    "text": "49 people were taken out in the first hit on Iranian leadership",
+    "status": "undisputed",
+    "supportingSources": [
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:59:58.477Z",
+    "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+  },
+  {
+    "id": "e0568507-7aa1-4434-a37a-f9686003b4b4",
+    "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+    "text": "There was another hit on new Iranian leadership that was 'pretty substantial'",
+    "status": "undisputed",
+    "supportingSources": [
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:59:58.477Z",
+    "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+  },
+  {
+    "id": "08301262-5195-4aa3-a4b3-35400c5b7daf",
+    "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+    "text": "Iran no longer has air protection or detection facilities",
+    "status": "undisputed",
+    "supportingSources": [
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:59:58.477Z",
+    "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+  },
+  {
+    "id": "6b8afb5e-b763-428d-99d5-a42aad1a855c",
+    "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+    "text": "Iran is hitting only civilian places, hotels, and apartment buildings",
+    "status": "undisputed",
+    "supportingSources": [
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:59:58.477Z",
+    "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+  },
+  {
+    "id": "3d6ce76b-1b44-48b2-b573-679a0fd8a4dd",
+    "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+    "text": "Spain refused to let the US use jointly operated bases for Iran strikes",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:59:58.477Z",
+    "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+  },
+  {
+    "id": "63b83d6b-3bf4-4268-8398-68af64f5b41a",
+    "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+    "text": "The UK refused to back US strikes on Iran",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US",
+      "ABC News"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:59:58.477Z",
+    "lastUpdatedAt": "2026-03-03T19:59:58.477Z"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "id": "3ba20805-e4ad-4b45-b88e-7e3640400faa",
+  "url": "https://www.nature.com/articles/d41586-026-00603-y",
+  "normalizedUrl": "https://nature.com/articles/d41586-026-00603-y",
+  "title": "This compound enhances long-term memory of mice — but only in females",
+  "source": "Nature",
+  "feedUrl": "https://www.nature.com/nature.rss",
+  "publishedAt": "2026-02-26T17:24:20.244Z",
+  "fetchedAt": "2026-02-26T17:24:20.244Z",
+  "author": "Mohana Basu",
+  "contentHash": "60a5ade9ec582e24",
+  "fullText": "Mice were given acetate and then performed tasks that tested their memory.Credit: fergregory/iStock via GettyA common metabolic by-product produced when the body breaks down alcohol, glucose and food high in fibre can enhance memory, at least in females, according to a study in mice1.In the study, published in Science Signaling, scientists injected acetate into mice then got the animals to perform two memory tasks that rely on the dorsal hippocampus, the brain’s memory‑forming region.The team introduced the mice to two matching objects and let them interact with these objects for 10 minutes. Twenty-four hours later, the mice were exposed to the objects again, but one object had been moved to a new location, says co-author Gabor Egervari, an epigeneticist at Washington University in St. Louis.If the mouse had an intact memory, it remembered that the object was in a different location yesterday, he says. The mice demonstrated this by playing more with the object that had moved. However, if their memory was not intact, then they played with each of the objects for equal amounts of time, he adds. In another task, the mice were again introduced to two matching objects for ten minutes. Then 24 hours later, the objects were brought back but one object had changed. Female mice that received acetate performed better on tests of spatial and object memory compared with those given a saline placebo. Male mice showed little to no benefit.Epigenetic changesThe researchers found that acetate altered the expression of genes in the brain. It did so by modifying the histone proteins — the proteins around which DNA is tightly wrapped — a process called histone acetylation. Histone acetylation loosens how tightly DNA is packed, making it easier for the genes to be read by the cells molecular machinery and 'switched on'.Specifically, the team found changes in the histone variant H2A.Z, which has been previously linked to long-term memory. Acetate also increased the expression of genes linked to learning in the female dorsal hippocampus.When mice were given acetate outside a learning activity, the brain’s response was more muted. This suggests that acetate works only when neural activity is triggered during learning, rather than acting as a general memory‑boosting supplement, says Razia Zakarya, an epigenetics researcher at the University of Technology Sydney, Australia. “The response is both sex-specific and restricted to particular brain regions.”",
+  "categories": [
+    "science"
+  ]
+}

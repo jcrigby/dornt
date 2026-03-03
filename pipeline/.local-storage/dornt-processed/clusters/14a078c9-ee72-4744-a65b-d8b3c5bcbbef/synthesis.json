@@ -1,0 +1,48 @@
+{
+  "clusterId": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+  "narrative": "## State of the Story: Arrest of Ilhan Omar's Guest at State of the Union\n\n### Key Facts\n\nAliya Rahman, a 43-year-old software engineer and disability rights activist from Minneapolis, was arrested during President Trump's State of the Union address on Tuesday after silently standing up during the speech [1][2]. Rahman attended as a guest of Rep. Ilhan Omar (D-Minn.) and says she had \"no intention of disrupting\" the event [1].\n\n### The Incident\n\nRahman stood up silently during the portion of Trump's speech where he called on Democrats to restore funding for the Department of Homeland Security [2]. According to Rahman, she was \"completely silent\" with her \"arms by [her] side,\" wearing no buttons, signs, or clothing with writing, and making no gestures [1]. When Capitol Police approached and ordered her to sit down, she refused [1][2].\n\nDuring the interaction with officers, other attendees gave a standing ovation, which Rahman tried to explain to officers as a reason she should not be forced to leave [2]. Capitol Police then physically removed Rahman, who was using a crutch, leading to protests from other guests in the gallery who called for less aggressive handling [2].\n\n### Medical Concerns and Arrest\n\nRahman required hospital treatment after her arrest and remained in police custody and then hospitalization until nearly 4 a.m. [2]. She told officers during the removal that she has \"a torn rotator cuff tendon and multiple cartilage tears in both of [her] shoulders,\" injuries sustained during a previous encounter with federal immigration agents [2]. Two other attendees attempted to intervene when officers pulled on her shoulders [2].\n\nRahman was charged with unlawful conduct and disruption of Congress [1][2][3]. According to the House sergeant-at-arms, she was arrested simply for \"standing up\" [2].\n\n### Background Context\n\nRahman gained national attention in January 2025 when immigration agents dragged her from her car in Minneapolis, breaking her passenger window in the process [1]. She was attempting to drive to a doctor's appointment when she encountered what she described as a \"traffic jam caused by [Immigration and Customs Enforcement] vehicles\" [1]. Rahman has not worked since suffering a traumatic brain injury in 2024 [1].\n\nPrior to these incidents, Rahman had been active in racial justice, criminal justice, and LGBTQ+ advocacy for years [1].\n\n### Official Responses\n\nCapitol Police defended the arrest, stating that Rahman \"started demonstrating during the State of the Union\" in violation of guest rules and \"was told to sit down but refused to obey our lawful orders\" [1]. Police emphasized that \"demonstrating is prohibited\" and \"it is illegal to disrupt the Congress and demonstrate in the Congressional Buildings\" [2].\n\nRep. Omar condemned the arrest, calling for a \"full explanation of why this arrest occurred\" and stating that \"the heavy-handed response to a peaceful guest sends a chilling message about the state of our democracy\" [2][4].\n\n### Source Agreement and Disagreements\n\nAll sources agree on the basic facts: Rahman stood up silently, refused police orders to sit, was physically removed and arrested, and required medical attention. Sources consistently report her previous encounter with immigration agents and her disability status.\n\nThe primary disagreement centers on interpretation: Capitol Police characterize Rahman's actions as \"demonstrating\" that violated rules [1][2], while Rahman and Omar frame it as peaceful, silent standing that warranted no arrest [1][2].",
+  "citations": [
+    {
+      "index": 1,
+      "articleId": "3b67d1d4-98c3-4fe8-8778-d08bab4fbb28",
+      "source": "The Guardian US",
+      "title": "Disabled activist and guest of Ilhan Omar says she did not intend to disrupt State of the Union",
+      "url": "https://www.theguardian.com/us-news/2026/feb/26/aliya-rahman-sotu-ilhan-omar",
+      "quote": "I was completely silent. My arms were by my side. I was not wearing clothing with writing on it. I wasn't wearing a button. I didn't have a sign. I wasn't making gestures"
+    },
+    {
+      "index": 2,
+      "articleId": "6b3cdcf1-b2d0-4b5e-98b6-ce7bbc001905",
+      "source": "NBC News",
+      "title": "Minneapolis woman whom Ilhan Omar took to State of the Union needed medical care after arrest",
+      "url": "https://www.nbcnews.com/politics/congress/minneapolis-woman-ilhan-omar-brought-state-union-needed-medical-care-a-rcna260752",
+      "quote": "I was not just removed and arrested. I was arrested so physically that two other attendees upstairs attempted to intervene in officers pulling on my shoulders after I told them I have a torn rotator cuff tendon and multiple cartilage tears in both of my shoulders"
+    },
+    {
+      "index": 3,
+      "articleId": "520df76b-92a4-40fa-99b2-52db67ddbb01",
+      "source": "NYT Politics",
+      "title": "Ilhan Omar Condemns Guest's Arrest at Trump's State of the Union",
+      "url": "https://www.nytimes.com/2026/02/25/us/politics/ilhan-omar-state-of-the-union-arrest.html",
+      "quote": "was charged with unlawful conduct after standing up during President Trump's speech"
+    },
+    {
+      "index": 4,
+      "articleId": "5a6d8f79-bb27-414c-887f-c197ab9a682f",
+      "source": "WaPo Politics",
+      "title": "Rep. Ilhan Omar demands investigation after State of the Union guest arrested",
+      "url": "https://www.washingtonpost.com/politics/2026/02/25/ilhan-omar-state-union-guest-arrested-investigation/",
+      "quote": "Omar said her guest, Aliya Rahman, was 'aggressively handled.'"
+    }
+  ],
+  "keyDevelopments": [
+    "Aliya Rahman arrested during State of the Union for silently standing up during Trump's speech",
+    "Rahman required hospitalization after arrest due to shoulder injuries from physical removal",
+    "Rep. Ilhan Omar demands investigation into guest's arrest, calling response 'heavy-handed'",
+    "Capitol Police defend arrest, citing prohibition on demonstrating during congressional proceedings",
+    "Rahman's arrest follows previous January incident where ICE agents dragged her from car in Minneapolis"
+  ],
+  "generatedAt": "2026-02-26T18:10:50.223Z",
+  "model": "anthropic/claude-sonnet-4",
+  "tokenCount": 3146
+}

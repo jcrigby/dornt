@@ -1,0 +1,376 @@
+{
+  "top": [
+    {
+      "id": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+      "title": "Four people killed in shootout between US-registered speedboat and Cuban border guards.",
+      "summary": "",
+      "articleCount": 13,
+      "sourceCount": 9,
+      "topSources": [
+        "NYT World",
+        "The Guardian World",
+        "Breitbart",
+        "Daily Wire",
+        "UPI"
+      ],
+      "categories": [],
+      "importance": 100,
+      "updatedAt": "2026-02-26T17:46:25.228Z"
+    },
+    {
+      "id": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+      "title": "US and Iran Hold Talks Amid Tensions Over Nuclear Deal.",
+      "summary": "",
+      "articleCount": 13,
+      "sourceCount": 6,
+      "topSources": [
+        "The Guardian US",
+        "Axios",
+        "Vox",
+        "Foreign Policy",
+        "France 24"
+      ],
+      "categories": [
+        "international",
+        "digital",
+        "analysis"
+      ],
+      "importance": 99,
+      "updatedAt": "2026-03-03T19:46:57.552Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/GettyImages-2220140693.jpg"
+    },
+    {
+      "id": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
+      "title": "Oil prices rise amid escalating tensions and conflict in the Middle East.",
+      "summary": "",
+      "articleCount": 7,
+      "sourceCount": 6,
+      "topSources": [
+        "Yahoo Finance",
+        "NYT Politics",
+        "DW",
+        "France 24",
+        "YouTube: ABC News"
+      ],
+      "categories": [
+        "international",
+        "finance",
+        "broadsheet"
+      ],
+      "importance": 81,
+      "updatedAt": "2026-03-03T19:47:12.336Z",
+      "imageUrl": "https://s.france24.com/media/display/8771dd38-1719-11f1-8e0d-005056bf30b7/w:1024/p:16x9/AP26062570244683.jpg"
+    },
+    {
+      "id": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
+      "title": "OpenAI Revises Pentagon Contract Amid Backlash and Criticism from Rival AI Firm Anthropic.",
+      "summary": "",
+      "articleCount": 6,
+      "sourceCount": 6,
+      "topSources": [
+        "UPI",
+        "MIT Tech Review",
+        "The Guardian US",
+        "BBC World",
+        "TechCrunch"
+      ],
+      "categories": [
+        "tech",
+        "international",
+        "wire"
+      ],
+      "importance": 78,
+      "updatedAt": "2026-03-03T19:47:12.349Z"
+    },
+    {
+      "id": "2c327508-a138-4e59-9937-6a549ca252b5",
+      "title": "Trump's Surgeon General Nominee, Casey Means, Faces Senate Scrutiny Over Vaccination Stance",
+      "summary": "",
+      "articleCount": 7,
+      "sourceCount": 5,
+      "topSources": [
+        "Ars Technica",
+        "The Atlantic",
+        "The Hill",
+        "Axios",
+        "NYT"
+      ],
+      "categories": [],
+      "importance": 71,
+      "updatedAt": "2026-02-26T17:46:25.227Z"
+    },
+    {
+      "id": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
+      "title": "US Issues Urgent Advisory for Americans to Leave the Middle East Immediately",
+      "summary": "",
+      "articleCount": 6,
+      "sourceCount": 5,
+      "topSources": [
+        "Business Insider",
+        "The Guardian US",
+        "BBC World",
+        "YouTube: ABC News",
+        "YouTube: CNBC"
+      ],
+      "categories": [
+        "finance",
+        "international",
+        "youtube"
+      ],
+      "importance": 68,
+      "updatedAt": "2026-03-03T19:47:12.348Z",
+      "imageUrl": "https://img.youtube.com/vi/fMhrVOeR2PY/hqdefault.jpg"
+    },
+    {
+      "id": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+      "title": "US President Trump disputes claims Israel forced US hand in Iran military strikes.",
+      "summary": "",
+      "articleCount": 6,
+      "sourceCount": 5,
+      "topSources": [
+        "ABC News",
+        "The Hill",
+        "The Guardian US",
+        "YouTube: NBC News",
+        "YouTube: ABC News"
+      ],
+      "categories": [
+        "news",
+        "youtube",
+        "cable"
+      ],
+      "importance": 68,
+      "updatedAt": "2026-03-03T19:47:12.350Z",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/03/Trump_Merz_03032026.jpg?w=900"
+    },
+    {
+      "id": "140ca8bf-8591-4956-85ce-7bfa08fbd287",
+      "title": "US Justice Department Reverses Course on Lawsuits Against Law Firms.",
+      "summary": "",
+      "articleCount": 5,
+      "sourceCount": 5,
+      "topSources": [
+        "Axios",
+        "The Hill",
+        "The Guardian US",
+        "NYT",
+        "WaPo Politics"
+      ],
+      "categories": [
+        "digital",
+        "broadsheet",
+        "international"
+      ],
+      "importance": 65,
+      "updatedAt": "2026-03-03T19:47:12.350Z",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/03/trump_donald_03062025_GettyImages-2203670514.jpg?w=900"
+    },
+    {
+      "id": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+      "title": "First 2026 Midterm Primaries Held in Arkansas, North Carolina, and Texas",
+      "summary": "",
+      "articleCount": 5,
+      "sourceCount": 5,
+      "topSources": [
+        "CNBC",
+        "UPI",
+        "The Guardian US",
+        "NYT Politics",
+        "YouTube: CNBC"
+      ],
+      "categories": [
+        "finance",
+        "wire",
+        "international"
+      ],
+      "importance": 65,
+      "updatedAt": "2026-03-03T19:47:12.351Z",
+      "imageUrl": "https://img.youtube.com/vi/ZJ87RfvhEnw/hqdefault.jpg"
+    },
+    {
+      "id": "ff1f1333-3a58-4786-96d0-473686b82d21",
+      "title": "Apple Unveils M5 Pro and M5 Max Chips, Updates MacBook Pro and Monitor Lineup",
+      "summary": "",
+      "articleCount": 7,
+      "sourceCount": 4,
+      "topSources": [
+        "Engadget",
+        "Ars Technica",
+        "TechCrunch",
+        "CNBC"
+      ],
+      "categories": [
+        "tech",
+        "finance"
+      ],
+      "importance": 61,
+      "updatedAt": "2026-03-03T19:47:12.345Z"
+    },
+    {
+      "id": "49654a5d-cd09-434c-807b-ceabe4aaae74",
+      "title": "Hillary Clinton testifies before House committee in ongoing Jeffrey Epstein investigation.",
+      "summary": "",
+      "articleCount": 13,
+      "sourceCount": 2,
+      "topSources": [
+        "DW",
+        "Daily Wire"
+      ],
+      "categories": [
+        "international",
+        "digital"
+      ],
+      "importance": 59,
+      "updatedAt": "2026-03-03T19:46:57.549Z",
+      "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Untitled-design-2026-03-03T094219.997.jpg"
+    },
+    {
+      "id": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+      "title": "President Trump Meets with German Chancellor Merz to Discuss Iran and Global Issues.",
+      "summary": "",
+      "articleCount": 6,
+      "sourceCount": 4,
+      "topSources": [
+        "YouTube: NBC News",
+        "YouTube: ABC News",
+        "The Hill",
+        "DW"
+      ],
+      "categories": [
+        "news",
+        "youtube",
+        "digital"
+      ],
+      "importance": 58,
+      "updatedAt": "2026-03-03T19:47:12.347Z",
+      "imageUrl": "https://img.youtube.com/vi/wmuqupnEbXU/hqdefault.jpg"
+    }
+  ],
+  "trending": [
+    {
+      "id": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+      "title": "US and Iran Hold Talks Amid Tensions Over Nuclear Deal.",
+      "summary": "",
+      "articleCount": 13,
+      "sourceCount": 6,
+      "topSources": [
+        "The Guardian US",
+        "Axios",
+        "Vox",
+        "Foreign Policy",
+        "France 24"
+      ],
+      "categories": [
+        "international",
+        "digital",
+        "analysis"
+      ],
+      "importance": 99,
+      "updatedAt": "2026-03-03T19:46:57.552Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/GettyImages-2220140693.jpg"
+    },
+    {
+      "id": "49654a5d-cd09-434c-807b-ceabe4aaae74",
+      "title": "Hillary Clinton testifies before House committee in ongoing Jeffrey Epstein investigation.",
+      "summary": "",
+      "articleCount": 13,
+      "sourceCount": 2,
+      "topSources": [
+        "DW",
+        "Daily Wire"
+      ],
+      "categories": [
+        "international",
+        "digital"
+      ],
+      "importance": 59,
+      "updatedAt": "2026-03-03T19:46:57.549Z",
+      "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Untitled-design-2026-03-03T094219.997.jpg"
+    },
+    {
+      "id": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
+      "title": "Oil prices rise amid escalating tensions and conflict in the Middle East.",
+      "summary": "",
+      "articleCount": 7,
+      "sourceCount": 6,
+      "topSources": [
+        "Yahoo Finance",
+        "NYT Politics",
+        "DW",
+        "France 24",
+        "YouTube: ABC News"
+      ],
+      "categories": [
+        "international",
+        "finance",
+        "broadsheet"
+      ],
+      "importance": 81,
+      "updatedAt": "2026-03-03T19:47:12.336Z",
+      "imageUrl": "https://s.france24.com/media/display/8771dd38-1719-11f1-8e0d-005056bf30b7/w:1024/p:16x9/AP26062570244683.jpg"
+    },
+    {
+      "id": "ff1f1333-3a58-4786-96d0-473686b82d21",
+      "title": "Apple Unveils M5 Pro and M5 Max Chips, Updates MacBook Pro and Monitor Lineup",
+      "summary": "",
+      "articleCount": 7,
+      "sourceCount": 4,
+      "topSources": [
+        "Engadget",
+        "Ars Technica",
+        "TechCrunch",
+        "CNBC"
+      ],
+      "categories": [
+        "tech",
+        "finance"
+      ],
+      "importance": 61,
+      "updatedAt": "2026-03-03T19:47:12.345Z"
+    },
+    {
+      "id": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
+      "title": "OpenAI Revises Pentagon Contract Amid Backlash and Criticism from Rival AI Firm Anthropic.",
+      "summary": "",
+      "articleCount": 6,
+      "sourceCount": 6,
+      "topSources": [
+        "UPI",
+        "MIT Tech Review",
+        "The Guardian US",
+        "BBC World",
+        "TechCrunch"
+      ],
+      "categories": [
+        "tech",
+        "international",
+        "wire"
+      ],
+      "importance": 78,
+      "updatedAt": "2026-03-03T19:47:12.349Z"
+    },
+    {
+      "id": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
+      "title": "US Issues Urgent Advisory for Americans to Leave the Middle East Immediately",
+      "summary": "",
+      "articleCount": 6,
+      "sourceCount": 5,
+      "topSources": [
+        "Business Insider",
+        "The Guardian US",
+        "BBC World",
+        "YouTube: ABC News",
+        "YouTube: CNBC"
+      ],
+      "categories": [
+        "finance",
+        "international",
+        "youtube"
+      ],
+      "importance": 68,
+      "updatedAt": "2026-03-03T19:47:12.348Z",
+      "imageUrl": "https://img.youtube.com/vi/fMhrVOeR2PY/hqdefault.jpg"
+    }
+  ],
+  "generatedAt": "2026-03-03T20:07:25.873Z"
+}

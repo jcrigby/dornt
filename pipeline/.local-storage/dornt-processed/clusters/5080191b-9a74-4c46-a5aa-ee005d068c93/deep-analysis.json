@@ -1,0 +1,97 @@
+{
+  "clusterId": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+  "stakeholders": [
+    {
+      "name": "Donald Trump",
+      "role": "US President",
+      "position": "Leading military campaign against Iran with stated objectives to destroy missile capabilities, navy, nuclear program, and proxy support",
+      "influence": "high"
+    },
+    {
+      "name": "Pete Hegseth",
+      "role": "US Defense Secretary",
+      "position": "Supporting the operation while claiming it's not regime change despite acknowledging 'the regime sure did change'",
+      "influence": "high"
+    },
+    {
+      "name": "Ayatollah Ali Khamenei",
+      "role": "Iranian Supreme Leader",
+      "position": "Reportedly killed in US-Israeli airstrikes according to Trump announcement",
+      "influence": "high"
+    },
+    {
+      "name": "Israeli Government",
+      "role": "Military partner",
+      "position": "Participating in joint strikes against Iran",
+      "influence": "high"
+    },
+    {
+      "name": "General Dan Caine",
+      "role": "US Military Leadership",
+      "position": "Warned about munitions shortfalls and lack of allied support before being dismissed",
+      "influence": "medium"
+    },
+    {
+      "name": "Tucker Carlson",
+      "role": "Media figure/Trump supporter",
+      "position": "Criticized the attacks as 'absolutely disgusting and evil'",
+      "influence": "medium"
+    },
+    {
+      "name": "Gulf Arab States",
+      "role": "Regional powers",
+      "position": "Targets of Iranian retaliation, likely seeking US protection",
+      "influence": "medium"
+    },
+    {
+      "name": "US Congress",
+      "role": "Legislative oversight",
+      "position": "Not consulted on military action, receiving briefings questioning 'imminent threat' justification",
+      "influence": "low"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "Iran will continue retaliatory strikes against US allies and interests in the region",
+      "likelihood": "likely",
+      "timeframe": "days to weeks",
+      "basis": "Iran has already launched attacks on Gulf Arab states and historically responds to military strikes with asymmetric warfare"
+    },
+    {
+      "text": "Congressional hearings will be held questioning the legal basis for the strikes",
+      "likelihood": "likely",
+      "timeframe": "weeks to months",
+      "basis": "Pentagon briefings reportedly found no intelligence basis for 'imminent threat' claims and Trump proceeded without congressional consultation"
+    },
+    {
+      "text": "Iran's leadership structure will undergo significant reorganization following Khamenei's reported death",
+      "likelihood": "likely",
+      "timeframe": "weeks to months",
+      "basis": "Supreme Leader's death would trigger constitutional succession process, though Trump's contradictory statements about replacement candidates create uncertainty"
+    },
+    {
+      "text": "US casualties will increase as operations continue",
+      "likelihood": "possible",
+      "timeframe": "days to weeks",
+      "basis": "First US casualties already reported and Iran has demonstrated retaliatory capabilities"
+    },
+    {
+      "text": "Trump will face increased political opposition from both parties",
+      "likelihood": "likely",
+      "timeframe": "immediate",
+      "basis": "Already facing criticism from traditional supporters like Tucker Carlson and contradicts campaign promises to avoid foreign wars"
+    }
+  ],
+  "historicalContext": "This military action represents a significant escalation from Trump's previous June 2025 strikes on Iranian nuclear facilities at Fordow, Natanz, and Isfahan. The operation continues Trump's pattern of aggressive military action, with sources noting he has launched offensives on seven nations in his first 14 months—more strikes in 2025 than his predecessor conducted in four years. The strikes echo historical US-Iran tensions dating to the 1979 revolution, but the scale and joint nature with Israel, combined with the reported killing of Iran's Supreme Leader, represents an unprecedented escalation. The dismissal of military leadership who questioned the operation recalls similar patterns from Trump's first presidency when he removed officials who challenged his military decisions.",
+  "implications": [
+    "Regional destabilization as Iran's proxy networks may activate across the Middle East in response to leadership decapitation",
+    "Potential constitutional crisis over war powers as Trump proceeded without congressional authorization despite questionable 'imminent threat' justification",
+    "Fracturing of Trump's political coalition as traditional supporters like Tucker Carlson break with him over foreign military intervention",
+    "Increased risk to US personnel and interests globally as Iran has demonstrated capability for asymmetric retaliation",
+    "Potential disruption of global energy markets if conflict spreads to critical shipping lanes in the Persian Gulf",
+    "Strain on US military resources given reported munitions shortfalls and lack of allied support warned about by dismissed Pentagon leadership",
+    "Precedent for unilateral military action that could encourage similar strikes against other adversaries without congressional oversight"
+  ],
+  "generatedAt": "2026-03-03T19:53:20.004Z",
+  "model": "anthropic/claude-sonnet-4"
+}

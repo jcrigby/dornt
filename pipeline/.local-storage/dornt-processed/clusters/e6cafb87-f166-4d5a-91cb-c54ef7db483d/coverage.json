@@ -1,0 +1,70 @@
+{
+  "clusterId": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+  "frames": [
+    {
+      "name": "Cuban Self-Defense Frame",
+      "description": "Presents the incident as Cuban forces defending territorial sovereignty against armed infiltrators who fired first",
+      "sources": [
+        "UPI",
+        "The Guardian World",
+        "BBC World",
+        "ABC News"
+      ],
+      "emphasis": "Cuban territorial sovereignty, self-defense response, armed infiltration attempt"
+    },
+    {
+      "name": "Anti-Communist Accountability Frame",
+      "description": "Frames the incident as Cuban communist aggression requiring investigation and accountability",
+      "sources": [
+        "Fox Politics",
+        "Daily Wire",
+        "Breitbart"
+      ],
+      "emphasis": "Cuban government untrustworthiness, need for investigation, communist regime criticism"
+    },
+    {
+      "name": "Factual Investigation Frame",
+      "description": "Emphasizes the need for independent verification and investigation before drawing conclusions",
+      "sources": [
+        "NYT World",
+        "ABC News"
+      ],
+      "emphasis": "Independent verification, gathering facts, avoiding speculation"
+    },
+    {
+      "name": "Exile Terrorism Frame",
+      "description": "Presents the boat occupants as Cuban exiles planning terrorist infiltration with criminal backgrounds",
+      "sources": [
+        "The Guardian World",
+        "BBC World",
+        "Breitbart"
+      ],
+      "emphasis": "Terrorist planning, criminal histories, exile group activities"
+    },
+    {
+      "name": "Family Rescue Frame",
+      "description": "Suggests the boat was part of efforts to evacuate relatives from Cuba",
+      "sources": [
+        "The Guardian World",
+        "Daily Wire"
+      ],
+      "emphasis": "Humanitarian mission to help family members escape Cuba"
+    }
+  ],
+  "outlierPerspectives": [
+    "Historical parallel to 1996 Brothers to the Rescue shootdown (The Guardian, BBC)",
+    "Connection to current oil embargo and humanitarian crisis context (The Guardian)",
+    "Specific identification of wanted individuals with terrorist connections (BBC, The Guardian)",
+    "Mention of confession by alleged accomplice on Cuban soil (BBC, Breitbart)"
+  ],
+  "missingContext": [
+    "Independent verification of Cuban claims about weapons and equipment found",
+    "Confirmation of identities and citizenship status of those involved",
+    "Details about the boat's actual mission and departure point",
+    "U.S. government's official position beyond Rubio's preliminary statements",
+    "International maritime law regarding territorial waters and self-defense",
+    "Previous incidents' outcomes and investigations in similar cases"
+  ],
+  "generatedAt": "2026-02-26T18:26:44.526Z",
+  "model": "anthropic/claude-sonnet-4"
+}

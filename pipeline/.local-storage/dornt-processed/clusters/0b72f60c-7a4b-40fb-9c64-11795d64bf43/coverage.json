@@ -1,0 +1,44 @@
+{
+  "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
+  "frames": [
+    {
+      "name": "Corporate resistance to military overreach",
+      "description": "Presents Anthropic as standing up against Pentagon pressure to remove ethical AI restrictions, with the company defending against potential misuse in autonomous weapons and mass surveillance",
+      "sources": [
+        "Ars Technica"
+      ],
+      "emphasis": "Anthropic's objections to allowing 'all lawful use' and concerns about lethal autonomous weapons and mass surveillance"
+    },
+    {
+      "name": "Presidential authority vs. tech company obstruction",
+      "description": "Frames the conflict as Trump asserting government authority against a 'leftwing' tech company that is trying to 'strong-arm' the military",
+      "sources": [
+        "Ars Technica"
+      ],
+      "emphasis": "Trump's characterization of Anthropic as 'leftwing nut jobs' making a 'disastrous mistake' by trying to control military AI use"
+    },
+    {
+      "name": "Silicon Valley's evolving relationship with defense",
+      "description": "Contextualizes the dispute within the broader trend of tech companies moving from avoiding defense work to embracing military contracts",
+      "sources": [
+        "Ars Technica"
+      ],
+      "emphasis": "The transformation from tech companies 'largely avoiding defense work to increasingly embracing it and eventually becoming full-blown military contractors'"
+    }
+  ],
+  "outlierPerspectives": [
+    "Worker solidarity across AI companies - hundreds of OpenAI and Google employees signing letters supporting Anthropic's position",
+    "Anthropic as the only AI company currently working with classified military systems, making it uniquely positioned in this conflict"
+  ],
+  "missingContext": [
+    "Specific details about what 'all lawful use' would permit that current restrictions prevent",
+    "The exact nature and scope of current AI restrictions that the Pentagon wants removed",
+    "Financial implications of the ban for both Anthropic and government operations",
+    "Timeline and specifics of the 'weeks' of clashes mentioned",
+    "Details about how other AI companies (Google, OpenAI, xAI) are responding to similar Pentagon pressure",
+    "Anthropic's public response or statement to Trump's announcement",
+    "Legal framework governing AI company contracts with the military"
+  ],
+  "generatedAt": "2026-03-03T19:47:43.966Z",
+  "model": "anthropic/claude-sonnet-4"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "1rfb2md",
+  "subreddit": "technology",
+  "title": "RAM now represents 35 percent of bill of materials for HP PCs",
+  "url": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
+  "selftext": "",
+  "author": "jluizsouzadev",
+  "score": 443,
+  "numComments": 43,
+  "createdUtc": 1772114824,
+  "permalink": "https://reddit.com/r/technology/comments/1rfb2md/ram_now_represents_35_percent_of_bill_of/",
+  "fetchedAt": "2026-02-26T17:22:13.069Z",
+  "topComments": [
+    {
+      "id": "o7iogdh",
+      "author": "rednecronomicon",
+      "body": "Gotta give AI all of the computer parts so corporations can know if their fast food workers say please and thank you to customers!",
+      "score": 195,
+      "createdUtc": 1772115845
+    },
+    {
+      "id": "o7in2ue",
+      "author": "rnilf",
+      "body": "&gt; Broussard said that to mitigate the impacts of the memory shortage, HP has added new suppliers and cut “the time to qualify new material in half to accelerate our product configuration changes.” He added that HP has also lowered its logistics costs with AI-driven “end-to-end planning processes.”\n\nIs this corpo-speak for, \"we lowered our standards\"?",
+      "score": 83,
+      "createdUtc": 1772115412
+    },
+    {
+      "id": "o7iro9n",
+      "author": "Rot-Orkan",
+      "body": "In the next few years there's going to be a major push to \"rent\" your PC from the cloud.\n\nIt will not be a crappy experience or a bad deal. They'll have stuff in place to help with latency and video compression (kind of like how they try with game-streaming). You'll be able to rent the equivalent of a medium-high-end gaming PC for like 15 bucks a month, and it will be almost as good of an experience as if it were running natively. You'll be able to install Steam on it, or anything else you want, just like real computer.\n\nYou'll even start seeing people arguing *for* it. Why? Because it will be cheap (initially) and convenient. It's the exact same reason we gave up physical copies of movies for streaming, and physical albums for streaming, too. Cheap + convenient will always win.\n\nI say this as a warning. If you buy into these future services, you will help \"seal the deal\" and make it a permanent part of life, leaving home-PCs as just an expensive, niche thing.",
+      "score": 48,
+      "createdUtc": 1772116857
+    },
+    {
+      "id": "o7iqrk5",
+      "author": "KS-Wolf-1978",
+      "body": "Yesterday i checked price of the RAM i bought in May of 2025.\n\nIt was still double the price i paid but down from quadruple few months ago.\n\nSo is the peak already in the past and now it will slowly go back to normal ?",
+      "score": 11,
+      "createdUtc": 1772116573
+    }
+  ]
+}

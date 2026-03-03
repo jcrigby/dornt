@@ -1,0 +1,17 @@
+{
+  "id": "6c1b08bd-c524-410c-ac08-28e1af96e8af",
+  "url": "https://techcrunch.com/2026/02/26/cisco-says-hackers-have-been-exploiting-a-critical-bug-to-break-into-big-customer-networks-since-2023/",
+  "normalizedUrl": "https://techcrunch.com/2026/02/26/cisco-says-hackers-have-been-exploiting-a-critical-bug-to-break-into-big-customer-networks-since-2023",
+  "title": "Cisco says hackers have been exploiting a critical bug to break into big customer networks since 2023",
+  "source": "TechCrunch",
+  "feedUrl": "https://techcrunch.com/feed/",
+  "publishedAt": "Thu, 26 Feb 2026 16:03:36 +0000",
+  "fetchedAt": "2026-02-26T17:24:15.061Z",
+  "author": "Zack Whittaker",
+  "contentHash": "ff0c8d70455f932c",
+  "fullText": "8:03 AM PST · February 26, 2026 \n \n \n \nCisco says hackers have been exploiting a bug in one of its popular networking products used by large enterprises for at least three years, prompting the U.S. government and its allies to urge organizations to take action.\n\nThe bug, which has a maximum-rated vulnerability severity score of 10.0, allows hackers to remotely break into networks running its Catalyst SD-WAN products, which allow large companies and government agencies with multiple offices to connect their private networks over long distances.\n\nBy exploiting this bug over the internet, hackers can gain the highest level of permissions to these devices and maintain persistent hidden access inside a victim’s network, allowing them to spy or steal data over a long period of time.\n\nCisco said after discovering the bug, its researchers traced evidence of exploitation as far back as 2023. Some of the affected organizations are said to be critical infrastructure. The company did not provide specifics, but “critical infrastructure” can refer to everything from power grids and water supply to the transportation sector.\n\nSeveral governments, including Australia, Canada, New Zealand, the United Kingdom, and the United States, warned in an alert that threat actors are targeting organizations “globally.”\n\nU.S. cybersecurity agency CISA ordered all civilian federal agencies to patch their systems by end-of-day Friday, citing an imminent threat and unacceptable risk to the federal government. The federal cybersecurity agency, which is currently running at reduced capacity due to a partial government shutdown, said it was aware of ongoing exploitation.\n\nNeither Cisco nor the governments attributed the attacks to a specific threat group or nation state, if known, but tracked one cluster of activity as UAT-8616.\n\nIn December, Cisco warned of a similarly rated 10.0 vulnerability in the Async software that runs most of its products, which was being actively used to hack into its customer networks.\n\n \n\n \n\n \n \n \n\n \n\n \n \n \n\n \n\n \n\n \n \n \n \n\n \n\n Zack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security. \n\nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com. \n\n \n \n View Bio \n \n \n\n \n \n\n \n \nMost Popular",
+  "summary": "The U.S. government and its allies said hackers have been exploiting the newly identified bug in Cisco networking gear around the world for years, and urged organizations to patch.",
+  "categories": [
+    "tech"
+  ]
+}

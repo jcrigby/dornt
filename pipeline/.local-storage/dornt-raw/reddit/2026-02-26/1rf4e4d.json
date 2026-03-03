@@ -1,0 +1,43 @@
+{
+  "id": "1rf4e4d",
+  "subreddit": "technology",
+  "title": "Firefox 148 introduces the promised AI kill switch for people who aren't into LLMs",
+  "url": "https://www.xda-developers.com/firefox-148-introduces-the-promised-ai-kill-switch-for-people-who-arent-into-llms/",
+  "selftext": "",
+  "author": "gdelacalle",
+  "score": 9343,
+  "numComments": 534,
+  "createdUtc": 1772093033,
+  "permalink": "https://reddit.com/r/technology/comments/1rf4e4d/firefox_148_introduces_the_promised_ai_kill/",
+  "fetchedAt": "2026-02-26T17:22:09.741Z",
+  "topComments": [
+    {
+      "id": "o7hf96f",
+      "author": "tsarthedestroyer",
+      "body": "It really speaks about the future of a technology when the most requested feature is to disable it lol",
+      "score": 3604,
+      "createdUtc": 1772095557
+    },
+    {
+      "id": "o7hbqwt",
+      "author": "Koolala",
+      "body": "I'm not into a bad tab-grouping feature. They haven't even made it worth turning on yet.",
+      "score": 475,
+      "createdUtc": 1772093527
+    },
+    {
+      "id": "o7hewzb",
+      "author": "Caraes_Naur",
+      "body": "If Mozilla was consistent, they would rip the \"AI\" back out of Firefox and force it to be an add-on.\n\nNever mind, they only do that to functionality people actually want.",
+      "score": 283,
+      "createdUtc": 1772095361
+    },
+    {
+      "id": "o7hkbz2",
+      "author": "yuusharo",
+      "body": "Shoutout to [JustTheBrowser.com](https://JustTheBrowser.com).\n\nIt installs a device management profile for several browsers including Firefox that sets various policies on your behalf to disable all this crap.\n\nIt makes even Edge a tolerable browser now, that says something about how abhorrently bloated web browsers have become.",
+      "score": 227,
+      "createdUtc": 1772098561
+    }
+  ]
+}

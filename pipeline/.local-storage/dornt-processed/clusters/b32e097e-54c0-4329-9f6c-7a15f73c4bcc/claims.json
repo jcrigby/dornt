@@ -1,0 +1,100 @@
+[
+  {
+    "id": "eaab920e-fb24-4c5d-8aa1-419821ab6df8",
+    "clusterId": "b32e097e-54c0-4329-9f6c-7a15f73c4bcc",
+    "text": "Antonio Tejero Molina died at age 93",
+    "status": "undisputed",
+    "supportingSources": [
+      "NYT World",
+      "WaPo World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:24:09.833Z",
+    "lastUpdatedAt": "2026-02-26T18:24:09.833Z"
+  },
+  {
+    "id": "0922b34e-8a8d-4052-baf7-3ae1e33f005a",
+    "clusterId": "b32e097e-54c0-4329-9f6c-7a15f73c4bcc",
+    "text": "Antonio Tejero was a Spanish colonel",
+    "status": "undisputed",
+    "supportingSources": [
+      "NYT World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:24:09.833Z",
+    "lastUpdatedAt": "2026-02-26T18:24:09.833Z"
+  },
+  {
+    "id": "c4f0be15-b633-4a67-89a9-f8a8f54e7104",
+    "clusterId": "b32e097e-54c0-4329-9f6c-7a15f73c4bcc",
+    "text": "Antonio Tejero led a failed coup attempt in Spain",
+    "status": "undisputed",
+    "supportingSources": [
+      "NYT World",
+      "WaPo World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:24:09.833Z",
+    "lastUpdatedAt": "2026-02-26T18:24:09.833Z"
+  },
+  {
+    "id": "10618a45-051f-4392-aca7-2b9379fa125c",
+    "clusterId": "b32e097e-54c0-4329-9f6c-7a15f73c4bcc",
+    "text": "The coup attempt occurred on February 23, 1981",
+    "status": "undisputed",
+    "supportingSources": [
+      "NYT World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:24:09.833Z",
+    "lastUpdatedAt": "2026-02-26T18:24:09.833Z"
+  },
+  {
+    "id": "7ba8f41d-a563-47f5-b4a7-5bc6d58cbd4b",
+    "clusterId": "b32e097e-54c0-4329-9f6c-7a15f73c4bcc",
+    "text": "Tejero held Spain's Parliament hostage for 18 hours",
+    "status": "undisputed",
+    "supportingSources": [
+      "NYT World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:24:09.833Z",
+    "lastUpdatedAt": "2026-02-26T18:24:09.833Z"
+  },
+  {
+    "id": "4623ff91-267f-4909-bbd4-31312ae0827e",
+    "clusterId": "b32e097e-54c0-4329-9f6c-7a15f73c4bcc",
+    "text": "Tejero surrendered after it became clear he had little support from the country's armed forces",
+    "status": "undisputed",
+    "supportingSources": [
+      "NYT World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:24:09.833Z",
+    "lastUpdatedAt": "2026-02-26T18:24:09.833Z"
+  },
+  {
+    "id": "8317a622-4ed3-41bb-91b8-1c6fd510f68c",
+    "clusterId": "b32e097e-54c0-4329-9f6c-7a15f73c4bcc",
+    "text": "The revolt inspired fear that Francoist fascism had returned",
+    "status": "undisputed",
+    "supportingSources": [
+      "WaPo World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:24:09.833Z",
+    "lastUpdatedAt": "2026-02-26T18:24:09.833Z"
+  },
+  {
+    "id": "75fedb9b-cc29-48c6-a6b5-f7de04dea6c8",
+    "clusterId": "b32e097e-54c0-4329-9f6c-7a15f73c4bcc",
+    "text": "Tejero died the same day the Spanish government declassified documents related to the coup",
+    "status": "undisputed",
+    "supportingSources": [
+      "WaPo World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:24:09.833Z",
+    "lastUpdatedAt": "2026-02-26T18:24:09.833Z"
+  }
+]

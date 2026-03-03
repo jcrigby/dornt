@@ -1,0 +1,32 @@
+{
+  "clusterId": "a54e3a32-c4aa-448d-b397-a45b7a7c9d91",
+  "narrative": "Former New Zealand Prime Minister Jacinda Ardern is now living in Australia with her family, according to confirmed reports from her spokesperson [1][2]. The move was confirmed after speculation emerged following reports that Ardern, her husband Clarke Gayford, and their seven-year-old daughter Neve were spotted attending open home viewings in Sydney's northern beaches [2].\n\n## Current Status and Timeline\n\nArdern's spokesperson told The Guardian that \"the family has been travelling for a few years now\" and are \"for the moment they're basing themselves out of Australia\" [2]. The spokesperson cited work opportunities and the \"added bonus of more time back home in New Zealand\" as reasons for the relocation [2]. However, specific details about when the family arrived in Australia or the nature of their work there were not disclosed [2].\n\n## Broader Context\n\nThe move places Ardern among a significant wave of New Zealanders relocating to Australia. The Guardian reports that New Zealand is \"grappling with record numbers of citizens leaving the country because of a weak economy, high living costs and high unemployment,\" with more than 60% of emigrants choosing Australia, where \"average weekly incomes are higher and New Zealand citizens have work and residency rights\" [2].\n\n## Post-Political Career\n\nSince stepping down as Prime Minister in January 2023, citing that she no longer had \"enough in the tank,\" Ardern has maintained an active international profile [2]. Her post-office activities have included dual fellowship roles at Harvard University, continued work on the Christchurch Call project to combat online extremism, and joining the board of trustees of Prince William's Earthshot prize [2]. In 2025, she released a memoir and had a documentary about her leadership premiere at Sundance [2].\n\n## Source Agreement\n\nBoth The New York Times and The Guardian confirm the basic facts of Ardern's relocation to Australia, with The Guardian providing more comprehensive details about the circumstances and broader context of New Zealand emigration patterns.",
+  "citations": [
+    {
+      "index": 1,
+      "articleId": "6f781c19-f5e5-4b7d-b64c-e310024e7b9a",
+      "source": "NYT World",
+      "title": "The Latest New Zealander to Move to Australia Is an Ex-Prime Minister",
+      "url": "https://www.nytimes.com/2026/02/26/world/australia/new-zealand-jacinda-ardern-australia.html",
+      "quote": "Jacinda Ardern, New Zealand's former leader, is basing her family in Australia \"for the moment,\" a spokesman said."
+    },
+    {
+      "index": 2,
+      "articleId": "09056c1a-70ad-46ad-a820-6a0dd7cc1319",
+      "source": "The Guardian World",
+      "title": "Jacinda Ardern living and working in Australia after move from US",
+      "url": "https://www.theguardian.com/world/2026/feb/26/jacinda-ardern-living-in-australia-former-nz-new-zealand-pm",
+      "quote": "The former New Zealand prime minister Jacinda Ardern is living in Australia with her family, a spokesperson has confirmed."
+    }
+  ],
+  "keyDevelopments": [
+    "Jacinda Ardern's family confirmed to be living in Australia",
+    "Reports of house hunting in Sydney's northern beaches sparked speculation",
+    "Move occurs amid record New Zealand emigration to Australia",
+    "Spokesperson cites work opportunities and proximity to New Zealand as factors",
+    "Specific timeline and work details remain undisclosed"
+  ],
+  "generatedAt": "2026-02-26T18:20:26.272Z",
+  "model": "anthropic/claude-sonnet-4",
+  "tokenCount": 2275
+}

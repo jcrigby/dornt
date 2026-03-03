@@ -1,0 +1,17 @@
+{
+  "id": "a26ba59e-a9c1-4273-b347-de4d5f0bba9d",
+  "url": "https://techcrunch.com/2026/02/26/figma-partners-with-openai-to-bake-in-support-for-codex/",
+  "normalizedUrl": "https://techcrunch.com/2026/02/26/figma-partners-with-openai-to-bake-in-support-for-codex",
+  "title": "Figma partners with OpenAI to bake in support for Codex",
+  "source": "TechCrunch",
+  "feedUrl": "https://techcrunch.com/feed/",
+  "publishedAt": "Thu, 26 Feb 2026 14:00:00 +0000",
+  "fetchedAt": "2026-02-26T17:24:23.285Z",
+  "author": "Ivan Mehta",
+  "contentHash": "2472d0f4946dd663",
+  "fullText": "In Brief\nPosted:\n\n6:00 AM PST · February 26, 2026\n\nImage Credits:Figma\n\nFigma is integrating OpenAI’s AI coding tool, Codex, to let users create and tweak designs from within their coding environments. The move comes a week after the design company struck a similar partnership with Anthropic to integrate Claude Code.\n\nThis integration lets users start working with a design in Figma or code in Codex, and move between the two platforms easily using Figma’s MCP (Model Context Protocol) server.\n\nPreviously, users could bring details from Figma design files, Figma Make, or FigJam into Codex for code-based implementation.\n\n“With this integration, teams can build on their best ideas—not just their first idea—by combining the best of code with the creativity, collaboration, and craft that comes with Figma’s infinite canvas,” Loredana Crisan, Figma’s chief design officer, said.\n\n“The integration makes Codex powerful for a much broader range of builders and businesses because it doesn’t assume you’re ‘a designer’ or ‘an engineer’ first. Engineers can iterate visually without leaving their flow, and designers can work closer to real implementation without becoming full-time coders,” Codex product lead Alexander Embiricos said in a statement.\n\nOpenAI first launched Codex as a command-line coding assistant last year to compete with Anthropic’s much lauded Claude Code. Later, the company built the coding tool into ChatGPT, and earlier this month launched a dedicated MacOS app for Codex. \n\n \n Techcrunch event\n \n \n Boston, MA\n |\n June 9, 2026\n \n \n \n \n\nThe MacOS app was downloaded a million times within the first week of release. The company also released two new Codex models just days afterwards. OpenAI said that over a million users are using Codex weekly.\n\nFigma has been a prominent partner for OpenAI, and it was one of the first companies to launch an app in ChatGPT in October 2025. \n\n \n \n Newsletters\n \n \n Subscribe for the industry’s biggest tech news\n \n \n \n \n \n\nRelated\n\nLatest in Apps",
+  "summary": "Figma is integrating OpenAI's coding assistant Codex a week after it announced a similar integration with Anthropic's Claude Code.",
+  "categories": [
+    "tech"
+  ]
+}

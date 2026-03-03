@@ -1,0 +1,37 @@
+{
+  "clusterId": "990b1f94-1769-4ee0-8176-69266ea89516",
+  "frames": [
+    {
+      "name": "Political Retaliation Frame",
+      "description": "Presents the federal action as politically motivated punishment against Minnesota rather than legitimate policy enforcement",
+      "sources": [
+        "The Hill",
+        "NYT"
+      ],
+      "emphasis": "The characterization of federal actions as 'political punishment' and harm to over 1 million enrolled Minnesotans"
+    },
+    {
+      "name": "Fraud Enforcement Frame",
+      "description": "Frames the federal action as a response to documented fraud in Minnesota's social service programs",
+      "sources": [
+        "NYT"
+      ],
+      "emphasis": "The Trump administration's justification citing 'widespread fraud in state social service programs'"
+    }
+  ],
+  "outlierPerspectives": [
+    "The fraud enforcement justification - only NYT mentions the Trump administration's rationale of widespread fraud in state programs",
+    "Vice President Vance's involvement - only The Hill specifically mentions Vance's role alongside the CMS Administrator"
+  ],
+  "missingContext": [
+    "Specific details about the alleged fraud that prompted federal action",
+    "Timeline of when the fraud was discovered and federal response initiated",
+    "Amount of Medicaid funds being withheld",
+    "Legal precedent for federal withholding of Medicaid funds over fraud concerns",
+    "Minnesota's response to or acknowledgment of the fraud allegations",
+    "Impact on specific Medicaid services or beneficiaries",
+    "Other states that may have faced similar federal action"
+  ],
+  "generatedAt": "2026-03-03T19:58:36.068Z",
+  "model": "anthropic/claude-sonnet-4"
+}

@@ -1,0 +1,57 @@
+{
+  "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+  "frames": [
+    {
+      "name": "Justice and accountability frame",
+      "description": "Emphasizes the successful prosecution and conviction as a victory for justice after years of struggle",
+      "sources": [
+        "BBC World",
+        "The Guardian World",
+        "UPI"
+      ],
+      "emphasis": "The eight-year fight for justice, family satisfaction with verdicts, and the judicial system's vindication"
+    },
+    {
+      "name": "Political corruption and organized crime frame",
+      "description": "Focuses on the deep ties between politicians and militia groups, presenting the case as exposing systemic corruption",
+      "sources": [
+        "BBC World",
+        "The Guardian World",
+        "NYT World"
+      ],
+      "emphasis": "The brothers' militia connections, land development schemes, and broader political-criminal networks"
+    },
+    {
+      "name": "Social justice and identity frame",
+      "description": "Highlights Franco as a gay Black woman activist fighting for marginalized communities against powerful interests",
+      "sources": [
+        "BBC World",
+        "The Guardian World"
+      ],
+      "emphasis": "Franco's identity, her advocacy for favela residents, and the intersection of gender and racial violence"
+    },
+    {
+      "name": "Procedural legal frame",
+      "description": "Presents the story primarily as a criminal case with focus on convictions, sentences, and legal proceedings",
+      "sources": [
+        "UPI",
+        "NYT World"
+      ],
+      "emphasis": "Specific sentences, charges, legal procedures, and the mechanics of the prosecution"
+    }
+  ],
+  "outlierPerspectives": [
+    "The Guardian's emphasis on the 'tortuous series of twists' including evidence destruction and investigator changes",
+    "Justice Cármen Lúcia's emotional commentary about 'spiritual and psychological harm' and the inadequacy of human justice",
+    "Monica Benicio's (Franco's widow) warning that the 'criminal ecosystem that killed Marielle continues to operate'"
+  ],
+  "missingContext": [
+    "The specific housing development projects that motivated the murder",
+    "The broader scope and power of Rio's militia groups beyond this case",
+    "The political and social impact of Franco's murder on Brazilian politics and activism",
+    "Details about how the investigation was initially compromised and by whom",
+    "The current state of militia control in Rio de Janeiro neighborhoods"
+  ],
+  "generatedAt": "2026-02-26T18:30:01.799Z",
+  "model": "anthropic/claude-sonnet-4"
+}

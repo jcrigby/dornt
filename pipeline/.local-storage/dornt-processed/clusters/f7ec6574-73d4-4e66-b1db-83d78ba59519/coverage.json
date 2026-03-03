@@ -1,0 +1,57 @@
+{
+  "clusterId": "f7ec6574-73d4-4e66-b1db-83d78ba59519",
+  "frames": [
+    {
+      "name": "Economic Opportunity Frame",
+      "description": "Presents the proposal as expanding access to stock market gains and addressing workplace inequality",
+      "sources": [
+        "Daily Wire",
+        "Axios"
+      ],
+      "emphasis": "Stock market benefits, addressing disparity between workers with and without employer plans, economic empowerment"
+    },
+    {
+      "name": "Policy Mechanics Frame",
+      "description": "Focuses on technical implementation details and existing legislative framework",
+      "sources": [
+        "CNBC",
+        "Axios"
+      ],
+      "emphasis": "How the plan would work, connection to SECURE 2.0 Act, TSP model, tax implications"
+    },
+    {
+      "name": "Bipartisan Policy Solution Frame",
+      "description": "Emphasizes cross-party support and collaboration on retirement security",
+      "sources": [
+        "Axios"
+      ],
+      "emphasis": "Bipartisan interest in expanding retirement access, collaboration between progressive and conservative economists"
+    },
+    {
+      "name": "Private-Public Partnership Frame",
+      "description": "Highlights role of philanthropic funding alongside government matching",
+      "sources": [
+        "Daily Wire",
+        "Axios"
+      ],
+      "emphasis": "Private investor contributions, comparison to other Trump initiatives funded by donations"
+    }
+  ],
+  "outlierPerspectives": [
+    "Social Security trust fund depletion as competing priority (Axios only)",
+    "Detailed funding mechanism through existing Savers Match program (Daily Wire only)",
+    "Specific mention of Michael and Susan Dell's $6.25 billion contribution to Trump kids accounts (Daily Wire only)",
+    "Quote from Teresa Ghilarducci about bipartisan collaboration with Kevin Hassett in 2021 (Axios only)"
+  ],
+  "missingContext": [
+    "Cost estimates and budget impact of the proposal",
+    "Timeline for implementation beyond 'next year'",
+    "Eligibility criteria and income thresholds",
+    "Comparison to existing state auto-IRA programs",
+    "Opposition viewpoints or criticism from policy experts",
+    "Details on how private contributions would be regulated",
+    "Impact on existing retirement savings programs"
+  ],
+  "generatedAt": "2026-02-26T18:28:53.282Z",
+  "model": "anthropic/claude-sonnet-4"
+}

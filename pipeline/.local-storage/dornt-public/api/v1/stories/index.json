@@ -1,0 +1,603 @@
+{
+  "stories": [
+    {
+      "id": "e6cafb87-f166-4d5a-91cb-c54ef7db483d",
+      "title": "Four people killed in shootout between US-registered speedboat and Cuban border guards.",
+      "summary": "",
+      "articleCount": 13,
+      "sourceCount": 9,
+      "topSources": [
+        "NYT World",
+        "The Guardian World",
+        "Breitbart",
+        "Daily Wire",
+        "UPI"
+      ],
+      "categories": [],
+      "importance": 100,
+      "updatedAt": "2026-02-26T17:46:25.228Z"
+    },
+    {
+      "id": "5080191b-9a74-4c46-a5aa-ee005d068c93",
+      "title": "US and Iran Hold Talks Amid Tensions Over Nuclear Deal.",
+      "summary": "",
+      "articleCount": 13,
+      "sourceCount": 6,
+      "topSources": [
+        "The Guardian US",
+        "Axios",
+        "Vox",
+        "Foreign Policy",
+        "France 24"
+      ],
+      "categories": [
+        "international",
+        "digital",
+        "analysis"
+      ],
+      "importance": 99,
+      "updatedAt": "2026-03-03T19:46:57.552Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/02/GettyImages-2220140693.jpg"
+    },
+    {
+      "id": "47502c99-0438-485e-b0d3-ec9aa3fbc14b",
+      "title": "Oil prices rise amid escalating tensions and conflict in the Middle East.",
+      "summary": "",
+      "articleCount": 7,
+      "sourceCount": 6,
+      "topSources": [
+        "Yahoo Finance",
+        "NYT Politics",
+        "DW",
+        "France 24",
+        "YouTube: ABC News"
+      ],
+      "categories": [
+        "international",
+        "finance",
+        "broadsheet"
+      ],
+      "importance": 81,
+      "updatedAt": "2026-03-03T19:47:12.336Z",
+      "imageUrl": "https://s.france24.com/media/display/8771dd38-1719-11f1-8e0d-005056bf30b7/w:1024/p:16x9/AP26062570244683.jpg"
+    },
+    {
+      "id": "e0aa805e-f26e-455e-9ac3-19b03c71bde6",
+      "title": "OpenAI Revises Pentagon Contract Amid Backlash and Criticism from Rival AI Firm Anthropic.",
+      "summary": "",
+      "articleCount": 6,
+      "sourceCount": 6,
+      "topSources": [
+        "UPI",
+        "MIT Tech Review",
+        "The Guardian US",
+        "BBC World",
+        "TechCrunch"
+      ],
+      "categories": [
+        "tech",
+        "international",
+        "wire"
+      ],
+      "importance": 78,
+      "updatedAt": "2026-03-03T19:47:12.349Z"
+    },
+    {
+      "id": "2c327508-a138-4e59-9937-6a549ca252b5",
+      "title": "Trump's Surgeon General Nominee, Casey Means, Faces Senate Scrutiny Over Vaccination Stance",
+      "summary": "",
+      "articleCount": 7,
+      "sourceCount": 5,
+      "topSources": [
+        "Ars Technica",
+        "The Atlantic",
+        "The Hill",
+        "Axios",
+        "NYT"
+      ],
+      "categories": [],
+      "importance": 71,
+      "updatedAt": "2026-02-26T17:46:25.227Z"
+    },
+    {
+      "id": "6ed6bbc9-3ce4-4e12-a48f-d78773dacff6",
+      "title": "US Issues Urgent Advisory for Americans to Leave the Middle East Immediately",
+      "summary": "",
+      "articleCount": 6,
+      "sourceCount": 5,
+      "topSources": [
+        "Business Insider",
+        "The Guardian US",
+        "BBC World",
+        "YouTube: ABC News",
+        "YouTube: CNBC"
+      ],
+      "categories": [
+        "finance",
+        "international",
+        "youtube"
+      ],
+      "importance": 68,
+      "updatedAt": "2026-03-03T19:47:12.348Z",
+      "imageUrl": "https://img.youtube.com/vi/fMhrVOeR2PY/hqdefault.jpg"
+    },
+    {
+      "id": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+      "title": "US President Trump disputes claims Israel forced US hand in Iran military strikes.",
+      "summary": "",
+      "articleCount": 6,
+      "sourceCount": 5,
+      "topSources": [
+        "ABC News",
+        "The Hill",
+        "The Guardian US",
+        "YouTube: NBC News",
+        "YouTube: ABC News"
+      ],
+      "categories": [
+        "news",
+        "youtube",
+        "cable"
+      ],
+      "importance": 68,
+      "updatedAt": "2026-03-03T19:47:12.350Z",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/03/Trump_Merz_03032026.jpg?w=900"
+    },
+    {
+      "id": "140ca8bf-8591-4956-85ce-7bfa08fbd287",
+      "title": "US Justice Department Reverses Course on Lawsuits Against Law Firms.",
+      "summary": "",
+      "articleCount": 5,
+      "sourceCount": 5,
+      "topSources": [
+        "Axios",
+        "The Hill",
+        "The Guardian US",
+        "NYT",
+        "WaPo Politics"
+      ],
+      "categories": [
+        "digital",
+        "broadsheet",
+        "international"
+      ],
+      "importance": 65,
+      "updatedAt": "2026-03-03T19:47:12.350Z",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/03/trump_donald_03062025_GettyImages-2203670514.jpg?w=900"
+    },
+    {
+      "id": "8e9b97c1-d391-4e9b-b544-fa3e7e754a32",
+      "title": "First 2026 Midterm Primaries Held in Arkansas, North Carolina, and Texas",
+      "summary": "",
+      "articleCount": 5,
+      "sourceCount": 5,
+      "topSources": [
+        "CNBC",
+        "UPI",
+        "The Guardian US",
+        "NYT Politics",
+        "YouTube: CNBC"
+      ],
+      "categories": [
+        "finance",
+        "wire",
+        "international"
+      ],
+      "importance": 65,
+      "updatedAt": "2026-03-03T19:47:12.351Z",
+      "imageUrl": "https://img.youtube.com/vi/ZJ87RfvhEnw/hqdefault.jpg"
+    },
+    {
+      "id": "ff1f1333-3a58-4786-96d0-473686b82d21",
+      "title": "Apple Unveils M5 Pro and M5 Max Chips, Updates MacBook Pro and Monitor Lineup",
+      "summary": "",
+      "articleCount": 7,
+      "sourceCount": 4,
+      "topSources": [
+        "Engadget",
+        "Ars Technica",
+        "TechCrunch",
+        "CNBC"
+      ],
+      "categories": [
+        "tech",
+        "finance"
+      ],
+      "importance": 61,
+      "updatedAt": "2026-03-03T19:47:12.345Z"
+    },
+    {
+      "id": "49654a5d-cd09-434c-807b-ceabe4aaae74",
+      "title": "Hillary Clinton testifies before House committee in ongoing Jeffrey Epstein investigation.",
+      "summary": "",
+      "articleCount": 13,
+      "sourceCount": 2,
+      "topSources": [
+        "DW",
+        "Daily Wire"
+      ],
+      "categories": [
+        "international",
+        "digital"
+      ],
+      "importance": 59,
+      "updatedAt": "2026-03-03T19:46:57.549Z",
+      "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Untitled-design-2026-03-03T094219.997.jpg"
+    },
+    {
+      "id": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+      "title": "President Trump Meets with German Chancellor Merz to Discuss Iran and Global Issues.",
+      "summary": "",
+      "articleCount": 6,
+      "sourceCount": 4,
+      "topSources": [
+        "YouTube: NBC News",
+        "YouTube: ABC News",
+        "The Hill",
+        "DW"
+      ],
+      "categories": [
+        "news",
+        "youtube",
+        "digital"
+      ],
+      "importance": 58,
+      "updatedAt": "2026-03-03T19:47:12.347Z",
+      "imageUrl": "https://img.youtube.com/vi/wmuqupnEbXU/hqdefault.jpg"
+    },
+    {
+      "id": "c16a2291-01bd-4674-bac6-7e521b57504c",
+      "title": "Samsung Unveils Galaxy S26 Smartphones with Enhanced Features and Pricing.",
+      "summary": "",
+      "articleCount": 5,
+      "sourceCount": 4,
+      "topSources": [
+        "The Verge",
+        "Ars Technica",
+        "CNBC",
+        "TechCrunch"
+      ],
+      "categories": [],
+      "importance": 55,
+      "updatedAt": "2026-02-26T17:45:57.041Z"
+    },
+    {
+      "id": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+      "title": "Brazilian Politician Brothers Convicted of Ordering Murder of Rio City Councillor in 2018",
+      "summary": "",
+      "articleCount": 5,
+      "sourceCount": 4,
+      "topSources": [
+        "The Guardian World",
+        "BBC World",
+        "NYT World",
+        "UPI"
+      ],
+      "categories": [],
+      "importance": 55,
+      "updatedAt": "2026-02-26T17:45:56.932Z"
+    },
+    {
+      "id": "14a078c9-ee72-4744-a65b-d8b3c5bcbbef",
+      "title": "State of the Union Guest Arrested, Rep. Ilhan Omar Demands Investigation and Condemns Incident",
+      "summary": "",
+      "articleCount": 4,
+      "sourceCount": 4,
+      "topSources": [
+        "The Guardian US",
+        "NYT Politics",
+        "WaPo Politics",
+        "NBC News"
+      ],
+      "categories": [],
+      "importance": 52,
+      "updatedAt": "2026-02-26T17:45:57.085Z"
+    },
+    {
+      "id": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+      "title": "Oil Prices Rise Amid Concerns Over Potential Blockade of Strait of Hormuz",
+      "summary": "",
+      "articleCount": 4,
+      "sourceCount": 3,
+      "topSources": [
+        "CNBC",
+        "WaPo Politics",
+        "The Guardian World"
+      ],
+      "categories": [
+        "finance",
+        "broadsheet",
+        "international"
+      ],
+      "importance": 42,
+      "updatedAt": "2026-03-03T19:47:12.346Z"
+    },
+    {
+      "id": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+      "title": "U.S. service members killed in Iran conflict, death toll rises",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 3,
+      "topSources": [
+        "Axios",
+        "Vox",
+        "Foreign Policy"
+      ],
+      "categories": [
+        "digital",
+        "analysis"
+      ],
+      "importance": 39,
+      "updatedAt": "2026-03-03T19:46:57.296Z",
+      "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2026/03/Operation-Epic-Fury.jpeg"
+    },
+    {
+      "id": "8f32c883-2139-458c-89c0-8971f2915219",
+      "title": "Biden-Appointed Judge Rules Trump's Third-Country Deportation Policy Unconstitutional",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 3,
+      "topSources": [
+        "NYT Politics",
+        "Daily Wire",
+        "Fox Politics"
+      ],
+      "categories": [],
+      "importance": 39,
+      "updatedAt": "2026-02-26T17:45:56.919Z"
+    },
+    {
+      "id": "a6b0c47f-98e0-45a7-bf55-a9789f67f6d9",
+      "title": "Columbia University student detained by DHS after agents entered university building.",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 3,
+      "topSources": [
+        "The Guardian US",
+        "The Hill",
+        "CNBC"
+      ],
+      "categories": [],
+      "importance": 39,
+      "updatedAt": "2026-02-26T17:45:57.093Z"
+    },
+    {
+      "id": "a78b31e8-1651-41d2-928f-5251a293a984",
+      "title": "Man Arrested in New York After Allegedly Assaulting Police During Snowball Fight",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 3,
+      "topSources": [
+        "NYT",
+        "The Hill",
+        "ABC News"
+      ],
+      "categories": [],
+      "importance": 39,
+      "updatedAt": "2026-02-26T17:45:56.941Z"
+    },
+    {
+      "id": "afe792e4-4b40-4fcd-8d61-609780082b39",
+      "title": "World Economic Forum President and CEO Steps Down Amid Scrutiny Over Epstein Connections",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 3,
+      "topSources": [
+        "The Guardian US",
+        "BBC World",
+        "Fox News"
+      ],
+      "categories": [],
+      "importance": 39,
+      "updatedAt": "2026-02-26T17:45:56.942Z"
+    },
+    {
+      "id": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+      "title": "Canada and India Strengthen Ties with New Nuclear Energy Deal and Diplomatic Reset.",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 3,
+      "topSources": [
+        "NYT World",
+        "The Hindu",
+        "BBC World"
+      ],
+      "categories": [
+        "international",
+        "broadsheet"
+      ],
+      "importance": 39,
+      "updatedAt": "2026-03-03T19:46:57.343Z"
+    },
+    {
+      "id": "f7ec6574-73d4-4e66-b1db-83d78ba59519",
+      "title": "Trump Unveils New Retirement Plan with Federal Matching Contribution Proposal",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 3,
+      "topSources": [
+        "Daily Wire",
+        "Axios",
+        "CNBC"
+      ],
+      "categories": [],
+      "importance": 39,
+      "updatedAt": "2026-02-26T17:45:57.032Z"
+    },
+    {
+      "id": "ff5078a2-bb36-4878-ad61-12396a10b8ac",
+      "title": "Kalshi fines individual associated with MrBeast for alleged insider trading on related markets.",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 3,
+      "topSources": [
+        "The Hill",
+        "The Verge",
+        "TechCrunch"
+      ],
+      "categories": [],
+      "importance": 39,
+      "updatedAt": "2026-02-26T17:45:57.051Z"
+    },
+    {
+      "id": "990b1f94-1769-4ee0-8176-69266ea89516",
+      "title": "Trump Administration Freezes Some Medicaid Funding to Minnesota Over Alleged Fraud Concerns",
+      "summary": "",
+      "articleCount": 5,
+      "sourceCount": 2,
+      "topSources": [
+        "The Hill",
+        "NYT"
+      ],
+      "categories": [
+        "digital",
+        "broadsheet"
+      ],
+      "importance": 35,
+      "updatedAt": "2026-03-03T19:46:57.567Z",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/01/AP26025690873375-e1769532150154.jpg?w=900"
+    },
+    {
+      "id": "2dab45ae-8ee8-4a88-b8ee-786bfb715a77",
+      "title": "ESPN Host Criticizes USA Men's Hockey Team as 'Sad Little Pawns' at Trump's State of the Union",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 2,
+      "topSources": [
+        "Breitbart",
+        "Fox Politics"
+      ],
+      "categories": [],
+      "importance": 29,
+      "updatedAt": "2026-02-26T17:45:57.078Z"
+    },
+    {
+      "id": "2febfd95-9de2-4dfd-a778-f70ecae1e798",
+      "title": "Floods and landslides in Brazil claim multiple lives following record rainfall.",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 2,
+      "topSources": [
+        "The Guardian World",
+        "Al Jazeera"
+      ],
+      "categories": [],
+      "importance": 29,
+      "updatedAt": "2026-02-26T17:45:57.088Z"
+    },
+    {
+      "id": "a54e3a32-c4aa-448d-b397-a45b7a7c9d91",
+      "title": "New Zealand's Former Prime Minister Jacinda Ardern Resumes Life in Australia.",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 2,
+      "topSources": [
+        "The Guardian World",
+        "NYT World"
+      ],
+      "categories": [],
+      "importance": 29,
+      "updatedAt": "2026-02-26T17:45:56.938Z"
+    },
+    {
+      "id": "b32e097e-54c0-4329-9f6c-7a15f73c4bcc",
+      "title": "Spanish Colonel Antonio Tejero Molina, leader of 1981 failed coup, dies at 93.",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 2,
+      "topSources": [
+        "NYT World",
+        "WaPo World"
+      ],
+      "categories": [],
+      "importance": 29,
+      "updatedAt": "2026-02-26T17:45:56.926Z"
+    },
+    {
+      "id": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
+      "title": "Pentagon and Anthropic reportedly at odds over AI system use in missile defense capabilities.",
+      "summary": "",
+      "articleCount": 5,
+      "sourceCount": 1,
+      "topSources": [
+        "Ars Technica"
+      ],
+      "categories": [
+        "tech"
+      ],
+      "importance": 25,
+      "updatedAt": "2026-03-03T19:46:57.348Z"
+    },
+    {
+      "id": "edf5e77e-72fb-4fb4-8753-c63b6cdfa58e",
+      "title": "Google and Samsung Introduce Gemini AI Features for Android Devices",
+      "summary": "",
+      "articleCount": 5,
+      "sourceCount": 1,
+      "topSources": [
+        "The Verge"
+      ],
+      "categories": [
+        "tech"
+      ],
+      "importance": 25,
+      "updatedAt": "2026-03-03T19:46:57.423Z"
+    },
+    {
+      "id": "2766eb4c-12f5-49b1-bfd9-b7481eed0d4c",
+      "title": "Merck Cancer Drug Enters Medicaid Pilot Program Under 'Most-Favored Nations' Pricing Model",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 1,
+      "topSources": [
+        "STAT News"
+      ],
+      "categories": [
+        "health"
+      ],
+      "importance": 19,
+      "updatedAt": "2026-03-03T19:46:57.340Z"
+    },
+    {
+      "id": "8264d146-f3ce-485d-83d6-515980f25d52",
+      "title": "Florida authorities investigate gunfight with speedboat that resulted in four fatalities.",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 1,
+      "topSources": [
+        "NBC News"
+      ],
+      "categories": [],
+      "importance": 19,
+      "updatedAt": "2026-02-26T17:45:57.013Z"
+    },
+    {
+      "id": "9d104137-80b5-48f3-9ce5-3444333c6e08",
+      "title": "US Senator Rubio Attends Caribbean Summit to Discuss Regional Policy and Security Issues",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 1,
+      "topSources": [
+        "Foreign Policy"
+      ],
+      "categories": [],
+      "importance": 19,
+      "updatedAt": "2026-02-26T17:45:56.946Z"
+    },
+    {
+      "id": "abf80744-2018-4aa8-a236-1e41f6e3fabd",
+      "title": "Researchers Investigate Squeaking Sounds at Interfaces Between Soft and Rigid Materials",
+      "summary": "",
+      "articleCount": 3,
+      "sourceCount": 1,
+      "topSources": [
+        "Nature"
+      ],
+      "categories": [],
+      "importance": 19,
+      "updatedAt": "2026-02-26T17:45:56.901Z"
+    }
+  ],
+  "generatedAt": "2026-03-03T20:07:25.872Z",
+  "totalCount": 35
+}

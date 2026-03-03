@@ -1,0 +1,33 @@
+{
+  "clusterId": "9d104137-80b5-48f3-9ce5-3444333c6e08",
+  "narrative": "## State of the Story: Rubio Attends Caribbean Summit Amid Regional Tensions Over Trump's Donroe Doctrine\n\nU.S. Secretary of State Marco Rubio joined Caribbean Community (CARICOM) leaders at their summit in St. Kitts and Nevis on Wednesday, as regional concerns mount over President Trump's aggressive \"Donroe Doctrine\" policy in the Western Hemisphere [1][2]. The 15-nation bloc and five associate members began their four-day proceedings on Tuesday to address pressing regional issues, with U.S. policy impacts taking center stage [1][2].\n\n### Trump's Donroe Doctrine Under Scrutiny\n\nPresident Trump highlighted the Donroe Doctrine during his State of the Union address on Tuesday night, claiming the White House is \"restoring American security and dominance in the Western Hemisphere, acting to secure our national interests and defend our country from violence, drugs, terrorism, and foreign interference\" [1]. The doctrine has involved several controversial military actions, including deadly strikes on alleged drug trafficking boats in the Caribbean, with the most recent operation killing three people on Monday [1].\n\nThe policy's most dramatic action was the capture of then-Venezuelan President Nicolás Maduro in what Trump described as \"a brazen nighttime operation\" [1]. Trump characterized this as \"an absolutely colossal victory for the security of the United States\" that opens up \"a bright new beginning for the people of Venezuela\" [1].\n\n### Regional Leaders Express Mixed Reactions\n\nCaribbean leaders are divided in their response to U.S. actions. While some have praised certain military operations, particularly the seizure of Maduro [1][2], many express concern that continued U.S. intervention could have \"devastating humanitarian and economic consequences\" [1][2]. St. Kitts and Nevis Prime Minister Terrance Drew characterized the current moment as a \"decisive hour\" for the region, noting that \"the global order is shifting\" and \"supply chains remain uncertain\" [1].\n\n### Cuba Crisis Sparks Regional Concerns\n\nA major source of tension is Washington's pressure campaign against Cuba, which has created what Caribbean leaders fear could be a destabilizing humanitarian crisis [2]. Trump's threats to impose U.S. tariffs on any nation supplying oil to Havana have forced Cuba to ration energy, halt surgeries, and suspend flights [2]. Additionally, U.S. pressure on other countries to reject Cuban medical missions has cut off a key source of foreign currency for the island [2].\n\n### Breaking Development: Treasury Issues New Cuba Guidance\n\nIn a potentially significant development on Wednesday, the U.S. Treasury Department posted new guidance appearing to somewhat relax oil restrictions on Cuba [2]. The guidance states that Treasury would authorize companies seeking licenses to resell Venezuelan oil to Cuba, provided such transactions \"support the Cuban people, including the Cuban private sector (e.g., exports for commercial and humanitarian use in Cuba)\" [2]. However, the full text of this guidance was not completely captured in the available reporting.\n\n### Summit Objectives\n\nWith Rubio's arrival, Caribbean leaders are expected to prioritize \"resetting relations with Washington\" [1][2], suggesting the summit represents a crucial diplomatic moment for addressing regional tensions over U.S. policy implementation.",
+  "citations": [
+    {
+      "index": 1,
+      "articleId": "0b6e816b-901d-4c60-82ac-036759d3bdf9",
+      "source": "Foreign Policy",
+      "title": "Rubio Meets With Caribbean Leaders to Discuss U.S. Policy",
+      "url": "https://foreignpolicy.com/2026/02/25/caribbean-caricom-rubio-cuba-oil-trump-donroe/",
+      "quote": "U.S. President Donald Trump's Donroe Doctrine is front and center at this week's Caribbean Community leaders' summit. The 15-nation bloc and five associate members kicked off four-day proceedings in St. Kitts and Nevis on Tuesday to discuss major pressing issues, including how U.S. policy is impacting the region."
+    },
+    {
+      "index": 2,
+      "articleId": "0b6e816b-901d-4c60-82ac-036759d3bdf9",
+      "source": "Foreign Policy",
+      "title": "Rubio Joins Caribbean Summit to Discuss Donroe Doctrine",
+      "url": "https://foreignpolicy.com/2026/02/25/caribbean-caricom-rubio-cuba-oil-trump-donroe/",
+      "quote": "Among the biggest concerns is Washington's pressure campaign on Cuba. By Trump threatening to impose U.S. tariffs on any nation that supplies Havana with oil, the island has been forced to ration energy, halt surgeries, and suspend flights."
+    }
+  ],
+  "keyDevelopments": [
+    "U.S. Secretary of State Marco Rubio joins Caribbean Community summit in St. Kitts and Nevis on Wednesday",
+    "Trump highlights Donroe Doctrine success in Tuesday State of the Union address",
+    "Recent U.S. military strike on alleged drug trafficking boat kills three people on Monday",
+    "U.S. Treasury Department issues new guidance potentially relaxing some Cuba oil restrictions on Wednesday",
+    "Caribbean leaders express mixed reactions to U.S. military actions, with particular concern over Cuba humanitarian crisis",
+    "Summit focuses on resetting U.S.-Caribbean relations amid regional tensions"
+  ],
+  "generatedAt": "2026-02-26T18:19:37.417Z",
+  "model": "anthropic/claude-sonnet-4",
+  "tokenCount": 3641
+}

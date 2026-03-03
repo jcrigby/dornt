@@ -1,0 +1,40 @@
+{
+  "clusterId": "ff5078a2-bb36-4878-ad61-12396a10b8ac",
+  "narrative": "Prediction market platform Kalshi has disclosed its first insider trading fines, targeting a MrBeast video editor and a California political candidate for violating platform policies [1][2][3].\n\n## Key Facts\n\nArtem Kaptur, an editor for YouTube creator MrBeast, was fined $20,397.58 and suspended for two years after Kalshi's disciplinary committee found he violated insider trading policies [1][2][3]. Kaptur traded approximately $4,000 on YouTube streaming markets in August and September 2025, generating $5,397.58 in profits [2][3]. Kalshi's surveillance systems flagged his \"near-perfect trading success on markets with low odds, which were statistically anomalous\" [3].\n\nSeparately, Kyle Langford, a California gubernatorial candidate, was fined over $2,000 and banned for five years after allegedly trading on his own candidacy and posting about it on social media [2][3].\n\n## Company Response\n\nBeast Industries, MrBeast's company, stated it \"does not tolerate this behavior\" and has initiated an independent investigation [2]. The company noted that contestants on MrBeast's Amazon Prime show \"Beast Games\" are also informed that confidential knowledge precludes them from participating in related prediction markets [2].\n\n## Regulatory Context\n\nKalshi reported both cases to the Commodity Futures Trading Commission and noted it has opened more than 200 investigations over the past year, resulting in more than a dozen active cases [3]. The platform stated it will donate the fine amounts to a consumer education nonprofit [2]. These disclosures come amid growing regulatory scrutiny of prediction markets, with Nevada suing to block Kalshi and Massachusetts ordering the platform to stop allowing residents to place sports bets [3].",
+  "citations": [
+    {
+      "index": 1,
+      "articleId": "29469f51-b536-4109-96b9-c99dc0f9476f",
+      "source": "The Hill",
+      "title": "Kalshi accuses MrBeast video editor of insider trading",
+      "url": "https://thehill.com/business/5756511-mrbeast-editor-fined-insider-trading-kalshi/",
+      "quote": "The company's disciplinary committee found that Artem Kaptur violated its policies when Kaptur placed bets last August and September related to the YouTube channel where he worked."
+    },
+    {
+      "index": 2,
+      "articleId": "47c2b2d6-518f-41bc-bc6f-253f780c6156",
+      "source": "TechCrunch",
+      "title": "Kalshi fined a MrBeast editor for insider trading on markets related to the YouTube star",
+      "url": "https://techcrunch.com/2026/02/25/kalshi-fined-a-mrbeast-editor-for-insider-trading-on-markets-related-to-the-youtube-star/",
+      "quote": "Kalshi says that Kaptur traded around $4,000 on YouTube streaming markets in August and September 2025. He made a $5,397.58 profit, prompting Kalshi to fine him for that amount, plus a $15,000 penalty."
+    },
+    {
+      "index": 3,
+      "articleId": "4604a485-f9fc-4b9f-af84-916c3e46fb6a",
+      "source": "The Verge",
+      "title": "Kalshi says it fined a MrBeast editor and a politician for insider trading",
+      "url": "https://www.theverge.com/policy/884570/kalshi-insider-trading-mrbeast-fines",
+      "quote": "Our surveillance systems flagged his near-perfect trading success on markets with low odds, which were statistically anomalous"
+    }
+  ],
+  "keyDevelopments": [
+    "Kalshi discloses first insider trading fines targeting MrBeast editor and California politician",
+    "Artem Kaptur fined $20,397.58 and suspended for two years for trading on MrBeast-related markets",
+    "Kyle Langford fined over $2,000 and banned for five years for trading on his own political candidacy",
+    "Beast Industries launches independent investigation into the matter",
+    "Kalshi reports cases to CFTC and reveals 200+ investigations conducted over past year"
+  ],
+  "generatedAt": "2026-02-26T18:30:41.743Z",
+  "model": "anthropic/claude-sonnet-4",
+  "tokenCount": 2574
+}

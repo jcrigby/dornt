@@ -1,0 +1,235 @@
+[
+  {
+    "id": "870af74d-db9f-4464-9af4-ed77eb862592",
+    "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+    "text": "This is Trump's first in-person meeting with another world leader since the start of the war on Iran",
+    "status": "undisputed",
+    "supportingSources": [
+      "NBC News (Article 1)",
+      "NBC News (Article 2)",
+      "ABC News (Article 4)"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:56:35.301Z",
+    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+  },
+  {
+    "id": "e2871c36-62de-4620-a0b1-44ab618972b4",
+    "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+    "text": "Trump is meeting with German Chancellor Friedrich Merz",
+    "status": "undisputed",
+    "supportingSources": [
+      "NBC News (Article 1)",
+      "NBC News (Article 2)",
+      "ABC News (Article 3)",
+      "ABC News (Article 4)",
+      "The Hill (Article 5)",
+      "DW (Article 6)"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:56:35.301Z",
+    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+  },
+  {
+    "id": "4a92c777-cced-42ae-991d-1e906a492b2f",
+    "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+    "text": "Iran has no navy - it's been knocked out",
+    "status": "undisputed",
+    "supportingSources": [
+      "NBC News (Article 1)",
+      "NBC News (Article 2)",
+      "ABC News (Article 3)",
+      "ABC News (Article 4)"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:56:35.301Z",
+    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+  },
+  {
+    "id": "5a712971-c14c-4c02-9426-be2fdcce34bd",
+    "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+    "text": "Iran has no air force - it's been knocked out",
+    "status": "undisputed",
+    "supportingSources": [
+      "NBC News (Article 1)",
+      "NBC News (Article 2)",
+      "ABC News (Article 3)",
+      "ABC News (Article 4)"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:56:35.301Z",
+    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+  },
+  {
+    "id": "2fdeaa64-803f-4238-b747-969c7e7921c9",
+    "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+    "text": "Iran has no air detection - it's been knocked out",
+    "status": "undisputed",
+    "supportingSources": [
+      "NBC News (Article 1)",
+      "NBC News (Article 2)",
+      "ABC News (Article 3)",
+      "ABC News (Article 4)"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:56:35.301Z",
+    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+  },
+  {
+    "id": "d28b2559-88f1-4e49-be66-14f517a142eb",
+    "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+    "text": "Iran's radar has been knocked out",
+    "status": "undisputed",
+    "supportingSources": [
+      "NBC News (Article 1)",
+      "NBC News (Article 2)",
+      "ABC News (Article 3)",
+      "ABC News (Article 4)"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:56:35.301Z",
+    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+  },
+  {
+    "id": "6677a690-3df4-4f2e-a19a-89270a9d9106",
+    "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+    "text": "This is Merz's third time in the Oval Office",
+    "status": "undisputed",
+    "supportingSources": [
+      "NBC News (Article 1)",
+      "NBC News (Article 2)",
+      "ABC News (Article 3)",
+      "ABC News (Article 4)"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:56:35.301Z",
+    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+  },
+  {
+    "id": "86f1812f-817a-4e7e-a467-ce1b37fca923",
+    "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+    "text": "Merz spent the night in the White House guest house",
+    "status": "undisputed",
+    "supportingSources": [
+      "NBC News (Article 1)",
+      "ABC News (Article 3)",
+      "ABC News (Article 4)"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:56:35.301Z",
+    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+  },
+  {
+    "id": "59c3d2e6-d643-415b-b422-c00aa4f5523b",
+    "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+    "text": "Trump said he 'might have forced' Israel's hand regarding Iran strikes",
+    "status": "undisputed",
+    "supportingSources": [
+      "ABC News (Article 3)",
+      "The Hill (Article 5)"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:56:35.301Z",
+    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+  },
+  {
+    "id": "1a460f5a-0cc6-40d8-a762-1d47f84c4692",
+    "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+    "text": "Trump believed Iran was going to attack first if the US didn't act",
+    "status": "undisputed",
+    "supportingSources": [
+      "ABC News (Article 3)"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:56:35.301Z",
+    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+  },
+  {
+    "id": "58b7b4bd-749a-4ac1-a739-a99648d52f6c",
+    "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+    "text": "Merz said Ukraine must preserve its territory and security interests",
+    "status": "undisputed",
+    "supportingSources": [
+      "NBC News (Article 1)",
+      "NBC News (Article 2)",
+      "ABC News (Article 3)",
+      "ABC News (Article 4)",
+      "DW (Article 6)"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:56:35.301Z",
+    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+  },
+  {
+    "id": "48301bc6-889b-43d5-8e44-26d31f2c74a1",
+    "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+    "text": "Trump called the UK and Spain 'uncooperative'",
+    "status": "undisputed",
+    "supportingSources": [
+      "DW (Article 6)"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:56:35.301Z",
+    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+  },
+  {
+    "id": "d5efd680-c26a-4409-9f0e-f35f57c73528",
+    "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+    "text": "The UK decided not to let the US use its bases to attack Iran",
+    "status": "undisputed",
+    "supportingSources": [
+      "DW (Article 6)"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:56:35.301Z",
+    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+  },
+  {
+    "id": "4d14f1f4-a784-4adb-8d9e-0ac116100489",
+    "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+    "text": "Trump claimed he has already settled eight wars in his second term",
+    "status": "undisputed",
+    "supportingSources": [
+      "DW (Article 6)"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:56:35.301Z",
+    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+  },
+  {
+    "id": "8b305c9f-10ff-48a8-9c1e-e8e9d04f7282",
+    "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+    "text": "A previous White House ceasefire proposal offered Ukrainian land to Russia, including land not under Russian control",
+    "status": "undisputed",
+    "supportingSources": [
+      "DW (Article 6)"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:56:35.301Z",
+    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+  },
+  {
+    "id": "26742f39-2f5b-422b-88b9-91299d69a96e",
+    "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+    "text": "Trump said Ukraine was 'very high' on his priority list but admitted he was surprised at how difficult it has been to find a solution",
+    "status": "undisputed",
+    "supportingSources": [
+      "DW (Article 6)"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:56:35.301Z",
+    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+  },
+  {
+    "id": "d3e8a2ac-f00c-4201-af82-68c599c509e5",
+    "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+    "text": "Trump said he thought Ukraine 'was going to be one of the easier ones' to resolve",
+    "status": "undisputed",
+    "supportingSources": [
+      "DW (Article 6)"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:56:35.301Z",
+    "lastUpdatedAt": "2026-03-03T19:56:35.301Z"
+  }
+]

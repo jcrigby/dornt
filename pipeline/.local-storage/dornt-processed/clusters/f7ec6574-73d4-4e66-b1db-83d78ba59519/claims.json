@@ -1,0 +1,202 @@
+[
+  {
+    "id": "7f4f4dac-74c6-4f56-b74d-316824d66995",
+    "clusterId": "f7ec6574-73d4-4e66-b1db-83d78ba59519",
+    "text": "Trump announced plans to launch investment accounts for adults similar to federal worker retirement plans during the State of the Union",
+    "status": "undisputed",
+    "supportingSources": [
+      "Daily Wire",
+      "Axios",
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:28:53.309Z",
+    "lastUpdatedAt": "2026-02-26T18:28:53.309Z"
+  },
+  {
+    "id": "4e579db8-01f8-4a57-b0a2-3044971b136b",
+    "clusterId": "f7ec6574-73d4-4e66-b1db-83d78ba59519",
+    "text": "The government will match contributions with up to $1,000 each year",
+    "status": "undisputed",
+    "supportingSources": [
+      "Daily Wire",
+      "Axios",
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:28:53.309Z",
+    "lastUpdatedAt": "2026-02-26T18:28:53.309Z"
+  },
+  {
+    "id": "d8a769a7-256a-4415-82cc-38a10ada4404",
+    "clusterId": "f7ec6574-73d4-4e66-b1db-83d78ba59519",
+    "text": "Half of all working Americans do not have access to a retirement plan with matching contributions from an employer",
+    "status": "undisputed",
+    "supportingSources": [
+      "Daily Wire",
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:28:53.309Z",
+    "lastUpdatedAt": "2026-02-26T18:28:53.309Z"
+  },
+  {
+    "id": "b8fb5188-c251-4688-9a7e-bfe409e448cc",
+    "clusterId": "f7ec6574-73d4-4e66-b1db-83d78ba59519",
+    "text": "About 40.6 million full-time working Americans lack access to a retirement plan",
+    "status": "disputed",
+    "supportingSources": [
+      "Daily Wire"
+    ],
+    "disputingSources": [
+      "CNBC"
+    ],
+    "firstSeenAt": "2026-02-26T18:28:53.309Z",
+    "lastUpdatedAt": "2026-02-26T18:28:53.309Z"
+  },
+  {
+    "id": "680a5451-8ff4-4ba5-9847-a138fb73da86",
+    "clusterId": "f7ec6574-73d4-4e66-b1db-83d78ba59519",
+    "text": "Roughly 50 million Americans are without employer-sponsored retirement plans",
+    "status": "disputed",
+    "supportingSources": [
+      "Axios"
+    ],
+    "disputingSources": [
+      "Daily Wire",
+      "CNBC"
+    ],
+    "firstSeenAt": "2026-02-26T18:28:53.309Z",
+    "lastUpdatedAt": "2026-02-26T18:28:53.309Z"
+  },
+  {
+    "id": "960eee32-63df-4e89-b282-95b3616deb4f",
+    "clusterId": "f7ec6574-73d4-4e66-b1db-83d78ba59519",
+    "text": "Roughly 56 million Americans lack access to an employer-sponsored retirement plan at work",
+    "status": "disputed",
+    "supportingSources": [
+      "CNBC"
+    ],
+    "disputingSources": [
+      "Daily Wire",
+      "Axios"
+    ],
+    "firstSeenAt": "2026-02-26T18:28:53.309Z",
+    "lastUpdatedAt": "2026-02-26T18:28:53.309Z"
+  },
+  {
+    "id": "c3e0afa4-d325-41c2-b281-d8a55404a805",
+    "clusterId": "f7ec6574-73d4-4e66-b1db-83d78ba59519",
+    "text": "The accounts would be similar to federal employee Thrift Savings Plans (TSP)",
+    "status": "undisputed",
+    "supportingSources": [
+      "Daily Wire",
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:28:53.309Z",
+    "lastUpdatedAt": "2026-02-26T18:28:53.309Z"
+  },
+  {
+    "id": "6393f54a-0b98-4be8-b96d-7cf89e38ba1b",
+    "clusterId": "f7ec6574-73d4-4e66-b1db-83d78ba59519",
+    "text": "Funding will stem from an existing Savers Match enacted under the bipartisan SECURE 2.0 legislation",
+    "status": "undisputed",
+    "supportingSources": [
+      "Daily Wire",
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:28:53.309Z",
+    "lastUpdatedAt": "2026-02-26T18:28:53.309Z"
+  },
+  {
+    "id": "ed87be7b-3a83-4001-bb40-1353a21d8c0a",
+    "clusterId": "f7ec6574-73d4-4e66-b1db-83d78ba59519",
+    "text": "The SECURE Act takes effect next year and would offer workers who already have retirement accounts up to $1,000 in matching funds",
+    "status": "evolving",
+    "supportingSources": [
+      "Axios"
+    ],
+    "disputingSources": [
+      "CNBC"
+    ],
+    "firstSeenAt": "2026-02-26T18:28:53.309Z",
+    "lastUpdatedAt": "2026-02-26T18:28:53.309Z"
+  },
+  {
+    "id": "2a9c6024-8780-4eaf-8fa1-983ff7d4357e",
+    "clusterId": "f7ec6574-73d4-4e66-b1db-83d78ba59519",
+    "text": "The Saver's Match takes effect in 2027 and provides a 50% matching contribution on up to $2,000 in annual retirement savings",
+    "status": "evolving",
+    "supportingSources": [
+      "CNBC"
+    ],
+    "disputingSources": [
+      "Axios"
+    ],
+    "firstSeenAt": "2026-02-26T18:28:53.309Z",
+    "lastUpdatedAt": "2026-02-26T18:28:53.309Z"
+  },
+  {
+    "id": "382bf32b-b3dd-4bf1-9e13-21d7c78dc2d1",
+    "clusterId": "f7ec6574-73d4-4e66-b1db-83d78ba59519",
+    "text": "Private investors and philanthropists will be able to contribute to these accounts",
+    "status": "undisputed",
+    "supportingSources": [
+      "Daily Wire",
+      "Axios"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:28:53.309Z",
+    "lastUpdatedAt": "2026-02-26T18:28:53.309Z"
+  },
+  {
+    "id": "cab92a59-6c43-406a-9edf-47860f78a33b",
+    "clusterId": "f7ec6574-73d4-4e66-b1db-83d78ba59519",
+    "text": "Michael and Susan Dell contributed $6.25 billion to Trump Accounts for kids",
+    "status": "undisputed",
+    "supportingSources": [
+      "Daily Wire"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:28:53.309Z",
+    "lastUpdatedAt": "2026-02-26T18:28:53.309Z"
+  },
+  {
+    "id": "d07955a1-c5ca-48d1-8797-8437abe4e275",
+    "clusterId": "f7ec6574-73d4-4e66-b1db-83d78ba59519",
+    "text": "Workers would check a box on their tax form to get started with the accounts",
+    "status": "undisputed",
+    "supportingSources": [
+      "Axios"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:28:53.309Z",
+    "lastUpdatedAt": "2026-02-26T18:28:53.309Z"
+  },
+  {
+    "id": "96192386-1db0-42c9-8570-b4765f6ce13b",
+    "clusterId": "f7ec6574-73d4-4e66-b1db-83d78ba59519",
+    "text": "Teresa Ghilarducci worked on an early version of this plan with White House economic adviser Kevin Hassett in 2021",
+    "status": "undisputed",
+    "supportingSources": [
+      "Axios"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:28:53.309Z",
+    "lastUpdatedAt": "2026-02-26T18:28:53.309Z"
+  },
+  {
+    "id": "06c6eb84-4810-4483-88d0-019b622a7a9e",
+    "clusterId": "f7ec6574-73d4-4e66-b1db-83d78ba59519",
+    "text": "The law could be passed through reconciliation",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:28:53.309Z",
+    "lastUpdatedAt": "2026-02-26T18:28:53.309Z"
+  }
+]

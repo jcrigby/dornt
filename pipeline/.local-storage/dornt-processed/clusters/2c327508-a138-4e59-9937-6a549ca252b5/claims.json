@@ -1,0 +1,240 @@
+[
+  {
+    "id": "dcec986d-6c26-4982-8816-ddb104c08f24",
+    "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+    "text": "Casey Means holds a medical degree from Stanford Medical School",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica",
+      "The Atlantic",
+      "Axios"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:12:12.930Z",
+    "lastUpdatedAt": "2026-02-26T18:12:12.930Z"
+  },
+  {
+    "id": "56b928dc-8219-4f07-a62a-01d8543dc1e1",
+    "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+    "text": "Casey Means dropped out of her medical residency",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica",
+      "The Atlantic",
+      "Axios"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:12:12.930Z",
+    "lastUpdatedAt": "2026-02-26T18:12:12.930Z"
+  },
+  {
+    "id": "19b38ae1-7637-4533-a9c2-6d4d4e7e2df7",
+    "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+    "text": "Casey Means holds no active medical license",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica",
+      "The Atlantic"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:12:12.930Z",
+    "lastUpdatedAt": "2026-02-26T18:12:12.930Z"
+  },
+  {
+    "id": "e745be87-ef55-4f7f-8b2e-9322ec08183a",
+    "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+    "text": "Casey Means dropped out of her surgical residency in 2018",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Atlantic"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:12:12.930Z",
+    "lastUpdatedAt": "2026-02-26T18:12:12.930Z"
+  },
+  {
+    "id": "2db013cd-fdf0-4744-88f7-b5d31cbd302f",
+    "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+    "text": "Casey Means co-founded a company called Levels",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica",
+      "The Atlantic"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:12:12.930Z",
+    "lastUpdatedAt": "2026-02-26T18:12:12.930Z"
+  },
+  {
+    "id": "47754240-47b4-4ae0-9de0-0ca5c57102b1",
+    "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+    "text": "Casey Means earned over half a million dollars between 2024 and 2025 from deals with companies selling diagnostic testing, herbal remedies, wellness products, teas, supplements, and elixirs",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:12:12.930Z",
+    "lastUpdatedAt": "2026-02-26T18:12:12.930Z"
+  },
+  {
+    "id": "77a82f20-38fe-4659-bd07-08a2164e62f0",
+    "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+    "text": "Casey Means and her brother Calley Means wrote a book called 'Good Energy: The Surprising Connection Between Metabolism and Limitless Health' in 2024",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica",
+      "The Atlantic"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:12:12.930Z",
+    "lastUpdatedAt": "2026-02-26T18:12:12.930Z"
+  },
+  {
+    "id": "d46d415c-e1c1-45d3-8339-fc0e4029ce60",
+    "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+    "text": "Casey Means appeared before the Senate Health Committee on Wednesday",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica",
+      "The Atlantic",
+      "The Hill",
+      "Axios"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:12:12.930Z",
+    "lastUpdatedAt": "2026-02-26T18:12:12.930Z"
+  },
+  {
+    "id": "5e2df26c-7253-4de2-94dd-8dca5d499eed",
+    "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+    "text": "Casey Means said 'vaccines save lives' during her hearing",
+    "status": "undisputed",
+    "supportingSources": [
+      "Axios"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:12:12.930Z",
+    "lastUpdatedAt": "2026-02-26T18:12:12.930Z"
+  },
+  {
+    "id": "7efa7199-4740-476a-89c2-16f6b5f4bbbc",
+    "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+    "text": "Casey Means said she is 'supportive of vaccination' during her hearing",
+    "status": "undisputed",
+    "supportingSources": [
+      "Axios"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:12:12.930Z",
+    "lastUpdatedAt": "2026-02-26T18:12:12.930Z"
+  },
+  {
+    "id": "bbaf0a7b-63b8-4a7d-89e2-c42aa7167b7f",
+    "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+    "text": "Casey Means wrote in her September ethics filing that she would resign from Levels and forfeit or divest all stock options",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Atlantic"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:12:12.930Z",
+    "lastUpdatedAt": "2026-02-26T18:12:12.930Z"
+  },
+  {
+    "id": "476a50e0-0403-4120-bd6f-84a9ffa6f94d",
+    "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+    "text": "Casey Means is still listed on Levels' blog as the company's chief medical officer",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Atlantic"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:12:12.930Z",
+    "lastUpdatedAt": "2026-02-26T18:12:12.930Z"
+  },
+  {
+    "id": "7311c7af-4340-412a-bf32-6e1904bcb344",
+    "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+    "text": "Casey Means did not unequivocally urge people to get vaccinated during her hearing",
+    "status": "undisputed",
+    "supportingSources": [
+      "Axios"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:12:12.930Z",
+    "lastUpdatedAt": "2026-02-26T18:12:12.930Z"
+  },
+  {
+    "id": "dd3129d8-1eda-4423-9066-73119fa203c4",
+    "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+    "text": "Casey Means did not rule out a linkage between vaccines and autism",
+    "status": "undisputed",
+    "supportingSources": [
+      "Axios"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:12:12.930Z",
+    "lastUpdatedAt": "2026-02-26T18:12:12.930Z"
+  },
+  {
+    "id": "5cf0f458-0265-4785-acd6-a80c8d363ae4",
+    "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+    "text": "Casey Means' hearing was delayed from October because of the birth of her child",
+    "status": "undisputed",
+    "supportingSources": [
+      "Axios"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:12:12.930Z",
+    "lastUpdatedAt": "2026-02-26T18:12:12.930Z"
+  },
+  {
+    "id": "8802a05c-d0b8-41f7-9906-e38475d0b8ba",
+    "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+    "text": "Casey Means has talked to trees",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Atlantic"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:12:12.930Z",
+    "lastUpdatedAt": "2026-02-26T18:12:12.930Z"
+  },
+  {
+    "id": "2406d26e-dd27-4e3f-8332-91a6751aab82",
+    "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+    "text": "Casey Means implied that natural disasters are a 'communication from God'",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Atlantic"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:12:12.930Z",
+    "lastUpdatedAt": "2026-02-26T18:12:12.930Z"
+  },
+  {
+    "id": "6836cb4a-f657-413f-88fc-3e9c0b29cb1e",
+    "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+    "text": "Casey Means dubbed the nation's health 'a spiritual crisis'",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Atlantic"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:12:12.930Z",
+    "lastUpdatedAt": "2026-02-26T18:12:12.930Z"
+  },
+  {
+    "id": "d5e36319-2b37-484d-a28f-2b0260dc5f68",
+    "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+    "text": "Casey Means has questioned the universal birth dose of the hepatitis-B vaccine",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Atlantic"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:12:12.930Z",
+    "lastUpdatedAt": "2026-02-26T18:12:12.930Z"
+  }
+]

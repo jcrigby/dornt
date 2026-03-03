@@ -1,0 +1,50 @@
+{
+  "id": "1rf7gqx",
+  "subreddit": "technology",
+  "title": "China’s laser mosquito defense system kills 30 bugs per second",
+  "url": "https://interestingengineering.com/innovation/photon-matrix-laser-mosquito-killer",
+  "selftext": "",
+  "author": "_Dark_Wing",
+  "score": 598,
+  "numComments": 161,
+  "createdUtc": 1772104440,
+  "permalink": "https://reddit.com/r/technology/comments/1rf7gqx/chinas_laser_mosquito_defense_system_kills_30/",
+  "fetchedAt": "2026-02-26T17:22:13.917Z",
+  "topComments": [
+    {
+      "id": "o7hxrww",
+      "author": "Which-Occasion-9246",
+      "body": "The article says that it scans for larger objects like humans, but what about a laser reflecting off a shiny surface and hitting someone’s eye?",
+      "score": 174,
+      "createdUtc": 1772105843
+    },
+    {
+      "id": "o7hvgp8",
+      "author": "Lettuce_bee_free_end",
+      "body": "They are working on a model for humanoid intruders, this is just step 1.",
+      "score": 92,
+      "createdUtc": 1772104684
+    },
+    {
+      "id": "o7i3x4e",
+      "author": "Poopyman80",
+      "body": "This was tried ten years ago for malaria and dengue in africa.  Even then targetting was good enough to only zap small flying things.    \nThe problem was installing them so that they never blind a person or animal. They have to fo on 2 meter poles and only aim in a half sphere above that pole.   \nIn an urban environment with buildings of varying heights this was deemed too risky.      \n\nA bug salt turret would be safer, but less effective and loud.",
+      "score": 93,
+      "createdUtc": 1772108600
+    },
+    {
+      "id": "o7hygdm",
+      "author": "trailsman",
+      "body": "Pretty cool idea. And it's absolutely amazing how cheap lidar has gotten. But will it essentially kill all flying insects like moths too, I know it states the max speed to kill, but damaging a wing is probably a death sentence too.\n\nEdit: the full listing does give the exact specs and that it will kill other insects, anything in the range of 2~20mm as long as it's moving slow enough",
+      "score": 42,
+      "createdUtc": 1772106171
+    },
+    {
+      "id": "o7hyznz",
+      "author": "Whistler511",
+      "body": "“In 2007, the Bill &amp; Melinda Gates Foundation asked Intellectual Ventures to find a way to fight and eventually end malaria.[1] There, astrophysicist Lowell Wood had the idea to use lasers.[1] Their project received considerable media attention around 2010,[2] but the device was still under development as of 2017.[2]”\n\nhttps://en.wikipedia.org/wiki/Mosquito_laser",
+      "score": 22,
+      "createdUtc": 1772106423
+    }
+  ]
+}

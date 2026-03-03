@@ -1,0 +1,206 @@
+[
+  {
+    "id": "73bf578a-8df5-492e-9dc4-b54c0d91b961",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "Mark Carney is the Prime Minister of Canada",
+    "status": "undisputed",
+    "supportingSources": [
+      "NYT World",
+      "The Hindu",
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:00:51.412Z",
+    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+  },
+  {
+    "id": "f7565b9a-4e1d-461a-b9fc-a685a092c950",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "Carney met with Indian Prime Minister Narendra Modi",
+    "status": "undisputed",
+    "supportingSources": [
+      "NYT World",
+      "The Hindu",
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:00:51.412Z",
+    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+  },
+  {
+    "id": "de4431bd-46ae-4045-af29-ef9a58326d58",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "The Canadian Prime Minister was in India from February 27 to March 2",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Hindu",
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:00:51.412Z",
+    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+  },
+  {
+    "id": "2addcb0a-0a9d-4837-ba82-ee402635b066",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "India and Canada sealed key pacts on supplies of Uranium and critical minerals",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Hindu",
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:00:51.412Z",
+    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+  },
+  {
+    "id": "b02e8e8c-06db-4870-b25e-a73a67bb460f",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "India and Canada announced a 10-year nuclear energy deal",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:00:51.412Z",
+    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+  },
+  {
+    "id": "213120f2-1e1b-46f8-85b3-cc9b2d829975",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "The two countries agreed to conclude a comprehensive economic partnership agreement/free trade deal by the end of 2026",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Hindu",
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:00:51.412Z",
+    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+  },
+  {
+    "id": "70a1c05d-478e-4e46-abd7-9cc1de11fa6e",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "The two Prime Ministers pledged to ramp up cooperation in defence, critical technologies, small and modular nuclear reactors, education and renewable energy",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Hindu",
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:00:51.412Z",
+    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+  },
+  {
+    "id": "d1250e0a-438e-48dd-b26b-0cf149e7e0e2",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "There was a 2023 assassination/deadly shooting of Sikh separatist Hardeep Singh Nijjar on Canadian soil",
+    "status": "undisputed",
+    "supportingSources": [
+      "NYT World",
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:00:51.412Z",
+    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+  },
+  {
+    "id": "8507bbee-249e-4ad0-bb80-f903462f619d",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "India was alleged to have a role in the 2023 killing of Hardeep Singh Nijjar",
+    "status": "undisputed",
+    "supportingSources": [
+      "NYT World",
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:00:51.412Z",
+    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+  },
+  {
+    "id": "7bdb25ce-a355-4147-9556-39b55a81cf3e",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "India vociferously rejected the allegation by Justin Trudeau",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:00:51.412Z",
+    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+  },
+  {
+    "id": "65121bb5-7064-4b62-8ecc-bf6be51e8ae7",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "Justin Trudeau was Carney's predecessor as Prime Minister",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:00:51.412Z",
+    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+  },
+  {
+    "id": "61912e64-a607-440a-98fb-4cac5dd6f2d7",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "Carney's government believes India is not currently linked to violent crimes or threats on Canadian soil",
+    "status": "disputed",
+    "supportingSources": [
+      "BBC World"
+    ],
+    "disputingSources": [
+      "BBC World"
+    ],
+    "firstSeenAt": "2026-03-03T20:00:51.412Z",
+    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+  },
+  {
+    "id": "c706ccb6-692e-4a5a-bafe-abfbaa2e1b80",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "Some in Canada, including a Liberal MP from Carney's own party and members of the Sikh diaspora, believe they continue to be targeted by India",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:00:51.412Z",
+    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+  },
+  {
+    "id": "c9eeb892-9bdc-48f1-be75-54930a3aa720",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "Canada's spy agency listed India as one of the countries carrying out espionage and foreign interference in Canada",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:00:51.412Z",
+    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+  },
+  {
+    "id": "cad16d8e-a5d3-414d-a00a-6599253cec1d",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "Four men have been charged over Nijjar's killing",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:00:51.412Z",
+    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+  },
+  {
+    "id": "f396e970-b92e-475f-9004-a5c069b3dd26",
+    "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+    "text": "Carney's office cancelled a planned news conference following the meeting with Modi, citing his tight schedule",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:00:51.412Z",
+    "lastUpdatedAt": "2026-03-03T20:00:51.412Z"
+  }
+]

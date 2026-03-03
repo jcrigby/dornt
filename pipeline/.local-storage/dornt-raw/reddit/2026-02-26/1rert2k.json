@@ -1,0 +1,43 @@
+{
+  "id": "1rert2k",
+  "subreddit": "technology",
+  "title": "FBI Got Grok to Hand Over Prompts Used to Create Nonconsensual Porn",
+  "url": "https://www.404media.co/fbi-subpoenaed-x-to-get-grok-prompts-used-to-create-nonconsensual-porn/",
+  "selftext": "",
+  "author": "gdelacalle",
+  "score": 2429,
+  "numComments": 117,
+  "createdUtc": 1772057858,
+  "permalink": "https://reddit.com/r/technology/comments/1rert2k/fbi_got_grok_to_hand_over_prompts_used_to_create/",
+  "fetchedAt": "2026-02-26T17:22:20.894Z",
+  "topComments": [
+    {
+      "id": "o7er9nb",
+      "author": "celtic1888",
+      "body": "Kash Patel is going to wank himself until his eyes go straight ",
+      "score": 2292,
+      "createdUtc": 1772058087
+    },
+    {
+      "id": "o7esr29",
+      "author": "Waylander0719",
+      "body": "They didn't get \"the AI\" to hand it over they just subpoenaed the company for logs and got them. This is like asking google for your search history.",
+      "score": 806,
+      "createdUtc": 1772058532
+    },
+    {
+      "id": "o7f1ac4",
+      "author": "twenafeesh",
+      "body": "The FBI didn't get Grok to do anything. Grok is a large language model - a collection of source code and training data. It doesn't have agency, emotions, or novel thought. You can't \"get it to do something.\" You can subpoena X for the prompts, code, and training data like for any other computer program, and I'm sure that's what the FBI actually did. \n\n\nEdit: yup, first line of the story. Headlines really need to stop anthropomorphizing these statistical simulations we call large language models. They are not, and will never be, \"intelligent.\" ",
+      "score": 326,
+      "createdUtc": 1772061163
+    },
+    {
+      "id": "o7es4rb",
+      "author": "rausrh",
+      "body": "no bigger.\n\neven bigger.\n\ndamnit grok, make them huge!",
+      "score": 65,
+      "createdUtc": 1772058346
+    }
+  ]
+}

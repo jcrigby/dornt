@@ -1,0 +1,98 @@
+{
+  "clusterId": "f7ec6574-73d4-4e66-b1db-83d78ba59519",
+  "stakeholders": [
+    {
+      "name": "President Trump",
+      "role": "Policy initiator and chief executive",
+      "position": "Strong advocate for expanding retirement access through government-matched accounts",
+      "influence": "high"
+    },
+    {
+      "name": "Treasury Secretary Scott Bessent",
+      "role": "Implementation strategist",
+      "position": "Supports reconciliation pathway for legislative passage",
+      "influence": "high"
+    },
+    {
+      "name": "Kevin Hassett (White House economic adviser)",
+      "role": "Policy architect",
+      "position": "Co-developed early version of plan in bipartisan effort",
+      "influence": "medium"
+    },
+    {
+      "name": "Teresa Ghilarducci (The New School professor)",
+      "role": "Academic expert and policy collaborator",
+      "position": "Strong supporter, calls it 'a big deal' and 'recognition of reality'",
+      "influence": "medium"
+    },
+    {
+      "name": "50+ million uninsured workers",
+      "role": "Primary beneficiaries",
+      "position": "Potential recipients of new retirement benefits",
+      "influence": "low"
+    },
+    {
+      "name": "Private investors/philanthropists (e.g., Michael and Susan Dell)",
+      "role": "Funding contributors",
+      "position": "Willing to supplement government matching with private capital",
+      "influence": "medium"
+    },
+    {
+      "name": "Congressional Republicans",
+      "role": "Legislative enablers",
+      "position": "Likely supportive given reconciliation pathway and Trump endorsement",
+      "influence": "high"
+    },
+    {
+      "name": "Congressional Democrats",
+      "role": "Potential opposition or negotiating partners",
+      "position": "Unknown but may support expanded retirement access despite partisan concerns",
+      "influence": "medium"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "Initial implementation will leverage existing SECURE 2.0 Saver's Match provision starting in 2027",
+      "likelihood": "likely",
+      "timeframe": "2027",
+      "basis": "White House explicitly stated this existing legislation provides foundation for the program"
+    },
+    {
+      "text": "Additional legislation will be needed to fully implement the proposal as described",
+      "likelihood": "likely",
+      "timeframe": "2025-2026",
+      "basis": "White House acknowledged 'future legislation would be needed to bolster this game-changing plan' despite critics arguing existing law insufficient"
+    },
+    {
+      "text": "Reconciliation process will be used to bypass potential Democratic opposition",
+      "likelihood": "likely",
+      "timeframe": "2025",
+      "basis": "Treasury Secretary Bessent suggested reconciliation pathway similar to 'One Big Beautiful Bill Act'"
+    },
+    {
+      "text": "Private sector contributions will significantly supplement government matching funds",
+      "likelihood": "possible",
+      "timeframe": "2025-2027",
+      "basis": "Dell family's $6.25 billion contribution to children's accounts demonstrates private sector willingness to participate"
+    },
+    {
+      "text": "Program will face implementation challenges around eligibility verification and account management",
+      "likelihood": "likely",
+      "timeframe": "2027-2028",
+      "basis": "Scale of 50+ million potential beneficiaries and complexity of income threshold verification for matching contributions"
+    }
+  ],
+  "historicalContext": "This proposal builds on decades of retirement security policy evolution, from the creation of 401(k) plans in 1978 to the federal Thrift Savings Plan established in 1986. The SECURE Act of 2019 and SECURE 2.0 of 2022 represented recent bipartisan efforts to expand retirement access, with the latter's Saver's Match provision specifically targeting lower-income workers without employer plans. The proposal also reflects growing recognition of America's retirement crisis, where traditional pensions have largely disappeared and Social Security alone provides insufficient income replacement. The bipartisan nature of the policy development, with collaboration between conservative adviser Hassett and progressive economist Ghilarducci in 2021, suggests this addresses a genuine policy gap that transcends typical partisan divisions.",
+  "implications": [
+    "Could significantly reduce retirement insecurity for 50+ million Americans currently without employer-sponsored plans",
+    "May create competitive pressure on private employers to enhance their own retirement benefits to retain workers",
+    "Establishes precedent for direct government involvement in individual retirement savings beyond Social Security",
+    "Could reduce future Social Security system strain by encouraging additional private savings",
+    "May face constitutional or administrative challenges regarding federal management of individual investment accounts",
+    "Private sector co-investment model could become template for other social programs",
+    "Success could influence 2028 presidential campaign discussions around expanding social safety net",
+    "Implementation complexity may test federal government's capacity to manage large-scale individual account programs"
+  ],
+  "generatedAt": "2026-02-26T18:29:17.856Z",
+  "model": "anthropic/claude-sonnet-4"
+}

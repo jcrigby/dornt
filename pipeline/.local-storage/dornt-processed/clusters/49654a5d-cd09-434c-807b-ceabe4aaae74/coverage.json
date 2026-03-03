@@ -1,0 +1,53 @@
+{
+  "clusterId": "49654a5d-cd09-434c-807b-ceabe4aaae74",
+  "frames": [
+    {
+      "name": "Denial and Distance Frame",
+      "description": "Emphasizes Clinton's denials of knowledge about Epstein's crimes and his claims of ending their relationship before 2008",
+      "sources": [
+        "DW",
+        "Daily Wire"
+      ],
+      "emphasis": "Clinton's testimony that he had no knowledge of sex trafficking and ended ties with Epstein in 2003"
+    },
+    {
+      "name": "Trump Deflection Frame",
+      "description": "Highlights Clinton's claims about Trump's relationship with Epstein as a counter-narrative",
+      "sources": [
+        "DW"
+      ],
+      "emphasis": "Clinton's testimony that Trump told him about having 'great times' with Epstein"
+    },
+    {
+      "name": "Photographic Evidence Frame",
+      "description": "Focuses on specific visual evidence and Clinton's responses to compromising photos",
+      "sources": [
+        "Daily Wire"
+      ],
+      "emphasis": "Detailed questioning about hot tub and pool photos with unidentified women"
+    },
+    {
+      "name": "Humanitarian Cover Frame",
+      "description": "Presents the relationship as primarily business/charitable in nature",
+      "sources": [
+        "DW",
+        "Daily Wire"
+      ],
+      "emphasis": "Clinton's AIDS initiative work as the context for Epstein flights"
+    }
+  ],
+  "outlierPerspectives": [
+    "Detailed focus on specific photographic evidence and Clinton's memory claims about unidentified women (Daily Wire only)",
+    "Clinton's account of Trump's comments about Epstein relationship (DW only)"
+  ],
+  "missingContext": [
+    "Timeline discrepancies between Clinton's claimed 2003 end date and flight logs",
+    "Details about what triggered this congressional investigation",
+    "Legal implications or potential consequences of the testimony",
+    "Broader context of ongoing Epstein-related investigations",
+    "Verification status of flight records and photo authenticity",
+    "Hillary Clinton's specific testimony details beyond brief mention"
+  ],
+  "generatedAt": "2026-03-03T19:51:43.931Z",
+  "model": "anthropic/claude-sonnet-4"
+}

@@ -1,0 +1,79 @@
+{
+  "clusterId": "2febfd95-9de2-4dfd-a778-f70ecae1e798",
+  "stakeholders": [
+    {
+      "name": "President Luiz Inácio Lula da Silva",
+      "role": "Federal government leader",
+      "position": "Committed to providing humanitarian assistance, restoration of basic services, and reconstruction support",
+      "influence": "high"
+    },
+    {
+      "name": "Mayor Margarida Salomão (Juiz de Fora)",
+      "role": "Local government leader",
+      "position": "Declared state of emergency, coordinating local response efforts",
+      "influence": "high"
+    },
+    {
+      "name": "Minas Gerais State Government",
+      "role": "Regional authority",
+      "position": "Suspended municipal school classes, coordinating state-level emergency response",
+      "influence": "high"
+    },
+    {
+      "name": "Emergency rescue workers and firefighters",
+      "role": "First responders",
+      "position": "Conducting search and rescue operations despite diminishing hope for survivors",
+      "influence": "medium"
+    },
+    {
+      "name": "Displaced residents (3,600 people)",
+      "role": "Disaster victims",
+      "position": "Seeking shelter, assistance, and eventual return to normalcy",
+      "influence": "low"
+    },
+    {
+      "name": "Families of missing persons (21 people)",
+      "role": "Affected community members",
+      "position": "Awaiting news of loved ones despite officials' pessimistic outlook",
+      "influence": "low"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "Death toll will likely increase as search operations continue and additional rainfall occurs",
+      "likelihood": "likely",
+      "timeframe": "next 3-7 days",
+      "basis": "Officials acknowledge missing persons unlikely to be found alive, and meteorological authorities warn of additional rainfall expected"
+    },
+    {
+      "text": "Federal disaster relief funding and reconstruction programs will be announced",
+      "likelihood": "likely",
+      "timeframe": "within 1-2 weeks",
+      "basis": "President Lula's explicit commitment to humanitarian assistance and reconstruction support"
+    },
+    {
+      "text": "Investigation into urban planning and infrastructure vulnerabilities will be initiated",
+      "likelihood": "possible",
+      "timeframe": "within 1 month",
+      "basis": "Scale of destruction in hillside neighborhoods suggests potential regulatory and planning failures"
+    },
+    {
+      "text": "Climate adaptation measures and early warning systems will be reviewed and potentially enhanced",
+      "likelihood": "possible",
+      "timeframe": "3-6 months",
+      "basis": "Record rainfall levels and scientists linking increased severity to climate change"
+    }
+  ],
+  "historicalContext": "This disaster continues Brazil's pattern of vulnerability to extreme weather events, particularly affecting southeastern states during the rainy season (December-March). Minas Gerais has experienced similar flooding disasters in recent years, including deadly floods in 2020 and 2022. The disproportionate impact on poorer communities in improvised hillside structures reflects long-standing urban planning challenges in Brazilian cities, where informal settlements often occupy high-risk areas due to lack of affordable housing alternatives. The record rainfall in Juiz de Fora aligns with broader trends of intensifying precipitation events across Brazil, which scientists increasingly attribute to climate change impacts on regional weather patterns.",
+  "implications": [
+    "Highlights urgent need for improved urban planning and regulation of hillside construction in Brazilian cities",
+    "Demonstrates ongoing vulnerability of low-income communities to climate-related disasters",
+    "May accelerate federal and state investment in flood control infrastructure and early warning systems",
+    "Could influence upcoming policy discussions on climate adaptation and disaster preparedness in Brazil",
+    "Reinforces scientific consensus on increasing frequency and severity of extreme weather events",
+    "May prompt review of emergency response protocols and resource allocation for disaster-prone regions",
+    "Could impact local and regional economic recovery, particularly in tourism and agriculture sectors"
+  ],
+  "generatedAt": "2026-02-26T18:14:25.019Z",
+  "model": "anthropic/claude-sonnet-4"
+}

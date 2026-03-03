@@ -1,0 +1,43 @@
+{
+  "clusterId": "b32e097e-54c0-4329-9f6c-7a15f73c4bcc",
+  "frames": [
+    {
+      "name": "Military Isolation Frame",
+      "description": "Presents the coup failure as primarily due to lack of military support, emphasizing Tejero's isolation within the armed forces",
+      "sources": [
+        "NYT World"
+      ],
+      "emphasis": "The coup's failure stemmed from insufficient backing from Spain's military establishment"
+    },
+    {
+      "name": "Democratic Threat Frame",
+      "description": "Frames the event as a broader threat to Spanish democracy and return to fascism, emphasizing the political and ideological stakes",
+      "sources": [
+        "WaPo World"
+      ],
+      "emphasis": "The coup represented a potential return to Francoist authoritarianism and posed an existential threat to democratic Spain"
+    },
+    {
+      "name": "Historical Timing Frame",
+      "description": "Emphasizes the coincidental timing of Tejero's death with government declassification of coup documents",
+      "sources": [
+        "WaPo World"
+      ],
+      "emphasis": "The symbolic significance of his death occurring on the same day as document declassification"
+    }
+  ],
+  "outlierPerspectives": [
+    "The coincidental timing of Tejero's death with Spanish government declassification of coup-related documents (only covered by WaPo)",
+    "Explicit connection to broader fears about Francoist fascism returning to Spain (only emphasized by WaPo)"
+  ],
+  "missingContext": [
+    "Details about what the newly declassified documents reveal",
+    "Tejero's life and activities after the failed coup",
+    "The broader context of Spain's democratic transition in the early 1980s",
+    "Other participants in the coup attempt and their fates",
+    "The role of King Juan Carlos I in stopping the coup",
+    "Long-term impact of the failed coup on Spanish democracy and civil-military relations"
+  ],
+  "generatedAt": "2026-02-26T18:24:14.764Z",
+  "model": "anthropic/claude-sonnet-4"
+}

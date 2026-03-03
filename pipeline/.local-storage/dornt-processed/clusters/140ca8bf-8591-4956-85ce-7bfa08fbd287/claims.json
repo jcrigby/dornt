@@ -1,0 +1,156 @@
+[
+  {
+    "id": "6d55ec71-8d08-4cd0-acd4-51bbae00fa8b",
+    "clusterId": "140ca8bf-8591-4956-85ce-7bfa08fbd287",
+    "text": "The DOJ moved to dismiss its civil case against four law firms (Perkins Coie, WilmerHale, Jenner & Block and Susman Godfrey) on Monday",
+    "status": "undisputed",
+    "supportingSources": [
+      "Axios",
+      "The Hill",
+      "The Guardian US",
+      "NYT",
+      "WaPo Politics"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:48:40.595Z",
+    "lastUpdatedAt": "2026-03-03T19:48:40.595Z"
+  },
+  {
+    "id": "e1e8f158-01a5-4685-a82e-1e0344f9b5e5",
+    "clusterId": "140ca8bf-8591-4956-85ce-7bfa08fbd287",
+    "text": "The four law firms won rulings against President Trump's executive orders targeting them",
+    "status": "undisputed",
+    "supportingSources": [
+      "Axios",
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:48:40.595Z",
+    "lastUpdatedAt": "2026-03-03T19:48:40.595Z"
+  },
+  {
+    "id": "17bc2fbb-e99c-4d17-9edf-712b65df92c7",
+    "clusterId": "140ca8bf-8591-4956-85ce-7bfa08fbd287",
+    "text": "Four federal judges ruled that the executive orders targeting law firms were unconstitutional",
+    "status": "undisputed",
+    "supportingSources": [
+      "Axios",
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:48:40.595Z",
+    "lastUpdatedAt": "2026-03-03T19:48:40.595Z"
+  },
+  {
+    "id": "c72b32f4-da60-4f85-bc26-668888fe7304",
+    "clusterId": "140ca8bf-8591-4956-85ce-7bfa08fbd287",
+    "text": "The DOJ asked to withdraw its motion to dismiss appeals and renew its defense of the executive orders on Tuesday",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Hill",
+      "The Guardian US",
+      "NYT",
+      "WaPo Politics"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:48:40.595Z",
+    "lastUpdatedAt": "2026-03-03T19:48:40.595Z"
+  },
+  {
+    "id": "51cdd2a8-e664-4178-bef2-d3b73e3e9071",
+    "clusterId": "140ca8bf-8591-4956-85ce-7bfa08fbd287",
+    "text": "Nine other leading law firms made deals with Trump's administration instead of going to court",
+    "status": "undisputed",
+    "supportingSources": [
+      "Axios",
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:48:40.595Z",
+    "lastUpdatedAt": "2026-03-03T19:48:40.595Z"
+  },
+  {
+    "id": "242c73f1-9fcc-4694-9397-40dda18a5c1a",
+    "clusterId": "140ca8bf-8591-4956-85ce-7bfa08fbd287",
+    "text": "The law firms that made deals agreed to provide almost $1 billion worth of legal work to the president",
+    "status": "undisputed",
+    "supportingSources": [
+      "Axios"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:48:40.595Z",
+    "lastUpdatedAt": "2026-03-03T19:48:40.595Z"
+  },
+  {
+    "id": "d3cc2aaf-4b08-4f3f-aadb-35bae9975d07",
+    "clusterId": "140ca8bf-8591-4956-85ce-7bfa08fbd287",
+    "text": "Paul Weiss was the first firm to cut a deal, arguing that $40 million in pro bono work was a small price to pay",
+    "status": "undisputed",
+    "supportingSources": [
+      "Axios"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:48:40.595Z",
+    "lastUpdatedAt": "2026-03-03T19:48:40.595Z"
+  },
+  {
+    "id": "1734bbd5-3750-488c-a81e-105b4941f87d",
+    "clusterId": "140ca8bf-8591-4956-85ce-7bfa08fbd287",
+    "text": "The DOJ gave no reason for its sudden reversal on Tuesday",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:48:40.595Z",
+    "lastUpdatedAt": "2026-03-03T19:48:40.595Z"
+  },
+  {
+    "id": "efaae291-93b7-4a79-9400-e3f8d4112bfe",
+    "clusterId": "140ca8bf-8591-4956-85ce-7bfa08fbd287",
+    "text": "All parties had agreed to the Monday dismissal motion",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:48:40.595Z",
+    "lastUpdatedAt": "2026-03-03T19:48:40.595Z"
+  },
+  {
+    "id": "680e1425-9355-4c74-b74f-4326fbb1a80e",
+    "clusterId": "140ca8bf-8591-4956-85ce-7bfa08fbd287",
+    "text": "The four law firms unanimously opposed the government's request to withdraw the voluntary dismissal",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:48:40.595Z",
+    "lastUpdatedAt": "2026-03-03T19:48:40.595Z"
+  },
+  {
+    "id": "50dbc027-5226-442c-a239-a43b06bf166a",
+    "clusterId": "140ca8bf-8591-4956-85ce-7bfa08fbd287",
+    "text": "Trump's executive orders imposed sanctions including being stripped of security clearances and having access to government buildings terminated",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:48:40.595Z",
+    "lastUpdatedAt": "2026-03-03T19:48:40.595Z"
+  },
+  {
+    "id": "cf6b77d2-23b2-4867-8283-d872f9f22e80",
+    "clusterId": "140ca8bf-8591-4956-85ce-7bfa08fbd287",
+    "text": "The settlements included commitments of pro-bono legal work for causes favored by Trump",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian US"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:48:40.595Z",
+    "lastUpdatedAt": "2026-03-03T19:48:40.595Z"
+  }
+]

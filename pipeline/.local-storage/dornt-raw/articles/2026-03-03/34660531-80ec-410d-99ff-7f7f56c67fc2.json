@@ -1,0 +1,16 @@
+{
+  "id": "34660531-80ec-410d-99ff-7f7f56c67fc2",
+  "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/claude_outage/",
+  "normalizedUrl": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/claude_outage",
+  "title": "Claude having artificially intelligent hiccups and access lockouts for over two hours",
+  "source": "The Register",
+  "feedUrl": "https://www.theregister.com/headlines.atom",
+  "publishedAt": "2026-03-03T05:25:52.000Z",
+  "fetchedAt": "2026-03-03T19:21:12.286Z",
+  "author": "Simon Sharwood",
+  "contentHash": "e4f10d003a1c68b0",
+  "fullText": "Anthropic’s AI service Claude is having artificially intelligent hiccups and availability problems across its basic chat service, API, and Claude Code offering.\nThe outfit’s Status Page reports investigations into the problem commenced at 03:15 UTC on March 3rd. In three subsequent updates, the last time-stamped 04:43 UTC, the company again reported “We are continuing to investigate this issue.”\nThe Register tried to access the service at 05:10 UTC and was unable to log in. Claude produced the following error message.\nClaude error message - Click to enlarge\n\nOpenAI’s Altman says Pentagon set ‘scary precedent’ binning Anthropic\n\nAnthropic launches new marketing blog, pretends it's being 'written' by 'retired' LLM\n\nClaude collaboration tools left the door wide open to remote code execution\n\nAnthropic accuses China's AI labs of ripping off content – just like it did\n\nAnthropic’s social media accounts are silent on the matter, but users are filling in the blanks.\nA common comment laments the fact that Claude going down means developers must revert to their pre-generative-AI habits and actually write some code without assistance.\n\n \n\nWe’ve also seen folks joyfully join some conspiratorial dots between Claude reportedly being used by the US military to plan its attack on Iran, the subsequent drone strikes that have disrupted operations at Amazon Web Services’ facilities in the Middle East, and Amazon’s ties to Anthropic.\n\n \n\nThis is a developing story. The Register will update this story as information comes to hand. ®",
+  "categories": [
+    "tech"
+  ]
+}

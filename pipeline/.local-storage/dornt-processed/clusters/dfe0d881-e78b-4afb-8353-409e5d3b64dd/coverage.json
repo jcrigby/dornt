@@ -1,0 +1,46 @@
+{
+  "clusterId": "dfe0d881-e78b-4afb-8353-409e5d3b64dd",
+  "frames": [
+    {
+      "name": "Diplomatic Reset Frame",
+      "description": "Presents the meeting as a successful diplomatic reset focused on economic cooperation and moving past previous tensions",
+      "sources": [
+        "NYT World",
+        "The Hindu",
+        "BBC World"
+      ],
+      "emphasis": "Business partnerships, nuclear deals, trade agreements, and renewed cooperation while downplaying past conflicts"
+    },
+    {
+      "name": "Strategic Partnership Frame",
+      "description": "Emphasizes the expansion of bilateral cooperation across multiple sectors as a foundation for future growth",
+      "sources": [
+        "The Hindu",
+        "BBC World"
+      ],
+      "emphasis": "Comprehensive partnership in defense, technology, critical minerals, education, and renewable energy"
+    },
+    {
+      "name": "Unresolved Security Concerns Frame",
+      "description": "Highlights ongoing security and intelligence concerns despite diplomatic progress",
+      "sources": [
+        "BBC World"
+      ],
+      "emphasis": "Continued foreign interference threats, disagreement within Canadian government on India's current activities, and ongoing legal proceedings"
+    }
+  ],
+  "outlierPerspectives": [
+    "BBC's detailed coverage of internal Canadian government disagreements about India's current threat level",
+    "BBC's reporting on the Canadian Security Intelligence Service maintaining its threat assessment unchanged",
+    "BBC's note about Carney cancelling his planned press conference"
+  ],
+  "missingContext": [
+    "Details about the specific terms and scope of the nuclear energy deal",
+    "Economic impact assessment of the agreements on both countries",
+    "Reaction from Sikh diaspora communities in Canada to the diplomatic reset",
+    "Analysis of how this reset affects Canada's relationships with other Five Eyes intelligence partners",
+    "Timeline and specific milestones for the proposed free trade agreement completion by end of 2026"
+  ],
+  "generatedAt": "2026-03-03T20:00:52.066Z",
+  "model": "anthropic/claude-sonnet-4"
+}

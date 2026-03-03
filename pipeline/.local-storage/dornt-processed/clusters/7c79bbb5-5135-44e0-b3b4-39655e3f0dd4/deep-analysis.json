@@ -1,0 +1,94 @@
+{
+  "clusterId": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+  "stakeholders": [
+    {
+      "name": "Donald Trump/U.S. Administration",
+      "role": "Primary decision-maker and military commander",
+      "position": "Leading military operation, claims progress ahead of schedule",
+      "influence": "high"
+    },
+    {
+      "name": "Israeli Government/Military",
+      "role": "Primary operational partner",
+      "position": "Executing strikes with U.S. targeting assistance, claims elimination of Iranian leadership",
+      "influence": "high"
+    },
+    {
+      "name": "Iranian Government/IRGC",
+      "role": "Primary target, now decapitated leadership",
+      "position": "Retaliating with missile/drone strikes, leadership structure severely damaged",
+      "influence": "medium"
+    },
+    {
+      "name": "Gulf States (Kuwait, others)",
+      "role": "Regional allies and collateral targets",
+      "position": "Supporting U.S. operations while being targeted by Iranian retaliation",
+      "influence": "medium"
+    },
+    {
+      "name": "U.S. Congress",
+      "role": "Constitutional oversight body",
+      "position": "Not mentioned as consulted, potential future constraint",
+      "influence": "medium"
+    },
+    {
+      "name": "American Public",
+      "role": "Democratic constituency",
+      "position": "Majority opposition (43% disapproval, only 25% support)",
+      "influence": "medium"
+    },
+    {
+      "name": "Iranian Civilian Population",
+      "role": "Primary victims of military action",
+      "position": "Bearing heavy casualties, particularly children",
+      "influence": "low"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "Continued military escalation as Iran attempts retaliation despite leadership losses",
+      "likelihood": "likely",
+      "timeframe": "1-2 weeks",
+      "basis": "Iran has already begun retaliatory strikes and maintains military capacity despite leadership decapitation"
+    },
+    {
+      "text": "Growing domestic political pressure on Trump administration due to low public support",
+      "likelihood": "likely",
+      "timeframe": "2-3 weeks",
+      "basis": "Only 25% public support with 43% disapproval creates unsustainable political dynamic"
+    },
+    {
+      "text": "Regional powers forced to choose sides as conflict expands",
+      "likelihood": "possible",
+      "timeframe": "1-4 weeks",
+      "basis": "Iranian retaliation already targeting Gulf states, forcing regional alignment decisions"
+    },
+    {
+      "text": "International diplomatic intervention attempts",
+      "likelihood": "likely",
+      "timeframe": "1-2 weeks",
+      "basis": "High civilian casualties and regional instability typically trigger international mediation efforts"
+    },
+    {
+      "text": "Congressional attempts to limit or end military action",
+      "likelihood": "possible",
+      "timeframe": "2-4 weeks",
+      "basis": "Low public support and mounting casualties historically prompt legislative oversight"
+    }
+  ],
+  "historicalContext": "This operation represents the most significant direct U.S.-Iran military confrontation since the 1980s 'Tanker War' during the Iran-Iraq conflict. The elimination of Iran's Supreme Leader marks an unprecedented escalation beyond previous targeted killings like Qasem Soleimani in 2020. The civilian casualty levels, particularly the school strike killing 175 children, echo controversial incidents from recent Middle East conflicts that generated significant international condemnation. The low public support (25%) mirrors early opposition to conflicts like Vietnam and Iraq, suggesting potential for sustained domestic political pressure. The operation's scope—targeting nuclear facilities, naval assets, and leadership simultaneously—represents a comprehensive military campaign rather than limited strikes, distinguishing it from previous U.S.-Iran tensions.",
+  "implications": [
+    "Fundamental reshaping of Middle East power dynamics with Iran's leadership structure decimated",
+    "Potential for broader regional war as Iranian proxies and allies may retaliate independently",
+    "Severe strain on U.S.-Gulf state relationships due to Iranian retaliation targeting these allies",
+    "International humanitarian crisis from high civilian casualties, particularly children",
+    "Domestic political crisis for Trump administration given overwhelming public opposition",
+    "Disruption of global energy markets and supply chains through Persian Gulf instability",
+    "Precedent for preemptive strikes on nuclear facilities with global nonproliferation implications",
+    "Potential constitutional crisis over war powers if Congress moves to limit military action",
+    "Long-term radicalization risk in Iran and broader region from civilian casualties",
+    "Weakening of international law and norms regarding proportionality in military operations"
+  ],
+  "generatedAt": "2026-03-03T19:55:46.236Z",
+  "model": "anthropic/claude-sonnet-4"
+}

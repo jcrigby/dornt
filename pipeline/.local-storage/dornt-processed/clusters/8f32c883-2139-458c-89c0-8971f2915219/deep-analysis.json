@@ -1,0 +1,78 @@
+{
+  "clusterId": "8f32c883-2139-458c-89c0-8971f2915219",
+  "stakeholders": [
+    {
+      "name": "Judge Brian Murphy",
+      "role": "U.S. District Judge for Massachusetts",
+      "position": "Ruled third-country deportation policy unconstitutional and violates due process",
+      "influence": "high"
+    },
+    {
+      "name": "Trump Administration/DHS",
+      "role": "Policy implementer and defendant",
+      "position": "Defends policy as necessary for removing dangerous criminals whose home countries won't accept them",
+      "influence": "high"
+    },
+    {
+      "name": "Supreme Court",
+      "role": "Appellate authority",
+      "position": "Previously overruled Murphy's injunction in June, allowing deportations to proceed",
+      "influence": "high"
+    },
+    {
+      "name": "Class-action plaintiffs",
+      "role": "Legal challengers",
+      "position": "Argue policy violates constitutional due process rights",
+      "influence": "medium"
+    },
+    {
+      "name": "Third-country governments (Rwanda, Eswatini, Ghana, etc.)",
+      "role": "Receiving countries",
+      "position": "Have agreements to accept deportees despite lack of citizenship ties",
+      "influence": "medium"
+    },
+    {
+      "name": "Tricia McLaughlin (former Assistant Secretary)",
+      "role": "Policy defender/Trump administration spokesperson",
+      "position": "Argues policy prevents dangerous criminals from remaining free in U.S.",
+      "influence": "low"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "Government will appeal the ruling within 15-day deadline",
+      "likelihood": "likely",
+      "timeframe": "within 2 weeks",
+      "basis": "High-stakes policy central to Trump's immigration agenda, and government has statutory right to appeal"
+    },
+    {
+      "text": "Appeals court or Supreme Court will overturn or modify the ruling",
+      "likelihood": "possible",
+      "timeframe": "3-12 months",
+      "basis": "Supreme Court previously sided with Trump administration in June on similar challenge from same judge"
+    },
+    {
+      "text": "Policy implementation will be temporarily suspended during appeal process",
+      "likelihood": "likely",
+      "timeframe": "immediate",
+      "basis": "Judge paused his own ruling pending appeal, suggesting awareness of procedural requirements"
+    },
+    {
+      "text": "Additional legal challenges will emerge in other federal circuits",
+      "likelihood": "possible",
+      "timeframe": "1-6 months",
+      "basis": "Constitutional due process issues affect nationwide policy implementation"
+    }
+  ],
+  "historicalContext": "This ruling represents the latest chapter in decades-long tensions over executive immigration authority versus judicial oversight. The third-country deportation policy echoes historical practices like the 'safe third country' agreements but extends beyond traditional frameworks. Judge Murphy's involvement creates a pattern of conflict with the Supreme Court, which overruled his previous injunction in June 2024, highlighting the ongoing judicial-executive tension over immigration enforcement that has characterized multiple administrations. The policy builds on Trump's first-term immigration initiatives but represents an expansion into uncharted legal territory regarding deportations to countries with no citizenship connections.",
+  "implications": [
+    "Constitutional precedent: Establishes potential due process requirements for third-country deportations that could limit executive immigration authority",
+    "Diplomatic relations: May strain relationships with third-country partners if policy uncertainty affects bilateral agreements",
+    "Immigration enforcement: Could force administration to develop alternative strategies for individuals whose home countries refuse repatriation",
+    "Legal system burden: May increase immigration court caseloads if meaningful notice and challenge procedures are required",
+    "Political ramifications: Affects Trump's mass deportation campaign promises and could become focal point for immigration policy debates",
+    "International law implications: Raises questions about non-refoulement principles and international obligations regarding deportation to countries where individuals face potential persecution"
+  ],
+  "generatedAt": "2026-02-26T18:18:15.740Z",
+  "model": "anthropic/claude-sonnet-4"
+}

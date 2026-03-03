@@ -1,0 +1,55 @@
+{
+  "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+  "frames": [
+    {
+      "name": "Economic Impact Assessment",
+      "description": "Focuses on quantifying economic consequences and identifying which countries/regions will be most affected by the blockade",
+      "sources": [
+        "CNBC",
+        "The Guardian"
+      ],
+      "emphasis": "Specific percentage impacts, vulnerable countries (Thailand, India, Korea, Philippines), oil price projections above $100/barrel"
+    },
+    {
+      "name": "Market Volatility Focus",
+      "description": "Emphasizes immediate market reactions and price movements in oil and gas futures",
+      "sources": [
+        "CNBC"
+      ],
+      "emphasis": "Daily price changes, percentage increases in oil/gas prices, trading data and futures movements"
+    },
+    {
+      "name": "Geopolitical Tensions",
+      "description": "Frames the story as an escalating conflict with diplomatic implications",
+      "sources": [
+        "The Guardian"
+      ],
+      "emphasis": "Military operations, retaliation cycles, calls for de-escalation, international diplomatic responses"
+    },
+    {
+      "name": "Supply Chain Disruption",
+      "description": "Highlights the physical interruption of global trade and shipping",
+      "sources": [
+        "The Guardian",
+        "WaPo"
+      ],
+      "emphasis": "Shipping route closures, vessel counts, rerouting of container ships, physical infrastructure impacts"
+    }
+  ],
+  "outlierPerspectives": [
+    "China's specific diplomatic call for vessel protection and navigation safety (The Guardian only)",
+    "Detailed breakdown of LNG import dependencies by specific percentages for Pakistan, Bangladesh, and India (CNBC only)",
+    "Focus on fertilizer trade disruption through the strait (The Guardian only)"
+  ],
+  "missingContext": [
+    "Historical precedent for Strait of Hormuz closures and their duration",
+    "Alternative shipping routes and their capacity/cost implications",
+    "Strategic petroleum reserve levels in affected countries",
+    "Timeline and specific triggers that led to the current escalation",
+    "International maritime law implications of the blockade",
+    "Military capabilities and logistics of maintaining the closure",
+    "Previous diplomatic efforts to prevent this scenario"
+  ],
+  "generatedAt": "2026-03-03T20:03:23.960Z",
+  "model": "anthropic/claude-sonnet-4"
+}

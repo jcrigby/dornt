@@ -1,0 +1,34 @@
+{
+  "clusterId": "2febfd95-9de2-4dfd-a778-f70ecae1e798",
+  "narrative": "## State of the Story: Brazilian Floods in Minas Gerais\n\n### Death Toll Rises as Search Operations Continue\n\nSevere flooding and landslides in Brazil's southeastern state of Minas Gerais have resulted in a rising death toll, with authorities reporting 46 confirmed deaths as of Wednesday [1]. The disaster primarily affected the cities of Juiz de Fora and Ubá, with 40 deaths occurring in Juiz de Fora and six in Ubá [1].\n\n### Timeline of Events\n\nThe catastrophe began with torrential rains starting Monday [1], which caused rivers to burst their banks and triggered multiple landslides. By Tuesday, initial reports indicated 30 deaths and 39 missing persons [2]. The death toll subsequently increased to 46 by Wednesday, with approximately 21 people still missing [1].\n\n### Scale of Destruction\n\nThe flooding has displaced about 3,600 residents [1], significantly higher than the initial estimate of 440 people [2]. At least 20 landslides have been reported in the Juiz de Fora area alone [1][2]. In one particularly devastating incident, twelve houses in a hillside neighborhood of Juiz de Fora were swept away in what officials described as a \"massive landslide\" [2].\n\n### Record Rainfall and Weather Conditions\n\nJuiz de Fora experienced its wettest February on record, with 584mm (23 inches) of accumulated rainfall [2]. The overnight downpour transformed streets into \"raging currents of brown water\" and caused widespread destruction [2]. Brazilian meteorological authorities have warned that additional rainfall is expected in the coming days [1].\n\n### Rescue Operations and Human Impact\n\nMore than 200 people have been rescued from the affected areas [2]. Emergency workers, including firefighters and search dogs, continue search operations, though officials acknowledge that those still missing are unlikely to be found alive [1]. Among the victims was 11-year-old Bernardo Lopes Dutra, whose father described him as \"a boy with a big heart\" [1].\n\n### Official Response\n\nMayor Margarida Salomão of Juiz de Fora declared a state of emergency [2], and President Luiz Inácio Lula da Silva pledged government support, stating the focus would be on \"humanitarian assistance, the restoration of basic services, aid to displaced people, and support for reconstruction\" [2]. State authorities suspended classes in all municipal schools [2].\n\n### Broader Context\n\nThe disaster highlights ongoing vulnerabilities in Brazil to extreme weather events, with scientists linking increased severity and frequency of such events to climate change [1]. The tragedy particularly affects poorer communities and those in improvised structures, who face higher risks during such disasters [1].",
+  "citations": [
+    {
+      "index": 1,
+      "articleId": "4730aa9c-b186-4ee8-81b3-8bfc7624e8a1",
+      "source": "Al Jazeera",
+      "title": "Death toll in Brazilian floods rises to 46 as rescuers continue search",
+      "url": "https://www.aljazeera.com/news/2026/2/26/death-toll-in-brazilian-floods-rises-to-46-as-rescuers-continue-search?traffic_source=rss",
+      "quote": "Authorities in the state of Minas Gerais in southeastern Brazil have updated the death toll from recent floods to 46 people, after homes and towns were left covered in mud and debris."
+    },
+    {
+      "index": 2,
+      "articleId": "3d8df6ab-835a-41f6-a9fd-3d2d2a6f732c",
+      "source": "The Guardian World",
+      "title": "Floods and landslides in Brazil kill at least 30 after record rainfall",
+      "url": "https://www.theguardian.com/world/2026/feb/24/floods-landslides-brazil-kill-after-record-rainfall",
+      "quote": "State firefighters said 30 people had died in the cities of Juiz de Fora and Ubá. More than 200 people have been rescued."
+    }
+  ],
+  "keyDevelopments": [
+    "Death toll increased from 30 to 46 between Tuesday and Wednesday reports",
+    "Number of displaced residents revised upward from 440 to approximately 3,600",
+    "Missing persons count decreased from 39 to 21 as search operations progressed",
+    "Record February rainfall of 584mm reported in Juiz de Fora",
+    "At least 20 landslides confirmed in the affected area",
+    "State of emergency declared by local mayor",
+    "Federal government pledged reconstruction support"
+  ],
+  "generatedAt": "2026-02-26T18:13:54.414Z",
+  "model": "anthropic/claude-sonnet-4",
+  "tokenCount": 3591
+}

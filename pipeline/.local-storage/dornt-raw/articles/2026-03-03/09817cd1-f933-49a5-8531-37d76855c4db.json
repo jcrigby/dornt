@@ -1,0 +1,17 @@
+{
+  "id": "09817cd1-f933-49a5-8531-37d76855c4db",
+  "url": "https://techcrunch.com/2026/03/03/apple-unveils-m5-pro-and-m5-max-chips-with-new-fusion-architecture/",
+  "normalizedUrl": "https://techcrunch.com/2026/03/03/apple-unveils-m5-pro-and-m5-max-chips-with-new-fusion-architecture",
+  "title": "Apple unveils M5 Pro and M5 Max chips with new ‘Fusion Architecture’",
+  "source": "TechCrunch",
+  "feedUrl": "https://techcrunch.com/feed/",
+  "publishedAt": "Tue, 03 Mar 2026 14:44:34 +0000",
+  "fetchedAt": "2026-03-03T19:19:48.162Z",
+  "author": "Aisha Malik",
+  "contentHash": "f981eb6bea173bb9",
+  "fullText": "Apple on Tuesday debuted the latest addition to the M-series of chips, as it announced its new M5 Pro and M5 Max, which are powering the new MacBook Pro.\n\nThe tech giant says the chips are engineered around its new Fusion Architecture, an advanced design that merges two dies into a single, high-performance system on a chip (SoC), which includes a powerful CPU, scalable GPU, Media Engine, unified memory controller, Neural Engine, and Thunderbolt 5 capabilities. \n\nBoth chips feature an 18-core CPU, marking an upgrade from the 14-core configuration in the M4 Pro and the 16-core in the M4 Max.\n\nThe CPU now features six “super cores,” which is Apple’s term for its highest-performance cores, alongside 12 all-new performance cores. Collectively, the CPU boosts performance by up to 30% for pro workloads. \n\n“The GPU scales up the next-generation architecture introduced in M5 to an up-to-40-core GPU,” Apple explained in a press release. “With a Neural Accelerator in each GPU core and higher unified memory bandwidth, M5 Pro and M5 Max are over 4x the peak GPU compute for AI compared to the previous generation.”\n\nGraphics performance is up to 20% faster overall, with ray-tracing workloads improving by as much as 35%. \n\nM5 Pro supports up to 64GB of unified memory, up from 48GB on M4 Pro, with bandwidth of 307GB/s. M5 Max continues to support up to 128GB of unified memory, with bandwidth increased to 614GB/s.\n\n \n Techcrunch event\n \n \n San Francisco, CA\n |\n October 13-15, 2026\n \n \n \n \n\nApple says the M5 Pro is aimed at pro users, such as data modelers, post-production sound designers, and STEM students who need strong CPU and GPU performance, along with large amounts of unified memory for complex projects and workloads.\n\nM5 Max is designed for pro users, such as 3D animators, app developers, and AI researchers who run workloads that demand maximum GPU compute and the highest unified memory bandwidth, the tech giant says.\n\nThe new MacBook Pro models are available for preorder tomorrow, with availability beginning March 11.\n\n \n \n \n \n\n \n\n Aisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\n\nYou can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal. \n\n \n \n View Bio",
+  "summary": "The chips are engineered around Apple's new Fusion Architecture, an advanced design that merges two dies into a single, high-performance system on a chip (SoC).",
+  "categories": [
+    "tech"
+  ]
+}

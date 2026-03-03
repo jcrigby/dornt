@@ -1,0 +1,249 @@
+[
+  {
+    "id": "3a7503e0-b1ee-41c8-bbdd-dbe28e819bb0",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "Iran has ordered/announced the closure of the Strait of Hormuz",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC",
+      "WaPo Politics",
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  },
+  {
+    "id": "4cd63651-bffd-46ce-aac5-636d0a0e4767",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "A senior commander from Iran's Revolutionary Guard said Monday that the Strait of Hormuz had been shut and warned that any vessel attempting to transit the waterway would be targeted",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  },
+  {
+    "id": "2f6d868f-2a82-4853-8285-926b88216e74",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "Maritime traffic through the strait has effectively been closed since the US and Israel launched missile attacks on Iran at the weekend",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  },
+  {
+    "id": "c1d7c52b-f16a-41d8-a8e5-c8b06f0dfd77",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "Roughly 13 million barrels per day passed through the Strait of Hormuz in 2025, representing about 31% of all seaborne crude flows",
+    "status": "disputed",
+    "supportingSources": [
+      "CNBC"
+    ],
+    "disputingSources": [
+      "The Guardian World"
+    ],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  },
+  {
+    "id": "ed9be437-5915-48c4-a3ad-75322c90cdd0",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "About 20% of global oil consumption passes through the Strait of Hormuz",
+    "status": "disputed",
+    "supportingSources": [
+      "CNBC",
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  },
+  {
+    "id": "43f0caf4-0d7c-4f75-a6b2-e4b196838061",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "Global benchmark Brent was up 2.6% at around $80 per barrel",
+    "status": "evolving",
+    "supportingSources": [
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  },
+  {
+    "id": "0cf5dfcb-d3aa-404a-9c54-06abf0332ed6",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "Brent crude topped $83 per barrel, jumping more than 5% to $82.15 per barrel",
+    "status": "evolving",
+    "supportingSources": [
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  },
+  {
+    "id": "9d6d5a66-5ca7-4355-b66d-f758c577cef3",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "U.S. crude oil prices rose more than 5% to $75.21 per barrel",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  },
+  {
+    "id": "299160a8-14c8-4dc9-ad6f-97b51e348d18",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "Oil prices have soared more than 12% this week",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  },
+  {
+    "id": "ad74dd57-8657-4687-9bb8-edc5c4862d7e",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "Qatar halted/ceased LNG production due to Iranian drone attacks on its facilities",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC",
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  },
+  {
+    "id": "7d4d3e44-a092-460a-9a88-35c6a0477565",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "Iranian drones hit Qatar's facilities at Ras Laffan Industrial City and Mesaieed Industrial City",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  },
+  {
+    "id": "9d15013b-dfb8-4ea7-beb1-b180d45e2ede",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "About 20% of global LNG exports come from the Persian Gulf and pass through the Strait of Hormuz",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC",
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  },
+  {
+    "id": "a093895c-9492-408d-9282-f61bf3071b7e",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "European natural gas prices have soared more than 60% this week",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  },
+  {
+    "id": "63ae2ca0-4f0b-406b-bb92-d48866003a93",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "Only seven vessels crossed the strait on 2 March, a 60% drop from the previous day",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  },
+  {
+    "id": "4b0f97c1-68fd-4d5d-9fcf-7413fbc9a99d",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "Daily average of ships through the strait is 79 vessels",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  },
+  {
+    "id": "bf5ff709-210c-48e5-8097-b386f9bf3bc6",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "Iranian forces claimed to have hit the Honduras-flagged fuel tanker Athe Nova with two drones on Monday, setting it on fire",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  },
+  {
+    "id": "6036041a-5c79-4c86-92a9-e26f6968c721",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "Two other tankers were hit off the coast of Oman on Sunday causing the death of one crew member",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  },
+  {
+    "id": "87de8634-882e-434f-ad4d-b10741094b79",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "At least 150 tankers carrying crude oil, LNG and oil products dropped anchor in the Gulf at the weekend, representing 4% of the global fleet by tonnage",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  },
+  {
+    "id": "ad2b71d2-7438-49de-bfc0-0fc49a5fb662",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "Saudi Arabia halted production at its largest domestic refinery",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  },
+  {
+    "id": "007cedd4-171d-40b2-bd11-b97de275839a",
+    "clusterId": "e87e2adf-22a0-4f2a-bbb6-e9ff17f3f26e",
+    "text": "Parts of gas and oil production were shut down in Israel and in Iraq's autonomous Kurdistan region",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T20:03:26.746Z",
+    "lastUpdatedAt": "2026-03-03T20:03:26.746Z"
+  }
+]

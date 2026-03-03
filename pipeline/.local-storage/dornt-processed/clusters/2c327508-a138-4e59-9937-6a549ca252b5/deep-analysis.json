@@ -1,0 +1,104 @@
+{
+  "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+  "stakeholders": [
+    {
+      "name": "Casey Means",
+      "role": "Surgeon General nominee",
+      "position": "Seeking confirmation while moderating previous wellness positions",
+      "influence": "medium"
+    },
+    {
+      "name": "Senate Health Committee",
+      "role": "Confirmation gatekeepers",
+      "position": "Mixed - Republicans likely supportive, Democrats skeptical",
+      "influence": "high"
+    },
+    {
+      "name": "Bill Cassidy (R-La.)",
+      "role": "Senate Health Committee Chair",
+      "position": "Pressing on vaccine positions but likely supportive",
+      "influence": "high"
+    },
+    {
+      "name": "Chris Murphy (D-Conn.)",
+      "role": "Democratic Senator",
+      "position": "Challenging financial conflicts and disclosure practices",
+      "influence": "medium"
+    },
+    {
+      "name": "Ed Markey (D-Mass.)",
+      "role": "Democratic Senator",
+      "position": "Questioning alignment with MAHA agenda",
+      "influence": "medium"
+    },
+    {
+      "name": "Calley Means",
+      "role": "Brother and HHS Senior Adviser to RFK Jr.",
+      "position": "Supporting MAHA agenda and sister's nomination",
+      "influence": "medium"
+    },
+    {
+      "name": "Robert F. Kennedy Jr.",
+      "role": "HHS Secretary",
+      "position": "Leading MAHA movement, supportive of Means",
+      "influence": "high"
+    },
+    {
+      "name": "Medical establishment",
+      "role": "Professional oversight",
+      "position": "Likely concerned about unlicensed practitioner as Surgeon General",
+      "influence": "medium"
+    },
+    {
+      "name": "Wellness industry",
+      "role": "Commercial interest",
+      "position": "Supportive of mainstream wellness advocate in government",
+      "influence": "low"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "Means will likely be confirmed along party lines",
+      "likelihood": "likely",
+      "timeframe": "2-4 weeks",
+      "basis": "Republican control of Senate and strategic moderation during hearing"
+    },
+    {
+      "text": "Democrats will continue pressing on financial conflicts and vaccine positions",
+      "likelihood": "likely",
+      "timeframe": "Before final vote",
+      "basis": "Pattern of questioning during hearing and ongoing concerns"
+    },
+    {
+      "text": "Medical professional organizations will publicly oppose nomination",
+      "likelihood": "possible",
+      "timeframe": "1-2 weeks",
+      "basis": "Concerns about unlicensed practitioner leading public health messaging"
+    },
+    {
+      "text": "Means will face ongoing scrutiny over Levels Health divestiture",
+      "likelihood": "likely",
+      "timeframe": "Throughout tenure if confirmed",
+      "basis": "Discrepancy between ethics filing and current company listing"
+    },
+    {
+      "text": "Vaccine hesitancy messaging will become major controversy if confirmed",
+      "likelihood": "possible",
+      "timeframe": "6-12 months",
+      "basis": "Refusal to unequivocally endorse vaccination during disease outbreaks"
+    }
+  ],
+  "historicalContext": "The Surgeon General position has traditionally been filled by licensed, practicing physicians with extensive clinical and public health experience. Previous controversial nominees like Dr. Joycelyn Elders (1993-1994) faced opposition for policy positions but maintained medical credentials. Means represents an unprecedented departure - a medical school graduate without residency completion, active license, or traditional public health background. This aligns with the broader MAHA (Make America Healthy Again) movement's challenge to medical establishment orthodoxy, similar to how RFK Jr.'s HHS nomination challenged traditional health policy. The nomination occurs amid ongoing debates about vaccine hesitancy, alternative medicine, and medical misinformation that intensified during COVID-19.",
+  "implications": [
+    "Potential legitimization of wellness industry practices in federal health policy",
+    "Risk of undermining public health messaging on vaccines and evidence-based medicine",
+    "Precedent for appointing unlicensed practitioners to senior medical positions",
+    "Increased scrutiny of financial conflicts between government officials and health product companies",
+    "Possible erosion of traditional medical establishment influence in federal health policy",
+    "Potential boost to alternative medicine and supplement industry credibility",
+    "Risk of mixed messaging during public health emergencies or disease outbreaks",
+    "Challenge to evidence-based medicine standards in government health communications"
+  ],
+  "generatedAt": "2026-02-26T18:12:35.271Z",
+  "model": "anthropic/claude-sonnet-4"
+}

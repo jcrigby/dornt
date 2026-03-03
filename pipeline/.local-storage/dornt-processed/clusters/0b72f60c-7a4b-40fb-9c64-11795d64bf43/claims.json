@@ -1,0 +1,170 @@
+[
+  {
+    "id": "7aebb9a4-37ed-406d-b51f-428a73bf4ee4",
+    "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
+    "text": "Trump announced Friday that he was instructing every federal agency to 'immediately cease' use of Anthropic's AI tools",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:47:40.482Z",
+    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+  },
+  {
+    "id": "3f929513-6462-4903-9671-26e3ba043673",
+    "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
+    "text": "Trump said there would be a 'six month phase out period' for agencies using Anthropic",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:47:40.482Z",
+    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+  },
+  {
+    "id": "e319391f-1c92-4f75-8664-3258f7414571",
+    "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
+    "text": "Trump called Anthropic 'Leftwing nut jobs' and said they made a 'DISASTROUS MISTAKE trying to STRONG-ARM the Department of War'",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:47:40.482Z",
+    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+  },
+  {
+    "id": "06d9f4b0-2b3b-4527-bb55-7af37a729ae5",
+    "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
+    "text": "The Department of Defense has sought to change the terms of a deal struck with Anthropic and other companies last July to eliminate restrictions on how AI can be deployed",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:47:40.482Z",
+    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+  },
+  {
+    "id": "48f6df7b-eb64-4d2d-85cb-8871803e5be4",
+    "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
+    "text": "The Pentagon wants to permit 'all lawful use' of the AI technology instead of current restrictions",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:47:40.482Z",
+    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+  },
+  {
+    "id": "d9dcc49f-5036-4d31-8bf5-2ec0b10fe5bc",
+    "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
+    "text": "Anthropic objected to the change, claiming it could allow AI to be used to fully control lethal autonomous weapons or conduct mass surveillance on US citizens",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:47:40.482Z",
+    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+  },
+  {
+    "id": "11a80545-1a2a-485f-bddb-1f641f9e2f47",
+    "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
+    "text": "The Pentagon does not currently use AI in these ways and has said it has no plans to do so",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:47:40.482Z",
+    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+  },
+  {
+    "id": "4ad56697-4b92-4557-bc2a-b5595425c707",
+    "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
+    "text": "Anthropic signed a $200 million deal with the Pentagon last year",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:47:40.482Z",
+    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+  },
+  {
+    "id": "1c7d3a51-10b9-4b64-8a74-054b0c66c5f8",
+    "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
+    "text": "Anthropic was the first major AI lab to work with the US military",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:47:40.482Z",
+    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+  },
+  {
+    "id": "da7dde76-b42c-4f04-9dc8-6f85e8b76425",
+    "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
+    "text": "Anthropic created custom models known as Claude Gov that have fewer restrictions than its regular ones",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:47:40.482Z",
+    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+  },
+  {
+    "id": "2c74ab32-654a-4fee-a3c4-eb30e1e80a16",
+    "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
+    "text": "Google, OpenAI, and xAI signed similar deals around the same time as Anthropic",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:47:40.482Z",
+    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+  },
+  {
+    "id": "de719d57-623f-4cb1-9239-7ab773e24012",
+    "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
+    "text": "Anthropic is the only AI company currently working with classified systems",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:47:40.482Z",
+    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+  },
+  {
+    "id": "90e74475-b94e-47e6-87f9-4c2845488840",
+    "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
+    "text": "Claude Gov is currently largely used for run-of-the-mill tasks like writing reports and summarizing documents, but also for intelligence analysis and military planning",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:47:40.482Z",
+    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+  },
+  {
+    "id": "a77d746a-e6e1-43d4-a979-373c88a505ac",
+    "clusterId": "0b72f60c-7a4b-40fb-9c64-11795d64bf43",
+    "text": "Several hundred workers from OpenAI and Google signed an open letter supporting Anthropic and criticizing their own companies' decisions to remove restrictions",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:47:40.482Z",
+    "lastUpdatedAt": "2026-03-03T19:47:40.482Z"
+  }
+]

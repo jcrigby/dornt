@@ -1,0 +1,43 @@
+{
+  "clusterId": "2dab45ae-8ee8-4a88-b8ee-786bfb715a77",
+  "frames": [
+    {
+      "name": "Media Hypocrisy Frame",
+      "description": "Presents the story as evidence of double standards in sports media coverage, contrasting criticism of athletes attending Trump events with past support for athletes attending Obama events",
+      "sources": [
+        "Breitbart"
+      ],
+      "emphasis": "Historical inconsistency in media treatment of athletes' White House visits based on the president's political party"
+    },
+    {
+      "name": "Political Exploitation Frame",
+      "description": "Focuses on criticism that the hockey team allowed themselves to be used as political props by the Trump administration",
+      "sources": [
+        "Fox Politics"
+      ],
+      "emphasis": "The appropriateness of using Olympic athletes for political purposes and the athletes' agency in participating"
+    },
+    {
+      "name": "Bipartisan Unity Frame",
+      "description": "Highlights the hockey team's appearance as one of the few moments that received positive bipartisan support during the State of the Union",
+      "sources": [
+        "Breitbart",
+        "Fox Politics"
+      ],
+      "emphasis": "The rare moment of cross-party agreement and positive polling among independent voters"
+    }
+  ],
+  "outlierPerspectives": [
+    "Breitbart's characterization of Peter Rosenberg's comments as 'racist remarks' for referencing the players' 'white, cushy, privileged' lives",
+    "The specific comparison to Tim Thomas's 2012 decision to skip the Obama White House visit as a contrasting example of media treatment"
+  ],
+  "missingContext": [
+    "The full context and transcript of Peter Rosenberg's original comments",
+    "Responses or statements from the hockey team members themselves about their participation",
+    "Historical precedent for Olympic teams attending State of the Union addresses",
+    "The specific circumstances of the team's invitation and decision-making process",
+    "Broader context about athlete activism and political participation in recent years"
+  ],
+  "generatedAt": "2026-02-26T18:13:08.787Z",
+  "model": "anthropic/claude-sonnet-4"
+}

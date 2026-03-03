@@ -1,0 +1,89 @@
+[
+  {
+    "id": "242b0bab-5efc-4591-a2ed-02f6c2153e92",
+    "clusterId": "990b1f94-1769-4ee0-8176-69266ea89516",
+    "text": "Minnesota sued the Trump administration on Monday",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Hill",
+      "NYT"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:58:32.170Z",
+    "lastUpdatedAt": "2026-03-03T19:58:32.170Z"
+  },
+  {
+    "id": "7d593ddf-0b1e-40b2-99c4-a3bc0ada1272",
+    "clusterId": "990b1f94-1769-4ee0-8176-69266ea89516",
+    "text": "The lawsuit concerns withheld Medicaid funds to Minnesota",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Hill",
+      "NYT"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:58:32.170Z",
+    "lastUpdatedAt": "2026-03-03T19:58:32.170Z"
+  },
+  {
+    "id": "0fb988ea-1763-4526-af25-06de8494f11b",
+    "clusterId": "990b1f94-1769-4ee0-8176-69266ea89516",
+    "text": "The withheld funds amount to hundreds of millions",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Hill"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:58:32.170Z",
+    "lastUpdatedAt": "2026-03-03T19:58:32.170Z"
+  },
+  {
+    "id": "c829cc2d-7042-439f-98d8-78dbc33dbd52",
+    "clusterId": "990b1f94-1769-4ee0-8176-69266ea89516",
+    "text": "More than 1 million Minnesotans are enrolled in Medicaid",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Hill"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:58:32.170Z",
+    "lastUpdatedAt": "2026-03-03T19:58:32.170Z"
+  },
+  {
+    "id": "14c4bebe-94f7-4b79-9828-22c71be26a37",
+    "clusterId": "990b1f94-1769-4ee0-8176-69266ea89516",
+    "text": "Minnesota alleges the withholding is 'political punishment'",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Hill",
+      "NYT"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:58:32.170Z",
+    "lastUpdatedAt": "2026-03-03T19:58:32.170Z"
+  },
+  {
+    "id": "05bc3a4e-fe7f-46d6-a4be-577ddfe3a0d4",
+    "clusterId": "990b1f94-1769-4ee0-8176-69266ea89516",
+    "text": "The Trump administration cited widespread fraud in state social service programs as justification",
+    "status": "undisputed",
+    "supportingSources": [
+      "NYT"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:58:32.170Z",
+    "lastUpdatedAt": "2026-03-03T19:58:32.170Z"
+  },
+  {
+    "id": "1432d55e-ff10-49ed-b5df-a97e95f8cac3",
+    "clusterId": "990b1f94-1769-4ee0-8176-69266ea89516",
+    "text": "Vice President Vance and Centers for Medicare and Medicaid Services Administrator were involved in the decision",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Hill"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:58:32.170Z",
+    "lastUpdatedAt": "2026-03-03T19:58:32.170Z"
+  }
+]

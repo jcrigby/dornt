@@ -1,0 +1,55 @@
+{
+  "clusterId": "8f32c883-2139-458c-89c0-8971f2915219",
+  "frames": [
+    {
+      "name": "Constitutional Due Process Frame",
+      "description": "Presents the story as a constitutional law issue focused on due process rights and judicial oversight of executive power",
+      "sources": [
+        "NYT Politics",
+        "Fox Politics"
+      ],
+      "emphasis": "Legal principles, constitutional protections, and the requirement for proper notice and opportunity to challenge deportations"
+    },
+    {
+      "name": "Judicial Activism Frame",
+      "description": "Frames the ruling as partisan judicial interference with legitimate immigration enforcement by emphasizing the judge's political appointment",
+      "sources": [
+        "Daily Wire",
+        "Fox Politics"
+      ],
+      "emphasis": "Judge's appointment by Biden, characterization as 'activist judge,' and impact on Trump administration policies"
+    },
+    {
+      "name": "Immigration Enforcement Frame",
+      "description": "Focuses on the practical impact on deportation operations and national security concerns",
+      "sources": [
+        "Daily Wire",
+        "Fox Politics"
+      ],
+      "emphasis": "Criminal records of deportees, countries accepting removals, and enforcement challenges"
+    },
+    {
+      "name": "Humanitarian Protection Frame",
+      "description": "Emphasizes protection from persecution and torture in third countries",
+      "sources": [
+        "Fox Politics"
+      ],
+      "emphasis": "Risk of persecution or torture, migrants' rights to seek protection, and safety concerns"
+    }
+  ],
+  "outlierPerspectives": [
+    "Daily Wire's detailed breakdown of the judge's specific constitutional reasoning and extensive direct quotes from the 81-page ruling",
+    "Fox Politics' inclusion of historical context about Biden's immigration policies and their alleged role in creating the current situation",
+    "Daily Wire's mention of the Supreme Court's previous June ruling that temporarily allowed the policy to continue"
+  ],
+  "missingContext": [
+    "Details about the specific legal standards or precedents the judge applied in making the constitutional determination",
+    "Information about how third-country deportation agreements are negotiated and what safeguards they typically include",
+    "Comparative analysis of how similar policies have been handled by previous administrations",
+    "Specific numbers of people affected by the policy or currently in deportation proceedings",
+    "Details about the class-action lawsuit plaintiffs and their specific circumstances",
+    "Information about the appeals process timeline and likelihood of Supreme Court review"
+  ],
+  "generatedAt": "2026-02-26T18:17:55.831Z",
+  "model": "anthropic/claude-sonnet-4"
+}

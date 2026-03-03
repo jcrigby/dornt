@@ -1,0 +1,58 @@
+{
+  "clusterId": "2c327508-a138-4e59-9937-6a549ca252b5",
+  "narrative": "Casey Means, President Trump's nominee for surgeon general, appeared before the Senate Health Committee on Wednesday, February 25, 2026, for her confirmation hearing after a months-long delay [3][5]. The hearing marked a significant tonal shift for Means, who \"modified her tone\" and \"kept her most eccentric wellness beliefs largely in check\" compared to her previous public statements [1][2].\n\n## Background and Qualifications\n\nMeans holds a medical degree from Stanford Medical School but dropped out of her surgical residency in 2018 and does not have an active medical license [1][2][6]. She has since pursued a career as a wellness influencer and co-founded Levels Health, a company that promotes continuous glucose monitoring for people without diabetes [6]. According to a Washington Post analysis, Means earned over half a million dollars between 2024 and 2025 from deals with companies selling \"diagnostic testing,\" \"herbal remedies and wellness products,\" and \"teas, supplements, and elixirs\" [6].\n\n## Previous Controversial Positions\n\nBefore her nomination, Means embraced unconventional wellness theories, including talking to trees, suggesting natural disasters are \"communication from God,\" and calling the nation's health \"a spiritual crisis\" [1][2]. In her 2024 book \"Good Energy,\" co-written with her brother Calley Means (now a senior adviser to HHS Secretary Robert F. Kennedy Jr.), she advised readers to avoid tap water, conventionally grown food, and to \"trust themselves rather than their doctors\" [1][2]. The book recommends avoiding processed foods, seed oils, fluoride, birth control pills, and even \"bananas (when eaten alone)\" [6].\n\n## Key Hearing Moments\n\n### Vaccine Stance\nMeans faced intense scrutiny over her vaccine positions. When pressed by Senate health committee Chair Bill Cassidy (R-La.) on whether she would encourage vaccination against measles amid outbreaks, Means said \"Every individual needs to talk to their doctor before putting a medication in their body\" [5]. While she stated that \"vaccines save lives\" and \"I'm supportive of vaccination,\" she would not unequivocally urge people to get vaccinated [5]. When asked if vaccines cause autism, Means \"did not rule out a linkage\" and said \"Science is never settled\" [5].\n\n### Financial Conflicts\nSenator Chris Murphy pressed Means on her financial relationships with companies whose products she promoted, citing analysis showing she \"frequently failed to make proper disclosures to her readers\" [1][2]. Means responded: \"I have a strong feeling that the way in which they gathered this data is done intentionally to create these claims that you're making\" [1][2]. She stated she has spent \"the last several months working with the Office of Government Ethics to be fully compliant\" with conflict of interest rules [1][2].\n\n### MAHA Agenda Questions\nSen. Ed Markey (D-Mass.) questioned Means about President Trump's executive order boosting the herbicide glyphosate, which has drawn backlash from the MAHA movement. Means did not criticize the order and said \"we cannot overturn the entire agriculture system overnight\" [5].\n\n## Strategic Positioning\n\nDuring the hearing, Means emphasized her Stanford medical degree and sought common ground with senators, avoiding her typical discussions of psychedelics, raw milk, or lengthy criticisms of birth control [1][2]. She described her goal as being \"a unifying, practical messenger that brings people together around issues that I think every family cares about\" [5]. This approach contrasted with RFK Jr.'s more confrontational style when testifying before the same committee [5].",
+  "citations": [
+    {
+      "index": 1,
+      "articleId": "3bf02650-7203-4518-b227-d5b232d43857",
+      "source": "The Atlantic",
+      "title": "MAHA, Subdued",
+      "url": "https://www.theatlantic.com/health/2026/02/casey-means-confirmation-maha-subdued/686147/?utm_source=feed",
+      "quote": "Casey Means has, to say the least, modified her tone. When she testified today in front of the Senate's health committee, the nominee for surgeon general didn't, as she is normally wont to do, delve into her experiences with psychedelics or endorse raw milk."
+    },
+    {
+      "index": 2,
+      "articleId": "3bf02650-7203-4518-b227-d5b232d43857",
+      "source": "The Atlantic",
+      "title": "Well, That Didn't Sound Like Casey Means",
+      "url": "https://www.theatlantic.com/health/2026/02/casey-means-confirmation-maha-subdued/686147/?utm_source=feed",
+      "quote": "The nominee for surgeon general kept her most eccentric wellness beliefs largely in check at her confirmation hearing."
+    },
+    {
+      "index": 3,
+      "articleId": "7022aaaf-6bff-415a-88c5-4d61339c58aa",
+      "source": "The Hill",
+      "title": "Trump's atypical surgeon general pick faces Senate scrutiny: Key takeaways",
+      "url": "https://thehill.com/policy/healthcare/5755656-casey-means-senate-confirmation-hearing-takeaways/",
+      "quote": "Means appeared before the Senate Committee on Health, Education, Labor and Pensions (HELP) on Wednesday, about four months after her initial…"
+    },
+    {
+      "index": 5,
+      "articleId": "4a6317eb-dca0-4445-b341-a987ff49c848",
+      "source": "Axios",
+      "title": "Surgeon general nominee won't say she urges vaccination",
+      "url": "https://www.axios.com/2026/02/25/surgeon-general-casey-means-hearing-kennedy",
+      "quote": "Pressed by Senate health committee Chair Bill Cassidy (R-La.) on whether she would encourage vaccination against measles amid a series of outbreaks across the country, Means said: 'Every individual needs to talk to their doctor before putting a medication in their body.'"
+    },
+    {
+      "index": 6,
+      "articleId": "25a6d634-1784-43d2-a8e1-bbca76d4b673",
+      "source": "Ars Technica",
+      "title": "Trump's MAHA influencer pick for surgeon general goes before Senate",
+      "url": "https://arstechnica.com/health/2026/02/rfk-jr-ally-casey-means-faces-senate-for-surgeon-general-confirmation-hearing/",
+      "quote": "Though Means holds a medical degree from Stanford Medical School, she dropped out of her medical residency and holds no active medical license. Instead, she has pursued a career as a wellness influencer"
+    }
+  ],
+  "keyDevelopments": [
+    "Casey Means appeared before Senate Health Committee for surgeon general confirmation hearing on February 25, 2026",
+    "Means significantly moderated her tone compared to previous public statements and writings",
+    "She avoided directly endorsing vaccination when pressed by senators, saying individuals should consult doctors",
+    "Means did not rule out a link between vaccines and autism, stating 'science is never settled'",
+    "She faced questions about financial conflicts of interest related to companies she has promoted",
+    "Means defended Trump's glyphosate executive order despite MAHA movement opposition",
+    "The hearing was delayed from October 2025 due to the birth of her child"
+  ],
+  "generatedAt": "2026-02-26T18:11:56.427Z",
+  "model": "anthropic/claude-sonnet-4",
+  "tokenCount": 4832
+}

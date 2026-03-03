@@ -1,0 +1,300 @@
+[
+  {
+    "id": "3c8dc7fd-0447-4f2b-94c4-d686d9522445",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "Galaxy S26 starts at $899",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica",
+      "The Verge",
+      "CNBC",
+      "TechCrunch"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "9665d792-1b0f-4b0d-bc2a-fa84efad4aca",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "Galaxy S26+ starts at $1,099",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica",
+      "The Verge",
+      "CNBC",
+      "TechCrunch"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "b245a7f9-0837-448f-97e1-ebdb00c26653",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "Galaxy S26 Ultra starts at $1,299",
+    "status": "disputed",
+    "supportingSources": [
+      "Ars Technica",
+      "The Verge",
+      "CNBC"
+    ],
+    "disputingSources": [
+      "TechCrunch"
+    ],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "fa2115f0-6a51-44f3-9f54-3ccfa72e1e3b",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "Galaxy S26 Ultra starts at $1,200",
+    "status": "disputed",
+    "supportingSources": [
+      "TechCrunch"
+    ],
+    "disputingSources": [
+      "Ars Technica",
+      "The Verge",
+      "CNBC"
+    ],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "ca6d2cdd-c6f2-4cb9-8ae6-a79ac48076bd",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "S26 and S26+ cost $100 more than their predecessors",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica",
+      "CNBC",
+      "The Verge"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "3fb9403b-0a10-4755-b7ce-e16f666f0468",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "S26 Ultra price remained flat compared to S25 Ultra",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica",
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "0c18ae35-e22e-4c97-892d-b19204a15d66",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "All phones use Snapdragon 8 Elite Gen 5 processor",
+    "status": "disputed",
+    "supportingSources": [
+      "Ars Technica",
+      "The Verge",
+      "CNBC"
+    ],
+    "disputingSources": [
+      "TechCrunch"
+    ],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "d45d7e95-bd22-4281-9542-22eb7c3ef2b1",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "Samsung using Exynos 2600 processor for S26 and S26+ in some geographies",
+    "status": "undisputed",
+    "supportingSources": [
+      "TechCrunch"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "0066ab83-b3cd-4288-b956-e1c7a42bd723",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "S26 Ultra has privacy display feature",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Verge",
+      "CNBC",
+      "TechCrunch"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "25bb8d38-463d-4189-8817-9365842d271c",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "S26 Ultra regressed from titanium to aluminum construction",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "6e547842-4a6c-44b8-aa7f-9b36370786ac",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "S26 display size is 6.3 inches",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica",
+      "The Verge"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "2bfdf0b7-ed5e-40db-b0aa-f3ae975f40da",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "S26 battery is 4,300mAh",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica",
+      "The Verge"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "ff1f75dc-b8a4-4acb-a9a5-c233c3be68f3",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "S26 Ultra battery is 5,000mAh",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica",
+      "The Verge",
+      "TechCrunch"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "30e80c1d-2319-41e6-8eed-d6300750a557",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "S26 base model comes with 256GB storage instead of 128GB",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Verge"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "9714fb43-36b3-41c6-a93e-eac73ac7fb11",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "S26 base model comes with 128GB or 256GB storage options",
+    "status": "disputed",
+    "supportingSources": [
+      "The Verge"
+    ],
+    "disputingSources": [
+      "Ars Technica"
+    ],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "c23439e8-5786-4232-b9f3-4ee2756c5edd",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "S26 base model comes with 256GB or 512GB storage options",
+    "status": "disputed",
+    "supportingSources": [
+      "Ars Technica"
+    ],
+    "disputingSources": [
+      "The Verge"
+    ],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "09f030c0-3e7b-420f-b3d7-3369a0b749a5",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "S26 lacks mmWave 5G support",
+    "status": "disputed",
+    "supportingSources": [
+      "The Verge"
+    ],
+    "disputingSources": [
+      "Ars Technica"
+    ],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "42e5d8ca-6b21-4b96-a5bd-e6f41e15fa71",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "S26 has Sub6 5G support",
+    "status": "undisputed",
+    "supportingSources": [
+      "Ars Technica"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "007188a6-7444-42ed-920c-e3552a59d988",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "Phones will be available on March 11th",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Verge",
+      "TechCrunch"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "147209cb-499c-4088-9a7a-8210553d27bf",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "Memory chip shortage is driving smartphone price increases",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "58833af0-ca2e-419e-b177-ae6f72078014",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "Average smartphone selling price expected to rise 6.9% in 2026",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  },
+  {
+    "id": "b6590aeb-dab5-44b8-a593-a85b0d03d54f",
+    "clusterId": "c16a2291-01bd-4674-bac6-7e521b57504c",
+    "text": "Memory chip shortage expected to persist until 2027 or early 2028",
+    "status": "undisputed",
+    "supportingSources": [
+      "CNBC"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:25:22.038Z",
+    "lastUpdatedAt": "2026-02-26T18:25:22.038Z"
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "clusterId": "7e5e1491-0052-4ed6-b3dc-ea6359fd3d37",
+  "frames": [
+    {
+      "name": "Diplomatic Meeting Coverage",
+      "description": "Frames the story as a standard bilateral diplomatic meeting between allies, emphasizing the personal relationship between Trump and Merz",
+      "sources": [
+        "NBC News",
+        "ABC News"
+      ],
+      "emphasis": "Trump calling Merz a 'friend,' their countries' strong relationship, and discussion of trade deals"
+    },
+    {
+      "name": "War Context Frame",
+      "description": "Emphasizes this as Trump's first meeting with a world leader since the Iran conflict began, highlighting the military situation",
+      "sources": [
+        "NBC News",
+        "ABC News"
+      ],
+      "emphasis": "Iran's military capabilities being 'knocked out,' the ongoing nature of the conflict, and its impact on diplomacy"
+    },
+    {
+      "name": "European Unity/Division Frame",
+      "description": "Focuses on varying levels of European support for U.S. actions and diplomatic tensions within the alliance",
+      "sources": [
+        "DW",
+        "The Hill"
+      ],
+      "emphasis": "Mixed European support, criticism of UK and Spain as 'uncooperative,' while praising Germany's cooperation"
+    },
+    {
+      "name": "Strategic Policy Discussion Frame",
+      "description": "Presents the meeting as substantive policy discussions on multiple fronts including Iran, Ukraine, and trade",
+      "sources": [
+        "DW"
+      ],
+      "emphasis": "Merz pushing for long-term Middle East strategy, Ukraine territorial integrity, and 'common approach' to regional security"
+    }
+  ],
+  "outlierPerspectives": [
+    "DW's focus on Merz's diplomatic strategy of 'gently pushing' Trump on issues while maintaining alliance unity",
+    "Trump's claim that he 'might have forced Israel's hand' rather than being pulled into war by Israel",
+    "Detailed coverage of Trump's criticism of UK base access denial and energy/immigration policies"
+  ],
+  "missingContext": [
+    "Timeline and escalation details of the Iran conflict",
+    "Specific nature of the military operations being described",
+    "Details about the previous ceasefire proposal that 'sparked heated response from European partners'",
+    "Clarification of Trump's claim about 'settling eight wars'",
+    "Economic implications of the ongoing conflict",
+    "Congressional or domestic political reaction to the war"
+  ],
+  "generatedAt": "2026-03-03T19:56:32.413Z",
+  "model": "anthropic/claude-sonnet-4"
+}

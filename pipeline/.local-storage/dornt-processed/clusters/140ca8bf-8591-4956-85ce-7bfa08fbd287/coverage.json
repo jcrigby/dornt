@@ -1,0 +1,46 @@
+{
+  "clusterId": "140ca8bf-8591-4956-85ce-7bfa08fbd287",
+  "frames": [
+    {
+      "name": "Legal Victory Frame",
+      "description": "Presents the story as a vindication of constitutional principles and rule of law, emphasizing the law firms' successful resistance to unconstitutional orders",
+      "sources": [
+        "Axios",
+        "The Guardian US"
+      ],
+      "emphasis": "Constitutional protections, judicial rulings declaring orders unconstitutional, and firms standing up for principles"
+    },
+    {
+      "name": "Administrative Chaos Frame",
+      "description": "Focuses on the DOJ's contradictory actions and lack of explanation for the reversal, highlighting governmental dysfunction",
+      "sources": [
+        "The Hill",
+        "NYT",
+        "WaPo Politics"
+      ],
+      "emphasis": "The 'stunning reversal,' 'abrupt' change, and absence of explanation from the administration"
+    },
+    {
+      "name": "David vs. Goliath Frame",
+      "description": "Portrays the law firms as principled defenders against presidential intimidation, contrasting them with firms that 'capitulated'",
+      "sources": [
+        "The Guardian US"
+      ],
+      "emphasis": "Firms that 'stood up to Trump' versus those showing 'capitalistic cowardice'"
+    }
+  ],
+  "outlierPerspectives": [
+    "The Guardian's framing of other law firms' settlements as 'capitalistic cowardice' - a moral judgment not echoed by other outlets",
+    "Axios's business-focused angle on Paul Weiss's cost-benefit analysis for their $40 million settlement deal"
+  ],
+  "missingContext": [
+    "Specific details about what the executive orders actually mandated or prohibited",
+    "Timeline of when the original executive orders were issued",
+    "Legal precedents for presidential actions against law firms",
+    "Potential consequences the targeted firms faced beyond loss of security clearances and building access",
+    "Details about the $1 billion in pro bono work commitments from settling firms",
+    "Explanation of why the DOJ reversed course within 24 hours"
+  ],
+  "generatedAt": "2026-03-03T19:48:41.491Z",
+  "model": "anthropic/claude-sonnet-4"
+}

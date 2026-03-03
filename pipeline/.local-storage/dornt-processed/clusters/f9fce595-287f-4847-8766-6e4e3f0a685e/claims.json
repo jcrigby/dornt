@@ -1,0 +1,247 @@
+[
+  {
+    "id": "1b2f4a2b-bf7d-4153-884e-72da64867a5e",
+    "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+    "text": "Marielle Franco was 38 years old when she was killed",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World",
+      "The Guardian World",
+      "UPI"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:30:01.548Z",
+    "lastUpdatedAt": "2026-02-26T18:30:01.548Z"
+  },
+  {
+    "id": "32b4ed39-3d4c-4c4b-984b-67092ff420e5",
+    "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+    "text": "Anderson Gomes was Franco's driver and was killed alongside her",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World",
+      "The Guardian World",
+      "UPI"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:30:01.548Z",
+    "lastUpdatedAt": "2026-02-26T18:30:01.548Z"
+  },
+  {
+    "id": "c2074410-c158-404d-a496-1eb02c1265a3",
+    "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+    "text": "The murder occurred in 2018",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World",
+      "NYT World",
+      "The Guardian World",
+      "UPI"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:30:01.548Z",
+    "lastUpdatedAt": "2026-02-26T18:30:01.548Z"
+  },
+  {
+    "id": "320ea3a3-adea-4609-beda-9adb87ccaa84",
+    "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+    "text": "Brothers Domingos Inácio Brazão and João Francisco Inácio Brazão were convicted of ordering the murder",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World",
+      "The Guardian World",
+      "UPI"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:30:01.548Z",
+    "lastUpdatedAt": "2026-02-26T18:30:01.548Z"
+  },
+  {
+    "id": "87cc6860-ffc2-490d-9cc6-57eb0812fcd7",
+    "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+    "text": "The Brazão brothers were sentenced to more than 76 years each",
+    "status": "evolving",
+    "supportingSources": [
+      "BBC World",
+      "UPI",
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:30:01.548Z",
+    "lastUpdatedAt": "2026-02-26T18:30:01.548Z"
+  },
+  {
+    "id": "124565ee-2bb7-40e0-978d-a73b87c457a0",
+    "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+    "text": "The Supreme Court decision was unanimous",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World",
+      "UPI",
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:30:01.548Z",
+    "lastUpdatedAt": "2026-02-26T18:30:01.548Z"
+  },
+  {
+    "id": "72b2a426-ca4e-4c46-8ebf-5378c06ee494",
+    "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+    "text": "Franco was targeted because she opposed housing developments that benefited militia groups",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World",
+      "The Guardian World",
+      "UPI"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:30:01.548Z",
+    "lastUpdatedAt": "2026-02-26T18:30:01.548Z"
+  },
+  {
+    "id": "23a7e7cf-8e96-4f66-b8fd-aff9517a1a9e",
+    "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+    "text": "Franco was a gay black woman",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World",
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:30:01.548Z",
+    "lastUpdatedAt": "2026-02-26T18:30:01.548Z"
+  },
+  {
+    "id": "85c33f07-aba0-4aa3-8833-2f61e69b3c46",
+    "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+    "text": "Ronnie Lessa confessed to firing the shots and was sentenced to 78 years and nine months",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World",
+      "The Guardian World",
+      "UPI"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:30:01.548Z",
+    "lastUpdatedAt": "2026-02-26T18:30:01.548Z"
+  },
+  {
+    "id": "58361136-4baf-4c59-adca-98379eaa6e0f",
+    "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+    "text": "Élcio de Queiroz was the driver and received 59 years and eight months",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World",
+      "UPI"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:30:01.548Z",
+    "lastUpdatedAt": "2026-02-26T18:30:01.548Z"
+  },
+  {
+    "id": "8d9af28a-640a-4441-86da-2037260e7625",
+    "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+    "text": "The former police officers were sentenced in 2024",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World",
+      "The Guardian World",
+      "UPI"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:30:01.548Z",
+    "lastUpdatedAt": "2026-02-26T18:30:01.548Z"
+  },
+  {
+    "id": "10bda469-f498-4aea-8338-cb564b0d3d33",
+    "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+    "text": "Rivaldo Barbosa was convicted of obstruction of justice but not murder",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI",
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:30:01.548Z",
+    "lastUpdatedAt": "2026-02-26T18:30:01.548Z"
+  },
+  {
+    "id": "61a320e9-905e-4681-a261-7f5aca9489fc",
+    "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+    "text": "Fernanda Chaves was Franco's press officer who survived the attack",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World",
+      "UPI"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:30:01.548Z",
+    "lastUpdatedAt": "2026-02-26T18:30:01.548Z"
+  },
+  {
+    "id": "6c68151e-a9df-457f-a366-d9ff44d42c80",
+    "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+    "text": "The brothers were also convicted of attempted murder of Fernanda Chaves",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:30:01.548Z",
+    "lastUpdatedAt": "2026-02-26T18:30:01.548Z"
+  },
+  {
+    "id": "88088a6a-bdb5-451b-b727-72e8f0d79716",
+    "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+    "text": "Anielle Franco is Marielle Franco's sister and serves as minister for racial equality",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World",
+      "The Guardian World",
+      "UPI"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:30:01.548Z",
+    "lastUpdatedAt": "2026-02-26T18:30:01.548Z"
+  },
+  {
+    "id": "9633385e-405f-493b-8a0c-ac3f521616ca",
+    "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+    "text": "Judge Alexandre de Moraes said the brothers 'didn't just have contact with the militia. They were the militia'",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World",
+      "UPI"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:30:01.548Z",
+    "lastUpdatedAt": "2026-02-26T18:30:01.548Z"
+  },
+  {
+    "id": "e0df2c90-c880-4da8-baf2-bb7c6d3147cf",
+    "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+    "text": "Anderson Gomes was 39 years old when killed",
+    "status": "undisputed",
+    "supportingSources": [
+      "UPI",
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:30:01.548Z",
+    "lastUpdatedAt": "2026-02-26T18:30:01.548Z"
+  },
+  {
+    "id": "51af0ea6-92e3-4c32-a401-eec5587b458f",
+    "clusterId": "f9fce595-287f-4847-8766-6e4e3f0a685e",
+    "text": "The murder was carried out as a drive-by shooting",
+    "status": "undisputed",
+    "supportingSources": [
+      "BBC World",
+      "UPI",
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:30:01.548Z",
+    "lastUpdatedAt": "2026-02-26T18:30:01.548Z"
+  }
+]

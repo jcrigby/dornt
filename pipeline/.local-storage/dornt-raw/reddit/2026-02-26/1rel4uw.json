@@ -1,0 +1,43 @@
+{
+  "id": "1rel4uw",
+  "subreddit": "technology",
+  "title": "Report: Data centers’ air pollution associated with lung issues, death",
+  "url": "https://www.nbc4i.com/news/local-news/columbus/report-data-centers-air-pollution-associated-with-lung-issues-death/",
+  "selftext": "",
+  "author": "IntelligentYinzer",
+  "score": 2990,
+  "numComments": 86,
+  "createdUtc": 1772043458,
+  "permalink": "https://reddit.com/r/technology/comments/1rel4uw/report_data_centers_air_pollution_associated_with/",
+  "fetchedAt": "2026-02-26T17:22:22.563Z",
+  "topComments": [
+    {
+      "id": "o7dcp8r",
+      "author": "_moistee",
+      "body": "TLDR (or too long, didn’t include enough details anyway): any business that operates using backup diesel or natural gas generators during a prolonged power outage omits nitrogen dioxide. This includes schools, hospitals, your local Walmart, etc, and yes, data centers too.",
+      "score": 301,
+      "createdUtc": 1772043995
+    },
+    {
+      "id": "o7dm5bp",
+      "author": "Haunterblademoi",
+      "body": "Big Tech doesn't care about that, because what matters to them is money.",
+      "score": 46,
+      "createdUtc": 1772046545
+    },
+    {
+      "id": "o7dynkx",
+      "author": "PurpleStabsPixel",
+      "body": "I'm sure Air pollution is involved in some way but the dangers of AI Data Centers are mostly Noise pollution. Here's a good video on it - https://youtu.be/_bP80DEAbuo?si=_lG6bJXLT8WF2SMM",
+      "score": 29,
+      "createdUtc": 1772050032
+    },
+    {
+      "id": "o7dm62f",
+      "author": "Aadi_880",
+      "body": "Misleading ass title. And frankly wrong information in article.\n\nData centers are not causing pollution like some production factory with chimneys. Data centers themselves, if they ever release an air particle, will be steam from harmless coolant water.\n\nThe article is talking about the use of ulterior power sources, non-grid based power which involves things like diesel generators, which is primarily used as backup power. Many facilities use this. Hospitals, Schools etc. Not just data centers.\n\nSo, their point is: \"Data centers are causing pollution because they use electricity\"... Stupid ass statement.\n\nThe so called \"deaths\" in the title is a nothing burger. It only states that air pollution related complications account for 100,000-200,000 yearly premature deaths. **But the article does not say how many of these deaths were due to data centers.**\n\nThe only news worthy information:\n\n* Advocacy groups are asking Ohio to have data centers do an health impact analysis before they are built.\n* ... That's it. Literally nothing else new news worthy.",
+      "score": 17,
+      "createdUtc": 1772046550
+    }
+  ]
+}

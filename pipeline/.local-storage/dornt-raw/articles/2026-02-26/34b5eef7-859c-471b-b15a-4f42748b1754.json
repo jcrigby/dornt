@@ -1,0 +1,17 @@
+{
+  "id": "34b5eef7-859c-471b-b15a-4f42748b1754",
+  "url": "https://arstechnica.com/cars/2026/02/ford-is-recalling-4-3-million-trucks-and-suvs-to-fix-a-towing-software-bug/",
+  "normalizedUrl": "https://arstechnica.com/cars/2026/02/ford-is-recalling-4-3-million-trucks-and-suvs-to-fix-a-towing-software-bug",
+  "title": "Ford is recalling 4.3 million trucks and SUVs to fix a towing software bug",
+  "source": "Ars Technica",
+  "feedUrl": "https://feeds.arstechnica.com/arstechnica/index",
+  "publishedAt": "Thu, 26 Feb 2026 16:53:50 +0000",
+  "fetchedAt": "2026-02-26T17:24:14.874Z",
+  "author": "\n                    Jonathan M. Gitlin\n                ",
+  "contentHash": "942e6fea16334d84",
+  "fullText": "Last year, Ford set a new industry record: It issued 152 safety recalls, almost twice the previous high set by General Motors back in 2014. More than 24 million vehicles were recalled in the US last year, and more than half—13 million—were either Fords or Lincolns. By contrast, Tesla issued 11 recalls, affecting just 745,000 vehicles.\nTruth be told, Ford’s not doing too hot in 2026, either; it’s currently leading the National Highway Traffic Safety Administration’s chart for recalls this year, with 10 on the books already. The latest is a big one, affecting almost 4.4 million trucks, vans, and SUVs.\nThe recall affects the Ford Maverick (model years 2022-2026), Ford Ranger (MY 2024-2026), Ford Expedition (MY 2022-2026), Ford E-Transit (MY 2026), Ford F-150 (MY 2021-2026), Ford F-250 SD (MY 2022-2026), and the Lincoln Navigator (MY 2022-2026). Just the F-150s alone number 2.3 million.\nThe problem is with the vehicles’ integrated trailer module, which allows the lights and brakes on a trailer to work in conjunction with those of the towing vehicle. According to the recall notice, a “software vulnerability within the ITRM allows for a potential race condition to occur between the ITRM and the CAN Standy [sic] Control bit (STBCC) during initial power-up.” If that happens, the trailer will have no lights or brakes, and you’ll get a pop-up alert on the main instrument display.",
+  "summary": "An OTA update will be pushed out in a few weeks; owners can also go to a dealership.",
+  "categories": [
+    "tech"
+  ]
+}

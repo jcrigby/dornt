@@ -1,0 +1,52 @@
+{
+  "clusterId": "9d104137-80b5-48f3-9ce5-3444333c6e08",
+  "frames": [
+    {
+      "name": "Regional Diplomatic Engagement",
+      "description": "Frames the story as a diplomatic summit where Caribbean leaders are seeking to reset relations with the U.S. amid policy concerns",
+      "sources": [
+        "Foreign Policy"
+      ],
+      "emphasis": "The Caribbean Community summit as a venue for addressing U.S.-Caribbean relations and the arrival of Secretary Rubio for dialogue"
+    },
+    {
+      "name": "Humanitarian Crisis Concern",
+      "description": "Emphasizes the humanitarian impact of U.S. policies, particularly the oil embargo's effects on Cuba's basic services",
+      "sources": [
+        "Foreign Policy"
+      ],
+      "emphasis": "Energy rationing, suspended medical surgeries, halted flights, and broader regional destabilization fears"
+    },
+    {
+      "name": "U.S. Security Doctrine Implementation",
+      "description": "Presents the Donroe Doctrine as a comprehensive security strategy involving military action and economic pressure",
+      "sources": [
+        "Foreign Policy"
+      ],
+      "emphasis": "Military strikes on drug trafficking, the Maduro capture operation, and broader hemispheric security objectives"
+    },
+    {
+      "name": "Mixed Regional Response",
+      "description": "Highlights the divided Caribbean response to U.S. actions, with some praise and significant concerns",
+      "sources": [
+        "Foreign Policy"
+      ],
+      "emphasis": "Some leaders praising military actions (particularly Maduro's capture) while many express concern about humanitarian and economic consequences"
+    }
+  ],
+  "outlierPerspectives": [
+    "The Treasury Department's apparent policy softening on Cuban oil restrictions, mentioned only briefly as new guidance allowing Venezuelan oil resales for humanitarian purposes",
+    "The specific framing of this as a 'decisive hour' for the Caribbean region amid shifting global order and uncertain supply chains"
+  ],
+  "missingContext": [
+    "Specific details about which Caribbean leaders support vs. oppose U.S. actions",
+    "The full scope and legal framework of the Donroe Doctrine beyond the mentioned actions",
+    "Economic data on the actual impact of the oil embargo on Cuba and regional trade",
+    "Details about the Treasury Department's new guidance and its practical implications",
+    "Historical context comparing the Donroe Doctrine to previous U.S. Caribbean policies",
+    "Perspectives from Cuban officials or other affected parties beyond Caribbean leaders",
+    "Specific outcomes or agreements from the Caribbean Community summit discussions"
+  ],
+  "generatedAt": "2026-02-26T18:19:51.640Z",
+  "model": "anthropic/claude-sonnet-4"
+}

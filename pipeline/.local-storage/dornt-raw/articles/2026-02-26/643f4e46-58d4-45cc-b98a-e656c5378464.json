@@ -1,0 +1,16 @@
+{
+  "id": "643f4e46-58d4-45cc-b98a-e656c5378464",
+  "url": "https://www.cnbc.com/2026/02/26/google-launches-nano-banana-2-updating-its-viral-ai-image-generator.html",
+  "normalizedUrl": "https://cnbc.com/2026/02/26/google-launches-nano-banana-2-updating-its-viral-ai-image-generator.html",
+  "title": "Google launches Nano Banana 2, updating its viral AI image generator",
+  "source": "CNBC",
+  "feedUrl": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+  "publishedAt": "Thu, 26 Feb 2026 16:56:29 GMT",
+  "fetchedAt": "2026-02-26T17:24:20.170Z",
+  "contentHash": "bc3741e104542f1b",
+  "fullText": "Omer Taha Cetin | Anadolu | Getty ImagesGoogle on Thursday rolled out Nano Banana 2, an update to its wildly popular artificial intelligence image generator.The company launched the first Nano Banana in August, and the service quickly went viral. Nano Banana Pro hit the market in November, built on Gemini 3 Pro.Google said in a blog post that Nano Banana 2 has advanced world knowledge, pulling real-time information from Gemini for more accurate renderings. The company also highlighted the new model's increased speed, enhanced instruction following and more precise text renderings for \"marketing mockups or greeting cards.\"Read more CNBC tech newsFirst look at Nvidia's new AI system Vera Rubin is 10 times more efficient than its predecessorSamsung's S26 gives an advance look at what the Google-powered Apple Siri could doThrive Capital invested about $1 billion in OpenAI at a $285 billion valuation, source saysHead of Amazon's AGI lab is leaving the companyThe company said Nano Banana Pro will remain available for \"high-fidelity tasks requiring maximum factual accuracy,\" while Nano Banana 2 will be focused on \"rapid generation, precise instruction following and integrated image-search grounding.\"Nano Banana 2 is replacing its predecessor across Gemini's Fast, Thinking and Pro models. AI image and video generators are surging in popularity among consumers, who are able to create increasingly advanced and detailed graphics and videos with just a few text-based prompts. OpenAI launched its video-generation tool Sora in 2024, and CEO Sam Altman wrote last March that the high usage was \"melting\" its AI processors.Adobe has pushed to further integrate AI into its creative tool suite with its photo and video generator Firefly.Creative companies have raised concerns about copyright infringement from the proliferation of generative AI tools. ByteDance has faced backlash from major Hollywood studios, including Disney and Paramount, for intellectual property violations surrounding its AI video-making tool Seedance.WATCH: Google unveils Nano Banana Pro image generator",
+  "summary": "Nano Banana 2 is Google's newest version of its Gemini AI image generator, with increased speed and real-time sourcing.",
+  "categories": [
+    "finance"
+  ]
+}

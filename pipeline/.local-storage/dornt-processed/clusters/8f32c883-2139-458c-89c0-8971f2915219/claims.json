@@ -1,0 +1,164 @@
+[
+  {
+    "id": "b9950805-89c2-4480-bd2a-6d944d573f9c",
+    "clusterId": "8f32c883-2139-458c-89c0-8971f2915219",
+    "text": "Judge Brian E. Murphy of the Federal District Court for the District of Massachusetts ruled against Trump's third-country deportation policy",
+    "status": "undisputed",
+    "supportingSources": [
+      "NYT Politics",
+      "Daily Wire",
+      "Fox Politics"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:17:52.430Z",
+    "lastUpdatedAt": "2026-02-26T18:17:52.430Z"
+  },
+  {
+    "id": "05730ff4-65bc-4d8f-8993-d7bb54abe011",
+    "clusterId": "8f32c883-2139-458c-89c0-8971f2915219",
+    "text": "Judge Murphy was appointed by former President Joe Biden",
+    "status": "undisputed",
+    "supportingSources": [
+      "Daily Wire",
+      "Fox Politics"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:17:52.430Z",
+    "lastUpdatedAt": "2026-02-26T18:17:52.430Z"
+  },
+  {
+    "id": "bf06a1ed-b613-4789-bdc5-a8d746ae72e9",
+    "clusterId": "8f32c883-2139-458c-89c0-8971f2915219",
+    "text": "The ruling was an 81-page decision",
+    "status": "undisputed",
+    "supportingSources": [
+      "Daily Wire"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:17:52.430Z",
+    "lastUpdatedAt": "2026-02-26T18:17:52.430Z"
+  },
+  {
+    "id": "c4d1ad9d-2dbc-4bab-9bdd-8aabc101c82a",
+    "clusterId": "8f32c883-2139-458c-89c0-8971f2915219",
+    "text": "The policy involves deporting illegal immigrants to countries where they have no ties/are not their home country",
+    "status": "undisputed",
+    "supportingSources": [
+      "NYT Politics",
+      "Daily Wire",
+      "Fox Politics"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:17:52.430Z",
+    "lastUpdatedAt": "2026-02-26T18:17:52.430Z"
+  },
+  {
+    "id": "5e4e1a1a-6e4e-4db2-a780-de51b042e255",
+    "clusterId": "8f32c883-2139-458c-89c0-8971f2915219",
+    "text": "The judge ruled the policy violates due process protections under the U.S. Constitution",
+    "status": "undisputed",
+    "supportingSources": [
+      "Daily Wire",
+      "Fox Politics"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:17:52.430Z",
+    "lastUpdatedAt": "2026-02-26T18:17:52.430Z"
+  },
+  {
+    "id": "00e3343f-30ed-4f86-8a4b-b1ee72eabb53",
+    "clusterId": "8f32c883-2139-458c-89c0-8971f2915219",
+    "text": "The Trump administration has deported illegal immigrants to countries like Eswatini, Rwanda, Ghana, El Salvador, and South Sudan",
+    "status": "undisputed",
+    "supportingSources": [
+      "Daily Wire"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:17:52.430Z",
+    "lastUpdatedAt": "2026-02-26T18:17:52.430Z"
+  },
+  {
+    "id": "e42113de-b619-40e0-b5c5-5d3183bc2d82",
+    "clusterId": "8f32c883-2139-458c-89c0-8971f2915219",
+    "text": "The government has 15 days to appeal the order",
+    "status": "undisputed",
+    "supportingSources": [
+      "Daily Wire"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:17:52.430Z",
+    "lastUpdatedAt": "2026-02-26T18:17:52.430Z"
+  },
+  {
+    "id": "8ee9cc29-29ac-4611-953c-c9bd886ab49f",
+    "clusterId": "8f32c883-2139-458c-89c0-8971f2915219",
+    "text": "The Supreme Court previously ruled in June against Murphy's previous order that prevented third-country deportations",
+    "status": "undisputed",
+    "supportingSources": [
+      "Daily Wire"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:17:52.430Z",
+    "lastUpdatedAt": "2026-02-26T18:17:52.430Z"
+  },
+  {
+    "id": "24a5b0ed-cf1e-486b-9d78-9488b6a9d604",
+    "clusterId": "8f32c883-2139-458c-89c0-8971f2915219",
+    "text": "Eight illegal immigrants with criminal records were deported to South Sudan following the Supreme Court ruling",
+    "status": "undisputed",
+    "supportingSources": [
+      "Daily Wire"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:17:52.430Z",
+    "lastUpdatedAt": "2026-02-26T18:17:52.430Z"
+  },
+  {
+    "id": "5ca05e51-c60a-45cc-bd99-b9b81a276455",
+    "clusterId": "8f32c883-2139-458c-89c0-8971f2915219",
+    "text": "The judge paused his ruling to allow for an appeal",
+    "status": "undisputed",
+    "supportingSources": [
+      "NYT Politics"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:17:52.430Z",
+    "lastUpdatedAt": "2026-02-26T18:17:52.430Z"
+  },
+  {
+    "id": "0e0bcbd3-7682-47d3-bbe5-b8d6ada3e920",
+    "clusterId": "8f32c883-2139-458c-89c0-8971f2915219",
+    "text": "The ruling exempts border crossers who are to face 'expedited removal'",
+    "status": "undisputed",
+    "supportingSources": [
+      "Daily Wire"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:17:52.430Z",
+    "lastUpdatedAt": "2026-02-26T18:17:52.430Z"
+  },
+  {
+    "id": "633bd442-f7f7-4d23-b126-a7e544fbebc4",
+    "clusterId": "8f32c883-2139-458c-89c0-8971f2915219",
+    "text": "A class-action lawsuit was filed in Boston challenging the DHS deportation process",
+    "status": "undisputed",
+    "supportingSources": [
+      "Fox Politics"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:17:52.430Z",
+    "lastUpdatedAt": "2026-02-26T18:17:52.430Z"
+  },
+  {
+    "id": "b2cd419b-0144-4295-af03-ced9c5313337",
+    "clusterId": "8f32c883-2139-458c-89c0-8971f2915219",
+    "text": "DHS officials have claimed 'undisputed authority' to deport criminal illegal aliens to third countries that have agreed to accept them",
+    "status": "undisputed",
+    "supportingSources": [
+      "Fox Politics"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:17:52.430Z",
+    "lastUpdatedAt": "2026-02-26T18:17:52.430Z"
+  }
+]

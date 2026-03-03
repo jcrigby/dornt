@@ -1,0 +1,211 @@
+[
+  {
+    "id": "953c5c9f-735c-4018-a90a-0659891fbfc6",
+    "clusterId": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+    "text": "Six U.S. service members have been killed in action",
+    "status": "evolving",
+    "supportingSources": [
+      "Axios",
+      "Vox"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:55:22.453Z",
+    "lastUpdatedAt": "2026-03-03T19:55:22.453Z"
+  },
+  {
+    "id": "1b403036-8c09-4608-978a-6cd8ddbd2b8b",
+    "clusterId": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+    "text": "Three U.S. service members were killed on Sunday",
+    "status": "undisputed",
+    "supportingSources": [
+      "Axios",
+      "Foreign Policy"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:55:22.453Z",
+    "lastUpdatedAt": "2026-03-03T19:55:22.453Z"
+  },
+  {
+    "id": "00956e76-8eca-4f5e-9159-924b89dcd423",
+    "clusterId": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+    "text": "Two additional U.S. service members' remains were recovered Monday from a facility struck during Iranian attacks",
+    "status": "undisputed",
+    "supportingSources": [
+      "Axios"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:55:22.453Z",
+    "lastUpdatedAt": "2026-03-03T19:55:22.453Z"
+  },
+  {
+    "id": "12c9b7e9-7a5c-4e4a-a27a-bf811c58a5ee",
+    "clusterId": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+    "text": "Four U.S. service members were injured",
+    "status": "disputed",
+    "supportingSources": [
+      "Vox"
+    ],
+    "disputingSources": [
+      "Foreign Policy"
+    ],
+    "firstSeenAt": "2026-03-03T19:55:22.453Z",
+    "lastUpdatedAt": "2026-03-03T19:55:22.453Z"
+  },
+  {
+    "id": "f39ee8dd-9900-4c5e-a9c9-d6021e6fa641",
+    "clusterId": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+    "text": "Five U.S. service members are seriously wounded",
+    "status": "undisputed",
+    "supportingSources": [
+      "Foreign Policy"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:55:22.453Z",
+    "lastUpdatedAt": "2026-03-03T19:55:22.453Z"
+  },
+  {
+    "id": "205f28c1-ee84-4af8-8284-fd77ace93e4f",
+    "clusterId": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+    "text": "Three U.S. fighter jets were shot down by Kuwaiti air defenses Sunday night",
+    "status": "undisputed",
+    "supportingSources": [
+      "Axios"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:55:22.453Z",
+    "lastUpdatedAt": "2026-03-03T19:55:22.453Z"
+  },
+  {
+    "id": "683e1e2e-f278-4f20-8564-184d8eedc07b",
+    "clusterId": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+    "text": "All six aircrew from the shot-down jets ejected safely and are in stable condition",
+    "status": "undisputed",
+    "supportingSources": [
+      "Axios"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:55:22.453Z",
+    "lastUpdatedAt": "2026-03-03T19:55:22.453Z"
+  },
+  {
+    "id": "b01d2162-6837-41fb-9034-e68949fa6f12",
+    "clusterId": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+    "text": "Iran's Supreme Leader Ali Khamenei was killed on the war's first day",
+    "status": "undisputed",
+    "supportingSources": [
+      "Vox",
+      "Foreign Policy"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:55:22.453Z",
+    "lastUpdatedAt": "2026-03-03T19:55:22.453Z"
+  },
+  {
+    "id": "550e62b6-b997-4aa7-abc1-6264f8f80a68",
+    "clusterId": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+    "text": "A missile struck a girls' elementary school in Minab, Iran, killing at least 175 people",
+    "status": "undisputed",
+    "supportingSources": [
+      "Vox"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:55:22.453Z",
+    "lastUpdatedAt": "2026-03-03T19:55:22.453Z"
+  },
+  {
+    "id": "27df4c82-5dbf-41e2-a00c-f0360e2dee19",
+    "clusterId": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+    "text": "At least 555 people have been killed in Iran according to Iran's Red Crescent",
+    "status": "disputed",
+    "supportingSources": [
+      "Vox"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:55:22.453Z",
+    "lastUpdatedAt": "2026-03-03T19:55:22.453Z"
+  },
+  {
+    "id": "14656f68-f571-41be-98c8-0a0f39edf05e",
+    "clusterId": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+    "text": "At least 742 civilians have been killed in Iran according to HRANA",
+    "status": "undisputed",
+    "supportingSources": [
+      "Vox"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:55:22.453Z",
+    "lastUpdatedAt": "2026-03-03T19:55:22.453Z"
+  },
+  {
+    "id": "448a2b4d-a306-4aa7-961c-189f470cb2a4",
+    "clusterId": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+    "text": "Trump estimated the war could last about four weeks",
+    "status": "undisputed",
+    "supportingSources": [
+      "Vox"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:55:22.453Z",
+    "lastUpdatedAt": "2026-03-03T19:55:22.453Z"
+  },
+  {
+    "id": "cacdb7b9-96d9-4822-baca-a3e50f187dae",
+    "clusterId": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+    "text": "The U.S. has sunk part of Iran's navy",
+    "status": "undisputed",
+    "supportingSources": [
+      "Vox"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:55:22.453Z",
+    "lastUpdatedAt": "2026-03-03T19:55:22.453Z"
+  },
+  {
+    "id": "effcb8f8-57e1-4d1f-9e88-5a7c138ca523",
+    "clusterId": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+    "text": "The U.S. struck Iranian ballistic missile and nuclear facilities",
+    "status": "undisputed",
+    "supportingSources": [
+      "Vox"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:55:22.453Z",
+    "lastUpdatedAt": "2026-03-03T19:55:22.453Z"
+  },
+  {
+    "id": "57e62fba-fa5d-4a1b-aeed-627f01be6059",
+    "clusterId": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+    "text": "Just 1 in 4 Americans supported the U.S. strikes on Iran according to Reuters/Ipsos poll",
+    "status": "undisputed",
+    "supportingSources": [
+      "Foreign Policy"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:55:22.453Z",
+    "lastUpdatedAt": "2026-03-03T19:55:22.453Z"
+  },
+  {
+    "id": "a408f51b-0d8b-4f5c-bf6e-e0d3d258fade",
+    "clusterId": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+    "text": "43 percent of Americans disapproved of the attack according to Reuters/Ipsos poll",
+    "status": "undisputed",
+    "supportingSources": [
+      "Foreign Policy"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:55:22.453Z",
+    "lastUpdatedAt": "2026-03-03T19:55:22.453Z"
+  },
+  {
+    "id": "2348cef6-e78d-4ab8-9439-f56eecfc2cee",
+    "clusterId": "7c79bbb5-5135-44e0-b3b4-39655e3f0dd4",
+    "text": "Multiple high-ranking Iranian officials were killed including Ali Shamkhani, Mohammed Pakpour, Amir Nasirzadeh, and Abdolrahim Mousavi",
+    "status": "undisputed",
+    "supportingSources": [
+      "Foreign Policy"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:55:22.453Z",
+    "lastUpdatedAt": "2026-03-03T19:55:22.453Z"
+  }
+]

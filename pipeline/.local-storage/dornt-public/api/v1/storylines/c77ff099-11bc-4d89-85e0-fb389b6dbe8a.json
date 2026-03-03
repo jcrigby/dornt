@@ -1,0 +1,14 @@
+{
+  "id": "c77ff099-11bc-4d89-85e0-fb389b6dbe8a",
+  "title": "Trump Administration Healthcare Policy Changes",
+  "description": "Healthcare policy initiatives and enforcement actions by the Trump administration affecting various programs and pricing models",
+  "clusterIds": [
+    "2766eb4c-12f5-49b1-bfd9-b7481eed0d4c",
+    "990b1f94-1769-4ee0-8176-69266ea89516",
+    "2c327508-a138-4e59-9937-6a549ca252b5"
+  ],
+  "arc": "The administration is implementing new healthcare policies including Merck's cancer drug entering a Medicaid pilot program under a 'Most-Favored Nations' pricing model, freezing some Medicaid funding to Minnesota over alleged fraud concerns, and facing Senate scrutiny over Surgeon General nominee Casey Means' vaccination stance",
+  "startedAt": "2026-02-26T18:44:36.184Z",
+  "updatedAt": "2026-03-03T20:06:59.054Z",
+  "status": "ongoing"
+}

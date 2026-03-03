@@ -1,0 +1,74 @@
+{
+  "clusterId": "a54e3a32-c4aa-448d-b397-a45b7a7c9d91",
+  "stakeholders": [
+    {
+      "name": "Jacinda Ardern",
+      "role": "Former New Zealand Prime Minister, current international figure",
+      "position": "Seeking new opportunities while maintaining international profile",
+      "influence": "high"
+    },
+    {
+      "name": "New Zealand Government",
+      "role": "Current administration dealing with emigration crisis",
+      "position": "Facing political embarrassment from high-profile departures",
+      "influence": "high"
+    },
+    {
+      "name": "Australian Government",
+      "role": "Beneficiary of skilled migration from New Zealand",
+      "position": "Welcoming high-profile New Zealand migrants",
+      "influence": "medium"
+    },
+    {
+      "name": "New Zealand Labour Party",
+      "role": "Ardern's former political party",
+      "position": "Potentially damaged by association with emigration trend",
+      "influence": "medium"
+    },
+    {
+      "name": "New Zealand Citizens",
+      "role": "Population experiencing economic pressures driving emigration",
+      "position": "Increasingly considering departure due to economic conditions",
+      "influence": "low"
+    }
+  ],
+  "predictions": [
+    {
+      "text": "Ardern will establish permanent residency in Australia within 12-18 months",
+      "likelihood": "likely",
+      "timeframe": "12-18 months",
+      "basis": "Family has been 'travelling for years' and is now 'basing themselves' in Australia, suggesting transition from temporary to permanent arrangement"
+    },
+    {
+      "text": "New Zealand's emigration crisis will intensify political pressure on current government",
+      "likelihood": "likely",
+      "timeframe": "6-12 months",
+      "basis": "Ardern's high-profile departure amplifies existing narrative about New Zealand's economic struggles and brain drain"
+    },
+    {
+      "text": "Ardern will take on formal role with Australian institution or organization",
+      "likelihood": "possible",
+      "timeframe": "6-18 months",
+      "basis": "Spokesperson cited 'work opportunities' as reason for move, and Ardern's international profile makes her attractive to Australian organizations"
+    },
+    {
+      "text": "Political opposition in New Zealand will use Ardern's departure as campaign issue",
+      "likelihood": "likely",
+      "timeframe": "immediate to next election cycle",
+      "basis": "High-profile departures provide powerful symbolic ammunition for criticizing government economic policies"
+    }
+  ],
+  "historicalContext": "Ardern's departure represents the latest chapter in a long history of trans-Tasman migration, but occurs during New Zealand's most severe emigration crisis in recent memory. Her move follows a pattern of high-profile New Zealanders relocating to Australia for economic opportunities, but carries unique symbolic weight given her recent role as Prime Minister and international progressive icon. The timing coincides with New Zealand facing its worst economic conditions in years, with high unemployment and living costs driving record emigration numbers. This echoes previous waves of New Zealand emigration to Australia during economic downturns, but the current scale - with over 60% of emigrants choosing Australia - represents an unprecedented challenge to New Zealand's demographic and economic stability.",
+  "implications": [
+    "Symbolic validation of New Zealand's economic struggles and emigration crisis",
+    "Potential acceleration of skilled worker exodus from New Zealand to Australia",
+    "Political ammunition for opposition parties to criticize current government's economic management",
+    "Reinforcement of Australia's position as preferred destination for New Zealand emigrants",
+    "Possible impact on New Zealand Labour Party's future electoral prospects",
+    "Demonstration of trans-Tasman mobility rights facilitating high-profile relocations",
+    "Potential influence on other prominent New Zealanders considering similar moves",
+    "International attention on New Zealand's domestic economic challenges"
+  ],
+  "generatedAt": "2026-02-26T18:20:56.284Z",
+  "model": "anthropic/claude-sonnet-4"
+}

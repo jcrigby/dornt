@@ -1,0 +1,16 @@
+{
+  "id": "8b0650b6-44b2-4879-adba-82ae1cfac92d",
+  "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/microsoft_365_e7_rumors/",
+  "normalizedUrl": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/microsoft_365_e7_rumors",
+  "title": "Microsoft reportedly eyes E7 tier to make AI agents pay their way – like the humans they'll replace",
+  "source": "The Register",
+  "feedUrl": "https://www.theregister.com/headlines.atom",
+  "publishedAt": "2026-03-03T12:39:55.000Z",
+  "fetchedAt": "2026-03-03T19:21:10.061Z",
+  "author": "Richard Speed",
+  "contentHash": "39bcc065fb6ca088",
+  "fullText": "Microsoft is reportedly planning to license AI agents like employees – and charge accordingly.\nThe megacorp is considering a new Microsoft 365 subscription tier, informally dubbed E7, that would bundle Copilot and agent management tools as enterprises begin deploying AI agents alongside human staff.\nAccording to Mary Jo Foley analyst at Directions on Microsoft, the proposed E7 plan would include Microsoft 365 Copilot and Agent 365 – a preview service designed to manage and govern AI agents across enterprise environments – along components not currently incorporated in the Microsoft 365 E5 tier.\n\n \n\nAs AI agents function as digital workers, they need identities, email accounts, Teams access, and policy controls – capabilities currently tied to user subscriptions. Microsoft 365 E5 plus Copilot already covers most of this, but E7 would package those elements into a single SKU.\n\n \n\n \n\nThe Register asked Microsoft about its plans for an E7 tier, but other than acknowledging our questions, the company has yet to comment further.\nMicrosoft 365 prices will increase on July 1, 2026, and the flagship E5 tier will rise from $57 to $60 per month. A year of Microsoft 365 Copilot will add another $30 every month. Adding the two together hints at what an E7 license might cost per month.\n\nMicrosoft to auto-launch Copilot in Edge whenever you click a link from Outlook\n\nMicrosoft teases 'reimagined SharePoint experience' with added AI\n\nCopilot spills the beans, summarizing emails it's not supposed to read\n\nMicrosoft sets Copilot agents loose on your OneDrive files\n\nAccording to reports, the awaited license tier could be priced at $99 per month.\nThe figure might seem high, however, the licensing tier may appeal to some customers that want to avoid the administration overhead of E5 plus a selection of add-ons. It also benefits Microsoft, which needs to protect its revenues should agentic workers multiply in the commercial world.\n\n \n\nFoley said: \"Microsoft officials have said to expect agents, as they proliferate in the enterprise, to need to be licensed in ways similar to human employees.\"\nWhile agents might not need the same salaries or benefits as human workers, they certainly need licenses.\nLane Shelton, Director of Advisory Services at Directions on Microsoft, said: \"This isn't about a new licensing tier. It's about Microsoft positioning itself as the enterprise AI control plane for the emerging digital worker.\"\n\n \n\nIt would also ensure that, even as the nature of work evolves, Microsoft's licensing model extends to AI-driven workforces and the greenback generation machine keeps on rolling. ®",
+  "categories": [
+    "tech"
+  ]
+}

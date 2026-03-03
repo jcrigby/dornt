@@ -1,0 +1,18 @@
+{
+  "id": "e9738285-db60-4933-99a0-5a4dbf264aa9",
+  "url": "https://thehill.com/policy/technology/5755692-apple-declares-age-api/",
+  "normalizedUrl": "https://thehill.com/policy/technology/5755692-apple-declares-age-api",
+  "title": "Apple rolls out age verification tool",
+  "source": "The Hill",
+  "feedUrl": "https://thehill.com/feed/",
+  "publishedAt": "Wed, 25 Feb 2026 23:10:08 +0000",
+  "fetchedAt": "2026-02-26T01:23:52.659Z",
+  "author": "Ashleigh Fields",
+  "contentHash": "373537e2708c071a",
+  "fullText": "Apple is rolling out an age verification tool in the U.S. and abroad to ensure users are at least 18.\n\nApp developers in Brazil, Australia, Singapore, and the U.S. states of Utah and Louisiana are now able to use the company’s updated Declared Age Range Application Programming Interface (API) to determine a user’s age range, according to Apple’s Tuesday announcement. The new software is currently in beta testing. \n\nIn Singapore, Brazil and Australia, the app store will block the downloads on 18+ apps until users have had their age confirmed through “reasonable methods.”\n\nIf the confirmation fails, the user will be blocked from downloading the app. \n\nIn Louisiana and Utah, app developers can request to be made aware of age categories on the Declared age Range (API). The reason Utah and Louisiana are included in the new rollout is due to recently passed laws in each state that enacted stricter age-verification measures. \n\nDevelopers in Brazil can also obtain a user’s age category, however users must agree to share their age. \n\nThe API will also return a signal from the user’s device about the method of age verification.\n\n“New signals are now available through the Declared Age Range API, including whether age-related regulatory requirements apply to the user and if the user is required to share their age range,” Apple said in the announcement. \n\n“The API will also let you know if you need to get a parent or guardian’s permission for significant app updates for a child.”\n\nCopyright 2026 Nexstar Media Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.",
+  "summary": "Apple is rolling out an age verification tool in the U.S. and abroad to ensure users are at least 18. App developers in Brazil, Australia, Singapore, and the U.S. states of Utah and Louisiana are now able to use the company’s updated Declared Age Range Application Programming Interface (API) to determine a user’s age range,…",
+  "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/05/AP25065049612940.jpg?w=900",
+  "categories": [
+    "digital"
+  ]
+}

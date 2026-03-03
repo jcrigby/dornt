@@ -1,0 +1,68 @@
+{
+  "clusterId": "ca3849a6-eefc-4138-8e6e-3d0192537139",
+  "frames": [
+    {
+      "name": "Presidential Agency Frame",
+      "description": "Presents Trump as the decisive actor who initiated strikes to prevent Iranian aggression, emphasizing his strategic leadership",
+      "sources": [
+        "The Hill",
+        "NBC News",
+        "ABC News"
+      ],
+      "emphasis": "Trump's claim that he 'forced Israel's hand' rather than being pressured by Israel, positioning him as proactive rather than reactive"
+    },
+    {
+      "name": "Administrative Contradiction Frame",
+      "description": "Highlights inconsistencies between Trump's statements and those of his Secretary of State Marco Rubio",
+      "sources": [
+        "The Guardian US",
+        "ABC News"
+      ],
+      "emphasis": "The discrepancy between Trump saying he forced Israel's hand versus Rubio's earlier statement that Israel's plans prompted US action"
+    },
+    {
+      "name": "Preemptive Defense Frame",
+      "description": "Frames the strikes as necessary defensive action based on intelligence about imminent Iranian attacks",
+      "sources": [
+        "NBC News",
+        "ABC News",
+        "YouTube sources"
+      ],
+      "emphasis": "Trump's assertion that Iran 'was going to attack first' and negotiations indicated imminent threat"
+    },
+    {
+      "name": "Military Success Frame",
+      "description": "Emphasizes the effectiveness of strikes and Iran's weakened position",
+      "sources": [
+        "The Guardian US",
+        "NBC News",
+        "ABC News"
+      ],
+      "emphasis": "Claims that 'virtually everything they have has been knocked out' and Iran's reduced capabilities"
+    },
+    {
+      "name": "International Relations Strain Frame",
+      "description": "Covers diplomatic tensions with allies over support for the strikes",
+      "sources": [
+        "The Guardian US",
+        "ABC News"
+      ],
+      "emphasis": "Trump's criticism of Spain and UK for refusing cooperation, highlighting alliance fractures"
+    }
+  ],
+  "outlierPerspectives": [
+    "Iran's targeting of previously neutral countries as evidence of regime's 'evil' nature (only covered in detail by YouTube sources)",
+    "Specific casualty claims of 35,000 Iranian protesters killed (only mentioned in ABC News YouTube coverage)",
+    "Details about Iranian officials seeking immunity and potentially surrendering (unique to ABC News YouTube coverage)"
+  ],
+  "missingContext": [
+    "Independent verification of casualty figures and military damage claims",
+    "Details about the specific negotiations Trump referenced with Iran",
+    "Timeline and specifics of the intelligence that suggested imminent Iranian attack",
+    "Legal basis for the strikes under domestic and international law",
+    "Congressional authorization status and War Powers Act implications",
+    "Broader regional impact beyond the countries Trump mentioned Iran was striking"
+  ],
+  "generatedAt": "2026-03-03T20:00:00.679Z",
+  "model": "anthropic/claude-sonnet-4"
+}

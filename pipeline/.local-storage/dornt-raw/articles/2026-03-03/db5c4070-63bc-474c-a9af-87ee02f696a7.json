@@ -1,0 +1,17 @@
+{
+  "id": "db5c4070-63bc-474c-a9af-87ee02f696a7",
+  "url": "https://www.engadget.com/ai/ai-data-centers-could-reduce-power-draw-on-demand-study-says-180628982.html?src=rss",
+  "normalizedUrl": "https://engadget.com/ai/ai-data-centers-could-reduce-power-draw-on-demand-study-says-180628982.html?src=rss",
+  "title": "AI data centers could reduce power draw on demand, study says",
+  "source": "Engadget",
+  "feedUrl": "https://www.engadget.com/rss.xml",
+  "publishedAt": "Tue, 03 Mar 2026 18:06:28 +0000",
+  "fetchedAt": "2026-03-03T19:21:11.564Z",
+  "author": "Will Shanklin",
+  "contentHash": "64407fdeacb0348d",
+  "fullText": "Apparently, AI data centers are capable of sucking less (power, that is). A recent UK trial demonstrated that they can adjust their energy demands dynamically without disrupting critical workloads. This contrasts with data centers' current approach of always-on power draw, which can strain grids and drive up prices for everyone.Over five days in December 2025, more than 200 simulated \"grid events\" tested a London data center’s ability to adjust its energy use on the fly. The trial used software from Emerald AI, which was involved in the study. Other partners included NVIDIA, National Grid, Nebius and the nonprofit Electric Power Research Institute.In each simulated grid event, the data center successfully adjusted its energy use to the requested level. It reduced power draw by up to 40 percent, while critical workloads continued to run as normal throughout the trial.The data center successfully reacted to spikes in demand during soccer match halftimes. In one case, it reduced its power draw by 10 percent for up to 10 hours. It also managed to cut its demand quickly: One event saw the data center reduce its load by 30 percent in only 30 seconds.The study will serve as a blueprint for a 100MW “power-flexible AI factory” that NVIDIA plans to operate in Virginia. \"This trial proves that NVIDIA-powered infrastructure can act as a grid-aware asset, modulating demand in real-time to support stability,\" Josh Paker, NVIDIA's sustainability lead, wrote in a statement. \"By making AI workloads responsive, we accelerate deployment while reducing the need for costly grid upgrades.\"The organizations involved in the study say they'll share their data with the AI industry, regulators and policymakers to try to influence their approach. Fortunately, we don’t need to hope that data center operators’ altruism (ha) will lead to their cooperation. Agreeing to curb usage during peak demand could be good for their balance sheets and lead to faster approvals for new data center grid connections. \"We would love to get to a point where we can get customers on the network in two years, and this is part of that,\" Steve Smith, president of National Grid Partners, told Bloomberg.",
+  "summary": "Apparently, AI data centers are capable of sucking less (power, that is). A recent UK trial demonstrated that they can adjust their energy demands dynamically without disrupting critical workloads. This contrasts with data centers' current approach of always-on power draw, which can strain grids and drive up prices for everyone.\nOver five days in December 2025, more than 200 simulated \"grid events\" tested a London data center’s ability to adjust its energy use on the fly. The trial used software",
+  "categories": [
+    "tech"
+  ]
+}

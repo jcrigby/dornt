@@ -1,0 +1,54 @@
+{
+  "clusterId": "abf80744-2018-4aa8-a236-1e41f6e3fabd",
+  "frames": [
+    {
+      "name": "Scientific Discovery Frame",
+      "description": "Presents this as a fundamental scientific breakthrough explaining a common phenomenon through rigorous research methodology",
+      "sources": [
+        "Nature (research paper)",
+        "Nature (video)"
+      ],
+      "emphasis": "High-speed imaging, acoustic analysis, shear wave propagation, and the transition from irregular to coherent pulse dynamics"
+    },
+    {
+      "name": "Everyday Phenomenon Frame",
+      "description": "Frames the research as solving the mystery behind familiar squeaking sounds we encounter daily",
+      "sources": [
+        "Nature (video)"
+      ],
+      "emphasis": "Relatable examples like squeaky sneakers, bike brakes, rubber tires, and hip implants"
+    },
+    {
+      "name": "Cross-Disciplinary Applications Frame",
+      "description": "Emphasizes the broad implications across multiple fields from engineering to geology",
+      "sources": [
+        "Nature (video)"
+      ],
+      "emphasis": "Potential advances in engineering, metamaterials, earthquake research, and even musical instruments"
+    },
+    {
+      "name": "Technical Mechanism Frame",
+      "description": "Focuses on the specific physical processes and engineering solutions discovered",
+      "sources": [
+        "Nature (research paper)"
+      ],
+      "emphasis": "Opening pulse propagation, geometric confinement effects, and structure-driven stabilization mechanisms"
+    }
+  ],
+  "outlierPerspectives": [
+    "Connection to earthquake dynamics - only the video mentions that the squeaks are driven by 'pulses more commonly associated with the dynamics of earthquakes'",
+    "Lightning phenomenon - only the video notes 'tiny bolts of lightning initiating those pulses'",
+    "Musical instrument applications - only mentioned in the video as a potential application"
+  ],
+  "missingContext": [
+    "Practical implications for product design and manufacturing",
+    "Economic significance of friction-related noise problems in industry",
+    "Historical context of previous attempts to solve this problem",
+    "Comparison with competing theories or explanations",
+    "Timeline and methodology details of the research process",
+    "Limitations or boundaries of the findings",
+    "Cost and complexity of implementing the geometric confinement solutions"
+  ],
+  "generatedAt": "2026-02-26T18:22:42.193Z",
+  "model": "anthropic/claude-sonnet-4"
+}

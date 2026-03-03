@@ -1,0 +1,54 @@
+{
+  "clusterId": "a78b31e8-1651-41d2-928f-5251a293a984",
+  "frames": [
+    {
+      "name": "Escalation from Play to Violence",
+      "description": "Presents the incident as starting innocently but becoming dangerous when police arrived, focusing on the transformation from playful to threatening behavior",
+      "sources": [
+        "NYT",
+        "The Hill"
+      ],
+      "emphasis": "The shift in tone and escalation of violence against officers, including injuries requiring hospitalization"
+    },
+    {
+      "name": "Political Leadership Crisis",
+      "description": "Frames the story as a test of Mayor Mamdani's leadership and his relationship with police, emphasizing the political fallout and criticism",
+      "sources": [
+        "The Hill",
+        "ABC News"
+      ],
+      "emphasis": "The rift between mayor and police commissioner, union condemnation, and Mamdani's response as a 'failure of leadership'"
+    },
+    {
+      "name": "Criminal Justice Response",
+      "description": "Focuses on the arrest and criminal charges, treating this as a law enforcement matter with emphasis on the suspect's criminal history",
+      "sources": [
+        "The Hill"
+      ],
+      "emphasis": "The arrest of Gusmane Coulibaly, his prior criminal record, and the criminal nature of assaulting officers"
+    },
+    {
+      "name": "Minimization vs. Criminalization Debate",
+      "description": "Presents competing interpretations of the same events - 'kids throwing snowballs' versus 'criminal assault on officers'",
+      "sources": [
+        "NYT",
+        "The Hill"
+      ],
+      "emphasis": "The fundamental disagreement over whether this constitutes criminal behavior or harmless play"
+    }
+  ],
+  "outlierPerspectives": [
+    "The suspect's prior arrest record being highlighted as relevant context (only The Hill mentions Coulibaly's recent attempted robbery arrest)",
+    "The broader context of this being part of a 'citywide snowball fight during a historic blizzard' (only The Hill provides this scale)"
+  ],
+  "missingContext": [
+    "Details about what specifically triggered police response to the snowball fight initially",
+    "Specific nature and extent of officer injuries that required hospitalization",
+    "Legal precedent for charging assault in similar snowball incidents",
+    "Community perspective and reaction beyond official statements",
+    "Timeline and decision-making process that led to the arrest three days later",
+    "Broader context of police-community relations in NYC under the new mayor"
+  ],
+  "generatedAt": "2026-02-26T18:21:48.750Z",
+  "model": "anthropic/claude-sonnet-4"
+}

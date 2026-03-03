@@ -1,0 +1,36 @@
+{
+  "id": "1revbhn",
+  "subreddit": "technology",
+  "title": "Scoop: Pentagon takes first step toward blacklisting Anthropic",
+  "url": "https://www.axios.com/2026/02/25/anthropic-pentagon-blacklist-claude",
+  "selftext": "",
+  "author": "Brilliant_Version344",
+  "score": 9195,
+  "numComments": 607,
+  "createdUtc": 1772066061,
+  "permalink": "https://reddit.com/r/technology/comments/1revbhn/scoop_pentagon_takes_first_step_toward/",
+  "fetchedAt": "2026-02-26T17:22:10.598Z",
+  "topComments": [
+    {
+      "id": "o7fhoiz",
+      "author": "oasis48",
+      "body": "I'd tell Hegseth to fuck off.",
+      "score": 3340,
+      "createdUtc": 1772066565
+    },
+    {
+      "id": "o7fk6gc",
+      "author": "rnilf",
+      "body": "&gt; That penalty is usually reserved for companies from adversarial countries, such as Chinese tech giant Huawei.\n\n&gt; Using it to punish a leading American tech firm, particularly one on which the military itself is currently reliant, would be unprecedented.\n\nI don't care about Anthropic.\n\nI just don't support this heinous abuse of power by Hegseth and the Trump administration.\n\nAnd most Americans are cool with this, either by being MAGA, or not caring enough to help vote against it.\n\nWe're surrounded by those fuckers.",
+      "score": 1049,
+      "createdUtc": 1772067395
+    },
+    {
+      "id": "o7fgalq",
+      "author": "Brilliant_Version344",
+      "body": "The Pentagon asked two major defense contractors on Wednesday to provide an assessment of their reliance on Anthropic's AI model, Claude — a first step toward a potential designation of Anthropic as a \"supply chain risk,\" Axios has learned.\n\nWhy it matters: That penalty is usually reserved for companies from adversarial countries, such as Chinese tech giant Huawei.\n\nUsing it to punish a leading American tech firm, particularly one on which the military itself is currently reliant, would be unprecedented.\nDriving the news: The Pentagon reached out to Boeing and Lockheed Martin on Wednesday to ask about their exposure to Anthropic, two sources with knowledge of those conversations said.\n\nA Boeing spokesperson did not immediately respond to a request for comment.\nA Lockheed spokesperson confirmed the company was contacted by the Defense Department regarding an analysis of its exposure and reliance on Anthropic ahead of \"a potential supply chain risk declaration.\"\n\nThe Pentagon plans to reach out to \"all the traditional primes\" — meaning the major contractors that supply things like fighter jets and weapons systems — about whether and how they use Claude, a source familiar told Axios.\nThe big picture: Claude is currently the only AI model running in the military's classified systems. It was used during the operation to capture Venezuela's Nicolás Maduro, through Anthropic's partnership with Palantir, and could foreseeably be used in a potential military campaign in Iran.\n\nThe Pentagon is impressed with Claude's performance, but furious that Anthropic has refused to lift its safeguards and let the military use it for \"all lawful purposes.\"\n\nAnthropic insists, in particular, on blocking Claude's use for the mass surveillance of Americans or to develop weapons that fire without human involvement.\n\nThe Pentagon insists it's unworkable to have to clear individual use cases with Anthropic.\nFriction point: During a tense meeting on Tuesday, Defense Secretary Pete Hegseth gave ",
+      "score": 785,
+      "createdUtc": 1772066111
+    }
+  ]
+}

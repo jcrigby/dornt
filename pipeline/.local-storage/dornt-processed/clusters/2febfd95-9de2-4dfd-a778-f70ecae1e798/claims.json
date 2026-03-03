@@ -1,0 +1,189 @@
+[
+  {
+    "id": "f14587c7-d6a5-4cfe-b404-a277c8c38d64",
+    "clusterId": "2febfd95-9de2-4dfd-a778-f70ecae1e798",
+    "text": "Death toll from floods and landslides in Minas Gerais, Brazil",
+    "status": "evolving",
+    "supportingSources": [
+      "The Guardian World",
+      "Al Jazeera"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:14:05.643Z",
+    "lastUpdatedAt": "2026-02-26T18:14:05.643Z"
+  },
+  {
+    "id": "3831b196-29d4-4c81-93ba-693cacb672a2",
+    "clusterId": "2febfd95-9de2-4dfd-a778-f70ecae1e798",
+    "text": "Number of missing people",
+    "status": "evolving",
+    "supportingSources": [
+      "The Guardian World",
+      "Al Jazeera"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:14:05.643Z",
+    "lastUpdatedAt": "2026-02-26T18:14:05.643Z"
+  },
+  {
+    "id": "57618819-ae55-4dbe-99d6-5f306c97e4eb",
+    "clusterId": "2febfd95-9de2-4dfd-a778-f70ecae1e798",
+    "text": "Floods and landslides occurred in Minas Gerais state, southeastern Brazil",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World",
+      "Al Jazeera"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:14:05.643Z",
+    "lastUpdatedAt": "2026-02-26T18:14:05.643Z"
+  },
+  {
+    "id": "cbfbf8b2-b92c-4343-97a7-9d7620ef1843",
+    "clusterId": "2febfd95-9de2-4dfd-a778-f70ecae1e798",
+    "text": "Deaths occurred in the cities of Juiz de Fora and Ubá",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World",
+      "Al Jazeera"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:14:05.643Z",
+    "lastUpdatedAt": "2026-02-26T18:14:05.643Z"
+  },
+  {
+    "id": "761e99f9-15cb-44f2-a17e-6d44fb03b427",
+    "clusterId": "2febfd95-9de2-4dfd-a778-f70ecae1e798",
+    "text": "Twelve houses in a hillside neighbourhood of Juiz de Fora were swept away in a massive landslide",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:14:05.643Z",
+    "lastUpdatedAt": "2026-02-26T18:14:05.643Z"
+  },
+  {
+    "id": "b48f4c65-0b7d-475c-b92c-f60771bef33a",
+    "clusterId": "2febfd95-9de2-4dfd-a778-f70ecae1e798",
+    "text": "A boy aged about 10 was pulled alive from the rubble after a two-hour rescue effort",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:14:05.643Z",
+    "lastUpdatedAt": "2026-02-26T18:14:05.643Z"
+  },
+  {
+    "id": "5f906a96-a2a2-4db7-a958-70ba9e01b499",
+    "clusterId": "2febfd95-9de2-4dfd-a778-f70ecae1e798",
+    "text": "An 11-year-old boy named Bernardo Lopes Dutra was among those killed",
+    "status": "undisputed",
+    "supportingSources": [
+      "Al Jazeera"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:14:05.643Z",
+    "lastUpdatedAt": "2026-02-26T18:14:05.643Z"
+  },
+  {
+    "id": "f8602722-90cf-4588-9b38-2164fe0a4132",
+    "clusterId": "2febfd95-9de2-4dfd-a778-f70ecae1e798",
+    "text": "Juiz de Fora's mayor Margarida Salomão declared a state of emergency",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World",
+      "Al Jazeera"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:14:05.643Z",
+    "lastUpdatedAt": "2026-02-26T18:14:05.643Z"
+  },
+  {
+    "id": "ece741d3-9686-419b-aa35-3be847b374b6",
+    "clusterId": "2febfd95-9de2-4dfd-a778-f70ecae1e798",
+    "text": "At least 20 landslides occurred in the area",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World",
+      "Al Jazeera"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:14:05.643Z",
+    "lastUpdatedAt": "2026-02-26T18:14:05.643Z"
+  },
+  {
+    "id": "6dfa90ed-99d6-4d26-8924-98845dcaa8f1",
+    "clusterId": "2febfd95-9de2-4dfd-a778-f70ecae1e798",
+    "text": "Juiz de Fora experienced its wettest February on record with 584mm (23in) of accumulated rainfall",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:14:05.643Z",
+    "lastUpdatedAt": "2026-02-26T18:14:05.643Z"
+  },
+  {
+    "id": "f9b74017-2964-4179-aa8f-3155e4eb6035",
+    "clusterId": "2febfd95-9de2-4dfd-a778-f70ecae1e798",
+    "text": "Number of displaced residents",
+    "status": "evolving",
+    "supportingSources": [
+      "The Guardian World",
+      "Al Jazeera"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:14:05.643Z",
+    "lastUpdatedAt": "2026-02-26T18:14:05.643Z"
+  },
+  {
+    "id": "c8204294-cd07-4e9b-b117-2b6838dd4d16",
+    "clusterId": "2febfd95-9de2-4dfd-a778-f70ecae1e798",
+    "text": "More than 200 people have been rescued",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:14:05.643Z",
+    "lastUpdatedAt": "2026-02-26T18:14:05.643Z"
+  },
+  {
+    "id": "58a6e7b0-cd74-4a06-82ae-f5cf7cae5366",
+    "clusterId": "2febfd95-9de2-4dfd-a778-f70ecae1e798",
+    "text": "State authorities suspended classes in all municipal schools",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:14:05.643Z",
+    "lastUpdatedAt": "2026-02-26T18:14:05.643Z"
+  },
+  {
+    "id": "266a2d00-8539-41f1-81bc-0fcc4b46c1a6",
+    "clusterId": "2febfd95-9de2-4dfd-a778-f70ecae1e798",
+    "text": "A river in Minas Gerais burst its banks",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:14:05.643Z",
+    "lastUpdatedAt": "2026-02-26T18:14:05.643Z"
+  },
+  {
+    "id": "c820d280-e04d-4e87-b328-49d267002eee",
+    "clusterId": "2febfd95-9de2-4dfd-a778-f70ecae1e798",
+    "text": "Brazil's president Luiz Inácio Lula da Silva promised humanitarian assistance and reconstruction support",
+    "status": "undisputed",
+    "supportingSources": [
+      "The Guardian World"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-02-26T18:14:05.643Z",
+    "lastUpdatedAt": "2026-02-26T18:14:05.643Z"
+  }
+]

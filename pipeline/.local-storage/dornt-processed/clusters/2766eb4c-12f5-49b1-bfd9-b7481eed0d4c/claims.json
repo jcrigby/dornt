@@ -1,0 +1,74 @@
+[
+  {
+    "id": "a854a330-8806-433c-9658-6ba85c765fed",
+    "clusterId": "2766eb4c-12f5-49b1-bfd9-b7481eed0d4c",
+    "text": "President Trump's 'most-favored nation' drug-pricing push is starting to look less like a slogan and more like a real pressure point that could mean higher prices abroad",
+    "status": "undisputed",
+    "supportingSources": [
+      "STAT News Article 1"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:49:26.528Z",
+    "lastUpdatedAt": "2026-03-03T19:49:26.528Z"
+  },
+  {
+    "id": "1a9d38f0-b2e0-402d-a89d-cfd4b687a7ac",
+    "clusterId": "2766eb4c-12f5-49b1-bfd9-b7481eed0d4c",
+    "text": "93-year-old vaccine legend Stanley Plotkin is watching vaccination rates slip and calling the anti-vaccine turn inside government 'stupid' and 'immoral'",
+    "status": "undisputed",
+    "supportingSources": [
+      "STAT News Article 1"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:49:26.528Z",
+    "lastUpdatedAt": "2026-03-03T19:49:26.528Z"
+  },
+  {
+    "id": "b4e9e903-a46e-47fc-bd9f-e25c7d08624c",
+    "clusterId": "2766eb4c-12f5-49b1-bfd9-b7481eed0d4c",
+    "text": "Novartis reaches a quiet settlement in the Henrietta Lacks case",
+    "status": "undisputed",
+    "supportingSources": [
+      "STAT News Article 1"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:49:26.528Z",
+    "lastUpdatedAt": "2026-03-03T19:49:26.528Z"
+  },
+  {
+    "id": "65f84185-6f01-4932-88c8-a62a4547e067",
+    "clusterId": "2766eb4c-12f5-49b1-bfd9-b7481eed0d4c",
+    "text": "CMS wants more drugmakers to join Medicaid 'most-favored nations' pilot",
+    "status": "undisputed",
+    "supportingSources": [
+      "STAT News Article 2"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:49:26.528Z",
+    "lastUpdatedAt": "2026-03-03T19:49:26.528Z"
+  },
+  {
+    "id": "40744e0e-1733-4316-93a5-037b325ca7fe",
+    "clusterId": "2766eb4c-12f5-49b1-bfd9-b7481eed0d4c",
+    "text": "The Trump administration is trying to shift focus away from controversial vaccine policies toward topics that are popular with voters, such as lowering drug prices and encouraging healthy diets",
+    "status": "undisputed",
+    "supportingSources": [
+      "STAT News Article 3"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:49:26.528Z",
+    "lastUpdatedAt": "2026-03-03T19:49:26.528Z"
+  },
+  {
+    "id": "c94cd0ed-0103-43e8-bfb9-06cdf6605fd4",
+    "clusterId": "2766eb4c-12f5-49b1-bfd9-b7481eed0d4c",
+    "text": "Vaccines keep coming up in the health care news cycle",
+    "status": "undisputed",
+    "supportingSources": [
+      "STAT News Article 3"
+    ],
+    "disputingSources": [],
+    "firstSeenAt": "2026-03-03T19:49:26.528Z",
+    "lastUpdatedAt": "2026-03-03T19:49:26.528Z"
+  }
+]
