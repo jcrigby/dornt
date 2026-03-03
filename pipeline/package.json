@@ -14,7 +14,8 @@
     "jsdom": "^25.0.1",
     "linkedom": "^0.18.5",
     "rss-parser": "^3.13.0",
-    "uuid": "^10.0.0"
+    "uuid": "^10.0.0",
+    "youtube-transcript": "^1.2.1"
   },
   "devDependencies": {
     "@types/express": "^5.0.0",

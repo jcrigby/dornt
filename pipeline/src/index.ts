@@ -6,6 +6,7 @@ import { generatePKCE, getAuthUrl, exchangeCodeForKey, validateKey } from './aut
 import { acquireLock, releaseLock, markRunning, markCompleted, markFailed } from './storage/state-manager.js';
 import { fetchAllFeeds } from './ingestion/rss-fetcher.js';
 import { fetchAllSubreddits } from './ingestion/reddit-fetcher.js';
+import { fetchAllYouTubeChannels } from './ingestion/youtube-fetcher.js';
 import { embedArticles } from './clustering/embedder.js';
 import { clusterArticles } from './clustering/clusterer.js';
 import { mergeNearDuplicateClusters } from './clustering/cluster-merger.js';
@@ -160,17 +161,20 @@ async function runStage(stage: PipelineStage, handler: () => Promise<unknown>): 
 app.post('/ingest', async (_req, res) => {
   const result = await runStage('ingest', async () => {
     console.log('Starting ingestion...');
-    const [feedResults, redditResults] = await Promise.all([
+    const [feedResults, redditResults, youtubeResults] = await Promise.all([
       fetchAllFeeds(),
       fetchAllSubreddits(),
+      fetchAllYouTubeChannels(),
     ]);
 
     const totalNewArticles = feedResults.reduce((sum, r) => sum + r.articlesNew, 0);
     const totalNewPosts = redditResults.reduce((sum, r) => sum + r.postsNew, 0);
+    const totalNewVideos = youtubeResults.reduce((sum, r) => sum + r.videosNew, 0);
     const feedErrors = feedResults.filter(r => r.errors.length > 0).length;
+    const youtubeErrors = youtubeResults.filter(r => r.errors.length > 0).length;
 
-    console.log(`Ingestion complete: ${totalNewArticles} new articles, ${totalNewPosts} new Reddit posts, ${feedErrors} feeds with errors`);
-    return { newArticles: totalNewArticles, newRedditPosts: totalNewPosts, feedErrors };
+    console.log(`Ingestion complete: ${totalNewArticles} new articles, ${totalNewPosts} new Reddit posts, ${totalNewVideos} new YouTube videos, ${feedErrors} feeds with errors, ${youtubeErrors} YouTube channels with errors`);
+    return { newArticles: totalNewArticles, newRedditPosts: totalNewPosts, newYouTubeVideos: totalNewVideos, feedErrors, youtubeErrors };
   });
 
   res.status(result.success ? 200 : 500).json(result);

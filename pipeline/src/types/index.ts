@@ -272,3 +272,9 @@ export interface SubredditConfig {
   name: string;
   category: string;
 }
+
+export interface YouTubeChannelConfig {
+  channelId: string;
+  name: string;
+  category: string;
+}

@@ -1,4 +1,4 @@
-import type { FeedConfig, SubredditConfig } from '../types/index.js';
+import type { FeedConfig, SubredditConfig, YouTubeChannelConfig } from '../types/index.js';
 
 export const feeds: FeedConfig[] = [
   // ── Major Wire Services ──
@@ -61,6 +61,69 @@ export const feeds: FeedConfig[] = [
   { url: 'https://www.economist.com/rss', name: 'The Economist', category: 'analysis' },
   { url: 'https://foreignpolicy.com/feed/', name: 'Foreign Policy', category: 'analysis' },
   { url: 'https://www.theatlantic.com/feed/all/', name: 'The Atlantic', category: 'analysis' },
+
+  // ── Sports ──
+  { url: 'https://www.espn.com/espn/rss/news', name: 'ESPN', category: 'sports' },
+  { url: 'https://feeds.bbci.co.uk/sport/rss.xml', name: 'BBC Sport', category: 'sports' },
+  { url: 'https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml', name: 'NYT Sports', category: 'sports' },
+  { url: 'https://sports.yahoo.com/rss/', name: 'Yahoo Sports', category: 'sports' },
+
+  // ── Entertainment ──
+  { url: 'https://variety.com/feed/', name: 'Variety', category: 'entertainment' },
+  { url: 'https://www.hollywoodreporter.com/feed/', name: 'Hollywood Reporter', category: 'entertainment' },
+  { url: 'https://www.rollingstone.com/feed/', name: 'Rolling Stone', category: 'entertainment' },
+  { url: 'https://people.com/feed/', name: 'People', category: 'entertainment' },
+
+  // ── Law ──
+  { url: 'https://www.reuters.com/legal/rss', name: 'Reuters Legal', category: 'law' },
+  { url: 'https://www.scotusblog.com/feed/', name: 'SCOTUSblog', category: 'law' },
+  { url: 'https://www.lawfaremedia.org/feed', name: 'Lawfare', category: 'law' },
+  { url: 'https://www.themarshallproject.org/rss/all', name: 'Marshall Project', category: 'law' },
+
+  // ── Environment ──
+  { url: 'https://insideclimatenews.org/feed/', name: 'Inside Climate News', category: 'environment' },
+  { url: 'https://www.carbonbrief.org/feed/', name: 'Carbon Brief', category: 'environment' },
+  { url: 'https://e360.yale.edu/feed', name: 'Yale E360', category: 'environment' },
+  { url: 'https://grist.org/feed/', name: 'Grist', category: 'environment' },
+
+  // ── Science / Health (expanded) ──
+  { url: 'https://www.newscientist.com/feed/home/', name: 'New Scientist', category: 'science' },
+  { url: 'https://www.science.org/rss/news_current.xml', name: 'Science AAAS', category: 'science' },
+  { url: 'https://www.who.int/feeds/entity/news/en/rss.xml', name: 'WHO News', category: 'health' },
+  { url: 'https://www.nih.gov/news-events/news-releases/feed', name: 'NIH News', category: 'health' },
+
+  // ── Finance (expanded) ──
+  { url: 'https://www.reuters.com/business/rss', name: 'Reuters Business', category: 'finance' },
+  { url: 'https://www.forbes.com/feed/', name: 'Forbes', category: 'finance' },
+  { url: 'https://www.businessinsider.com/rss', name: 'Business Insider', category: 'finance' },
+  { url: 'https://finance.yahoo.com/rss/', name: 'Yahoo Finance', category: 'finance' },
+
+  // ── Tech (expanded) ──
+  { url: 'https://www.theregister.com/headlines.atom', name: 'The Register', category: 'tech' },
+  { url: 'https://www.engadget.com/rss.xml', name: 'Engadget', category: 'tech' },
+  { url: 'https://www.technologyreview.com/feed/', name: 'MIT Tech Review', category: 'tech' },
+  { url: 'https://404media.co/rss/', name: '404 Media', category: 'tech' },
+
+  // ── International (expanded) ──
+  { url: 'https://www.france24.com/en/rss', name: 'France 24', category: 'international' },
+  { url: 'https://rss.dw.com/rdf/rss-en-all', name: 'DW', category: 'international' },
+  { url: 'https://www.scmp.com/rss/91/feed', name: 'SCMP', category: 'international' },
+  { url: 'https://www.thehindu.com/news/feeder/default.rss', name: 'The Hindu', category: 'international' },
+  { url: 'https://www.abc.net.au/news/feed/51120/rss.xml', name: 'ABC Australia', category: 'international' },
+
+  // ── AI Company Blogs ──
+  { url: 'https://openai.com/blog/rss.xml', name: 'OpenAI Blog', category: 'ai' },
+  { url: 'https://www.anthropic.com/feed.xml', name: 'Anthropic Blog', category: 'ai' },
+  { url: 'https://blog.google/technology/ai/rss/', name: 'Google AI Blog', category: 'ai' },
+  { url: 'https://deepmind.google/blog/feed/basic/', name: 'DeepMind Blog', category: 'ai' },
+  { url: 'https://ai.meta.com/blog/rss/', name: 'Meta AI Blog', category: 'ai' },
+  { url: 'https://www.microsoft.com/en-us/research/feed/', name: 'MS Research', category: 'ai' },
+  { url: 'https://blogs.nvidia.com/feed/', name: 'NVIDIA Blog', category: 'ai' },
+  { url: 'https://huggingface.co/blog/feed.xml', name: 'Hugging Face Blog', category: 'ai' },
+  { url: 'https://stability.ai/blog/feed', name: 'Stability AI Blog', category: 'ai' },
+  { url: 'https://mistral.ai/feed.xml', name: 'Mistral Blog', category: 'ai' },
+  { url: 'https://cohere.com/blog/rss.xml', name: 'Cohere Blog', category: 'ai' },
+  { url: 'https://blog.eleuther.ai/rss/', name: 'EleutherAI Blog', category: 'ai' },
 ];
 
 export const subreddits: SubredditConfig[] = [
@@ -80,4 +143,37 @@ export const subreddits: SubredditConfig[] = [
   { name: 'Futurology', category: 'tech' },
   { name: 'collapse', category: 'analysis' },
   { name: 'TrueReddit', category: 'analysis' },
+  { name: 'sports', category: 'sports' },
+  { name: 'entertainment', category: 'entertainment' },
+  { name: 'law', category: 'law' },
+  { name: 'climate', category: 'environment' },
+  { name: 'space', category: 'science' },
+  { name: 'europe', category: 'international' },
+  { name: 'asia', category: 'international' },
+  { name: 'LatinAmerica', category: 'international' },
+];
+
+export const youtubeChannels: YouTubeChannelConfig[] = [
+  // ── News & Analysis ──
+  { channelId: 'UCupvZG-5ko_eiXAupbDfxWw', name: 'CNN', category: 'news' },
+  { channelId: 'UCeY0bbntWzzVIaj2z3QigXg', name: 'NBC News', category: 'news' },
+  { channelId: 'UCBi2mrWuNuyYy4gbM6fU18Q', name: 'ABC News', category: 'news' },
+  { channelId: 'UC8p1vwvWtl6T73JiExfWs1g', name: 'CNBC', category: 'finance' },
+  { channelId: 'UCIRYBXDze5krPDzAEOxFGVA', name: 'Johnny Harris', category: 'analysis' },
+
+  // ── Tech & AI ──
+  { channelId: 'UCsBjURrPoezykLs9EqgamOA', name: 'Fireship', category: 'tech' },
+  { channelId: 'UCXS_ZDY-FPGn4cmiCKmpQ4Q', name: 'Two Minute Papers', category: 'ai' },
+  { channelId: 'UCbfYPyITQ-7l4upoX8nvctg', name: 'Two Minute Papers', category: 'ai' },
+  { channelId: 'UCZHmQk67mSJgfCCTn7xBfew', name: 'MKBHD', category: 'tech' },
+
+  // ── Science & Environment ──
+  { channelId: 'UCsXVk37bltHxD1rDPwtNM8Q', name: 'Kurzgesagt', category: 'science' },
+  { channelId: 'UC6nSFpj9HTCZ5t-N3Rm3-HA', name: 'Vsauce', category: 'science' },
+  { channelId: 'UCsooa4yRKGN_zEE8iknghZA', name: 'TED-Ed', category: 'science' },
+
+  // ── Geopolitics & International ──
+  { channelId: 'UCwnKziETDbHJtx78nIkfYug', name: 'Caspian Report', category: 'geopolitics' },
+  { channelId: 'UCLMnUt94VhMpLg1PvIS8JOQ', name: 'Nate B Jones', category: 'geopolitics' },
+  { channelId: 'UCHd62-u_v4DvJ8TCFtpi4GA', name: 'VisualPolitik EN', category: 'geopolitics' },
 ];

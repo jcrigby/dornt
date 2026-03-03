@@ -51,6 +51,14 @@ export const config = {
     maxCommentsPerPost: 10,
   },
 
+  // YouTube
+  youtube: {
+    maxVideosPerChannel: 10,
+    maxTranscriptLength: 30_000,
+    rateLimitDelayMs: 1500,
+    batchSize: 5,
+  },
+
   // Site generation
   site: {
     publicBaseUrl: process.env.PUBLIC_BASE_URL || '',
