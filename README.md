@@ -6,7 +6,7 @@ News intelligence platform. Ingests hundreds of RSS feeds and Reddit communities
 
 ## How it works
 
-1. **Ingest** — Pulls from 30+ RSS feeds and 15+ subreddits
+1. **Ingest** — Pulls from 70+ RSS feeds, 20+ subreddits, and 14 YouTube channels
 2. **Cluster** — Groups related articles using embedding similarity
 3. **Analyze** — AI generates synthesis, claims tracking, coverage analysis, community sentiment, and deep analysis for each cluster
 4. **Storylines** — Detects when stories are part of larger narrative arcs
