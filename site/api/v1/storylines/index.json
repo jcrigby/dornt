@@ -1,45 +1,37 @@
 {
   "storylines": [
     {
-      "id": "3625e542-c843-4e38-846c-f8b716ae0628",
-      "title": "US-Israel Military Operations Against Iran and Escalating Middle East Crisis",
-      "description": "A major military escalation involving coordinated US-Israeli strikes against Iran, resulting in the reported death of Iran's Supreme Leader, multiple casualties, and widespread regional disruption",
-      "clusterCount": 7,
+      "id": "277f4812-8dbc-49dd-a448-3042886120d5",
+      "title": "Middle East Military Escalation and Regional Crisis",
+      "description": "A developing military conflict involving Iran, with multiple countries conducting airstrikes, US military casualties in Kuwait, embassy closures, and broader regional instability affecting global markets",
+      "clusterCount": 6,
       "status": "developing",
-      "updatedAt": "2026-03-02T13:46:32.204Z"
+      "updatedAt": "2026-03-03T13:45:06.470Z"
     },
     {
-      "id": "c2559457-2ffa-4ef0-9707-b3e5248953e4",
-      "title": "Domestic Political Response to Iran Military Operations",
-      "description": "Congressional and political reactions to the Trump-ordered military operations against Iran, including partisan divisions and criticism from various political figures",
+      "id": "790b34d9-794b-436b-9677-e05c07a3ef7c",
+      "title": "Apple Product Launch Cycle",
+      "description": "Apple's coordinated release of new hardware products featuring updated chips and pricing strategies",
       "clusterCount": 2,
       "status": "ongoing",
-      "updatedAt": "2026-03-02T13:46:32.204Z"
+      "updatedAt": "2026-03-03T13:45:06.470Z"
     },
     {
-      "id": "f7b28473-283f-4382-8794-6e9ae5b66bb8",
-      "title": "Global Economic and Market Impact of Middle East Military Crisis",
-      "description": "The economic ramifications of the US-Israeli strikes on Iran, particularly affecting oil markets and global financial systems",
-      "clusterCount": 1,
+      "id": "570432f2-3b65-41e5-a26c-c29df1e04200",
+      "title": "AI Industry Regulatory Scrutiny and Military Partnerships",
+      "description": "Government oversight and policy changes affecting major AI companies' operations and military collaborations",
+      "clusterCount": 2,
+      "status": "developing",
+      "updatedAt": "2026-03-03T13:45:06.470Z"
+    },
+    {
+      "id": "67a31789-d135-4284-9d38-56181eae577c",
+      "title": "2026 Midterm Election Preparations",
+      "description": "Early electoral activities and political positioning ahead of the 2026 midterm elections",
+      "clusterCount": 2,
       "status": "ongoing",
-      "updatedAt": "2026-03-02T13:46:32.204Z"
-    },
-    {
-      "id": "bc294e82-613b-47c9-bde6-b3cf4e31d10b",
-      "title": "Military Operations Collateral Impact",
-      "description": "Secondary military incidents and casualties related to the broader Middle East operations",
-      "clusterCount": 1,
-      "status": "developing",
-      "updatedAt": "2026-03-02T13:46:32.204Z"
-    },
-    {
-      "id": "7b11bfdd-1749-48c9-b302-8054509cff01",
-      "title": "Iran's International Isolation and Cultural Impact",
-      "description": "The broader effects of the military crisis on Iran's international relationships and participation in global events",
-      "clusterCount": 1,
-      "status": "developing",
-      "updatedAt": "2026-03-02T13:46:32.204Z"
+      "updatedAt": "2026-03-03T13:45:06.470Z"
     }
   ],
-  "generatedAt": "2026-03-02T13:46:49.079Z"
+  "generatedAt": "2026-03-03T13:45:26.972Z"
 }

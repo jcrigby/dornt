@@ -1,0 +1,13 @@
+{
+  "id": "790b34d9-794b-436b-9677-e05c07a3ef7c",
+  "title": "Apple Product Launch Cycle",
+  "description": "Apple's coordinated release of new hardware products featuring updated chips and pricing strategies",
+  "clusterIds": [
+    "65a1d986-8809-4cac-9f39-9ff4a21bcbec",
+    "b3085c1c-7054-4059-95b3-4dda1aa76651"
+  ],
+  "arc": "Apple announces updated iPad Air with M4 chip starting at $599, followed by the release of iPhone 17e featuring MagSafe, A19 chip, and 256GB storage also priced at $599, indicating a strategic product refresh cycle with consistent pricing positioning",
+  "startedAt": "2026-03-03T13:45:06.470Z",
+  "updatedAt": "2026-03-03T13:45:06.470Z",
+  "status": "ongoing"
+}
