@@ -72,29 +72,20 @@ export const feeds: FeedConfig[] = [
   { url: 'https://variety.com/feed/', name: 'Variety', category: 'entertainment' },
   { url: 'https://www.hollywoodreporter.com/feed/', name: 'Hollywood Reporter', category: 'entertainment' },
   { url: 'https://www.rollingstone.com/feed/', name: 'Rolling Stone', category: 'entertainment' },
-  { url: 'https://people.com/feed/', name: 'People', category: 'entertainment' },
 
   // ── Law ──
-  { url: 'https://www.reuters.com/legal/rss', name: 'Reuters Legal', category: 'law' },
   { url: 'https://www.scotusblog.com/feed/', name: 'SCOTUSblog', category: 'law' },
-  { url: 'https://www.lawfaremedia.org/feed', name: 'Lawfare', category: 'law' },
-  { url: 'https://www.themarshallproject.org/rss/all', name: 'Marshall Project', category: 'law' },
 
   // ── Environment ──
   { url: 'https://insideclimatenews.org/feed/', name: 'Inside Climate News', category: 'environment' },
   { url: 'https://www.carbonbrief.org/feed/', name: 'Carbon Brief', category: 'environment' },
-  { url: 'https://e360.yale.edu/feed', name: 'Yale E360', category: 'environment' },
   { url: 'https://grist.org/feed/', name: 'Grist', category: 'environment' },
 
   // ── Science / Health (expanded) ──
   { url: 'https://www.newscientist.com/feed/home/', name: 'New Scientist', category: 'science' },
   { url: 'https://www.science.org/rss/news_current.xml', name: 'Science AAAS', category: 'science' },
-  { url: 'https://www.who.int/feeds/entity/news/en/rss.xml', name: 'WHO News', category: 'health' },
-  { url: 'https://www.nih.gov/news-events/news-releases/feed', name: 'NIH News', category: 'health' },
 
   // ── Finance (expanded) ──
-  { url: 'https://www.reuters.com/business/rss', name: 'Reuters Business', category: 'finance' },
-  { url: 'https://www.forbes.com/feed/', name: 'Forbes', category: 'finance' },
   { url: 'https://www.businessinsider.com/rss', name: 'Business Insider', category: 'finance' },
   { url: 'https://finance.yahoo.com/rss/', name: 'Yahoo Finance', category: 'finance' },
 
@@ -113,17 +104,11 @@ export const feeds: FeedConfig[] = [
 
   // ── AI Company Blogs ──
   { url: 'https://openai.com/blog/rss.xml', name: 'OpenAI Blog', category: 'ai' },
-  { url: 'https://www.anthropic.com/feed.xml', name: 'Anthropic Blog', category: 'ai' },
   { url: 'https://blog.google/technology/ai/rss/', name: 'Google AI Blog', category: 'ai' },
   { url: 'https://deepmind.google/blog/feed/basic/', name: 'DeepMind Blog', category: 'ai' },
-  { url: 'https://ai.meta.com/blog/rss/', name: 'Meta AI Blog', category: 'ai' },
   { url: 'https://www.microsoft.com/en-us/research/feed/', name: 'MS Research', category: 'ai' },
   { url: 'https://blogs.nvidia.com/feed/', name: 'NVIDIA Blog', category: 'ai' },
   { url: 'https://huggingface.co/blog/feed.xml', name: 'Hugging Face Blog', category: 'ai' },
-  { url: 'https://stability.ai/blog/feed', name: 'Stability AI Blog', category: 'ai' },
-  { url: 'https://mistral.ai/feed.xml', name: 'Mistral Blog', category: 'ai' },
-  { url: 'https://cohere.com/blog/rss.xml', name: 'Cohere Blog', category: 'ai' },
-  { url: 'https://blog.eleuther.ai/rss/', name: 'EleutherAI Blog', category: 'ai' },
 ];
 
 export const subreddits: SubredditConfig[] = [
@@ -163,7 +148,6 @@ export const youtubeChannels: YouTubeChannelConfig[] = [
 
   // ── Tech & AI ──
   { channelId: 'UCsBjURrPoezykLs9EqgamOA', name: 'Fireship', category: 'tech' },
-  { channelId: 'UCXS_ZDY-FPGn4cmiCKmpQ4Q', name: 'Two Minute Papers', category: 'ai' },
   { channelId: 'UCbfYPyITQ-7l4upoX8nvctg', name: 'Two Minute Papers', category: 'ai' },
   { channelId: 'UCZHmQk67mSJgfCCTn7xBfew', name: 'MKBHD', category: 'tech' },
 

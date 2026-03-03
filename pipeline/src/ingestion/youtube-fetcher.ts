@@ -1,5 +1,5 @@
 import Parser from 'rss-parser';
-import { YoutubeTranscript } from 'youtube-transcript';
+import { fetchTranscript } from 'youtube-transcript-plus';
 import { v4 as uuid } from 'uuid';
 import { config } from '../config.js';
 import { youtubeChannels } from './feed-registry.js';
@@ -83,7 +83,7 @@ async function fetchChannel(
         // Try to get transcript, fall back to description
         let fullText = '';
         try {
-          const transcript = await YoutubeTranscript.fetchTranscript(videoId);
+          const transcript = await fetchTranscript(videoId);
           fullText = transcript
             .map(t => t.text)
             .join(' ')
